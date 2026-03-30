@@ -1,0 +1,54 @@
+name: 🔄 Auto Harvest M3U TV Channels
+
+on:
+  schedule:
+    - cron: "0 */4 * * *"   # Setiap 4 jam (UTC) = 07:00, 11:00, 15:00, 19:00, 23:00 WIB
+  workflow_dispatch:          # Bisa dijalankan manual dari tab Actions
+
+jobs:
+  harvest:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+
+    steps:
+      - name: 📥 Checkout repository
+        uses: actions/checkout@v4
+
+      - name: ⚙️ Setup Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: "20"
+
+      - name: 📦 Install dependencies
+        run: npm install
+
+      - name: ⛏️ Harvest Merah (extract_merah.js)
+        run: node scripts/extract_merah.js
+        continue-on-error: true   # Lanjut meski script ini gagal
+
+      - name: ⛏️ Harvest Sky Italia (get-sky.js)
+        run: node scripts/get-sky.js
+        continue-on-error: true
+
+      - name: ⛏️ Harvest Vavoo (get-vavoo.js)
+        run: node scripts/get-vavoo.js
+        continue-on-error: true
+
+      - name: ⛏️ Harvest Sportzx (get-sportzx.js)
+        run: node scripts/get-sportzx.js
+        continue-on-error: true
+
+      - name: ⛏️ Harvest Last Minute Sport (get-sport-lastminute.js)
+        run: node scripts/get-sport-lastminute.js
+        continue-on-error: true
+
+      - name: 📋 Tampilkan file yang dihasilkan
+        run: ls -lh *.m3u8 2>/dev/null || echo "Tidak ada file .m3u8 yang dihasilkan"
+
+      - name: 📤 Auto-Commit Hasil M3U ke Repo
+        run: |
+          git config --global user.name "TV-Harvester-Bot"
+          git config --global user.email "bot@github.actions"
+          git add *.m3u8
+          git diff --staged --quiet || git commit -m "🔄 Update M3U $(date -u +'%Y-%m-%d %H:%M UTC')" && git push
