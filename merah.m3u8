@@ -901,27 +901,15 @@ https://vidx.semar.my.id/cobaduarr.mpd?id=18253&type=dash
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=91b9592c819246c68b3b08a1fe08ba22:fa0d80dfd865b34077bae44cd4a0c5e6
 #https://tglmp04.akamaized.net/sssssout/v1/400fc0702dee453bb33ebcc29466e58a/manifest.mpd
-#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/iedwSYI8BWExo7BoWHVkOVSssV8=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4980160/4c93d5.jpg" group-title="Live Event", 3rd Place: Saint Kitts and Nevis vs Solomon Islands - FIFA Series 15:20 30 Maret 2026
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 15; P1 Build/AP4A.25010.002; wv-atv) Google/0.4.7-dev AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/83.0.4103.106 Mobile Safari/537.36
-#KODIPROP:inputstream.adaptive.manifest_type=hls
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=ea020e30d8fcb03274fc9cd8fbf5c0b0:4253b03e2312c28c25e865190e558bf3
-https://vidx.semar.my.id/biasa.php?id=20992&type=hls
-#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/idT2_j_3_o9Paqwt4OKA0fwJIJ0=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4980876/0f63b8.jpg" group-title="Live Event", Awarding Ceremony 3rd Place FIFA Series 2026 Indonesia 17:45 30 Maret 2026
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 15; P1 Build/AP4A.25010.002; wv-atv) Google/0.4.7-dev AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/83.0.4103.106 Mobile Safari/537.36
-#KODIPROP:inputstream.adaptive.manifest_type=hls
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=ea020e30d8fcb03274fc9cd8fbf5c0b0:4253b03e2312c28c25e865190e558bf3
-https://vidx.semar.my.id/biasa.php?id=20992&type=hls
 #EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/Nl7l6lEyd1hxiGL8W2fGWSvV9r4=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4980161/7b31ac.jpg" group-title="Live Event", Final: Indonesia vs Bulgaria - FIFA Series 19:00 30 Maret 2026
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 15; P1 Build/AP4A.25010.002; wv-atv) Google/0.4.7-dev AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/83.0.4103.106 Mobile Safari/537.36
-#KODIPROP:inputstream.adaptive.manifest_type=hls
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=ea020e30d8fcb03274fc9cd8fbf5c0b0:4253b03e2312c28c25e865190e558bf3
-https://vidx.semar.my.id/biasa.php?id=20992&type=hls
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://vidx.semar.my.id/mbledos.php?drum=sJvoyTzzaCpfub1JbiHM0HwcbWeImg2BTG2XYK3xlYLwcvIceNfoNlWLGdPFAjXzkPtf459zwzNRlWNIxCQYSirRkzK0EsMMlM55SG4UGMhkbIwBVtbAmS6WutJp8NM9
+https://vidx.semar.my.id/19354.mpd?pepek=NhU6PU0GlSvPogyEqO33H66nZZqi5526Wt4n-Tt-b_3lGLvzKznPtOjVvfT3lO5FxKFWQi6NVWZAU7qjhGxeq99ZgAUz53Pw_jYDuPoFcf-6e13ZvDpiHieDyb2Zb7t-
 #EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/Xwvkgfb19l2RxPxLESxPuMX28lk=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/4980877/b17129.jpg" group-title="Live Event", Awarding Ceremony Final FIFA Series 2026 Indonesia 22:00 30 Maret 2026
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 15; P1 Build/AP4A.25010.002; wv-atv) Google/0.4.7-dev AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/83.0.4103.106 Mobile Safari/537.36
-#KODIPROP:inputstream.adaptive.manifest_type=hls
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=ea020e30d8fcb03274fc9cd8fbf5c0b0:4253b03e2312c28c25e865190e558bf3
-https://vidx.semar.my.id/biasa.php?id=20992&type=hls
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://vidx.semar.my.id/mbledos.php?drum=oWsbAzy0VUs2GhuhdfWxIFm2mU5sd2koK7sCrPitRHsszJ6XLygOz9ky7fYjMt5VYwmhKW3k19grMKYajUkGItgsPgouW7VecFt-jyOZJ3Tw9LnXvXexHbkr7EjukTc-
+https://vidx.semar.my.id/19354.mpd?pepek=yKT6Xjp9KYCwmd01QqnhIx_PxDX3QvE3ita6ltT56DWnxeZzGDhogfNG6YJiaVhuysMlVbNKVoFIkCy2l8RP7dmJBVvDrpxJS5nAAZT3HfmsX-foIxdbiJ7D6VEtr1IR
