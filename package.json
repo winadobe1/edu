@@ -1,0 +1,21 @@
+{
+  "name": "iptv-harvest-server",
+  "version": "1.0.0",
+  "description": "Auto M3U TV Channels Harvester via GitHub Actions",
+  "main": "index.js",
+  "scripts": {
+    "harvest:merah": "node scripts/extract_merah.js",
+    "harvest:sky": "node scripts/get-sky.js",
+    "harvest:vavoo": "node scripts/get-vavoo.js",
+    "harvest:sportzx": "node scripts/get-sportzx.js",
+    "harvest:lastminute": "node scripts/get-sport-lastminute.js",
+    "harvest:all": "npm run harvest:merah && npm run harvest:sky && npm run harvest:vavoo && npm run harvest:sportzx && npm run harvest:lastminute"
+  },
+  "author": "Wins TV",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^1.13.6",
+    "https-proxy-agent": "^7.0.6",
+    "node-fetch": "^3.3.2"
+  }
+}
