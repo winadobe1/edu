@@ -2,8 +2,8 @@ name: 🔄 Auto Harvest M3U TV Channels
 
 on:
   schedule:
-    - cron: "0 */4 * * *"   # Setiap 4 jam (UTC) = 07:00, 11:00, 15:00, 19:00, 23:00 WIB
-  workflow_dispatch:          # Bisa dijalankan manual dari tab Actions
+    - cron: "0 */4 * * *"
+  workflow_dispatch:
 
 jobs:
   harvest:
@@ -18,37 +18,38 @@ jobs:
       - name: ⚙️ Setup Node.js
         uses: actions/setup-node@v4
         with:
-          node-version: "20"
+          node-version: "22"
 
       - name: 📦 Install dependencies
         run: npm install
 
-      - name: ⛏️ Harvest Merah (extract_merah.js)
+      - name: ⛏️ Harvest Merah
         run: node scripts/extract_merah.js
-        continue-on-error: true   # Lanjut meski script ini gagal
+        continue-on-error: true
 
-      - name: ⛏️ Harvest Sky Italia (get-sky.js)
+      - name: ⛏️ Harvest Sky Italia
         run: node scripts/get-sky.js
         continue-on-error: true
 
-      - name: ⛏️ Harvest Vavoo (get-vavoo.js)
+      - name: ⛏️ Harvest Vavoo
         run: node scripts/get-vavoo.js
         continue-on-error: true
 
-      - name: ⛏️ Harvest Sportzx (get-sportzx.js)
+      - name: ⛏️ Harvest Sportzx
         run: node scripts/get-sportzx.js
         continue-on-error: true
 
-      - name: ⛏️ Harvest Last Minute Sport (get-sport-lastminute.js)
+      - name: ⛏️ Harvest Last Minute Sport
         run: node scripts/get-sport-lastminute.js
         continue-on-error: true
 
-      - name: 📋 Tampilkan file yang dihasilkan
-        run: ls -lh *.m3u8 2>/dev/null || echo "Tidak ada file .m3u8 yang dihasilkan"
+      - name: 📋 Cek file hasil
+        run: ls -lh *.m3u8 2>/dev/null || echo "Tidak ada .m3u8 dihasilkan"
 
-      - name: 📤 Auto-Commit Hasil M3U ke Repo
+      - name: 📤 Auto-Commit & Push
         run: |
-          git config --global user.name "TV-Harvester-Bot"
-          git config --global user.email "bot@github.actions"
+          git config user.name "TV-Harvester-Bot"
+          git config user.email "bot@github.actions"
+          git remote set-url origin https://x-access-token:${{ secrets.GITHUB_TOKEN }}@github.com/${{ github.repository }}.git
           git add *.m3u8
-          git diff --staged --quiet || git commit -m "🔄 Update M3U $(date -u +'%Y-%m-%d %H:%M UTC')" && git push
+          git diff --staged --quiet && echo "Tidak ada perubahan" || (git commit -m "🔄 Update M3U $(date -u +'%Y-%m-%d %H:%M UTC')" && git push)
