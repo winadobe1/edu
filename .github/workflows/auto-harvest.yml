@@ -43,7 +43,7 @@ jobs:
         run: node scripts/get-sport-lastminute.js
         continue-on-error: true
 
-      - name: ⛏️ Harvest Merah
+      - name: ⛏️ Harvest Enak
         run: node scripts/extract_enak.js
         continue-on-error: true
 
