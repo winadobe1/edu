@@ -56,4 +56,4 @@ jobs:
           git config user.email "bot@github.actions"
           git remote set-url origin https://x-access-token:${{ secrets.GITHUB_TOKEN }}@github.com/${{ github.repository }}.git
           git add *.m3u8
-          git diff --staged --quiet && echo "Tidak ada perubahan" || (git commit -m "🔄 Update M3U $(date -u +'%Y-%m-%d %H:%M UTC')" && git push)
+          git diff --staged --quiet && echo "Tidak ada perubahan" || (git commit -m "🔄 Update M3U $(date -u +'%Y-%m-%d %H:%M UTC')" && git pull --rebase && git push)
