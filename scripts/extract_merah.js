@@ -1,7 +1,7 @@
 const fs = require('fs');
 const readline = require('readline');
 
-const PLAYLIST_URL = "https://aspaltvpasti.top/xxx/merah.php";
+const PLAYLIST_URL = "https://semar25.short.gy";
 const USER_AGENT = "TiviMate/5.0.4"; // Required to bypass
 const CLEARKEY_PROXY_UA = "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36";
 
