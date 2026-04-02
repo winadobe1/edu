@@ -246,6 +246,21 @@ https://smarthard.click/hls/rxMy7qPUIdCe/index.m3u8
 #EXTINF:-1 tvg-id="clippersvssanantoniospurs0330sdserver" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="NBA",Clippers vs San Antonio Spurs 03:30 (SD SERVER)
 https://smarthard.click/hls/kaT8Lu6TJc1F/index.m3u8
 
+#EXTINF:-1 tvg-id="barcelonawvsrealmadridw1745espndeportes" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="UCL Womens",Barcelona W vs Real Madrid W 17:45 (ESPN DEPORTES)
+https://smarthard.click/hls/sabrouchespndeportes/index.m3u8
+
+#EXTINF:-1 tvg-id="barcelonawvsrealmadridw1745beinarabic" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="UCL Womens",Barcelona W vs Real Madrid W 17:45 (beIN ARABIC)
+https://a1.kora-plus.dad/watch/b1.m3u8
+
+#EXTINF:-1 tvg-id="ollyonneswvswolfsburgw2000espndeportes" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="UCL Womens",OL Lyonnes W vs Wolfsburg W 20:00 (ESPN DEPORTES)
+https://smarthard.click/hls/sabrouchespndeportes/index.m3u8
+
+#EXTINF:-1 tvg-id="ollyonneswvswolfsburgw2000cbssportssd" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="UCL Womens",OL Lyonnes W vs Wolfsburg W 20:00 (CBS SPORTS SD)
+https://a1.kora-plus.dad/watch/cbs.m3u8
+
+#EXTINF:-1 tvg-id="ollyonneswvswolfsburgw2000beinarabichd" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="UCL Womens",OL Lyonnes W vs Wolfsburg W 20:00 (beIN ARABIC HD)
+https://a1.kora-plus.dad/watch/b2.m3u8
+
 #EXTINF:-1 tvg-id="cambridgevsswindontown2000beinenglishfhd" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="League Two 🏴󠁧󠁢󠁥󠁮󠁧󠁿",Cambridge vs Swindon Town 20:00 (beIN ENGLISH FHD)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=7995c724a13748ed970840a8ab5bb9b3:67bdaf1e2175b9ff682fcdf0e2354b1e
@@ -300,3 +315,12 @@ https://a151aivottlinear-a.akamaihd.net/OTTB/sin-nitro/live/dash/enc/tcninbbnt5/
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=d69894c7b729c5d1e85893e5e6cfcb0f:db0d53f871f5d2ef91d3a112c7ec9f30
 https://a151aivottlinear-a.akamaihd.net/OTTB/sin-nitro/live/dash/enc/tcninbbnt5/out/v1/7668f47d28e345979c072e361f3d3ce3/cenc.mpd
+
+#EXTINF:-1 tvg-id="royalsvsminnesotatwins1910mlbliveaq" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="MLB",Royals vs Minnesota Twins 19:10 (MLB LIVE - AQ)
+https://nyachamselizabeth.s3.us-east-1.amazonaws.com/braves.m3u8
+
+#EXTINF:-1 tvg-id="darts1915mainevent" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="Darts",DARTS 19:15 (MAIN EVENT)
+https://daffodil.simplyataide.boutique/main.m3u8
+
+#EXTINF:-1 tvg-id="darts1915mainevent2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="Darts",DARTS 19:15 (MAIN EVENT (2))
+https://602.premiumjh.shop/test2/video.m3u8
