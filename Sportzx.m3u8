@@ -177,6 +177,9 @@ https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/tug1yvvlko/out/v1
 #EXTINF:-1 tvg-id="ipl021500willowhin" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="Indian Premier League",IPL - 02 15:00 (WILLOW  HIN )
 https://livevideos.cricbuzz.com/hls/live/2123519/WCB-CA-HINDI/9241/149699/master.m3u8
 
+#EXTINF:-1 tvg-id="ipl021500foxcricket" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="Indian Premier League",IPL - 02 15:00 (FOX CRICKET)
+https://ru-001.local-honduras-center.sbs/secure/api/v1/lchd-fs501.m3u8
+
 #EXTINF:-1 tvg-id="psl011500willowfhd" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="PSL",PSL 01 15:00 (WILLOW FHD)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=1fc04170e5671d37c8286afcfeb505f7:9751880fa496d361d780019bdcd91d8a
@@ -293,6 +296,11 @@ https://a1.kora-plus.dad/watch/b1.m3u8
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=294b5761cefc22d0c6312939e13d8278:52148f1042d238849f0a7813f1da8a7b
 https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/cllekigzzn/out/v1/bd3b0c314fff4bb1ab4693358f3cd2d3/cenc.mpd
+
+#EXTINF:-1 tvg-id="chelseavsportvale1715novasports" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="FA Cup",Chelsea vs Port Vale 17:15 (NOVA SPORTS)
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=11223344556677889900112233445566:4b80724d0ef86bcb2c21f7999d67739d
+https://dash2.antik.sk/stream/nvidia_nova_sport2/playlist_cenc.mpd
 
 #EXTINF:-1 tvg-id="southamptonvsarsenal2000tntsportsfhd" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="FA Cup",Southampton vs Arsenal 20:00 (TNT SPORTS FHD)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -428,9 +436,6 @@ https://daffodil.premiumjh.shop/one.m3u8
 #EXTINF:-1 tvg-id="freiburgvsbayernmnchen1430skybundesligasd" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="Bundesliga 🇩🇪",Freiburg vs Bayern M nchen 14:30 (Sky Bundesliga SD)
 https://smarthard.click/hls/8r59wy2BRApK/index.m3u8
 
-#EXTINF:-1 tvg-id="bayerleverkusenvswolfsburg1430skybundesligasd" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="Bundesliga 🇩🇪",Bayer Leverkusen vs Wolfsburg 14:30 (Sky Bundesliga SD)
-https://smarthard.click/hls/9gSZoyFska/index.m3u8
-
 #EXTINF:-1 tvg-id="stuttgartvsborussiadortmund1730sportvbr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="Bundesliga 🇩🇪",Stuttgart vs Borussia Dortmund 17:30 (SporTV BR)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=4bbcff3289d457b4dd5dbdd21221de9a:c4906b9a9f8dda3c0725bddb8c497733
@@ -439,8 +444,14 @@ https://a151aivottlinear-a.akamaihd.net/OTTB/sin-nitro/live/dash/enc/m7duvnk2bu/
 #EXTINF:-1 tvg-id="stuttgartvsborussiadortmund1730skybundesligasd" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="Bundesliga 🇩🇪",Stuttgart vs Borussia Dortmund 17:30 (Sky Bundesliga SD)
 https://smarthard.click/hls/8r59wy2BRApK/index.m3u8
 
-#EXTINF:-1 tvg-id="psgvstoulouse1945sdserver" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="Ligue 1 🇫🇷",PSG vs Toulouse 19:45 (SD SERVER)
-https://a1.kora-plus.dad/watch/bus.m3u8
+#EXTINF:-1 tvg-id="rcstrasbourgvsnice1600beinsportses" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="Ligue 1 🇫🇷",RC Strasbourg vs Nice 16:00 (beIN SPORTS ES)
+https://daffodil.premiumjh.shop/beines.m3u8
+
+#EXTINF:-1 tvg-id="rcstrasbourgvsnice1600beinusasd" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="Ligue 1 🇫🇷",RC Strasbourg vs Nice 16:00 (beIN USA SD)
+https://a4.kora-plus.dad/watch/bus.m3u8
+
+#EXTINF:-1 tvg-id="rcstrasbourgvsnice1600sdserver" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="Ligue 1 🇫🇷",RC Strasbourg vs Nice 16:00 (SD SERVER)
+https://smarthard.click/hls/Mdplz23MNkdi/index.m3u8
 
 #EXTINF:-1 tvg-id="psveindhovenvsutrecht1530sportdigitalfussball" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="Eredivisie",PSV Eindhoven vs Utrecht 15:30 (SportDigital Fussball)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -468,23 +479,6 @@ https://smarthard.click/hls/hhx33tWwGEeW/index.m3u8
 
 #EXTINF:-1 tvg-id="gaziantepvsalanyaspor1500beinsportssd" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="Super Lig",Gaziantep vs Alanyaspor 15:00 (beIN SPORTS SD)
 https://smarthard.click/hls/hhx33tWwGEeW/index.m3u8
-
-#EXTINF:-1 tvg-id="hamburgervsaugsburg1430skybundesliga" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="Bundesliga 🇩🇪",Hamburger vs Augsburg 14:30 (Sky Bundesliga)
-https://smarthard.click/hls/6v8yVbveVz4/index.m3u8
-
-#EXTINF:-1 tvg-id="borussiamgladbachvsheidenheim1430skybundesliga" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="Bundesliga 🇩🇪",Borussia M'gladbach vs Heidenheim 14:30 (Sky Bundesliga)
-https://smarthard.click/hls/Mhe8gotoGQlu/index.m3u8
-
-#EXTINF:-1 tvg-id="werderbremenvsrbleipzig1430skybundesliga" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="Bundesliga 🇩🇪",Werder Bremen vs RB Leipzig 14:30 (Sky Bundesliga)
-https://smarthard.click/hls/kjzxkCIqkhtb/index.m3u8
-
-#EXTINF:-1 tvg-id="hoffenheimvsmainz051430skybundesligasd" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="Bundesliga 🇩🇪",Hoffenheim vs Mainz 05 14:30 (Sky Bundesliga SD)
-https://smarthard.click/hls/BAbvNltVM7Xc/index.m3u8
-
-#EXTINF:-1 tvg-id="cdizvscrdoba1300laligahypermotiones" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="LaLiga 2",C diz vs C rdoba 13:00 (Laliga Hypermotion ES)
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=d69894c7b729c5d1e85893e5e6cfcb0f:db0d53f871f5d2ef91d3a112c7ec9f30
-https://a151aivottlinear-a.akamaihd.net/OTTB/sin-nitro/live/dash/enc/tcninbbnt5/out/v1/7668f47d28e345979c072e361f3d3ce3/cenc.mpd
 
 #EXTINF:-1 tvg-id="albacetevsburgos1515laligahypermotiones" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="LaLiga 2",Albacete vs Burgos 15:15 (Laliga Hypermotion ES)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
