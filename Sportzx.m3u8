@@ -193,144 +193,77 @@ https://bd-mc-fdlive.fancode.com/mumbai/138946_english_hls_32955a282b57487_1ta-d
 #EXTINF:-1 tvg-id="psl011500fancodeind" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="PSL",PSL 01 15:00 (FANCODE (IND))
 https://in-mc-fdlive.fancode.com/mumbai/138946_english_hls_32955a282b57487_1ta-di_h264/index.m3u8
 
-#EXTINF:-1 tvg-id="islvsisl1230fancodefhd" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="ISL",ISL VS ISL 12:30 (FANCODE FHD)
+#EXTINF:-1 tvg-id="islvsisl1500fancodefhd" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="ISL",ISL VS ISL 15:00 (FANCODE FHD)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=7e9239c1982d984a002df3ed049d0756:1b8a17598129a3618535c8fb05f103fe
 https://abfjk4haaaaaaaampv6ofhkihi4r6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/fdb3pubmek/out/v1/aefca6420f944a9482e117f315de535f/cenc.mpd
 
-#EXTINF:-1 tvg-id="islvsisl1230fancodeeng" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="ISL",ISL VS ISL 12:30 (FANCODE  ENG )
+#EXTINF:-1 tvg-id="islvsisl1500fancodeeng" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="ISL",ISL VS ISL 15:00 (FANCODE  ENG )
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=fdf8297c471446cab2d49e03828bdf98:dc969219d3b0d10e1963cba3e17ff8a7
 https://in-mc-flive.fancode.com/mumbai/140477_english_dash_63544_1drmta-di_h264/index.mpd
 
-#EXTINF:-1 tvg-id="islvsisl1230fancodehin" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="ISL",ISL VS ISL 12:30 (FANCODE  HIN )
+#EXTINF:-1 tvg-id="islvsisl1500fancodehin" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="ISL",ISL VS ISL 15:00 (FANCODE  HIN )
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=8ff9f5eb1c2b4acc84d40d8fc61195a5:3fc2227d08e13966602a87d6ceaee3fd
 https://in-mc-flive.fancode.com/mumbai/140477_hindi_dash_9574_1drmta-di_h264/index.mpd
 
-#EXTINF:-1 tvg-id="islvsisl1230fancodemal" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="ISL",ISL VS ISL 12:30 (FANCODE  MAL )
+#EXTINF:-1 tvg-id="islvsisl1500fancodemal" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="ISL",ISL VS ISL 15:00 (FANCODE  MAL )
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=3c088ce571ab446cb9981a721ccd6e60:07cf2396a051caeb4c60d145e6015236
 https://in-mc-flive.fancode.com/mumbai/140477_malayalam_dash_95228_1drmta-di_h264/index.mpd
 
-#EXTINF:-1 tvg-id="islvsisl1230fancodeban" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="ISL",ISL VS ISL 12:30 (FANCODE  BAN )
+#EXTINF:-1 tvg-id="islvsisl1500fancodeban" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="ISL",ISL VS ISL 15:00 (FANCODE  BAN )
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=b92cae46cd914b8094ec2490cd0901cd:86706ec1bf9ab68874de754dedd9cb26
 https://in-mc-flive.fancode.com/mumbai/140477_bengali_dash_90251_1drmta-di_h264/index.mpd
 
-#EXTINF:-1 tvg-id="islvsisl1230fancodebd" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="ISL",ISL VS ISL 12:30 (FANCODE  BD )
+#EXTINF:-1 tvg-id="islvsisl1500fancodebd" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="ISL",ISL VS ISL 15:00 (FANCODE  BD )
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=b2721eda88ee41e08add91163532399a:fd52baecf9195defd17bb4ceb825cac0
 https://bd-mc-flive.fancode.com/delhi/140477_english_dash_5167_1drmta-di_h264/index.mpd
 
-#EXTINF:-1 tvg-id="atlantahawksvsknicks0000homecam" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="NBA",Atlanta Hawks vs Knicks 00:00 (HOME CAM.)
-https://pro.packcast.top/newz/newz/147.m3u8
-
-#EXTINF:-1 tvg-id="atlantahawksvsknicks0000awaycam" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="NBA",Atlanta Hawks vs Knicks 00:00 (AWAY CAM.)
-https://pro.packcast.top/newz/newz/156.m3u8
-
-#EXTINF:-1 tvg-id="orlandomagicvsdetroitpistons0000homecam" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="NBA",Orlando Magic vs Detroit Pistons 00:00 (HOME CAM.)
-https://pro.packcast.top/newz/newz/137.m3u8
-
-#EXTINF:-1 tvg-id="orlandomagicvsdetroitpistons0000awaycam" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="NBA",Orlando Magic vs Detroit Pistons 00:00 (AWAY CAM.)
-https://pro.packcast.top/newz/newz/164.m3u8
-
-#EXTINF:-1 tvg-id="grizzliesvsclevelandcavaliers0100homecam" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="NBA",Grizzlies vs Cleveland Cavaliers 01:00 (HOME CAM.)
-https://pro.packcast.top/newz/newz/154.m3u8
-
-#EXTINF:-1 tvg-id="grizzliesvsclevelandcavaliers0100awaycam" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="NBA",Grizzlies vs Cleveland Cavaliers 01:00 (AWAY CAM.)
-https://pro.packcast.top/newz/newz/145.m3u8
-
-#EXTINF:-1 tvg-id="spursvsphiladelphia76ers0100homecam" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="NBA",Spurs vs Philadelphia 76ers 01:00 (HOME CAM.)
-https://pro.packcast.top/newz/newz/150.m3u8
-
-#EXTINF:-1 tvg-id="spursvsphiladelphia76ers0100awaycam" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="NBA",Spurs vs Philadelphia 76ers 01:00 (AWAY CAM.)
-https://pro.packcast.top/newz/newz/140.m3u8
-
-#EXTINF:-1 tvg-id="denvernuggetsvstrailblazers0200homecam" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="NBA",Denver Nuggets vs Trail Blazers 02:00 (HOME CAM.)
-https://pro.packcast.top/newz/newz/160.m3u8
-
-#EXTINF:-1 tvg-id="denvernuggetsvstrailblazers0200awaycam" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="NBA",Denver Nuggets vs Trail Blazers 02:00 (AWAY CAM.)
-https://pro.packcast.top/newz/newz/148.m3u8
-
-#EXTINF:-1 tvg-id="buffalosabresvslightning0000homecam" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="NHL",Buffalo Sabres vs Lightning 00:00 (HOME CAM.)
-https://webcast-cdn.b-cdn.net/newz/5xyJcnUCNM3JjTT2/101.m3u8
-
-#EXTINF:-1 tvg-id="buffalosabresvslightning0000awaycam" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="NHL",Buffalo Sabres vs Lightning 00:00 (AWAY CAM.)
-https://webcast-cdn.b-cdn.net/newz/5xyJcnUCNM3JjTT2/171.m3u8
-
-#EXTINF:-1 tvg-id="winnipegjetsvsseattlekraken0030homecam" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="NHL",Winnipeg Jets vs Seattle Kraken 00:30 (HOME CAM.)
-https://webcast-cdn.b-cdn.net/newz/5xyJcnUCNM3JjTT2/94.m3u8
-
-#EXTINF:-1 tvg-id="winnipegjetsvsseattlekraken0030awaycam" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="NHL",Winnipeg Jets vs Seattle Kraken 00:30 (AWAY CAM.)
-https://webcast-cdn.b-cdn.net/newz/5xyJcnUCNM3JjTT2/97.m3u8
-
-#EXTINF:-1 tvg-id="sharksvschicagoblackhawks0300homecam" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="NHL",Sharks vs Chicago Blackhawks 03:00 (HOME CAM.)
-https://webcast-cdn.b-cdn.net/newz/5xyJcnUCNM3JjTT2/103.m3u8
-
-#EXTINF:-1 tvg-id="sharksvschicagoblackhawks0300awaycam" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="NHL",Sharks vs Chicago Blackhawks 03:00 (AWAY CAM.)
-https://webcast-cdn.b-cdn.net/newz/5xyJcnUCNM3JjTT2/85.m3u8
-
-#EXTINF:-1 tvg-id="kingsvsnashvillepredators0330homecam" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="NHL",Kings vs Nashville Predators 03:30 (HOME CAM.)
-https://webcast-cdn.b-cdn.net/newz/5xyJcnUCNM3JjTT2/95.m3u8
-
-#EXTINF:-1 tvg-id="kingsvsnashvillepredators0330awaycam" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="NHL",Kings vs Nashville Predators 03:30 (AWAY CAM.)
-https://webcast-cdn.b-cdn.net/newz/5xyJcnUCNM3JjTT2/100.m3u8
-
-#EXTINF:-1 tvg-id="gironafcvsvillarreal2000laligatvfhd" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="LaLiga 🇪🇸",Girona FC vs Villarreal 20:00 (Laliga TV FHD)
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=620e51b82596475517a27aa425c52280:2b9ba811e9c5aeafc8ae1b71cdca4d6a
-https://a151aivottlinear-a.akamaihd.net/OTTB/sin-nitro/live/dash/enc/k0duzgfejg/out/v1/70a50b1bda944628b8e7e66ab4069419/cenc.mpd
-
-#EXTINF:-1 tvg-id="gironafcvsvillarreal2000premiersports" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="LaLiga 🇪🇸",Girona FC vs Villarreal 20:00 (PREMIER SPORTS)
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=1444f4235529f183f0a5a486befe9cdb:e5e3fec67a1bb3472a2089c8a0a2557f
-https://a151aivottlinear-a.akamaihd.net/OTTB/sin-nitro/live/dash/enc/m6sqanvm2m/out/v1/f6beb46c6e9a4132ad739f3ca27df6aa/cenc.mpd
-
-#EXTINF:-1 tvg-id="gironafcvsvillarreal2000espndeportes" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="LaLiga 🇪🇸",Girona FC vs Villarreal 20:00 (ESPN DEPORTES)
-https://smarthard.click/hls/sabrouchespndeportes/index.m3u8
-
-#EXTINF:-1 tvg-id="juventusvsgenoa1700beinenglish" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="Serie A 🇮🇹",Juventus vs Genoa 17:00 (beIN ENGLISH)
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=7995c724a13748ed970840a8ab5bb9b3:67bdaf1e2175b9ff682fcdf0e2354b1e
-https://a151aivottlinear-a.akamaihd.net/OTTB/sin-nitro/live/dash/enc/q4u5nwaogz/out/v1/18de6d3e65934f3a8de4358e69eab86c/cenc.mpd
-
-#EXTINF:-1 tvg-id="napolivsmilan1945tntsports" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="Serie A 🇮🇹",Napoli vs Milan 19:45 (TNT SPORTS)
+#EXTINF:-1 tvg-id="realmadridvsbayernmnchen2000tntsportsfhd" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="UCL",Real Madrid vs Bayern M nchen 20:00 (TNT SPORTS FHD)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=294b5761cefc22d0c6312939e13d8278:52148f1042d238849f0a7813f1da8a7b
 https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/cllekigzzn/out/v1/bd3b0c314fff4bb1ab4693358f3cd2d3/cenc.mpd
 
-#EXTINF:-1 tvg-id="napolivsmilan1945beinenglish" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="Serie A 🇮🇹",Napoli vs Milan 19:45 (beIN ENGLISH)
+#EXTINF:-1 tvg-id="bromleyvsshrewsburytown2000beinenglishfhd" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="Championship 🏴󠁧󠁢󠁥󠁮󠁧󠁿",Bromley vs Shrewsbury Town 20:00 (beIN ENGLISH FHD)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=7995c724a13748ed970840a8ab5bb9b3:67bdaf1e2175b9ff682fcdf0e2354b1e
 https://a151aivottlinear-a.akamaihd.net/OTTB/sin-nitro/live/dash/enc/q4u5nwaogz/out/v1/18de6d3e65934f3a8de4358e69eab86c/cenc.mpd
 
-#EXTINF:-1 tvg-id="napolivsmilan1945daznitsd" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="Serie A 🇮🇹",Napoli vs Milan 19:45 (DAZN IT SD)
-https://smarthard.click/hls/kNChJ1NxVGy/index.m3u8
-
-#EXTINF:-1 tvg-id="napolivsmilan1945starzplaysd" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="Serie A 🇮🇹",Napoli vs Milan 19:45 (STARZPLAY SD)
-https://a4.kora-plus.dad/watch/ad1.m3u8
-
-#EXTINF:-1 tvg-id="hullcityvscoventrycity2000beinenglish" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="Championship 🏴󠁧󠁢󠁥󠁮󠁧󠁿",Hull City vs Coventry City 20:00 (beIN ENGLISH)
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=0b42be2664d7e811d04f3e504e0924c5:ae24090123b8c72ac5404dc152847cb8
-https://a151aivottlinear-a.akamaihd.net/OTTB/sin-nitro/live/dash/enc/8m8cd46i1t/out/v1/83985c68e4174e90a58a1f2c024be4c9/cenc.mpd
-
-#EXTINF:-1 tvg-id="hullcityvscoventrycity2000cbsnetwork" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="Championship 🏴󠁧󠁢󠁥󠁮󠁧󠁿",Hull City vs Coventry City 20:00 (CBS NETWORK)
+#EXTINF:-1 tvg-id="bromleyvsshrewsburytown2000cbsnetwork" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="Championship 🏴󠁧󠁢󠁥󠁮󠁧󠁿",Bromley vs Shrewsbury Town 20:00 (CBS NETWORK)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=d9623774ac5c8c351aafe97c5fe70267:5164e6d05164a2d65fa8fcc962aa4861
 https://a151aivottlinear-a.akamaihd.net/OTTB/sin-nitro/live/dash/enc/5qz8wmdome/out/v1/b9323e853dce427eac214b77bd48a204/cenc.mpd
 
-#EXTINF:-1 tvg-id="aroucavsestorilpraia1845sporttvsd" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="Liga Portugal",Arouca vs Estoril Praia 18:45 (Sport TV SD)
-https://a4.kora-plus.dad/watch/tv2.m3u8
-
-#EXTINF:-1 tvg-id="casapiavsbenfica2045sportdigitalfussball" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="Liga Portugal",Casa Pia vs Benfica 20:45 (SportDigital Fussball)
+#EXTINF:-1 tvg-id="nashvillevsclubamrica0100foxsportsfhd" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="CONCACAF Cup 🇺🇸",Nashville vs Club Am rica 01:00 (FOX SPORTS FHD)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=0ad4080cdff8c60b1233b22087f0b340:285f129c5eca01dd08a5d5a14ad801c8
-https://a151aivottlinear-a.akamaihd.net/OTTB/sin-nitro/live/dash/enc/ssdefyhkkr/out/v1/cf01290cb7f64525bdf861580a016ca8/cenc.mpd
+#KODIPROP:inputstream.adaptive.license_key=09453ce820d65fbc675de3185f9e454c:98cff9600995fa381c76fdacf3c7edae
+https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/awxnrqkbo5/out/v1/716529a4091947b0877e6cb80dbd6ccb/cenc.mpd
 
-#EXTINF:-1 tvg-id="casapiavsbenfica2045sdserver" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="Liga Portugal",Casa Pia vs Benfica 20:45 (SD SERVER)
-https://smarthard.click/hls/krqMWsx7RoKw/index.m3u8
+#EXTINF:-1 tvg-id="losangelesvscruzazul0300foxsportsfhd" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="CONCACAF Cup 🇺🇸",Los Angeles vs Cruz Azul 03:00 (FOX SPORTS FHD)
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=09453ce820d65fbc675de3185f9e454c:98cff9600995fa381c76fdacf3c7edae
+https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/awxnrqkbo5/out/v1/716529a4091947b0877e6cb80dbd6ccb/cenc.mpd
 
-#EXTINF:-1 tvg-id="kocaelisporvsbaakehir1800beinsportssd" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="Super Lig",Kocaelispor vs Ba ak ehir 18:00 (beIN SPORTS SD)
-https://smarthard.click/hls/hhx33tWwGEeW/index.m3u8
+#EXTINF:-1 tvg-id="laguairavsfluminense2300beinenglishfhd" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="Copa Libertadores",La Guaira vs Fluminense 23:00 (beIN ENGLISH FHD)
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=7995c724a13748ed970840a8ab5bb9b3:67bdaf1e2175b9ff682fcdf0e2354b1e
+https://a151aivottlinear-a.akamaihd.net/OTTB/sin-nitro/live/dash/enc/q4u5nwaogz/out/v1/18de6d3e65934f3a8de4358e69eab86c/cenc.mpd
+
+#EXTINF:-1 tvg-id="indrivadaviavsbolvar2300beinenglishfhd" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="Copa Libertadores",Ind. Rivadavia vs Bol var 23:00 (beIN ENGLISH FHD)
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=0b42be2664d7e811d04f3e504e0924c5:ae24090123b8c72ac5404dc152847cb8
+https://a151aivottlinear-a.akamaihd.net/OTTB/sin-nitro/live/dash/enc/8m8cd46i1t/out/v1/83985c68e4174e90a58a1f2c024be4c9/cenc.mpd
+
+#EXTINF:-1 tvg-id="universidadvsbocajuniors0130beinenglishfhd" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="Copa Libertadores",Universidad vs Boca Juniors 01:30 (beIN ENGLISH FHD)
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=7995c724a13748ed970840a8ab5bb9b3:67bdaf1e2175b9ff682fcdf0e2354b1e
+https://a151aivottlinear-a.akamaihd.net/OTTB/sin-nitro/live/dash/enc/q4u5nwaogz/out/v1/18de6d3e65934f3a8de4358e69eab86c/cenc.mpd
+
+#EXTINF:-1 tvg-id="tolimavsuniversitario0300beinenglishfhd" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="Copa Libertadores",Tolima vs Universitario 03:00 (beIN ENGLISH FHD)
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=0b42be2664d7e811d04f3e504e0924c5:ae24090123b8c72ac5404dc152847cb8
+https://a151aivottlinear-a.akamaihd.net/OTTB/sin-nitro/live/dash/enc/8m8cd46i1t/out/v1/83985c68e4174e90a58a1f2c024be4c9/cenc.mpd
