@@ -76,19 +76,17 @@ https://dickgital.semar.my.id/fetch?id=sdigital.m3u8&auth=sdgtlsemar25&url=up
 #EXTVLCOPT:http-user-agent=VidioPlayer/6.41.11
 https://vidx.semar.my.id/biasa2.mpd?id=8237&type=dash
 #EXTINF:-1 tvg-id="Trans7.id" tvg-url="https://bit.ly/IndonesiaEpg" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRKpv42_NHgvbLPYtkmvnu3q3gA5kP0KsaZpUvzDk-tZeZX1tFGqdlh3t8&s=10" group-title="Saluran",Trans7
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://www.cubmu.com/
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.license_type=widevine
-#KODIPROP:inputstream.adaptive.license_key=https://kelontong.semar.my.id/cumbudrm.php
-https://cdnjkt913.transvision.co.id:1003/live/master/1/4028c685651d7bcc01651f0db0bf0097/manifest.mpd
+#EXTVLCOPT:http-referrer=https://www.indihometv.com
+#EXTVLCOPT:http-user-agent=IndiHomeTV/8.7.12 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://kelontong.semar.my.id/indick.kt
+https://cdn08jtedge.indihometv.com/dassdvr/130/trans7/manifest_wuseetv.mpd
 #EXTINF:-1 tvg-id="TransTV.id" tvg-url="https://bit.ly/IndonesiaEpg" tvg-logo="https://www.transtv.co.id/layout/new/src/images/tv/TRANS%20TV%20live%20streaming%20tv.jpg" group-title="Saluran",TransTV
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://www.cubmu.com/
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.license_type=widevine
-#KODIPROP:inputstream.adaptive.license_key=https://kelontong.semar.my.id/cumbudrm.php
-https://cdnjkt913.transvision.co.id:1003/live/master/1/4028c685651d7bcc01651f0b6d210096/manifest.mpd
+#EXTVLCOPT:http-referrer=https://www.indihometv.com
+#EXTVLCOPT:http-user-agent=IndiHomeTV/8.7.12 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://kelontong.semar.my.id/indick.kt
+https://cdn08jtedge.indihometv.com/dassdvr/130/transtv/manifest_wuseetv.mpd
 #EXTINF:-1  tvg-name="CNN Indonesia" tvg-id="CNNIndonesia.id" tvg-logo="https://cdn.cnnindonesia.com/cnnid/images/Logo-CNN-Indonesia-Peta-Indonesia.jpg?v=8.3.1" group-title="Saluran",CNN Indonesia
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
 https://live.cnnindonesia.com/livecnn/smil:cnntv.smil/playlist.m3u8
@@ -901,57 +899,51 @@ https://vidx.semar.my.id/cobaduarr.mpd?id=18253&type=dash
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=91b9592c819246c68b3b08a1fe08ba22:fa0d80dfd865b34077bae44cd4a0c5e6
 #https://tglmp04.akamaized.net/sssssout/v1/400fc0702dee453bb33ebcc29466e58a/manifest.mpd
-#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/pSLnMuuGjJdqK6v6tqKTaergnCo=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5007957/fc6f2b.jpg" group-title="Live Event", Final Four Putri: Gresik Phonska Plus Pupuk Indonesia vs Jakarta Pertamina Enduro - Proliga 15:25 09 April 2026
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 15; P1 Build/AP4A.25010.002; wv-atv) Google/0.4.7-dev AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/83.0.4103.106 Mobile Safari/537.36
-#KODIPROP:inputstream.adaptive.manifest_type=hls
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=d10d6cd118079bd5052778243356a76d:7618a57c5de8bbc02bc7063bed28770a,d7a80658cbdb9089820e843f334abec4:ffa6d1ca95916e5bb44c9b74addc3440
-https://vidx.semar.my.id/19354.mpd?pepek=l4GkPP62b9eNUvOlhkSsBp_gU2jULD5S6u5gdGh0H1V0DNyVt_waf1SBTYqcb2feKY8TP_Tc7ACWr0p6O8oYve9xbUOkVBzZ_3Rn-O47Hm9YVJtyPK4UtDcvcDMWblbL
-#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/mX2j28qbDiMEJ-FzevbZOSBbYf0=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5007956/4c0e15.jpg" group-title="Live Event", Final Four Putra: Jakarta Lavani Livin Transmedia vs Jakarta Bhayangkara Presisi - Proliga 18:30 09 April 2026
+#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/mX2j28qbDiMEJ-FzevbZOSBbYf0=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5007956/4c0e15.jpg" group-title="Live Event", Final Four Putra: Jakarta Lavani Livin Transmedia vs Jakarta Bhayangkara Presisi - Proliga 18:40 09 April 2026
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 15; P1 Build/AP4A.25010.002; wv-atv) Google/0.4.7-dev AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/83.0.4103.106 Mobile Safari/537.36
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=d10d6cd118079bd5052778243356a76d:7618a57c5de8bbc02bc7063bed28770a,d7a80658cbdb9089820e843f334abec4:ffa6d1ca95916e5bb44c9b74addc3440
-https://vidx.semar.my.id/19354.mpd?pepek=4vHW8rpg9OeTAqqGBUUDWIcz1p9Pk0SYCf7Qk-3z25yt6Xtmgp7RIzjFJiHr49vMVbqqomRcLRTMr8W7KKyPgwVQHhayY6K0vtO3_GaJG_ON1geEAvIm-vXBZNZJ2b69
+https://vidx.semar.my.id/19354.mpd?pepek=CX4JFtEAwsKuv28B7oKLgFkBaztr9qdqwbxrjNdVayw2cJSXp_-ibPojWlLRS9M5EYd19XsoAO6XJLosGdL1BdQAJTVBEUelPh02SjvJW55PERKE1FiU3-uNpcm0isBp
 #EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/oYPMNubo0kausXvKuAl2j_Gq1Hk=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5007992/579a6f.jpg" group-title="Live Event", Rayo Vallecano vs AEK Athens - UEFA Conference League 23:45 09 April 2026
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 15; P1 Build/AP4A.25010.002; wv-atv) Google/0.4.7-dev AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/83.0.4103.106 Mobile Safari/537.36
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://vidx.semar.my.id/mbledos.php?drum=rEOA9hVs0UQRBDTvdHp-Scl-B1dl6o6vzDKxvjSPn0cgquR7oN4X1_VerImH0Dy8G0yeiz3ur4nHFI71DZUO4f_0HLzWAwM81YVs_GCFb4c53tQiRjH-ACGbEH1Z8BgR
-https://vidx.semar.my.id/mbledos.mpd?pepek=-wmrvbBKe_g376mNidn3c_6Rq49UWj0s-uqTWn_oydzBGcbWAxgBqzil3i-m5IXh65Bd8SWtJk4YXH5l63_aJXO1GOuZdrSNWRD1X_h590F1XZ_HUhRThJ0ynglGrE0k
-#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/xLTdQKuVVxfuhT30-LVfCxzcyRg=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5007993/149522.jpg" group-title="Live Event", Bologna vs Aston Villa - UEFA Europa League 02:00 10 April 2026
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 15; P1 Build/AP4A.25010.002; wv-atv) Google/0.4.7-dev AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/83.0.4103.106 Mobile Safari/537.36
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://vidx.semar.my.id/mbledos.php?drum=Ta_TKp-tnMOLrYzxV0z3rjbttMF-_sNlWYcdGgcbCvUgkGPeGzALey7LB1Un_or0-dtNyvGxevgRtOy1beF9eGxZK-AqQB34IquvSNeUo6WsoHKWeT8Baapncg7ZFSAq
-https://vidx.semar.my.id/mbledos.mpd?pepek=NPBjgoeT37ztNPAHZupqCxdK1HMVNTNW0xSLBx9niHlHQE153_uZa0WmQUvJEnnfJ0ZTJJSiUggJQz8ojX2BGR5MO4GbNID6FOMs6HaasvHDgxxLz5Yci0OGzbyuQ1XX
-#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/NUwa2tQnosXOjf-AddTxACTLsWQ=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5007996/7258c7.jpg" group-title="Live Event", Mainz vs Strasbourg - UEFA Conference League 02:00 10 April 2026
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 15; P1 Build/AP4A.25010.002; wv-atv) Google/0.4.7-dev AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/83.0.4103.106 Mobile Safari/537.36
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://vidx.semar.my.id/mbledos.php?drum=99jJQC8tZD_9DwdZ8MALxldoOM0feNkkmflWCy9ppnYu6iMbD-DX6gn8xEXbhLbFzdAZTArh_VUZDJzTnXG9UaXh9231Obo2mpqK4h9v-p9gQJ7-laQAj2KnG2j6aohq
-https://vidx.semar.my.id/mbledos.mpd?pepek=pOVGB_OYsDkr0SN6lrjOa8oiFF3p9A6hgp_GjM7JcKBkdB-BitlTr-eypNke6UYz_zcGK1G0QZ0J7taC6KvusULFPfVOD_IZReBlgpt3yp0puILOMffUELVULQ4hiFTR
-#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/YJT_s4Lm3eIojbVvlwVZNwMssiE=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5007999/d0abf9.jpg" group-title="Live Event", Porto vs Nottingham Forest - UEFA Europa League 02:00 10 April 2026
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 15; P1 Build/AP4A.25010.002; wv-atv) Google/0.4.7-dev AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/83.0.4103.106 Mobile Safari/537.36
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://vidx.semar.my.id/mbledos.php?drum=BEIOEMxtCsCkDEsAb2fe7xFaCNBSP5_r1fpkh_ZdXlJozp6mCwg66V-GQ9XAJTq9Qer2jAtJ0cvOILS6DO9wnJUVLZwmRv-XIJrZUo4ns2tnfn8vd7_kBOAryPZ5HEGC
-https://vidx.semar.my.id/mbledos.mpd?pepek=FWJ88KpFGxdSs_q6mnAljZzGC9Iov9xWaj4fkW7wWvlGmUOSIIesj60kXx_lViY7aGlkT3Y2vW9jjWlBvUyZQC5V35r5auzX_Sr-20jwNEqE1yD4nIpvHAOB0w5I5iPG
-#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/Nf2CwTJczo8agLkiaC1Y139t774=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5008001/12458c.jpg" group-title="Live Event", SC Freiburg vs Celta Vigo - UEFA Europa League 02:00 10 April 2026
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 15; P1 Build/AP4A.25010.002; wv-atv) Google/0.4.7-dev AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/83.0.4103.106 Mobile Safari/537.36
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://vidx.semar.my.id/mbledos.php?drum=79V7bGYtCBJiOqD9OD8w9p82OS4g7KAepnByu01rZxPPBnGvCzqu2AsA5kerdr-vDTs1CeL-JRoHLyxFFnwvXgaqKOqJ5D3oggJXYHC7snJpyKIQtP-LxfYTZYjnjkjm
-https://vidx.semar.my.id/mbledos.mpd?pepek=9e7jN6LdyiigwJOY5ngft9bZjtLvholjQIBU6NGY9MFvl4JSlOHvenB7f2dqEJJfDhRyR_RPQl6CoycDyRfGHiVXzRmubPs9Dqhp8jn723kY3KpCV7t3v-J0obqdnGml
+#KODIPROP:inputstream.adaptive.license_key=https://vidx.semar.my.id/mbledos.php?drum=PEsKURF6LUUIRKM-_3NVAn6LmLAsScUhVTSddM7QpydgjAZpO2hCOAzE-O_xAoucmwJYKu3WyYAqhZcaCZRl1HOnNJD1tRLc5AMQOfZHCzdAeAlz5csby3JQ7Y5RtS7p
+https://vidx.semar.my.id/mbledos.mpd?pepek=XnwkiFGb9kzx_Z9D1y9N75AhpzjV_8h_aTHiJvEC7pj2TpeOg2aihpWz5_fXI7BYH_q-T6lAh8S8gDcKszT7dZQewrH1diqH7kflMjUTWCxjUIKDbRE5Dk9pQ_zE4EFA
 #EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/3g0PQBoIM3Pqfjas30YfI7mZnNM=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5008003/bea628.jpg" group-title="Live Event", Shakhtar Donetsk vs AZ Alkmaar - UEFA Conference League 02:00 10 April 2026
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 15; P1 Build/AP4A.25010.002; wv-atv) Google/0.4.7-dev AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/83.0.4103.106 Mobile Safari/537.36
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://vidx.semar.my.id/mbledos.php?drum=CQ2C6A5CAAyx64KUcwOUTnR_AmiF56sue7_NYaFtVYwrrS2UATMF10XYdnzZBmvhT15mDu_aCT5DaJNzxRF9ayqWfheotqYe8fORim-9rXLUTG4mdIgpamMVyURlguKE
-https://vidx.semar.my.id/mbledos.mpd?pepek=2rhRq8x17squJH_KAH8B3zeMaHj8E4ZRGCZrJErMtvCIaS-EkpGI5FR-hQ2LD4dObQuaMTZ8YHPz8FSB3Q5c8U2n4w_5K-FC3G39peOuCtjzct6aFQEW22BgUxxIW9aO
+#KODIPROP:inputstream.adaptive.license_key=https://vidx.semar.my.id/mbledos.php?drum=aWIm_0t_8Sbv0RlACQcNMmySC-mGkPO5JFmDHWqR_7SlbzWnHdb5zcybamf2GkqQzWTyBgqXib5_OXJf4E5n7AYgoerLFxXleIT3MW0vlhaMBb027h-lsrCJZeYjW_Qi
+https://vidx.semar.my.id/mbledos.mpd?pepek=Y-e4wwDHR9w1-qGtJSpx48dudY0FQMs0QLUXMVAJGFpDOtjCQNK_Yva53sxnb7XLs9I-jVXId34o-o0fOSINfM77QQuLWDVoLW547wEUq8uQUviC2IpgyW2uoOnBfKYG
+#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/xLTdQKuVVxfuhT30-LVfCxzcyRg=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5007993/149522.jpg" group-title="Live Event", Bologna vs Aston Villa - UEFA Europa League 02:00 10 April 2026
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 15; P1 Build/AP4A.25010.002; wv-atv) Google/0.4.7-dev AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/83.0.4103.106 Mobile Safari/537.36
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://vidx.semar.my.id/mbledos.php?drum=GqowrK3S2R1Yhh-45MNfA5iGsIoaU3Ak1lbpvEsRgXjp6BFAMQex9aoddM-QCJIcjWd8hqmPMP6rNTBCtLWhC-fUhxJO63DOtEGgVjlPC2asyWMpON0lsoBx2vWqAPY5
+https://vidx.semar.my.id/mbledos.mpd?pepek=g6yx66PLE4LwWZQ-kMaboItCN6tP0garkR3RCjTZRy8Sm-OcpuyG_DcnIkjoSkhXyC_yFA9AoaFrat7MkN1yiHO3CalnWg1jcOk3q2NH4ecxWRYA8Na0H2WvzqG78mAm
 #EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/uuUw1JLSn39YJowG9gzVkmuQke8=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5007994/5db73c.jpg" group-title="Live Event", Crystal Palace vs Fiorentina - UEFA Conference League 02:00 10 April 2026
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 15; P1 Build/AP4A.25010.002; wv-atv) Google/0.4.7-dev AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/83.0.4103.106 Mobile Safari/537.36
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://vidx.semar.my.id/mbledos.php?drum=Sr9TtwP__SX1QYAkzOa_-CuVKZq88Cyr9T39USkUQgRTQeFlLeeBRJVaAfKdRcITXJa0lCOpyLMJ9PTEKEi2_RwHyYgB0otfQUbPXgZnki1pdzLu883TdB5wR_mOj3Fc
-https://vidx.semar.my.id/mbledos.mpd?pepek=AsyjkV4vV4sYabv6sWkkMFgVrpDGdepBYEaoN6jmchAl_cmdmXw6SdBqI1mr0tmN1yHSaLJ8VhKE8TSxIo45bnMlLUDiXCZKf75WqsZWLJ8QtD9RRnaPCTlHJpyz5Wr2
+#KODIPROP:inputstream.adaptive.license_key=https://vidx.semar.my.id/mbledos.php?drum=pJiZt3jA95FaOs21b25jsGQes4y-kT37ED_KB7NEbmlitC5foso8lgCqoHN3h1LhORiJF3fppSVLcM6GtD-cz0K_jTYoKvLyjbw_kHqDZY02UZbbJPRTOhU3OSZKhxDU
+https://vidx.semar.my.id/mbledos.mpd?pepek=PWtAwdNPtzxy9m8Ai7SOfQezieKjITeCKCLlxKETYq26GFejbY2ce_xE858hNZvFRM69gIUxVsc-g_6RvdKv1EqnzKx0lRIykHrQ9XY7oUcxWLr91e9ZGaIJBUl_ijOQ
+#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/NUwa2tQnosXOjf-AddTxACTLsWQ=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5007996/7258c7.jpg" group-title="Live Event", Mainz vs Strasbourg - UEFA Conference League 02:00 10 April 2026
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 15; P1 Build/AP4A.25010.002; wv-atv) Google/0.4.7-dev AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/83.0.4103.106 Mobile Safari/537.36
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://vidx.semar.my.id/mbledos.php?drum=aqvvtn2Hd7m1cwFjbNmkn4IxezDUnxRzI8jLT9XCArZRF4rQxJu1b-Oj4kdNC-12sUoF2R4In893KDzszaILuUv6QDeQK5tCCyM-mAXlINJ0RozWwqD2v0Oa3hd8XkMz
+https://vidx.semar.my.id/mbledos.mpd?pepek=5ZZL-Vcu_T3v5lr_aSmTmvsD384hS274GykTNFgKs_6aEzqV90Iql7cvodPm_ayhM-CXvuCRH3WjkWUA1Ydh_Wz_yiF034zhDACwqfdjQxjVu8Omm4zrbvR8_EO0wsCd
+#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/YJT_s4Lm3eIojbVvlwVZNwMssiE=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5007999/d0abf9.jpg" group-title="Live Event", Porto vs Nottingham Forest - UEFA Europa League 02:00 10 April 2026
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 15; P1 Build/AP4A.25010.002; wv-atv) Google/0.4.7-dev AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/83.0.4103.106 Mobile Safari/537.36
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://vidx.semar.my.id/mbledos.php?drum=KG8gWkR55-dwA5IB_0JvLQtKKqhNIbfGTN6tkKfn6wBeWWIUmoaNkgd95JfjqxxeuSYX5dBJwgiSMxpsTaNd94lHf2SXKjdHJwl5MBLaJ3G8DZZMRUwgx15VI8c8sw29
+https://vidx.semar.my.id/mbledos.mpd?pepek=FTmkKcyabDp1Mze6kpoJJinTHgaBD6eqTbtdyPwLWR8ZDDEyI_ZcqLdf62c0YTn0ofSRXsEIGu-Ms3hXcdCMYjzNnagtFki-cmLd43rFtPTcZQ54gIYvMqMshZr-RfD9
+#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/Nf2CwTJczo8agLkiaC1Y139t774=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5008001/12458c.jpg" group-title="Live Event", SC Freiburg vs Celta Vigo - UEFA Europa League 02:00 10 April 2026
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 15; P1 Build/AP4A.25010.002; wv-atv) Google/0.4.7-dev AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/83.0.4103.106 Mobile Safari/537.36
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://vidx.semar.my.id/mbledos.php?drum=QlMpLgnqRszwYXeHf6PjxVQEI15iIROj2ua2ERL8yNmR2J91IUah4V5IiUi4GtlIkWTGnhzbBDQxDFqc4fGGALWoOjZ95wWF9bNh2bSXwTTnMOO-A-zwA-msuZzE6TLJ
+https://vidx.semar.my.id/mbledos.mpd?pepek=B2ij_K9g_wSFguQ4BG3vSShhPtKjzmXnn8W1Fmo9cMVSgmHkQgoNxhGUnYmyPFWdU8D6JA1OTIzUSXiKMpetiFPrbKqu02zBvUhlCxZ4eNF6w0km933fhLoR0IAi031Q
