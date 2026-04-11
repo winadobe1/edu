@@ -6,12 +6,12 @@ const https = require('https');
 // ==============================
 const DEFAULT_LOGO = "https://skygo.sky.it/etc/designs/skygo/img/sky-logo@2x.png";
 const OUTPUT_M3U = "sky.m3u8";
-const AMSTAFF_URL = "https://test34344.herokuapp.com/filter.php?numTest=A1A260";
+const AMSTAFF_URL = "https://test34344.herokuapp.com/filter.php";
 
 const PASSWORD = "MandraKodi3";
 const DEVICE_ID = "2K1WPN";
 const VERSION = "2.0.0";
-const USER_AGENT = `MandraKodi2@@${VERSION}@@${PASSWORD}@@${DEVICE_ID}`;
+const USER_AGENT = `MandraKodi2@@2.0.0@@MandraKodi3@@2K1WPN`;
 
 // ==============================
 // DATABASE CANALI
