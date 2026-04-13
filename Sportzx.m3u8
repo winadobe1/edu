@@ -126,22 +126,6 @@ https://android-database1.firebase-api.com/AccessLog2/108085_HD/apache.m3u8
 #KODIPROP:inputstream.adaptive.license_key=eabd2d95c89e42f2b0b0b40ce4179ea0:0e7e35a07e2c12822316c0dc4873903f
 https://qp-pldt-live-grp-11-prod.akamaized.net/out/u/dr_tapsports.mpd
 
-#EXTINF:-1 tvg-id="wwe0100tsnsports" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="WWE",WWE 01:00 (TSN SPORTS)
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=daa8ea92553fd16cd6bfae2b8c582715:4042e041b5639b79b69ae07a872eef9b
-https://qw.live.pv-cdn.net/OTTB/lhr-nitro/live/clients/dash/enc/3n6slkgh54/out/v1/8977baf175da4b94873194613dd3fe55/cenc.mpd
-
-#EXTINF:-1 tvg-id="wwe0100foxsportspremium" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="WWE",WWE 01:00 (Fox Sports Premium)
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=9f327d24c66fbd84e15ab5c9ead7c7a4:83837185529c0c4048f81386c2d36426
-https://a151aivottlinear-a.akamaihd.net/OTTB/sin-nitro/live/dash/enc/fdx74zqzhu/out/v1/7d7a8c6981a842b98a683e9fbfe51d17/cenc.mpd
-
-#EXTINF:-1 tvg-id="wwe0100backuphd" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="WWE",WWE 01:00 (BACKUP HD)
-https://28ugbcsxrxra.windows-devs.top/AccessLog2/108087_HD/apache.m3u8
-
-#EXTINF:-1 tvg-id="wwe0100backupsd" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="WWE",WWE 01:00 (BACKUP SD)
-https://29pisfqlcvyi.windows-devs.top/AccessLog2/83_FHD/apache.m3u8
-
 #EXTINF:-1 tvg-id="ipl011500primevideo" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="Indian Premier League",IPL - 01 15:00 (PRIME VIDEO)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=470a5bda0ae8965c3ab4004c302bc1c8:b04888df6ed570c9435b97471504bd9b
@@ -307,16 +291,28 @@ https://webcast-cdn.b-cdn.net/newz/5xyJcnUCNM3JjTT2/171.m3u8
 https://webcast-cdn.b-cdn.net/newz/5xyJcnUCNM3JjTT2/102.m3u8
 
 #EXTINF:-1 tvg-id="anaheimducksvscanucks0100homecam" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="NHL",Anaheim Ducks vs Canucks 01:00 (HOME CAM.)
-https://webcast-cdn.b-cdn.net/newz/5xyJcnUCNM3JjTT2/104.m3u8
+https://webcast-origin.b-cdn.net/bcdn_token=ACnb9ErzjlqDGr6EkneW4xInBw8NtwWSxd0Gac6N1Zg&token_path=%2Fplay%2FAtZ1azAZy6Iwi58XP64ADLesJLryilHoIej8sPT4yhHXhYe890PDOxWbYSVBp2zH%2F&expires=1776052773/play/AtZ1azAZy6Iwi58XP64ADLesJLryilHoIej8sPT4yhHXhYe890PDOxWbYSVBp2zH/90.m3u8
 
 #EXTINF:-1 tvg-id="anaheimducksvscanucks0100awaycam" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="NHL",Anaheim Ducks vs Canucks 01:00 (AWAY CAM.)
-https://webcast-cdn.b-cdn.net/newz/5xyJcnUCNM3JjTT2/91.m3u8
+https://webcast-origin.b-cdn.net/bcdn_token=wGUHKZGF3lNiOWhkBgaVttHUxsTgbfU2pCLhg_Usr4I&token_path=%2Fplay%2FAtZ1azAZy6Iwi58XP64ADLesJLryilHoIej8sPT4yhEDgb7MlFEdOtBGWGKxpzO4%2F&expires=1776052786/play/AtZ1azAZy6Iwi58XP64ADLesJLryilHoIej8sPT4yhEDgb7MlFEdOtBGWGKxpzO4/88.m3u8
 
 #EXTINF:-1 tvg-id="flamesvsutahmammoth0200homecam" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="NHL",Flames vs Utah Mammoth 02:00 (HOME CAM.)
 https://webcast-cdn.b-cdn.net/newz/5xyJcnUCNM3JjTT2/97.m3u8
 
 #EXTINF:-1 tvg-id="flamesvsutahmammoth0200awaycam" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="NHL",Flames vs Utah Mammoth 02:00 (AWAY CAM.)
 https://webcast-cdn.b-cdn.net/newz/5xyJcnUCNM3JjTT2/169.m3u8
+
+#EXTINF:-1 tvg-id="aew0100altserverfhd" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="WWE",AEW 01:00 (ALT SERVER FHD)
+https://customer-fpmmd9cdewmb1wz2.cloudflarestream.com/7b2add8f6c990c9e43454caedce67487/manifest/video.m3u8
+
+#EXTINF:-1 tvg-id="aew0100hdserver" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="WWE",AEW 01:00 (HD SERVER)
+https://27lftgqlgzmy.windows-devs.top/AccessLog2/83_FHD/apache.m3u8
+
+#EXTINF:-1 tvg-id="aew0100hdserver2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="WWE",AEW 01:00 (HD SERVER - 2)
+https://27lftgqlgzmy.windows-devs.top/AccessLog2/108084_HD/apache.m3u8
+
+#EXTINF:-1 tvg-id="aew0100sdserver" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="WWE",AEW 01:00 (SD SERVER)
+https://26hrwgorfcmh.windows-devs.top/AccessLog2/108085_LQ/apache.m3u8
 
 #EXTINF:-1 tvg-id="athleticclubvsvillarreal2000laligatvfhd" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="LaLiga 🇪🇸",Athletic Club vs Villarreal 20:00 (Laliga TV FHD)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -431,15 +427,6 @@ https://s3.us-east-1.amazonaws.com/emre.gundap/mets.m3u8
 
 #EXTINF:-1 tvg-id="tampabayraysvsnewyorkyankees1840mlbliveaq" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="MLB",Tampa Bay Rays vs New York Yankees 18:40 (MLB LIVE - AQ)
 https://s3.us-east-1.amazonaws.com/emre.gundap/yankees.m3u8
-
-#EXTINF:-1 tvg-id="milwaukeebrewersvsnationals1910mlbliveaq" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="MLB",Milwaukee Brewers vs Nationals 19:10 (MLB LIVE - AQ)
-https://streamcorner_fucker@s3.us-east-1.amazonaws.com/emre.gundap/brewers.m3u8
-
-#EXTINF:-1 tvg-id="cardinalsvsbostonredsox1915mlbliveaq" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="MLB",Cardinals vs Boston Red Sox 19:15 (MLB LIVE - AQ)
-https://streamcorner_fucker@s3.us-east-1.amazonaws.com/emre.gundap/redsox.m3u8
-
-#EXTINF:-1 tvg-id="chicagocubsvspittsburghpirates1920mlbliveaq" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="MLB",Chicago Cubs vs Pittsburgh Pirates 19:20 (MLB LIVE - AQ)
-https://streamcorner_fucker@s3.us-east-1.amazonaws.com/emre.gundap/cubs.m3u8
 
 #EXTINF:-1 tvg-id="botafogovscoritiba2000premiererbr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="Brasileirão",Botafogo vs Coritiba 20:00 (PREMIERER BR)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
