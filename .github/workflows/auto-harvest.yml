@@ -47,10 +47,6 @@ jobs:
         run: node scripts/extract_enak.js
         continue-on-error: true
 
-      - name: ⛏️ Harvest beww
-        run: node scripts/beww.js
-        continue-on-error: true
-
       - name: 📋 Cek file hasil
         run: ls -lh *.m3u8 2>/dev/null || echo "Tidak ada .m3u8 dihasilkan"
 
