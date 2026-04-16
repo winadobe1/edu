@@ -10,8 +10,7 @@
     "harvest:sportzx": "node scripts/get-sportzx.js",
     "harvest:lastminute": "node scripts/get-sport-lastminute.js",
     "harvest:enak": "node scripts/extract_enak.js",
-    "harvest:beww": "node scripts/beww.js",
-    "harvest:all": "npm run harvest:merah && npm run harvest:sky && npm run harvest:vavoo && npm run harvest:sportzx && npm run harvest:lastminute && npm run harvest:enak && npm run harvest:beww"
+    "harvest:all": "npm run harvest:merah && npm run harvest:sky && npm run harvest:vavoo && npm run harvest:sportzx && npm run harvest:lastminute && npm run harvest:enak"
   },
   "author": "Wins TV",
   "license": "ISC",
