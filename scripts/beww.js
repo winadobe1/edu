@@ -300,7 +300,7 @@ async function generateOfflineM3U() {
             }
         }
 
-        const outputPath = 'merah.m3u8';
+        const outputPath = 'beww.m3u8';
         fs.writeFileSync(outputPath, processedLines.join('\n'));
         console.log(`\n[3/3] DONE! Offline M3U has been written to: ${outputPath}`);
         process.exit(0);
