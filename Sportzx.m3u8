@@ -98,6 +98,9 @@ https://27lftgqlgzmy.windows-devs.top/AccessLog2/83_FHD/apache.m3u8
 #KODIPROP:inputstream.adaptive.license_key=eabd2d95c89e42f2b0b0b40ce4179ea0:0e7e35a07e2c12822316c0dc4873903f
 https://qp-pldt-live-grp-11-prod.akamaized.net/out/u/dr_tapsports.mpd
 
+#EXTINF:-1 tvg-id="wwesmackdown0100usatvhd" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="WWE",WWE Smackdown 01:00 (USA TV HD)
+https://daffodil.underupturnip.net/usa.m3u8
+
 #EXTINF:-1 tvg-id="wwesmackdown0100sportzxlive" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="WWE",WWE Smackdown 01:00 (SportzX Live)
 https://27lftgqlgzmy.windows-devs.top/AccessLog2/83_FHD/apache.m3u8
 
@@ -261,20 +264,23 @@ https://bd-mc-flive.fancode.com/delhi/140482_english_dash_38610_1drmta-di_h264/i
 #KODIPROP:inputstream.adaptive.license_key=7e9239c1982d984a002df3ed049d0756:1b8a17598129a3618535c8fb05f103fe
 https://abfjk4haaaaaaaampv6ofhkihi4r6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/fdb3pubmek/out/v1/aefca6420f944a9482e117f315de535f/cenc.mpd
 
-#EXTINF:-1 tvg-id="orlandomagicvscharlottehornets0030nbaliveaq" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="NBA",Orlando Magic vs Charlotte Hornets 00:30 (NBA LIVE - AQ)
-https://oshanrd4.s3.us-east-1.amazonaws.com/espn.m3u8
+#EXTINF:-1 tvg-id="phoenixsunsvswarriors0300tsnsports" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="NBA",Phoenix Suns vs Warriors 03:00 (TSN SPORTS)
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=c4088f5f265f9de50cffd80bf89308b7:2c4d2239d96d532b4ec2050653611003
+https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/h9urpo3cwb/out/v1/fde190f369484bc6b6117cc16cd82a9f/cenc.mpd
 
-#EXTINF:-1 tvg-id="orlandomagicvscharlottehornets0030fhdserver" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="NBA",Orlando Magic vs Charlotte Hornets 00:30 (FHD SERVER)
-https://daffodil.underupturnip.net/nba.m3u8
+#EXTINF:-1 tvg-id="phoenixsunsvswarriors0300sdserver" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="NBA",Phoenix Suns vs Warriors 03:00 (SD SERVER)
+https://xstm.250909.cc/live/SPORTSFLUX-PRD-75441-100/3015d8e2ea17/1675.m3u8
 
-#EXTINF:-1 tvg-id="orlandomagicvscharlottehornets0030sportsnethd" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="NBA",Orlando Magic vs Charlotte Hornets 00:30 (SportsNET HD)
-https://xstm.250909.cc/live/SPORTSFLUX-PRD-75441-100/3015d8e2ea17/1395.m3u8
+#EXTINF:-1 tvg-id="goldcoastsunsvsessendonbombers0415tntsports" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="AFL",Gold Coast Suns vs Essendon Bombers 04:15 (TNT SPORTS)
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=294b5761cefc22d0c6312939e13d8278:52148f1042d238849f0a7813f1da8a7b
+https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/cllekigzzn/out/v1/bd3b0c314fff4bb1ab4693358f3cd2d3/cenc.mpd
 
-#EXTINF:-1 tvg-id="orlandomagicvscharlottehornets0030spxcam" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="NBA",Orlando Magic vs Charlotte Hornets 00:30 (SPX CAM.)
-https://webcast-origin.b-cdn.net/bcdn_token=Ox7O3rEfHClC-eg-6xSE2QCXA2Oqr2BTCR6ajKVDnYc&token_path=%2Fplay%2FAtZ1azAZy6Iwi58XP64ADLesJLryilHoIej8sPT4yhHlfaKwxBRai1572zvpDnjh%2F&expires=1776483822/play/AtZ1azAZy6Iwi58XP64ADLesJLryilHoIej8sPT4yhHlfaKwxBRai1572zvpDnjh/152.m3u8
-
-#EXTINF:-1 tvg-id="phoenixsunsvswarriors0300sportsnet360" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="NBA",Phoenix Suns vs Warriors 03:00 (SPORTSNET 360)
-https://xstm.250909.cc/live/SPORTSFLUX-PRD-75441-100/3015d8e2ea17/1303.m3u8
+#EXTINF:-1 tvg-id="goldcoastsunsvsessendonbombers0415tsnsports" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="AFL",Gold Coast Suns vs Essendon Bombers 04:15 (TSN SPORTS)
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=e853333da2c9196ea11374634231bc45:de2e2dbe818d78dfad07d6cd9a4c63d4
+https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/jkcljgqbx8/out/v1/63bfa701559340f3a2a2cb1fccd24807/cenc.mpd
 
 #EXTINF:-1 tvg-id="brentfordvsfulham1230tntsportsfhd" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="EPL 🏴󠁧󠁢󠁥󠁮󠁧󠁿",Brentford vs Fulham 12:30 (TNT SPORTS FHD)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -324,7 +330,7 @@ https://eventcdn02-nowe.akamaized.net/hls/CH621/index.m3u8
 #KODIPROP:inputstream.adaptive.license_key=96b67fa09140329a89b7a1ead134eda3:c618d32c56cdc6cad8330eb98507ca3f
 https://live-oneapp-prd-news.akamaized.net/Content/CMAF_OL2-CTR-4s/Live/channel(universo-east)/master.mpd
 
-#EXTINF:-1 tvg-id="sassuolovscomo1730beinenglishfhd" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="Serie A 🇮🇹",Sassuolo vs Como 17:30 (beIN ENGLISH FHD)
+#EXTINF:-1 tvg-id="madridvsrealsociedad2000beinenglishfhd" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="Copa Del Rey 🇪🇸",Madrid vs Real Sociedad 20:00 (beIN ENGLISH FHD)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=7995c724a13748ed970840a8ab5bb9b3:67bdaf1e2175b9ff682fcdf0e2354b1e
 https://a151aivottlinear-a.akamaihd.net/OTTB/sin-nitro/live/dash/enc/q4u5nwaogz/out/v1/18de6d3e65934f3a8de4358e69eab86c/cenc.mpd
@@ -375,40 +381,37 @@ https://a151aivottlinear-a.akamaihd.net/OTTB/sin-nitro/live/dash/enc/q4u5nwaogz/
 #EXTINF:-1 tvg-id="unionberlinvswolfsburg1430skybundesligasd" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="Bundesliga 🇩🇪",Union Berlin vs Wolfsburg 14:30 (SKY BUNDESLIGA SD)
 https://smarthard.click/hls/9gSZoyFska/index.m3u8
 
-#EXTINF:-1 tvg-id="rclensvstoulouse1945hdserver" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="Ligue 1 🇫🇷",RC Lens vs Toulouse 19:45 (HD SERVER)
-https://soccer.250909.cc/event/753/index.m3u8
-
-#EXTINF:-1 tvg-id="rclensvstoulouse1945beinsportses" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="Ligue 1 🇫🇷",RC Lens vs Toulouse 19:45 (beIN SPORTS ES)
-https://rr4---sn-8pxuuxa-on.googlecdncloudsg.com/live_usa_bein_sport_espanol/index.m3u8
-
-#EXTINF:-1 tvg-id="stpaulivsfckln1930skytopevent" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="Bundesliga 🇩🇪",St. Pauli vs FC K ln 19:30 (SKY TOP EVENT)
-https://rr4---sn-8pxuuxa-on.googlecdncloudsg.com/LIVE_DE_SKY_Sport_TOP_Event_HD/index.m3u8
-
-#EXTINF:-1 tvg-id="stpaulivsfckln1930skybundesligasd" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="Bundesliga 🇩🇪",St. Pauli vs FC K ln 19:30 (SKY BUNDESLIGA SD)
-https://smarthard.click/hls/8r59wy2BRApK/index.m3u8
-
-#EXTINF:-1 tvg-id="holsteinkielvskaiserslautern1730skybundesligasd" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="2. Bundesliga",Holstein Kiel vs Kaiserslautern 17:30 (SKY BUNDESLIGA SD)
+#EXTINF:-1 tvg-id="fatihkaragmrkvseypspor1230skybundesligasd" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="Super Lig",Fatih Karag mr k vs Ey pspor 12:30 (SKY BUNDESLIGA SD)
 https://smarthard.click/hls/Mhe8gotoGQlu/index.m3u8
 
-#EXTINF:-1 tvg-id="elversbergvskarlsruher1730skybundesligasd" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="2. Bundesliga",Elversberg vs Karlsruher 17:30 (SKY BUNDESLIGA SD)
+#EXTINF:-1 tvg-id="kocaelisporvsgztepe1500skybundesligasd" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="Super Lig",Kocaelispor vs G ztepe 15:00 (SKY BUNDESLIGA SD)
 https://smarthard.click/hls/kjzxkCIqkhtb/index.m3u8
 
-#EXTINF:-1 tvg-id="fenerbahevsrizespor1800beinsportssd" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="Super Lig",Fenerbah e vs Rizespor 18:00 (beIN SPORTS SD)
-https://smarthard.click/hls/hhx33tWwGEeW/index.m3u8
-
-#EXTINF:-1 tvg-id="clevelandguardiansvsbaltimoreorioles2310sportdigit" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="MLB",Cleveland Guardians vs Baltimore Orioles 23:10 (SportDigital Fussball)
+#EXTINF:-1 tvg-id="sundownsvsesprance1400tsnsportsfhd" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="WCQ CAF",Sundowns vs Esp rance 14:00 (TSN SPORTS FHD)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=0ad4080cdff8c60b1233b22087f0b340:285f129c5eca01dd08a5d5a14ad801c8
-https://a151aivottlinear-a.akamaihd.net/OTTB/sin-nitro/live/dash/enc/ssdefyhkkr/out/v1/cf01290cb7f64525bdf861580a016ca8/cenc.mpd
+#KODIPROP:inputstream.adaptive.license_key=e51aa21f2a0fef9aabc120dfb655b52f:a12a987fe725a40b6be95cd84b15f689
+https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/7janu55dwc/out/v1/69a2a7041395406b970598f61680e7cf/cenc.mpd
 
-#EXTINF:-1 tvg-id="clevelandguardiansvsbaltimoreorioles2310espnnlsd" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="MLB",Cleveland Guardians vs Baltimore Orioles 23:10 (ESPN NL SD)
-https://smarthard.click/hls/uSPCfTgzHQY3/index.m3u8
+#EXTINF:-1 tvg-id="sundownsvsesprance1400tsnsportshd" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="WCQ CAF",Sundowns vs Esp rance 14:00 (TSN SPORTS HD)
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=f5c2b30eac11be1e8cdfc9585f5fe6af:a8198d17bf9b0da77450fbb919a38b2d
+https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/lzhmuzmjsl/out/v1/c171eeb214c749f2b351c79df317b21e/cenc.mpd
 
-#EXTINF:-1 tvg-id="philadelphiaphilliesvsatlantabraves2340beinsportss" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="MLB",Philadelphia Phillies vs Atlanta Braves 23:40 (beIN SPORTS SD)
+#EXTINF:-1 tvg-id="buriramunitedvsshababalahli1715sdserver" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="AFC Champions Elite",Buriram United vs Shabab Al-Ahli 17:15 (SD SERVER)
+http://195.178.110.40/hls/hcccQ.m3u8
+
+#EXTINF:-1 tvg-id="buriramunitedvsshababalahli1715skysportshd" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="AFC Champions Elite",Buriram United vs Shabab Al-Ahli 17:15 (SKY SPORTS HD)
+https://xstm.250808.cc/live/SPORTSFLUX-PRD-75441-100/3015d8e2ea17/1039.m3u8
+
+#EXTINF:-1 tvg-id="realzaragozavsadceuta1515laligahypermotiones" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="LaLiga 2",Real Zaragoza vs AD Ceuta 15:15 (Laliga Hypermotion ES)
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=d69894c7b729c5d1e85893e5e6cfcb0f:db0d53f871f5d2ef91d3a112c7ec9f30
+https://a151aivottlinear-a.akamaihd.net/OTTB/sin-nitro/live/dash/enc/tcninbbnt5/out/v1/7668f47d28e345979c072e361f3d3ce3/cenc.mpd
+
+#EXTINF:-1 tvg-id="castellnvsburgos1730laligahypermotiones" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="LaLiga 2",Castell n vs Burgos 17:30 (Laliga Hypermotion ES)
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=d69894c7b729c5d1e85893e5e6cfcb0f:db0d53f871f5d2ef91d3a112c7ec9f30
+https://a151aivottlinear-a.akamaihd.net/OTTB/sin-nitro/live/dash/enc/tcninbbnt5/out/v1/7668f47d28e345979c072e361f3d3ce3/cenc.mpd
+
+#EXTINF:-1 tvg-id="magdeburgvsfortunadsseldorf1200beinsportssd" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="2. Bundesliga",Magdeburg vs Fortuna D sseldorf 12:00 (beIN SPORTS SD)
 https://smarthard.click/hls/hhx33tWwGEeW/index.m3u8
-
-#EXTINF:-1 tvg-id="angelsvssandiegopadres0238skybundesligasd" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="MLB",Angels vs San Diego Padres 02:38 (SKY BUNDESLIGA SD)
-https://smarthard.click/hls/kjzxkCIqkhtb/index.m3u8
-
-#EXTINF:-1 tvg-id="diamondbacksvstorontobluejays0240skybundesligasd" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="MLB",Diamondbacks vs Toronto Blue Jays 02:40 (SKY BUNDESLIGA SD)
-https://smarthard.click/hls/9gSZoyFska/index.m3u8
