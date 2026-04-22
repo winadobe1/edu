@@ -899,45 +899,75 @@ https://vidx.semar.my.id/cobaduarr.mpd?id=18253&type=dash
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=91b9592c819246c68b3b08a1fe08ba22:fa0d80dfd865b34077bae44cd4a0c5e6
 #https://tglmp04.akamaized.net/sssssout/v1/400fc0702dee453bb33ebcc29466e58a/manifest.mpd
-#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/kB6hifyCiAgNW10iCYL6i6ivaJ8=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5021992/5a9fbe.jpg" group-title="Live Event", Bronze Final - Game 1: Surabaya Samator vs Jakarta Garuda Jaya - Proliga 15:14 21 April 2026
+#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/iN1lvmvbvjO97pbwre6XrWGi4Do=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5020470/7c6eba.jpg" group-title="Live Event", Jelang Kick Off - PSIM Jogja vs PERSIJA - BRI Super League 15:00 22 April 2026
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 15; P1 Build/AP4A.25010.002; wv-atv) Google/0.4.7-dev AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/83.0.4103.106 Mobile Safari/537.36
-#KODIPROP:inputstream.adaptive.manifest_type=hls
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://vidx.semar.my.id/pidick.php?id=19355&type=drm
+https://vidx.semar.my.id/19354.mpd?pepek=NlRO0f4xRY4mwu-k80IYYKfYcC6Gz4XpGYXwZ0s1xQkgDjQxTfLqsnD5BqUCGInE1RSpiAE2vsNxAjUlmR1zaSvvuNjn7mcd5yD_aNAXbkrE6sS3D32BwPvVV2MeT8nn
+#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/gjONWS-GQ_akDxYQDhZKaOxnsnI=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5020469/dca6fa.jpg" group-title="Live Event", PSIM Jogja vs PERSIJA - BRI Super League 15:00 22 April 2026
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 15; P1 Build/AP4A.25010.002; wv-atv) Google/0.4.7-dev AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/83.0.4103.106 Mobile Safari/537.36
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=df7ccb77d224ce6cbb2a4d0a3a863d94:acd254fae0d633ab051fe2748c1d8203,415db37a5af6809ec3dd750094bedd0a:741110fa0a4e26081550ffdc25bd3c14,86c7301cf655df73be605f11143920d6:e190795a6ad0ffc07a1f80249ea8365c,fc865c4db2ab0f9ff2a8a07d5b882725:cd00ca350a49c52748debd87439f723d,1bafd07609f116d7a0437f129e9e98c2:6f4ebc46acfc497037175a88cee11ef7,cf2bc98934d365f8d433fa300d3fd022:06ee25c43bf72b1467015975968d420e,7f18eaed36c72f661a66200278f2f9ab:2f20b0e7e2e9515a045a149ed85256ef,d5a2dfaf578fa0c1952c119af4846f1b:525511f25f6d7d07a3d9665dc03581f1
+https://vidx.semar.my.id/19354.mpd?pepek=EvuwYRX1G1Z4EptuvJnVTq3vmEfMTAN4h37K_MHGXpXjx7Dd2aylK-VYRZQ611bmuZZ72kQEua344hpc92sBwK05YwE2U-sM19qNiGOFNlA7ngHERX6ume_ywijoy5Ai
+#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/LL1Q4OzodvGT9r3EWtfjQjPiel0=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5022112/521bd9.jpg" group-title="Live Event", Bronze Final - Game 2: Jakarta Garuda Jaya vs Surabaya Samator - Proliga 15:15 22 April 2026
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 15; P1 Build/AP4A.25010.002; wv-atv) Google/0.4.7-dev AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/83.0.4103.106 Mobile Safari/537.36
+#KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=12d1c29c75cfee70288bd9933a5f510d:4a4b77352a6bd0a10546f3116690aa4d,d10d6cd118079bd5052778243356a76d:7618a57c5de8bbc02bc7063bed28770a,d7a80658cbdb9089820e843f334abec4:ffa6d1ca95916e5bb44c9b74addc3440
-https://vidx.semar.my.id/19354.mpd?pepek=mhXPIxYbz0X1FwA61M9QS2LocleuYv-30ToQbPk9169Mh9gEXs5oJf5pZ8IZiSolK3D2HS2PlmVtsu386FhZRwTrAc2Z2hRwRJmQCSY-MwSpxjlujKw38nHewW0dZuid
-#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/GiKN1UJZCqr2pGGyuNlaCCagrc0=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5021993/b79544.jpg" group-title="Live Event", Bronze Final - Game 1: Jakarta Popsivo Polwan vs Jakarta Electric PLN Mobile - Proliga 19:00 21 April 2026
+https://vidx.semar.my.id/19354.mpd?pepek=MR2KRILemgWmp1A0yj9aTz-vF1VK2K6rCHKqM7iFnawbZIN7TIwmG-y1okoUOfI_1uTx76naYVFGxVwxisIBvvJKYaTqW4nHpl7Yod5GfPzNYnXMy3l4AabmUfqKz5B5
+#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/1JFGH6AcGuNnsQgKrmci1F327n0=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5022005/6a5bc8.jpg" group-title="Live Event", Semifinal: Laos vs Malaysia - ASEAN U17 Boys' Championship 15:20 22 April 2026
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 15; P1 Build/AP4A.25010.002; wv-atv) Google/0.4.7-dev AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/83.0.4103.106 Mobile Safari/537.36
-#KODIPROP:inputstream.adaptive.manifest_type=hls
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://vidx.semar.my.id/mbledos.php?drum=FL5TV8hhC7FgVcv5wOVNH6iQj5JdcAmNb4xfw5LIHBDdsZjC-6ah9sn8MRBIw3qKsGpQZ-4JrOf6cni538oB7TNgX8gxd9capXOe1fcGD-JE6g_EiApXgzgqOh4aqlgu
+https://vidx.semar.my.id/mbledos.mpd?pepek=xGYNVlrexUlpLWTy9xVQdfXnu79jshGAAUH6rOKWUH8BiVGwHrmmgI3nOInmmZeDIA8XFewer7e9YP05C-2hZJiHMOzHfsOFA4kQw5w528rNmjP3iiKkmCmqqu8boL00
+#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/CK8qC_mG8zsvumw0gWPxL3DnfnU=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5020472/57608f.jpg" group-title="Live Event", PERSIS vs Bhayangkara Presisi Lampung FC - BRI Super League 15:22 22 April 2026
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 15; P1 Build/AP4A.25010.002; wv-atv) Google/0.4.7-dev AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/83.0.4103.106 Mobile Safari/537.36
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=7a8b52177b1f34f8ba99cdc48b46e716:24b391a266eb4893e65f7b4347701af6
+https://vidx.semar.my.id/19354.mpd?pepek=Lps-LV9-c0-s0nLECwejhA5WkBKnkdPQVWv-5QASU4ptVr0N3lUea8s_oGEhfwjUSDGQg0-Z6f0LqwbrFibbrpOvDg8c6BHkmM32wlQyBe3TCw1MsJvoFjigJfPtIScy
+#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/4JFaVWCjENMt0qZOr1T38FszkVs=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5022113/0b8138.jpg" group-title="Live Event", Bronze Final - Game 2: Jakarta Electric PLN Mobile vs Jakarta Popsivo Polwan - Proliga 19:00 22 April 2026
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 15; P1 Build/AP4A.25010.002; wv-atv) Google/0.4.7-dev AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/83.0.4103.106 Mobile Safari/537.36
+#KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=12d1c29c75cfee70288bd9933a5f510d:4a4b77352a6bd0a10546f3116690aa4d,d10d6cd118079bd5052778243356a76d:7618a57c5de8bbc02bc7063bed28770a,d7a80658cbdb9089820e843f334abec4:ffa6d1ca95916e5bb44c9b74addc3440
-https://vidx.semar.my.id/19354.mpd?pepek=mhXPIxYbz0X1FwA61M9QS2LocleuYv-30ToQbPk9169Mh9gEXs5oJf5pZ8IZiSolK3D2HS2PlmVtsu386FhZRwTrAc2Z2hRwRJmQCSY-MwSpxjlujKw38nHewW0dZuid
-#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/iBsMeaGDWx02PMYlZqjWrQ2YipM=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5020466/404913.jpg" group-title="Live Event", Mallorca vs Valencia - LaLiga 23:55 21 April 2026
+https://vidx.semar.my.id/19354.mpd?pepek=l229shgne_eT1j2wbDth4OGB31tvOyli2KoAXGRvGCMNnCspdIxw9gCyynrZRaVuMffH2EgyCBbdmui9svmC0xc0JaKoB2w3ZXUxJn2dZZJKiaC6PQ2_89S-mDGrTQRR
+#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/ZEQDvswv91JMSD4H_5iIJxzYLgM=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5022006/c83f05.jpg" group-title="Live Event", Semifinal: Vietnam vs Australia - ASEAN U17 Boys' Championship 19:20 22 April 2026
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 15; P1 Build/AP4A.25010.002; wv-atv) Google/0.4.7-dev AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/83.0.4103.106 Mobile Safari/537.36
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://vidx.semar.my.id/mbledos.php?drum=LY5KyPogMxLWywe3JhW3Z2v9S62-T4Q3DHDYC4cL-HsAK8gFb-79VpUVsVToptULwLsXhMODOMq8kR-ZsCk_y3PwfdqL-LC65bB_zYz6LLngTv8A-ttv-HQsRoqU2Lyf
-https://vidx.semar.my.id/mbledos.mpd?pepek=zU4n6rVyM-Zb2zayfJh3eZJ2W4eeGoYtWa6e0l-yoxpsEvrQQ4hg4kcVyTGq5jqcblAySwcO6WYLhSZF4Mgbcn6J7nBOxgQ8n_qABMTGT5Q263079HNtdYgAczgW29_M
-#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/mym4tABpthNNSBdDPaQoZHiX5FA=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5020465/313e30.jpg" group-title="Live Event", Athletic Club vs Osasuna - Laliga 23:55 21 April 2026
+#KODIPROP:inputstream.adaptive.license_key=https://vidx.semar.my.id/mbledos.php?drum=H1cNJeh64WgC17x_yQZcJlilcaYs583Ec5D9tYu8GMB7gV9Dc2VAtX81woarBO288-jbC71TKAgimkMpLiIcUQViuV9CfH_dEHKUSmc-OcGs9X-WBE2EmAGXEWtfCh87
+https://vidx.semar.my.id/mbledos.mpd?pepek=0hFCxx1lXtQZYXPNK_9kvuYylZrAEMs_AQi81CEKFfgWaWhwZ8NVbhrt94z-kcAcCokmjfuMd3Jlp2FHWQOBFlOxnh6IqtFxgdzVoghEQBHhBhmUp30SmSssVq5Mzwuf
+#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/JD2Vms5tn9f2Szkbf_bx-s1sHNc=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5021451/f0d943.jpg" group-title="Live Event", Elche vs Atletico Madrid - LaLiga 23:55 22 April 2026
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 15; P1 Build/AP4A.25010.002; wv-atv) Google/0.4.7-dev AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/83.0.4103.106 Mobile Safari/537.36
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://vidx.semar.my.id/mbledos.php?drum=2Nu_naAlX-or5wsU0s1emENlRxAzb4_NWZOT60xVlAlFMw4A9BH-6rqzvZ8ssfYkw4QAhapPrX9gNt14EO-_JfgkreoftS41shNgC5mnO55VI60dxa0zFB9pOOYXjTnj
-https://vidx.semar.my.id/mbledos.mpd?pepek=gABvm6Zw1JffX4eVILF3V4Sw9paY___7bwtfuw0mlBiDNknJoDeC7DS5porXbWfqgPQeZGRXVC9j9YTZlocvLOdUd90M4aNg7wysLEQZephaoBrJ73sMHZxRqB_6jrYT
-#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/e725O5OwWQZ7cycMzawtWVMopeQ=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5021431/eee9fe.jpg" group-title="Live Event", Brighton vs Chelsea - Premier League 01:30 22 April 2026
+#KODIPROP:inputstream.adaptive.license_key=https://vidx.semar.my.id/mbledos.php?drum=l16rgzgJj9Vm-H7C1IOYZBFWQ2IcnzLbFwfFB-Fa-2OSKmpJVR33_yatQqnzkRdlsoTl5DlR5wOzV-4X2XEbc-hNmnwt6XtkDNFv7YkxGKanDz9zoothg0IJjCuFNQql
+https://vidx.semar.my.id/mbledos.mpd?pepek=kRsf2mGF7QdLHXb8gXIM5T-BD0y3HPzy7OcVNIuvVtVMxVXXTaSdJrKaR6KjenniHvfAqPQjhJ2NFukyL1UlIME0r2lYEANVvXyPnJUA4779npKuereq3dbnSogh3A_5
+#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/RwamWjB64tYR_rsuQiN-48oJDpc=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5021453/4f218b.jpg" group-title="Live Event", Real Sociedad vs Getafe - LaLiga 00:55 23 April 2026
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 15; P1 Build/AP4A.25010.002; wv-atv) Google/0.4.7-dev AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/83.0.4103.106 Mobile Safari/537.36
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://vidx.semar.my.id/mbledos.php?drum=BF69RQJSR9RLKO-iIcmazmSR78QXhYw-jXqtR0SdDxMF8drxlQ-Pj66G02lfed2xnfSyAr3cUEF_1JWjJmrkC_coH7XyJ6w16kizSBiaXOY6Cew0SDxRAOfv1lk7qDwb
-https://vidx.semar.my.id/mbledos.mpd?pepek=Gc29ZRGZQ9s8gvRIgMYUdio8HuckMGByuMizSE3Dj0KUiisc7Ns7_Eq7Y0lD8uXVvLZ5puSlX3zncL9hZrWwBGiWlga3-nWUM5tQf0LXpR1JjC46CRLIztHUatQQQCdU
-#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/zk4ABN9LNfjn5OhdposA98DmBIc=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5020467/393315.jpg" group-title="Live Event", Girona vs Real Betis - LaLiga 02:25 22 April 2026
+#KODIPROP:inputstream.adaptive.license_key=https://vidx.semar.my.id/mbledos.php?drum=EfP96tMD7BmGYhdlExWSvSAhj_QAzAOqHu_6yVM1w1dZd6C0mGhpw7Z1i4pPcnXHGjIOw7ki9twljEXln5M439tJcd6rt1bgrLPmDMRozmc2Kl4gaqwbxQ0FGbHd7-Uf
+https://vidx.semar.my.id/mbledos.mpd?pepek=-rpCxl1naScmawWFHulv0zwxbtJ40wUU-ikMaHeLTYNXCGI7Ad0O8CcUAzXdky7JKVbmuHRBL2zBzQY54bZL9-fv_tRLQeQUKLYI4g0-KyfBT56gIIQffm_309N7nnfg
+#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/jo0nXtu9EJCDZ1MN09e0R94pnJ4=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5021455/c050df.jpg" group-title="Live Event", Burnley vs Man City - Premier League 01:30 23 April 2026
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 15; P1 Build/AP4A.25010.002; wv-atv) Google/0.4.7-dev AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/83.0.4103.106 Mobile Safari/537.36
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://vidx.semar.my.id/mbledos.php?drum=GzT9qeFu0lAQgC7n6hoIyprHelPOOs7d64_l07k3gosr0JBiNpbj3vwsTP677_l-7-FFYkZGBxnKWPENdzERxlQXasAsYCkSXwuhQjTNzJBZ_828UUHoTk2djqDyGSpv
-https://vidx.semar.my.id/mbledos.mpd?pepek=e9XlvnL3cTriFPKwiCu89lmf4xUjPp6fXJPvd4khNhIpkiue4jHZAbr7rzV4sKVmdqv2xl1UJfHpKyEcc07jwN7r6z07pPK0BbTQ0Zlzp-CXNDfN3ahZlUAKTx-LXxr9
-#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/wdL5kx2gyNHx1CIqLYV_bFsfxgU=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5020468/494e60.jpg" group-title="Live Event", Real Madrid vs Alaves - LaLiga 02:25 22 April 2026
+#KODIPROP:inputstream.adaptive.license_key=https://vidx.semar.my.id/mbledos.php?drum=yYLNf_Wf2zbKSGbEmsxgmevckeriLnjpjenucBs_aNLgqrNGAinmeMSqeBDYwxGbWS0MoDMUPD7NiNUJrYORBWw6xezCdUwF-pc_1RKzvVgN0mrgMVWCdIdXxNrT0Ant
+https://vidx.semar.my.id/mbledos.mpd?pepek=Vi2k3YxmNcTvAarBPths3Un0PbZdZBfxaj8RaHC2LfIBGmT4II4tfmIbpveCdqFc_unOkEGtPYj1HzaPmc0HTFk7mZ4eyHxH0Jx3HiuWq4KXrseJuqzm88Zz5dN3bEEV
+#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/qUU4L3uDMOLXrgtdpHDJJLXHIB4=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5021457/84ed9b.jpg" group-title="Live Event", Bournemouth vs Leeds United - Premier League 01:50 23 April 2026
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 15; P1 Build/AP4A.25010.002; wv-atv) Google/0.4.7-dev AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/83.0.4103.106 Mobile Safari/537.36
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://vidx.semar.my.id/mbledos.php?drum=BqeW5tXlMEMmlqYJyl0kpAJUK6prCpJVvgZKgItS_N7bcSOt5p7fBmi_l4inxCHIAFbqTjyARmFDNuUUa4KWTW7aaXK_Z9O3cZJyhR3PdJV_6yFsCtcz6sDtq2zogY-4
-https://vidx.semar.my.id/mbledos.mpd?pepek=yQQnCkDOvrMz-LVZtMFFvD4yR_6Mu7TPGZz6-7rqfJlSfayW7fuI37bba6PgN-UBpd9p-2mSrfRTgMuQuRe1AyYcNzourMoK9SwlaNpMsiDBpM9wVlss2gdlzmcm6s5g
+#KODIPROP:inputstream.adaptive.license_key=https://vidx.semar.my.id/mbledos.php?drum=ZWYlbqpTeh8PNOINXithNGeC8FNIORcsAxz-gESaRbV3vMYNB91u1FTaOqN7GHXDv1gbM91bHwqly9okMdjIW2MKq38crImwMQYgRwF4dXOSr1wvbPhqlGIfqN7fQCBj
+https://vidx.semar.my.id/mbledos.mpd?pepek=SKA8JtVLxdEL6zmznoDD32wRXFBlRNvYtjF_cfkpldswKfJ0Xq0MFeYH9sTsvzy36wIHNEpoK_CD3CYEYXTjpGO0xGiyLn0lRuc0Eb2YNOpQXR1SlcuG9_PVyW5psNnc
+#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/IT-IVV4HWrOwDZYs4KsPEnHwwDo=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5021452/9b7e5d.jpg" group-title="Live Event", Barcelona vs Celta Vigo - LaLiga 02:25 23 April 2026
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 15; P1 Build/AP4A.25010.002; wv-atv) Google/0.4.7-dev AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/83.0.4103.106 Mobile Safari/537.36
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://vidx.semar.my.id/mbledos.php?drum=w9IAWyalEtYtLuehTZADsY2LU-_GU0tjiJLTR-CrEcp_HymNTiRfYR_ulO2-SCZVTguY_KjXawMRHCdk39gT5VLasFoCTOf1uub7OmTm-UcIPqLXp4jo7sSBjd8Jx6Yh
+https://vidx.semar.my.id/mbledos.mpd?pepek=19F4199b5M2re3qYI_XbPgEWn_gMeVDAtqSBU5dqn8DmJF0-RSC2I_Xey_FqlAnVoH4dAU5_tr1skW6koPveUsalZX3MrCmnuXRSmPp-BK7Z4eXUKXPADlzb5qwHxxlx
