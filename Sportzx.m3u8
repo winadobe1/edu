@@ -446,17 +446,6 @@ https://daffodil.marllonferreira.space/fs2.m3u8
 #KODIPROP:inputstream.adaptive.license_key=0ad4080cdff8c60b1233b22087f0b340:285f129c5eca01dd08a5d5a14ad801c8
 https://a151aivottlinear-a.akamaihd.net/OTTB/sin-nitro/live/dash/enc/ssdefyhkkr/out/v1/cf01290cb7f64525bdf861580a016ca8/cenc.mpd
 
-#EXTINF:-1 tvg-id="leverkusenvsbayernmnchen1945premiersports" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="DFB Pokal",Leverkusen vs Bayern M nchen 19:45 (PREMIER SPORTS)
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=1a5df53609ebc9857898c490f4724918:77f62980d582ec541280796acf8b2d19
-https://a151aivottlinear-a.akamaihd.net/OTTB/sin-nitro/live/dash/enc/bcj3iscpd6/out/v1/fcd137b391214f7cb99dd4d7be90ca87/cenc.mpd
-
-#EXTINF:-1 tvg-id="leverkusenvsbayernmnchen1945espnuhd" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="DFB Pokal",Leverkusen vs Bayern M nchen 19:45 (ESPN U HD)
-https://daffodil.marllonferreira.space/espnu.m3u8
-
-#EXTINF:-1 tvg-id="leverkusenvsbayernmnchen1945dfbpokalhd" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="DFB Pokal",Leverkusen vs Bayern M nchen 19:45 (DFB POKAL HD)
-https://lchd-314.zenostreams-cdn-001.com/dfbpokal.m3u8
-
 #EXTINF:-1 tvg-id="telstarvsspartarotterdam1900espnnl" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="Eredivisie",Telstar vs Sparta Rotterdam 19:00 (ESPN NL)
 https://smarthard.click/hls/DzazxOvS3QE1/index.m3u8
 
@@ -480,8 +469,8 @@ https://a151aivottlinear-a.akamaihd.net/OTTB/sin-nitro/live/dash/enc/m7duvnk2bu/
 
 #EXTINF:-1 tvg-id="santosvscoritiba2330primevideo" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="Copa do Brasil",Santos vs Coritiba 23:30 (PRIME VIDEO)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=a7ac7bc5acb5cfcc624185a711db0522:9caf2138e40bc655c6d80f48e33a0d13
-https://otte.cache.aiv-cdn.net/gru-nitro/live/clients/dash/enc/rhslrrr7iv/out/v1/73e024d9565c4618b94e0f5731cf56be/cenc.mpd
+#KODIPROP:inputstream.adaptive.license_key=51394da99a5b49d25f253ccc87e0e045:fba4ac0c7199ed634e69820277cb5092
+https://otte.cache.aiv-cdn.net/gru-nitro/live/clients/dash/enc/rqinjldrpp/out/v1/bf6c4f84f1fe4a1b850e19a0c9d16e8f/cenc.mpd
 
 #EXTINF:-1 tvg-id="miamimarlinsvscardinals1710mlblivefhd" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="MLB",Miami Marlins vs Cardinals 17:10 (MLB LIVE FHD)
 https://cdn.damitv.live/ppv-extract/proxy?url=https%3A%2F%2Fnetanyahu.modifiles.fans%2Fsecure%2FeUoAPvXqAmxUyDIAZEFmycbbnDlWbwpn%2F1776863400%2F1776894000%2Fmiamimarlins%2Ftracks-v1a1%2Fmono.ts.m3u8
