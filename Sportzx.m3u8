@@ -294,11 +294,23 @@ https://instreams.pro/bil2/bundes1/tracks-v1a1/mono.m3u8
 #KODIPROP:inputstream.adaptive.license_key=0b42be2664d7e811d04f3e504e0924c5:ae24090123b8c72ac5404dc152847cb8
 https://a151aivottlinear-a.akamaihd.net/OTTB/sin-nitro/live/dash/enc/8m8cd46i1t/out/v1/83985c68e4174e90a58a1f2c024be4c9/cenc.mpd
 
+#EXTINF:-1 tvg-id="baakehirfkvskasmpaa1800sportzxtvhd" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="Super Lig",Ba ak ehir FK vs Kas mpa a 18:00 (SportzX TV  HD)
+https://lb1.wfty.wtf/playlist/ab1da2b45d25773c6007d5d4753a45c6/prime/istanbul-basaksehir-kasimpasa/1/750194/playlist.m3u8
+
 #EXTINF:-1 tvg-id="baakehirfkvskasmpaa1800beinsportssd" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="Super Lig",Ba ak ehir FK vs Kas mpa a 18:00 (beIN SPORTS SD)
 https://smarthard.click/hls/hhx33tWwGEeW/index.m3u8
 
+#EXTINF:-1 tvg-id="kaiserslauternvsbraunschweig1730skybundesligafhd" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="2. Bundesliga",Kaiserslautern vs Braunschweig 17:30 (SKY BUNDESLIGA FHD)
+https://lb3.wfty.wtf/playlist/7b60ce809d585dafe63d332fb096eeac/easy/kaiserslautern-tsv-eintracht-braunschweig/2/747294/playlist.m3u8
+
+#EXTINF:-1 tvg-id="kaiserslauternvsbraunschweig1730novasportshd" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="2. Bundesliga",Kaiserslautern vs Braunschweig 17:30 (Nova SPORTS HD)
+https://lb5.wfty.wtf/playlist/0f8008d24251cedeba21e51795c5da36/prime/kaiserslautern-tsv-eintracht-braunschweig/2/747294/playlist.m3u8
+
 #EXTINF:-1 tvg-id="kaiserslauternvsbraunschweig1730skybundesligasd" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="2. Bundesliga",Kaiserslautern vs Braunschweig 17:30 (SKY BUNDESLIGA SD)
 https://instreams.pro/bil2/bundes4/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-id="fortunavsdynamodresden1730skybundesligahd" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="2. Bundesliga",Fortuna vs Dynamo Dresden 17:30 (SKY BUNDESLIGA HD)
+https://lb1.wfty.wtf/playlist/1ae1c6b69bf6f39b487ef36c01387657/easy/fortuna-dusseldorf-dynamo-dresden/1/747296/playlist.m3u8
 
 #EXTINF:-1 tvg-id="fortunavsdynamodresden1730skybundesligasd" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="2. Bundesliga",Fortuna vs Dynamo Dresden 17:30 (SKY BUNDESLIGA SD)
 https://instreams.pro/bil2/bundes3/tracks-v1a1/mono.m3u8
