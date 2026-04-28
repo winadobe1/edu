@@ -263,29 +263,6 @@ https://daffodil.nimesh.eu.cc/nba.m3u8
 #EXTINF:-1 tvg-id="trailblazers0230hdserver" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="NBA",Trail Blazers 02:30 (HD SERVER)
 https://instreams.pro/US/NBA3/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 tvg-id="alshababvsalfateh1700sportzxlive" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="Pro League 🇸🇦",Al-Shabab vs Al-Fateh 17:00 (SportzX Live)
-http://195.178.110.66/hls/yoooqqq.m3u8
-
-#EXTINF:-1 tvg-id="alkhaleejvsalnajma1900foxsportsfhd" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="Pro League 🇸🇦",Al-Khaleej vs Al-Najma 19:00 (FOX SPORTS FHD)
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=09453ce820d65fbc675de3185f9e454c:98cff9600995fa381c76fdacf3c7edae
-https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/awxnrqkbo5/out/v1/716529a4091947b0877e6cb80dbd6ccb/cenc.mpd
-
-#EXTINF:-1 tvg-id="alkhaleejvsalnajma1900fancodefhd" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="Pro League 🇸🇦",Al-Khaleej vs Al-Najma 19:00 (FANCODE FHD)
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=7e9239c1982d984a002df3ed049d0756:1b8a17598129a3618535c8fb05f103fe
-https://abfjk4haaaaaaaampv6ofhkihi4r6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/fdb3pubmek/out/v1/aefca6420f944a9482e117f315de535f/cenc.mpd
-
-#EXTINF:-1 tvg-id="alkhaleejvsalnajma1900foxdeportes" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="Pro League 🇸🇦",Al-Khaleej vs Al-Najma 19:00 (FOX DEPORTES)
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=d1a163914db8ffad2c3e94f979896a0d:9728800a3959aafdd5b0bcfbf3768811
-https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/vkpoljjpkj/out/v1/502bcf68b3514cd28a220e6f0a43816f/cenc.mpd
-
-#EXTINF:-1 tvg-id="alkhaleejvsalnajma1900sportdigitalfussball" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="Pro League 🇸🇦",Al-Khaleej vs Al-Najma 19:00 (SportDigital Fussball)
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=0ad4080cdff8c60b1233b22087f0b340:285f129c5eca01dd08a5d5a14ad801c8
-https://a151aivottlinear-a.akamaihd.net/OTTB/sin-nitro/live/dash/enc/ssdefyhkkr/out/v1/cf01290cb7f64525bdf861580a016ca8/cenc.mpd
-
 #EXTINF:-1 tvg-id="buffalosabres0030nhllivehd" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="NHL",Buffalo Sabres 00:30 (NHL LIVE HD)
 https://daffodil.nimesh.eu.cc/nhl.m3u8
 
@@ -300,6 +277,39 @@ https://instreams.pro/US/NHL2/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-id="edmontonoilers0300hdserver" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="NHL",Edmonton Oilers 03:00 (HD SERVER)
 https://instreams.pro/US/NHL3/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-id="psgvsfcbayernmnchen2000setantasports" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="UCL",PSG vs FC Bayern M nchen 20:00 (SETANTA SPORTS)
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=2128008edf1c48f09f2b4c242b92313b:32452567799140999f8fca3d5f5b98e2
+https://adjara-live-eu.akamaized.net/exp=1777488033~acl=%2f*~id=5eb3efd7-2dfc-4de4-b979-01c21f9e3985~data=hdntl,aXA9MTEyLjIwNS45My43MSZleHA9MTc3NzQwMTY2MiZlaWQ9OTUwNTQ2Jm9pZD0xMDImdHlwZT1WT0QmdWlkPUV6NEFlN3w0ODVmMzZkZi01YzY2LTRiYWQtOGU1OS01Yjg2MzNmMzY0NzkmY2lkPWRjZS5hZGphcmEmcHQ9bnVsbA~hmac=0767de48c0eaab4b14482c5a5ecd5ef15e03a2eaff31e85268bf9cb6a602fd26/dash/live/2001589/302088-320743/manifest-d.mpd
+
+#EXTINF:-1 tvg-id="psgvsfcbayernmnchen2000paramounthd" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="UCL",PSG vs FC Bayern M nchen 20:00 (PARAMOUNT  HD)
+https://customer-fpmmd9cdewmb1wz2.cloudflarestream.com/d6e0bd30861d00a40ef3a010a31c9357/manifest/video.m3u8
+
+#EXTINF:-1 tvg-id="psgvsfcbayernmnchen2000vixspanishfhd" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="UCL",PSG vs FC Bayern M nchen 20:00 (ViX SPANISH FHD)
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=7c97b182e199e81a6aabcb94e5667c3d:401e3d498c36085b82de442aa66f3341
+https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/dreuxu0g6z/out/v1/5edd423d949e412c98bf34042cb95d4e/cenc.mpd
+
+#EXTINF:-1 tvg-id="psgvsfcbayernmnchen2000paramountaq" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="UCL",PSG vs FC Bayern M nchen 20:00 (PARAMOUNT  AQ)
+https://balkisusuleimanfema.s3.us-west-2.amazonaws.com/btsport.m3u8
+
+#EXTINF:-1 tvg-id="psgvsfcbayernmnchen2000hbomaxbr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="UCL",PSG vs FC Bayern M nchen 20:00 (HBO MAX BR)
+https://image-storage-31.imgcontent.xyz/live/psgxbayern/index.m3u8
+
+#EXTINF:-1 tvg-id="psgvsfcbayernmnchen2000skysportshd" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="UCL",PSG vs FC Bayern M nchen 20:00 (SKY SPORTS HD)
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=0:0
+https://d1yi40sjj0ca0v.cloudfront.net/TVD233/index.mpd
+
+#EXTINF:-1 tvg-id="psgvsfcbayernmnchen2000sonyliveng" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="UCL",PSG vs FC Bayern M nchen 20:00 (SonyLiv  ENG )
+https://sonymtmnew-akamaized.pages.dev/hls/live/2094589/UCL_PSG_2804/ENG/master.m3u8
+
+#EXTINF:-1 tvg-id="psgvsfcbayernmnchen2000sonylivhin" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="UCL",PSG vs FC Bayern M nchen 20:00 (SonyLiv  HIN )
+https://sonymtmnew-akamaized.pages.dev/hls/live/2094589/UCL_PSG_2804/HIN/master.m3u8
+
+#EXTINF:-1 tvg-id="psgvsfcbayernmnchen2000beinsportsar" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="UCL",PSG vs FC Bayern M nchen 20:00 (beIN SPORTS AR)
+https://8syrialive.s3.us-east-2.amazonaws.com/bein1/master.m3u8
 
 #EXTINF:-1 tvg-id="alhilalvsdamac1900foxsportsfhd" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="Pro League 🇸🇦",Al-Hilal vs Damac 19:00 (FOX SPORTS FHD)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
