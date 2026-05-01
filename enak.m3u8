@@ -1029,12 +1029,10 @@ x-tvg-url=""
 ## ------------------------------------------
 ##             ZONE LIVE ASTON
 ## ------------------------------------------
-#EXTINF:-1 tvg-id="1535173" tvg-name="RB Bragantino vs River Plate" tvg-logo="https://images1-focus-opensocial.googleusercontent.com/gadgets/proxy?container=focus&refresh=31536000&url=https%3A%2F%2Fi0.wp.com%2Fimage-ra-1.axscore1.com%2Ffootball%2Fteams%2F794.png" group-title="LIVE ASTON", [🔴 LIVE 07:30] RB Bragantino vs River Plate
-https://livecdn-bp-iptv.linewgen.xyz/live_abr/398_hd/index.m3u8?is_vip=false&token=645e6a8788ae3b266e03bd24bf0450560792cd34&x-sign=924e34d7ff440720576b10412d0a3a51&x-time=1777603560
-#EXTINF:-1 tvg-id="1535273" tvg-name="Independiente Medellin vs Cusco" tvg-logo="https://images1-focus-opensocial.googleusercontent.com/gadgets/proxy?container=focus&refresh=31536000&url=https%3A%2F%2Fi0.wp.com%2Fimage-ra-1.axscore1.com%2Ffootball%2Fteams%2F1128.png" group-title="LIVE ASTON", [🔴 LIVE 09:00] Independiente Medellin vs Cusco
-https://livecdn-bp-iptv.linewgen.xyz/live_abr/274843_hd/index.m3u8?is_vip=false&token=645e6a8788ae3b266e03bd24bf0450560792cd34&x-sign=8bc68b202bafe8deba0a1dd851992a32&x-time=1777603560
-#EXTINF:-1 tvg-id="1535170" tvg-name="Alianza Atletico vs Macara" tvg-logo="https://images1-focus-opensocial.googleusercontent.com/gadgets/proxy?container=focus&refresh=31536000&url=https%3A%2F%2Fi0.wp.com%2Fimage-ra-1.axscore1.com%2Ffootball%2Fteams%2F2560.png" group-title="LIVE ASTON", [🔴 LIVE 09:00] Alianza Atletico vs Macara
-https://livecdn-bp-iptv.linewgen.xyz/live_abr/274849_hd/index.m3u8?is_vip=false&token=645e6a8788ae3b266e03bd24bf0450560792cd34&x-sign=c4afef0a3b8349991095ff5ab61faaeb&x-time=1777603560
+#EXTINF:-1 tvg-id="1629489379" tvg-name="Auto racing channel" tvg-logo="https://images1-focus-opensocial.googleusercontent.com/gadgets/proxy?container=focus&refresh=31536000&url=https%3A%2F%2Fi0.wp.com%2Fimage-ra-1.axscore1.com%2Ffootball%2Fleagues%2F1000000020.png" group-title="LIVE ASTON", [🔴 LIVE 12:00] Auto racing channel
+https://livecdn-bp-iptv.linewgen.xyz/live_abr/239_hd/index.m3u8?is_vip=false&token=645e6a8788ae3b266e03bd24bf0450560792cd34&x-sign=1e2cf7bfa50901329bfb19ed156b8397&x-time=1777616100
+#EXTINF:-1 tvg-id="1629489991" tvg-name="Hurricanes vs Crusaders" tvg-logo="https://images1-focus-opensocial.googleusercontent.com/gadgets/proxy?container=focus&refresh=31536000&url=https%3A%2F%2Fi0.wp.com%2Fimage-ra-1.axscore1.com%2Ffootball%2Fteams%2F23368.png" group-title="LIVE ASTON", [🔴 LIVE 13:30] Hurricanes vs Crusaders
+https://livecdn-bp-livestream.linewgen.xyz/stream/2/chunks.m3u8?is_vip=false&token=645e6a8788ae3b266e03bd24bf0450560792cd34&x-sign=664f358b980caa4a6578fe22c04d7a22&x-time=1777616100
 ## ------------------------------------------
 ##           ZONE UPCOMING ASTON
 ## ------------------------------------------
@@ -1042,11 +1040,11 @@ https://livecdn-bp-iptv.linewgen.xyz/live_abr/274849_hd/index.m3u8?is_vip=false&
 http://127.0.0.1/coming_soon.m3u8
 #EXTINF:-1 tvg-id="1387093" tvg-name="Hull City vs Norwich" tvg-logo="https://images1-focus-opensocial.googleusercontent.com/gadgets/proxy?container=focus&refresh=31536000&url=https%3A%2F%2Fi0.wp.com%2Fimage-ra-1.axscore1.com%2Ffootball%2Fteams%2F64.png" group-title="UPCOMING ASTON", [📅 02/05 18:30] Hull City vs Norwich
 http://127.0.0.1/coming_soon.m3u8
-#EXTINF:-1 tvg-id="1387092" tvg-name="Watford vs Coventry" tvg-logo="https://images1-focus-opensocial.googleusercontent.com/gadgets/proxy?container=focus&refresh=31536000&url=https%3A%2F%2Fi0.wp.com%2Fimage-ra-1.axscore1.com%2Ffootball%2Fteams%2F38.png" group-title="UPCOMING ASTON", [📅 02/05 18:30] Watford vs Coventry
+#EXTINF:-1 tvg-id="1387091" tvg-name="Blackburn vs Leicester" tvg-logo="https://images1-focus-opensocial.googleusercontent.com/gadgets/proxy?container=focus&refresh=31536000&url=https%3A%2F%2Fi0.wp.com%2Fimage-ra-1.axscore1.com%2Ffootball%2Fteams%2F67.png" group-title="UPCOMING ASTON", [📅 02/05 18:30] Blackburn vs Leicester
 http://127.0.0.1/coming_soon.m3u8
 #EXTINF:-1 tvg-id="1387102" tvg-name="Preston vs Southampton" tvg-logo="https://images1-focus-opensocial.googleusercontent.com/gadgets/proxy?container=focus&refresh=31536000&url=https%3A%2F%2Fi0.wp.com%2Fimage-ra-1.axscore1.com%2Ffootball%2Fteams%2F59.png" group-title="UPCOMING ASTON", [📅 02/05 18:30] Preston vs Southampton
 http://127.0.0.1/coming_soon.m3u8
-#EXTINF:-1 tvg-id="1387091" tvg-name="Blackburn vs Leicester" tvg-logo="https://images1-focus-opensocial.googleusercontent.com/gadgets/proxy?container=focus&refresh=31536000&url=https%3A%2F%2Fi0.wp.com%2Fimage-ra-1.axscore1.com%2Ffootball%2Fteams%2F67.png" group-title="UPCOMING ASTON", [📅 02/05 18:30] Blackburn vs Leicester
+#EXTINF:-1 tvg-id="1387092" tvg-name="Watford vs Coventry" tvg-logo="https://images1-focus-opensocial.googleusercontent.com/gadgets/proxy?container=focus&refresh=31536000&url=https%3A%2F%2Fi0.wp.com%2Fimage-ra-1.axscore1.com%2Ffootball%2Fteams%2F38.png" group-title="UPCOMING ASTON", [📅 02/05 18:30] Watford vs Coventry
 http://127.0.0.1/coming_soon.m3u8
 #EXTINF:-1 tvg-id="1388588" tvg-name="Bayern München vs 1. FC Heidenheim" tvg-logo="https://images1-focus-opensocial.googleusercontent.com/gadgets/proxy?container=focus&refresh=31536000&url=https%3A%2F%2Fi0.wp.com%2Fimage-ra-1.axscore1.com%2Ffootball%2Fteams%2F157.png" group-title="UPCOMING ASTON", [📅 02/05 20:30] Bayern München vs 1. FC Heidenheim
 http://127.0.0.1/coming_soon.m3u8
@@ -1158,33 +1156,23 @@ http://127.0.0.1/coming_soon.m3u8
 http://127.0.0.1/coming_soon.m3u8
 #EXTINF:-1 tvg-id="1379275" tvg-name="Manchester City vs Crystal Palace" tvg-logo="https://images1-focus-opensocial.googleusercontent.com/gadgets/proxy?container=focus&refresh=31536000&url=https%3A%2F%2Fi0.wp.com%2Fimage-ra-1.axscore1.com%2Ffootball%2Fteams%2F50.png" group-title="UPCOMING ASTON", [📅 14/05 02:00] Manchester City vs Crystal Palace
 http://127.0.0.1/coming_soon.m3u8
-#EXTINF:-1 tvg-id="1629489988" tvg-name="Chunichi Dragons vs Fukuoka SoftBank Hawks" tvg-logo="https://images1-focus-opensocial.googleusercontent.com/gadgets/proxy?container=focus&refresh=31536000&url=https%3A%2F%2Fstatic-live.linewgen.xyz%2Flive%2Fbing%2Fimg%2Fteams%2Fe97b8c766d3fb27f8fb6be3a1c4fc4f8.png" group-title="UPCOMING ASTON", [📅 01/05 10:30] Chunichi Dragons vs Fukuoka SoftBank Hawks
-http://127.0.0.1/coming_soon.m3u8
-#EXTINF:-1 tvg-id="1629489987" tvg-name="Tokyo Yakult Swallows vs Hanshin Tigers" tvg-logo="https://images1-focus-opensocial.googleusercontent.com/gadgets/proxy?container=focus&refresh=31536000&url=https%3A%2F%2Fstatic-live.linewgen.xyz%2Flive%2Fbing%2Fimg%2Fteams%2F34593265410a4efe76ac3463f92c902a.png" group-title="UPCOMING ASTON", [📅 01/05 10:30] Tokyo Yakult Swallows vs Hanshin Tigers
-http://127.0.0.1/coming_soon.m3u8
-#EXTINF:-1 tvg-id="1629489989" tvg-name="ORIX Buffaloes vs Chiba Lotte Marines" tvg-logo="https://images1-focus-opensocial.googleusercontent.com/gadgets/proxy?container=focus&refresh=31536000&url=https%3A%2F%2Fstatic-live.linewgen.xyz%2Flive%2Fbing%2Fimg%2Fteams%2F152af9ee913c91f59154eaf2ae51db2f.png" group-title="UPCOMING ASTON", [📅 01/05 11:00] ORIX Buffaloes vs Chiba Lotte Marines
-http://127.0.0.1/coming_soon.m3u8
-#EXTINF:-1 tvg-id="1629489990" tvg-name="Yomiuri Giants vs Hiroshima Toyo Carp" tvg-logo="https://images1-focus-opensocial.googleusercontent.com/gadgets/proxy?container=focus&refresh=31536000&url=https%3A%2F%2Fstatic-live.linewgen.xyz%2Flive%2Fbing%2Fimg%2Fteams%2F9f2a207ed77e5f3e2f438e501a13c005.png" group-title="UPCOMING ASTON", [📅 01/05 12:00] Yomiuri Giants vs Hiroshima Toyo Carp
-http://127.0.0.1/coming_soon.m3u8
-#EXTINF:-1 tvg-id="1629489991" tvg-name="Hurricanes vs Crusaders" tvg-logo="https://images1-focus-opensocial.googleusercontent.com/gadgets/proxy?container=focus&refresh=31536000&url=https%3A%2F%2Fi0.wp.com%2Fimage-ra-1.axscore1.com%2Ffootball%2Fteams%2F23368.png" group-title="UPCOMING ASTON", [📅 01/05 13:30] Hurricanes vs Crusaders
+#EXTINF:-1 tvg-id="1629489993" tvg-name="North Queensland Cowboys vs Canterbury-Bankstown Bulldogs" tvg-logo="https://images1-focus-opensocial.googleusercontent.com/gadgets/proxy?container=focus&refresh=31536000&url=https%3A%2F%2Fstatic-live.linewgen.xyz%2Flive%2Fbing%2Fimg%2Fteams%2Fc71260944c8304f78082dd1e586da159.png" group-title="UPCOMING ASTON", [📅 01/05 15:00] North Queensland Cowboys vs Canterbury-Bankstown Bulldogs
 http://127.0.0.1/coming_soon.m3u8
 #EXTINF:-1 tvg-id="1629489992" tvg-name="Cross-country Short Track: Seoul" tvg-logo="https://images1-focus-opensocial.googleusercontent.com/gadgets/proxy?container=focus&refresh=31536000&url=https%3A%2F%2Fi0.wp.com%2Fimage-ra-1.axscore1.com%2Ffootball%2Fleagues%2F1000003348.png" group-title="UPCOMING ASTON", [📅 01/05 15:00] Cross-country Short Track: Seoul
 http://127.0.0.1/coming_soon.m3u8
-#EXTINF:-1 tvg-id="1629489993" tvg-name="North Queensland Cowboys vs Canterbury-Bankstown Bulldogs" tvg-logo="https://images1-focus-opensocial.googleusercontent.com/gadgets/proxy?container=focus&refresh=31536000&url=https%3A%2F%2Fstatic-live.linewgen.xyz%2Flive%2Fbing%2Fimg%2Fteams%2Fc71260944c8304f78082dd1e586da159.png" group-title="UPCOMING ASTON", [📅 01/05 15:00] North Queensland Cowboys vs Canterbury-Bankstown Bulldogs
+#EXTINF:-1 tvg-id="1629489994" tvg-name="Hanshin Tigers vs Yomiuri Giants" tvg-logo="https://images1-focus-opensocial.googleusercontent.com/gadgets/proxy?container=focus&refresh=31536000&url=https%3A%2F%2Fstatic-live.linewgen.xyz%2Flive%2Fbing%2Fimg%2Fteams%2F5a915504baf84e88cbc763dfcfc934cf.png" group-title="UPCOMING ASTON", [📅 01/05 16:00] Hanshin Tigers vs Yomiuri Giants
 http://127.0.0.1/coming_soon.m3u8
 #EXTINF:-1 tvg-id="1629490000" tvg-name="Day 5" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/Soccerball.svg/512px-Soccerball.svg.png" group-title="UPCOMING ASTON", [📅 01/05 16:00] Day 5
 http://127.0.0.1/coming_soon.m3u8
-#EXTINF:-1 tvg-id="1629489996" tvg-name="Fukuoka SoftBank Hawks vs Tohoku Rakuten Golden Eagles" tvg-logo="https://images1-focus-opensocial.googleusercontent.com/gadgets/proxy?container=focus&refresh=31536000&url=https%3A%2F%2Fstatic-live.linewgen.xyz%2Flive%2Fbing%2Fimg%2Fteams%2F711743b3437e10f4fe95736e0035a3b8.png" group-title="UPCOMING ASTON", [📅 01/05 16:00] Fukuoka SoftBank Hawks vs Tohoku Rakuten Golden Eagles
+#EXTINF:-1 tvg-id="1629490001" tvg-name="Waratahs vs Force" tvg-logo="https://images1-focus-opensocial.googleusercontent.com/gadgets/proxy?container=focus&refresh=31536000&url=https%3A%2F%2Fstatic-live.linewgen.xyz%2Flive%2Fbing%2Fimg%2Fteams%2F386cc98af10c58c60774777107d31d6a.png" group-title="UPCOMING ASTON", [📅 01/05 16:00] Waratahs vs Force
 http://127.0.0.1/coming_soon.m3u8
-#EXTINF:-1 tvg-id="1629489998" tvg-name="Hokkaido Nippon-Ham Fighters vs ORIX Buffaloes" tvg-logo="https://images1-focus-opensocial.googleusercontent.com/gadgets/proxy?container=focus&refresh=31536000&url=https%3A%2F%2Fstatic-live.linewgen.xyz%2Flive%2Fbing%2Fimg%2Fteams%2F329405cfcfea53d121091a4bee27b860.png" group-title="UPCOMING ASTON", [📅 01/05 16:00] Hokkaido Nippon-Ham Fighters vs ORIX Buffaloes
+#EXTINF:-1 tvg-id="1629489996" tvg-name="Fukuoka SoftBank Hawks vs Tohoku Rakuten Golden Eagles" tvg-logo="https://images1-focus-opensocial.googleusercontent.com/gadgets/proxy?container=focus&refresh=31536000&url=https%3A%2F%2Fstatic-live.linewgen.xyz%2Flive%2Fbing%2Fimg%2Fteams%2F711743b3437e10f4fe95736e0035a3b8.png" group-title="UPCOMING ASTON", [📅 01/05 16:00] Fukuoka SoftBank Hawks vs Tohoku Rakuten Golden Eagles
 http://127.0.0.1/coming_soon.m3u8
 #EXTINF:-1 tvg-id="1629489995" tvg-name="Chiba Lotte Marines vs Saitama Seibu Lions" tvg-logo="https://images1-focus-opensocial.googleusercontent.com/gadgets/proxy?container=focus&refresh=31536000&url=https%3A%2F%2Fstatic-live.linewgen.xyz%2Flive%2Fbing%2Fimg%2Fteams%2Ff21f7f743a49b135f1804b1df2d0e5d8.png" group-title="UPCOMING ASTON", [📅 01/05 16:00] Chiba Lotte Marines vs Saitama Seibu Lions
 http://127.0.0.1/coming_soon.m3u8
 #EXTINF:-1 tvg-id="1629489997" tvg-name="Tokyo Yakult Swallows vs YOKOHAMA DeNA BAYSTARS" tvg-logo="https://images1-focus-opensocial.googleusercontent.com/gadgets/proxy?container=focus&refresh=31536000&url=https%3A%2F%2Fstatic-live.linewgen.xyz%2Flive%2Fbing%2Fimg%2Fteams%2F34593265410a4efe76ac3463f92c902a.png" group-title="UPCOMING ASTON", [📅 01/05 16:00] Tokyo Yakult Swallows vs YOKOHAMA DeNA BAYSTARS
 http://127.0.0.1/coming_soon.m3u8
-#EXTINF:-1 tvg-id="1629489994" tvg-name="Hanshin Tigers vs Yomiuri Giants" tvg-logo="https://images1-focus-opensocial.googleusercontent.com/gadgets/proxy?container=focus&refresh=31536000&url=https%3A%2F%2Fstatic-live.linewgen.xyz%2Flive%2Fbing%2Fimg%2Fteams%2F5a915504baf84e88cbc763dfcfc934cf.png" group-title="UPCOMING ASTON", [📅 01/05 16:00] Hanshin Tigers vs Yomiuri Giants
-http://127.0.0.1/coming_soon.m3u8
-#EXTINF:-1 tvg-id="1629490001" tvg-name="Waratahs vs Force" tvg-logo="https://images1-focus-opensocial.googleusercontent.com/gadgets/proxy?container=focus&refresh=31536000&url=https%3A%2F%2Fstatic-live.linewgen.xyz%2Flive%2Fbing%2Fimg%2Fteams%2F386cc98af10c58c60774777107d31d6a.png" group-title="UPCOMING ASTON", [📅 01/05 16:00] Waratahs vs Force
+#EXTINF:-1 tvg-id="1629489998" tvg-name="Hokkaido Nippon-Ham Fighters vs ORIX Buffaloes" tvg-logo="https://images1-focus-opensocial.googleusercontent.com/gadgets/proxy?container=focus&refresh=31536000&url=https%3A%2F%2Fstatic-live.linewgen.xyz%2Flive%2Fbing%2Fimg%2Fteams%2F329405cfcfea53d121091a4bee27b860.png" group-title="UPCOMING ASTON", [📅 01/05 16:00] Hokkaido Nippon-Ham Fighters vs ORIX Buffaloes
 http://127.0.0.1/coming_soon.m3u8
 #EXTINF:-1 tvg-id="1629490002" tvg-name="Port Adelaide vs Adelaide Crows" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/Soccerball.svg/512px-Soccerball.svg.png" group-title="UPCOMING ASTON", [📅 01/05 17:00] Port Adelaide vs Adelaide Crows
 http://127.0.0.1/coming_soon.m3u8
@@ -1194,17 +1182,17 @@ http://127.0.0.1/coming_soon.m3u8
 http://127.0.0.1/coming_soon.m3u8
 #EXTINF:-1 tvg-id="1629490005" tvg-name="ETERNAL MMA 105" tvg-logo="https://images1-focus-opensocial.googleusercontent.com/gadgets/proxy?container=focus&refresh=31536000&url=https%3A%2F%2Fi0.wp.com%2Fimage-ra-1.axscore1.com%2Ffootball%2Fleagues%2F1000001506.png" group-title="UPCOMING ASTON", [📅 01/05 19:00] ETERNAL MMA 105
 http://127.0.0.1/coming_soon.m3u8
-#EXTINF:-1 tvg-id="1401372" tvg-name="Hamburger SV W vs Union Berlin W" tvg-logo="https://images1-focus-opensocial.googleusercontent.com/gadgets/proxy?container=focus&refresh=31536000&url=https%3A%2F%2Fi0.wp.com%2Fimage-ra-1.axscore1.com%2Ffootball%2Fteams%2F20498.png" group-title="UPCOMING ASTON", [📅 01/05 20:00] Hamburger SV W vs Union Berlin W
+#EXTINF:-1 tvg-id="1419951" tvg-name="Palermo vs Catanzaro" tvg-logo="https://images1-focus-opensocial.googleusercontent.com/gadgets/proxy?container=focus&refresh=31536000&url=https%3A%2F%2Fi0.wp.com%2Fimage-ra-1.axscore1.com%2Ffootball%2Fteams%2F522.png" group-title="UPCOMING ASTON", [📅 01/05 20:00] Palermo vs Catanzaro
 http://127.0.0.1/coming_soon.m3u8
 #EXTINF:-1 tvg-id="1419957" tvg-name="Modena vs Reggiana" tvg-logo="https://images1-focus-opensocial.googleusercontent.com/gadgets/proxy?container=focus&refresh=31536000&url=https%3A%2F%2Fi0.wp.com%2Fimage-ra-1.axscore1.com%2Ffootball%2Fteams%2F899.png" group-title="UPCOMING ASTON", [📅 01/05 20:00] Modena vs Reggiana
 http://127.0.0.1/coming_soon.m3u8
-#EXTINF:-1 tvg-id="1419951" tvg-name="Palermo vs Catanzaro" tvg-logo="https://images1-focus-opensocial.googleusercontent.com/gadgets/proxy?container=focus&refresh=31536000&url=https%3A%2F%2Fi0.wp.com%2Fimage-ra-1.axscore1.com%2Ffootball%2Fteams%2F522.png" group-title="UPCOMING ASTON", [📅 01/05 20:00] Palermo vs Catanzaro
+#EXTINF:-1 tvg-id="1419953" tvg-name="Sampdoria vs Sudtirol" tvg-logo="https://images1-focus-opensocial.googleusercontent.com/gadgets/proxy?container=focus&refresh=31536000&url=https%3A%2F%2Fi0.wp.com%2Fimage-ra-1.axscore1.com%2Ffootball%2Fteams%2F498.png" group-title="UPCOMING ASTON", [📅 01/05 20:00] Sampdoria vs Sudtirol
+http://127.0.0.1/coming_soon.m3u8
+#EXTINF:-1 tvg-id="1401372" tvg-name="Hamburger SV W vs Union Berlin W" tvg-logo="https://images1-focus-opensocial.googleusercontent.com/gadgets/proxy?container=focus&refresh=31536000&url=https%3A%2F%2Fi0.wp.com%2Fimage-ra-1.axscore1.com%2Ffootball%2Fteams%2F20498.png" group-title="UPCOMING ASTON", [📅 01/05 20:00] Hamburger SV W vs Union Berlin W
 http://127.0.0.1/coming_soon.m3u8
 #EXTINF:-1 tvg-id="1419954" tvg-name="Carrarese vs Cesena" tvg-logo="https://images1-focus-opensocial.googleusercontent.com/gadgets/proxy?container=focus&refresh=31536000&url=https%3A%2F%2Fi0.wp.com%2Fimage-ra-1.axscore1.com%2Ffootball%2Fteams%2F1581.png" group-title="UPCOMING ASTON", [📅 01/05 20:00] Carrarese vs Cesena
 http://127.0.0.1/coming_soon.m3u8
 #EXTINF:-1 tvg-id="1419958" tvg-name="Bari vs Virtus Entella" tvg-logo="https://images1-focus-opensocial.googleusercontent.com/gadgets/proxy?container=focus&refresh=31536000&url=https%3A%2F%2Fi0.wp.com%2Fimage-ra-1.axscore1.com%2Ffootball%2Fteams%2F508.png" group-title="UPCOMING ASTON", [📅 01/05 20:00] Bari vs Virtus Entella
-http://127.0.0.1/coming_soon.m3u8
-#EXTINF:-1 tvg-id="1419953" tvg-name="Sampdoria vs Sudtirol" tvg-logo="https://images1-focus-opensocial.googleusercontent.com/gadgets/proxy?container=focus&refresh=31536000&url=https%3A%2F%2Fi0.wp.com%2Fimage-ra-1.axscore1.com%2Ffootball%2Fteams%2F498.png" group-title="UPCOMING ASTON", [📅 01/05 20:00] Sampdoria vs Sudtirol
 http://127.0.0.1/coming_soon.m3u8
 #EXTINF:-1 tvg-id="1629490006" tvg-name="Tour of Romandie | Stage 3" tvg-logo="https://images1-focus-opensocial.googleusercontent.com/gadgets/proxy?container=focus&refresh=31536000&url=https%3A%2F%2Fi0.wp.com%2Fimage-ra-1.axscore1.com%2Ffootball%2Fleagues%2F1000000540.png" group-title="UPCOMING ASTON", [📅 01/05 20:45] Tour of Romandie | Stage 3
 http://127.0.0.1/coming_soon.m3u8
@@ -1218,9 +1206,9 @@ http://127.0.0.1/coming_soon.m3u8
 http://127.0.0.1/coming_soon.m3u8
 #EXTINF:-1 tvg-id="1380657" tvg-name="Legia Warszawa vs Widzew Łódź" tvg-logo="https://images1-focus-opensocial.googleusercontent.com/gadgets/proxy?container=focus&refresh=31536000&url=https%3A%2F%2Fi0.wp.com%2Fimage-ra-1.axscore1.com%2Ffootball%2Fteams%2F339.png" group-title="UPCOMING ASTON", [📅 02/05 01:30] Legia Warszawa vs Widzew Łódź
 http://127.0.0.1/coming_soon.m3u8
-#EXTINF:-1 tvg-id="1540008" tvg-name="Livingston vs Aberdeen" tvg-logo="https://images1-focus-opensocial.googleusercontent.com/gadgets/proxy?container=focus&refresh=31536000&url=https%3A%2F%2Fi0.wp.com%2Fimage-ra-1.axscore1.com%2Ffootball%2Fteams%2F255.png" group-title="UPCOMING ASTON", [📅 02/05 01:45] Livingston vs Aberdeen
-http://127.0.0.1/coming_soon.m3u8
 #EXTINF:-1 tvg-id="1378210" tvg-name="Pisa vs Lecce" tvg-logo="https://images1-focus-opensocial.googleusercontent.com/gadgets/proxy?container=focus&refresh=31536000&url=https%3A%2F%2Fi0.wp.com%2Fimage-ra-1.axscore1.com%2Ffootball%2Fteams%2F801.png" group-title="UPCOMING ASTON", [📅 02/05 01:45] Pisa vs Lecce
+http://127.0.0.1/coming_soon.m3u8
+#EXTINF:-1 tvg-id="1540008" tvg-name="Livingston vs Aberdeen" tvg-logo="https://images1-focus-opensocial.googleusercontent.com/gadgets/proxy?container=focus&refresh=31536000&url=https%3A%2F%2Fi0.wp.com%2Fimage-ra-1.axscore1.com%2Ffootball%2Fteams%2F255.png" group-title="UPCOMING ASTON", [📅 02/05 01:45] Livingston vs Aberdeen
 http://127.0.0.1/coming_soon.m3u8
 #EXTINF:-1 tvg-id="1391154" tvg-name="Girona vs Mallorca" tvg-logo="https://images1-focus-opensocial.googleusercontent.com/gadgets/proxy?container=focus&refresh=31536000&url=https%3A%2F%2Fi0.wp.com%2Fimage-ra-1.axscore1.com%2Ffootball%2Fteams%2F547.png" group-title="UPCOMING ASTON", [📅 02/05 02:00] Girona vs Mallorca
 http://127.0.0.1/coming_soon.m3u8
@@ -1234,40 +1222,49 @@ http://127.0.0.1/coming_soon.m3u8
 http://127.0.0.1/coming_soon.m3u8
 #EXTINF:-1 tvg-id="1629490013" tvg-name="Downhill: Seoul" tvg-logo="https://images1-focus-opensocial.googleusercontent.com/gadgets/proxy?container=focus&refresh=31536000&url=https%3A%2F%2Fi0.wp.com%2Fimage-ra-1.axscore1.com%2Ffootball%2Fleagues%2F1000003348.png" group-title="UPCOMING ASTON", [📅 02/05 10:45] Downhill: Seoul
 http://127.0.0.1/coming_soon.m3u8
+#EXTINF:-1 tvg-id="1504779" tvg-name="Fagiano Okayama vs Sanfrecce Hiroshima" tvg-logo="https://images1-focus-opensocial.googleusercontent.com/gadgets/proxy?container=focus&refresh=31536000&url=https%3A%2F%2Fi0.wp.com%2Fimage-ra-1.axscore1.com%2Ffootball%2Fteams%2F310.png" group-title="UPCOMING ASTON", [📅 02/05 10:55] Fagiano Okayama vs Sanfrecce Hiroshima
+http://127.0.0.1/coming_soon.m3u8
+#EXTINF:-1 tvg-id="1629490016" tvg-name="Fijian Drua vs Highlanders" tvg-logo="https://images1-focus-opensocial.googleusercontent.com/gadgets/proxy?container=focus&refresh=31536000&url=https%3A%2F%2Fstatic-live.linewgen.xyz%2Flive%2Fbing%2Fimg%2Fteams%2Facf5fd2fc98d62491cf8fe245b128184.png" group-title="UPCOMING ASTON", [📅 02/05 11:15] Fijian Drua vs Highlanders
+http://127.0.0.1/coming_soon.m3u8
+#EXTINF:-1 tvg-id="1542879" tvg-name="Auckland vs Melbourne City" tvg-logo="https://images1-focus-opensocial.googleusercontent.com/gadgets/proxy?container=focus&refresh=31536000&url=https%3A%2F%2Fi0.wp.com%2Fimage-ra-1.axscore1.com%2Ffootball%2Fteams%2F24608.png" group-title="UPCOMING ASTON", [📅 02/05 12:00] Auckland vs Melbourne City
+http://127.0.0.1/coming_soon.m3u8
 #EXT-X-VERSION:3
-#EXTINF:-1 group-logo="https://static-web.prod.vidiocdn.com/_next/static/logo/vidio.png" tvg-logo="https://thumbor.prod.vidiocdn.com/mk4AsRibau3CLGQvd5G6uAKHzUU=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5038854/d41a3a.jpg" group-title="LIVE BASKET", 09:00 WIB 01/05/26 Soegijapranata Catholic University vs Universitas Kristen Duta Wacana (Grup C | Putra) - CL Basketball 2026 - Regional Jogja (INTI HLS/M3U8)
+#EXTINF:-1 group-logo="https://static-web.prod.vidiocdn.com/_next/static/logo/vidio.png" tvg-logo="https://thumbor.prod.vidiocdn.com/Sm80SwRbYyF-deoILYwtT7dZGwI=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5055293/501e14.jpg" group-title="LIVE BASKET", 13:00 WIB 01/05/26 Universitas Atma Jaya Yogyakarta vs Universitas Muhammadiyah Yogyakarta (Grup B | Putra) - CL Basketball 2026 - Regional Jogja (INTI HLS/M3U8)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-https://aspaltvpasti.top/Tesmar/1.php/21210.m3u8?dev_kaki_09&t=1777614425&uip=2a06%3A98c0%3A3600%3A%3A103&h=2c01e61e2f09c637acb386c5c0ec8e78c52817ca3148b89f3d6e6cc313350aa7
-#EXTINF:-1 group-logo="https://static-web.prod.vidiocdn.com/_next/static/logo/vidio.png" tvg-logo="https://thumbor.prod.vidiocdn.com/mk4AsRibau3CLGQvd5G6uAKHzUU=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5038854/d41a3a.jpg" group-title="LIVE BASKET", 09:00 WIB 01/05/26 Soegijapranata Catholic University vs Universitas Kristen Duta Wacana (Grup C | Putra) - CL Basketball 2026 - Regional Jogja (INTI MPD)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://aspaltvpasti.top/Tesmar/1.php/21210.drm?dev_kaki_09&t=1777614425&uip=2a06%3A98c0%3A3600%3A%3A103&h=2c01e61e2f09c637acb386c5c0ec8e78c52817ca3148b89f3d6e6cc313350aa7
-https://aspaltvpasti.top/Tesmar/1.php/21210.mpd?dev_kaki_09&t=1777614425&uip=2a06%3A98c0%3A3600%3A%3A103&h=2c01e61e2f09c637acb386c5c0ec8e78c52817ca3148b89f3d6e6cc313350aa7
-#EXTINF:-1 group-logo="https://static-web.prod.vidiocdn.com/_next/static/logo/vidio.png" tvg-logo="https://thumbor.prod.vidiocdn.com/mk4AsRibau3CLGQvd5G6uAKHzUU=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5038854/d41a3a.jpg" group-title="LIVE BASKET", 09:00 WIB 01/05/26 Soegijapranata Catholic University vs Universitas Kristen Duta Wacana (Grup C | Putra) - CL Basketball 2026 - Regional Jogja (ALT HLS/M3U8)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-https://aspaltvpasti.top/Tesmar/2.php/21210.m3u8?exp=1777614425&uip=2a06%3A98c0%3A3600%3A%3A103&sign=60d36a39d11b1dd926650e6fa7e22804c11d2c10927e4bd6384a76e19585a28b
-#EXTINF:-1 group-logo="https://static-web.prod.vidiocdn.com/_next/static/logo/vidio.png" tvg-logo="https://thumbor.prod.vidiocdn.com/mk4AsRibau3CLGQvd5G6uAKHzUU=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5038854/d41a3a.jpg" group-title="LIVE BASKET", 09:00 WIB 01/05/26 Soegijapranata Catholic University vs Universitas Kristen Duta Wacana (Grup C | Putra) - CL Basketball 2026 - Regional Jogja (ALT MPD)
+https://aspaltvpasti.top/Tesmar/1.php/21210.m3u8?dev_kaki_09&t=1777626926&uip=2a06%3A98c0%3A3600%3A%3A103&h=7037a323a78c7539cd4504e02901f78936197aad78c25c4eb54a48fb7cae70c5
+#EXTINF:-1 group-logo="https://static-web.prod.vidiocdn.com/_next/static/logo/vidio.png" tvg-logo="https://thumbor.prod.vidiocdn.com/Sm80SwRbYyF-deoILYwtT7dZGwI=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5055293/501e14.jpg" group-title="LIVE BASKET", 13:00 WIB 01/05/26 Universitas Atma Jaya Yogyakarta vs Universitas Muhammadiyah Yogyakarta (Grup B | Putra) - CL Basketball 2026 - Regional Jogja (INTI MPD)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://aspaltvpasti.top/Tesmar/2.php/21210.drm?exp=1777614425&uip=2a06%3A98c0%3A3600%3A%3A103&sign=bf53464c429325a098a10af26bd4b68ba9c7adc5a0c608643ad6859ba6bf07e0
-https://aspaltvpasti.top/Tesmar/2.php/21210.mpd?exp=1777614425&uip=2a06%3A98c0%3A3600%3A%3A103&sign=60d36a39d11b1dd926650e6fa7e22804c11d2c10927e4bd6384a76e19585a28b
-#EXTINF:-1 group-logo="https://static-web.prod.vidiocdn.com/_next/static/logo/vidio.png" tvg-logo="https://thumbor.prod.vidiocdn.com/F2pqF79QF_XACITip8O-2FE5G7Q=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/18249/bwf-thomas-uber-cup-finals-2026-group-stage-court-1-e1677b.jpg" group-title="JADWAL EVENT", 15:00 WIB 01/05/26 China vs Malaysia - BWF Thomas Cup Finals 2026 - Quarterfinals (Court 1)
+#KODIPROP:inputstream.adaptive.license_key=https://aspaltvpasti.top/Tesmar/1.php/21210.drm?dev_kaki_09&t=1777626926&uip=2a06%3A98c0%3A3600%3A%3A103&h=7037a323a78c7539cd4504e02901f78936197aad78c25c4eb54a48fb7cae70c5
+https://aspaltvpasti.top/Tesmar/1.php/21210.mpd?dev_kaki_09&t=1777626926&uip=2a06%3A98c0%3A3600%3A%3A103&h=7037a323a78c7539cd4504e02901f78936197aad78c25c4eb54a48fb7cae70c5
+#EXTINF:-1 group-logo="https://static-web.prod.vidiocdn.com/_next/static/logo/vidio.png" tvg-logo="https://thumbor.prod.vidiocdn.com/Sm80SwRbYyF-deoILYwtT7dZGwI=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5055293/501e14.jpg" group-title="LIVE BASKET", 13:00 WIB 01/05/26 Universitas Atma Jaya Yogyakarta vs Universitas Muhammadiyah Yogyakarta (Grup B | Putra) - CL Basketball 2026 - Regional Jogja (ALT HLS/M3U8)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+https://aspaltvpasti.top/Tesmar/2.php/21210.m3u8?exp=1777626926&uip=2a06%3A98c0%3A3600%3A%3A103&sign=28b6c03b4b7d4b24397fe0c2610c1f83ca9ba9a66d334b810930d894d9aea7f0
+#EXTINF:-1 group-logo="https://static-web.prod.vidiocdn.com/_next/static/logo/vidio.png" tvg-logo="https://thumbor.prod.vidiocdn.com/Sm80SwRbYyF-deoILYwtT7dZGwI=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5055293/501e14.jpg" group-title="LIVE BASKET", 13:00 WIB 01/05/26 Universitas Atma Jaya Yogyakarta vs Universitas Muhammadiyah Yogyakarta (Grup B | Putra) - CL Basketball 2026 - Regional Jogja (ALT MPD)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://aspaltvpasti.top/Tesmar/2.php/21210.drm?exp=1777626926&uip=2a06%3A98c0%3A3600%3A%3A103&sign=3b94b5ecb91a91a4ab9e1b6ce9b875f4586762a3a11eb6aa424e238c6a95be04
+https://aspaltvpasti.top/Tesmar/2.php/21210.mpd?exp=1777626926&uip=2a06%3A98c0%3A3600%3A%3A103&sign=28b6c03b4b7d4b24397fe0c2610c1f83ca9ba9a66d334b810930d894d9aea7f0
+#EXTINF:-1 group-logo="https://static-web.prod.vidiocdn.com/_next/static/logo/vidio.png" tvg-logo="https://thumbor.prod.vidiocdn.com/F2pqF79QF_XACITip8O-2FE5G7Q=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/18249/bwf-thomas-uber-cup-finals-2026-group-stage-court-1-e1677b.jpg" group-title="JADWAL EVENT", 15:00 WIB 01/05/26 Shi Yu Qi (CHN) vs Leong Jun Hao (MAS) - Men's Singles (Match 1) | Quarterfinals Thomas Cup 2026
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+https://aspaltvpasti.top/belumlive.mp4
+#EXTINF:-1 group-logo="https://static-web.prod.vidiocdn.com/_next/static/logo/vidio.png" tvg-logo="https://thumbor.prod.vidiocdn.com/sOBuz-jPH1BAmTDVtpCFWJdgDho=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/18250/bwf-thomas-uber-cup-finals-2026-group-stage-court-2-9809c9.jpg" group-title="JADWAL EVENT", 15:00 WIB 01/05/26 Lakshya Sen (IND) vs Chou Tien Chen (TPE) - Men's Singles (Match 1) | Quarterfinals Thomas Cup 2026
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 https://aspaltvpasti.top/belumlive.mp4
 #EXTINF:-1 group-logo="https://static-web.prod.vidiocdn.com/_next/static/logo/vidio.png" tvg-logo="https://thumbor.prod.vidiocdn.com/4mVOKyD_tC3afDvCQYKbqSzNJLU=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5036150/5a4d83.jpg" group-title="JADWAL EVENT", 15:15 WIB 01/05/26 WorldSBK Free Practice 1 - WorldSBK Championship 2026 Round 4 Motul Hungarian Round
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 https://aspaltvpasti.top/belumlive.mp4
-#EXTINF:-1 group-logo="https://static-web.prod.vidiocdn.com/_next/static/logo/vidio.png" tvg-logo="https://thumbor.prod.vidiocdn.com/xXBv8lhxIZIlYczi6fk30E2tuYw=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/21188/nex-road-to-champion-c69eb3.jpg" group-title="JADWAL EVENT", 16:00 WIB 01/05/26 NEX Road To Champion
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-https://aspaltvpasti.top/belumlive.mp4
-#EXTINF:-1 group-logo="https://static-web.prod.vidiocdn.com/_next/static/logo/vidio.png" tvg-logo="https://thumbor.prod.vidiocdn.com/VI13l9vwTJpXaRZOpNJGEY1SRa0=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5032221/b7093a.jpg" group-title="JADWAL EVENT", 18:30 WIB 01/05/26 ONE Friday Fights 152
+#EXTINF:-1 group-logo="https://static-web.prod.vidiocdn.com/_next/static/logo/vidio.png" tvg-logo="https://thumbor.prod.vidiocdn.com/xXBv8lhxIZIlYczi6fk30E2tuYw=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/21188/nex-road-to-champion-c69eb3.jpg" group-title="JADWAL EVENT", 15:30 WIB 01/05/26 NEX Road To Champion
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 https://aspaltvpasti.top/belumlive.mp4
 #EXTINF:-1 group-logo="https://static-web.prod.vidiocdn.com/_next/static/logo/vidio.png" tvg-logo="https://thumbor.prod.vidiocdn.com/e1kSdjYaMAKP3S0zKqFxmHMiybQ=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5055287/22fb0b.jpg" group-title="JADWAL EVENT", 18:30 WIB 01/05/26 Harri Heliovaara/Henry Patten vs Luke Johnson/Jam Zielinski - Semifinals (Arantxa Sanchez Stadium) | ATP 1000: Mutua Madrid Open 2026
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+https://aspaltvpasti.top/belumlive.mp4
+#EXTINF:-1 group-logo="https://static-web.prod.vidiocdn.com/_next/static/logo/vidio.png" tvg-logo="https://thumbor.prod.vidiocdn.com/VI13l9vwTJpXaRZOpNJGEY1SRa0=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5032221/b7093a.jpg" group-title="JADWAL EVENT", 18:30 WIB 01/05/26 ONE Friday Fights 152
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 https://aspaltvpasti.top/belumlive.mp4
 #EXTINF:-1 group-logo="https://static-web.prod.vidiocdn.com/_next/static/logo/vidio.png" tvg-logo="https://thumbor.prod.vidiocdn.com/ige-5EUrGN1UzFvNyT_2zj2DvsU=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5036092/932a83.jpg" group-title="JADWAL EVENT", 20:30 WIB 01/05/26 Practice - FIA Formula 2 Championship Miami Grand Prix 2026
@@ -1291,13 +1288,13 @@ https://aspaltvpasti.top/belumlive.mp4
 #EXTINF:-1 group-logo="https://static-web.prod.vidiocdn.com/_next/static/logo/vidio.png" tvg-logo="https://thumbor.prod.vidiocdn.com/SJPM5AkM3cgAg1qs0quSj30X4Bk=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5036148/b6cd03.jpg" group-title="JADWAL EVENT", 02:00 WIB 02/05/26 Round 2 - Cadillac Championship 2026
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 https://aspaltvpasti.top/belumlive.mp4
-#EXTINF:-1 group-logo="https://static-web.prod.vidiocdn.com/_next/static/logo/vidio.png" tvg-logo="https://thumbor.prod.vidiocdn.com/9EzxouCeAKumSCNVPKoV4dQdBeA=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5036134/25507d.jpg" group-title="JADWAL EVENT", 15:00 WIB 02/05/26 PERSEBAYA Surabaya vs PSBS Biak - BRI Super League
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-https://aspaltvpasti.top/belumlive.mp4
 #EXTINF:-1 group-logo="https://static-web.prod.vidiocdn.com/_next/static/logo/vidio.png" tvg-logo="https://thumbor.prod.vidiocdn.com/tbUrYL4Ci9ZmVMml1_u7b9VxJzQ=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5036132/cb3a66.jpg" group-title="JADWAL EVENT", 15:00 WIB 02/05/26 Jelang Kick Off - PERSEBAYA Surabaya vs PSBS Biak - BRI Super League
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 https://aspaltvpasti.top/belumlive.mp4
 #EXTINF:-1 group-logo="https://static-web.prod.vidiocdn.com/_next/static/logo/vidio.png" tvg-logo="https://thumbor.prod.vidiocdn.com/XaPKcOepYZ4GnjTMgVhAZnjTMq0=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5038902/894e99.jpg" group-title="JADWAL EVENT", 15:00 WIB 02/05/26 Prelims | UFC Fight Night: Della Maddalena vs Prates
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+https://aspaltvpasti.top/belumlive.mp4
+#EXTINF:-1 group-logo="https://static-web.prod.vidiocdn.com/_next/static/logo/vidio.png" tvg-logo="https://thumbor.prod.vidiocdn.com/9EzxouCeAKumSCNVPKoV4dQdBeA=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5036134/25507d.jpg" group-title="JADWAL EVENT", 15:00 WIB 02/05/26 PERSEBAYA Surabaya vs PSBS Biak - BRI Super League
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 https://aspaltvpasti.top/belumlive.mp4
 #EXTINF:-1 group-logo="https://static-web.prod.vidiocdn.com/_next/static/logo/vidio.png" tvg-logo="https://thumbor.prod.vidiocdn.com/K0Zvu2UB3udSn9UMqNRFLYDc6MA=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5045547/d58780.jpg" group-title="JADWAL EVENT", 15:30 WIB 02/05/26 Adhyaksa FC vs Sriwijaya FC - Pegadaian Championship
@@ -1312,13 +1309,13 @@ https://aspaltvpasti.top/belumlive.mp4
 #EXTINF:-1 group-logo="https://static-web.prod.vidiocdn.com/_next/static/logo/vidio.png" tvg-logo="https://thumbor.prod.vidiocdn.com/P4usQ0rizztCUa1YvWk2w4DnvEg=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5038910/2a7563.jpg" group-title="JADWAL EVENT", 18:00 WIB 02/05/26 Man United vs Brighton - Women's Super League
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 https://aspaltvpasti.top/belumlive.mp4
-#EXTINF:-1 group-logo="https://static-web.prod.vidiocdn.com/_next/static/logo/vidio.png" tvg-logo="https://thumbor.prod.vidiocdn.com/VG_0O_f3WxyBnMODO0PXQcob6ic=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5045550/c294ce.jpg" group-title="JADWAL EVENT", 18:30 WIB 02/05/26 Ipswich vs QPR - EFL Championship
+#EXTINF:-1 group-logo="https://static-web.prod.vidiocdn.com/_next/static/logo/vidio.png" tvg-logo="https://thumbor.prod.vidiocdn.com/UpbeTuMZJDqEOnN8ZnPFbgKs-Mw=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5055273/9d8ac3.jpg" group-title="JADWAL EVENT", 18:30 WIB 02/05/26 Wrexham vs Middlesbrough - EFL Championship
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 https://aspaltvpasti.top/belumlive.mp4
 #EXTINF:-1 group-logo="https://static-web.prod.vidiocdn.com/_next/static/logo/vidio.png" tvg-logo="https://thumbor.prod.vidiocdn.com/Dv1xfdEQ1Mn0lslqSESlC_PckSY=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5045551/4ec007.jpg" group-title="JADWAL EVENT", 18:30 WIB 02/05/26 Millwall vs Oxford United - EFL Championship
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 https://aspaltvpasti.top/belumlive.mp4
-#EXTINF:-1 group-logo="https://static-web.prod.vidiocdn.com/_next/static/logo/vidio.png" tvg-logo="https://thumbor.prod.vidiocdn.com/UpbeTuMZJDqEOnN8ZnPFbgKs-Mw=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5055273/9d8ac3.jpg" group-title="JADWAL EVENT", 18:30 WIB 02/05/26 Wrexham vs Middlesbrough - EFL Championship
+#EXTINF:-1 group-logo="https://static-web.prod.vidiocdn.com/_next/static/logo/vidio.png" tvg-logo="https://thumbor.prod.vidiocdn.com/VG_0O_f3WxyBnMODO0PXQcob6ic=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5045550/c294ce.jpg" group-title="JADWAL EVENT", 18:30 WIB 02/05/26 Ipswich vs QPR - EFL Championship
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 https://aspaltvpasti.top/belumlive.mp4
 #EXTINF:-1 group-logo="https://static-web.prod.vidiocdn.com/_next/static/logo/vidio.png" tvg-logo="https://thumbor.prod.vidiocdn.com/0sYnuyXyMbqFSrCOylWHvyNAHgs=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5036139/eb224f.jpg" group-title="JADWAL EVENT", 19:10 WIB 02/05/26 Rajadamnern 2026 Rajadamnern Stadium Female Flyweight World Championship
@@ -1345,224 +1342,199 @@ https://aspaltvpasti.top/belumlive.mp4
 #EXTINF:-1 group-logo="https://static-web.prod.vidiocdn.com/_next/static/logo/vidio.png" tvg-logo="https://thumbor.prod.vidiocdn.com/zOnRU5pqDZdUfk1fcr-u2QPSmWM=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5055278/16db74.jpg" group-title="JADWAL EVENT", 21:45 WIB 03/05/26 Sparta Rotterdam vs Go Ahead Eagles - Eredivisie
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 https://aspaltvpasti.top/belumlive.mp4
-#EXTINF:-1 group-logo="https://static-web.prod.vidiocdn.com/_next/static/logo/vidio.png" tvg-logo="https://thumbor.prod.vidiocdn.com/a3mObjZKdTVwnVbQC1k14bvXNp8=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/9353/premier-league-tv-28c9ae.jpg" group-title="TV SPORTS", 20:00 WIB 28/07/22 David Ginola - PL Moments (INTI)
+#EXTINF:-1 group-logo="https://static-web.prod.vidiocdn.com/_next/static/logo/vidio.png" tvg-logo="https://thumbor.prod.vidiocdn.com/a3mObjZKdTVwnVbQC1k14bvXNp8=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/9353/premier-league-tv-28c9ae.jpg" group-title="TV SPORTS", 20:00 WIB 28/07/22 The Catch-Up Show (INTI)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://aspaltvpasti.top/Tesmar/1.php/9353.drm?dev_kaki_09&t=1777614425&uip=2a06%3A98c0%3A3600%3A%3A103&h=aca0bb54f73f1b8f62f42e6dac634633beab77d1e3515e7fed8f989a33f9b316
-https://aspaltvpasti.top/Tesmar/1.php/9353.mpd?dev_kaki_09&t=1777614425&uip=2a06%3A98c0%3A3600%3A%3A103&h=aca0bb54f73f1b8f62f42e6dac634633beab77d1e3515e7fed8f989a33f9b316
-#EXTINF:-1 group-logo="https://static-web.prod.vidiocdn.com/_next/static/logo/vidio.png" tvg-logo="https://thumbor.prod.vidiocdn.com/a3mObjZKdTVwnVbQC1k14bvXNp8=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/9353/premier-league-tv-28c9ae.jpg" group-title="TV SPORTS", 20:00 WIB 28/07/22 David Ginola - PL Moments (ALT)
+#KODIPROP:inputstream.adaptive.license_key=https://aspaltvpasti.top/Tesmar/1.php/9353.drm?dev_kaki_09&t=1777626926&uip=2a06%3A98c0%3A3600%3A%3A103&h=64911dc3328d27223d0bdf5012c32a2432706f23b42e6590c9212f3750e60aee
+https://aspaltvpasti.top/Tesmar/1.php/9353.mpd?dev_kaki_09&t=1777626926&uip=2a06%3A98c0%3A3600%3A%3A103&h=64911dc3328d27223d0bdf5012c32a2432706f23b42e6590c9212f3750e60aee
+#EXTINF:-1 group-logo="https://static-web.prod.vidiocdn.com/_next/static/logo/vidio.png" tvg-logo="https://thumbor.prod.vidiocdn.com/a3mObjZKdTVwnVbQC1k14bvXNp8=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/9353/premier-league-tv-28c9ae.jpg" group-title="TV SPORTS", 20:00 WIB 28/07/22 The Catch-Up Show (ALT)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://aspaltvpasti.top/Tesmar/2.php/9353.drm?exp=1777614425&uip=2a06%3A98c0%3A3600%3A%3A103&sign=7a6fe6110ba7ea87f77eca1f9209024b389564809263869cd637d0d5a1befadf
-https://aspaltvpasti.top/Tesmar/2.php/9353.mpd?exp=1777614425&uip=2a06%3A98c0%3A3600%3A%3A103&sign=56941abaac2840ffb78f43f1c95c69233114d45618cc6fe76eb375b3af14f9d6
-#EXTINF:-1 group-logo="https://static-web.prod.vidiocdn.com/_next/static/logo/vidio.png" tvg-logo="https://thumbor.prod.vidiocdn.com/6I6EwjU5jeUZIh_wn7cu8tkqeMI=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6786/champions-tv-3-76ca7c.jpg" group-title="TV SPORTS", 10:00 WIB 21/02/20 PARMA vs PISA : Serie A 2025/26 (INTI)
+#KODIPROP:inputstream.adaptive.license_key=https://aspaltvpasti.top/Tesmar/2.php/9353.drm?exp=1777626926&uip=2a06%3A98c0%3A3600%3A%3A103&sign=cec7fb126c883fa60a844369cc7a1c2515bc34e586c74d870f24b221598334ca
+https://aspaltvpasti.top/Tesmar/2.php/9353.mpd?exp=1777626926&uip=2a06%3A98c0%3A3600%3A%3A103&sign=c400fedaaa7d7f7a4e63f901126e8b3b122c3f4b1ecf54e409cd0a21f581d23e
+#EXTINF:-1 group-logo="https://static-web.prod.vidiocdn.com/_next/static/logo/vidio.png" tvg-logo="https://thumbor.prod.vidiocdn.com/6I6EwjU5jeUZIh_wn7cu8tkqeMI=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6786/champions-tv-3-76ca7c.jpg" group-title="TV SPORTS", 10:00 WIB 21/02/20 Semifinal - Mutua Madrid Open : WTA 1000 (INTI)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://aspaltvpasti.top/Tesmar/1.php/6786.drm?dev_kaki_09&t=1777614425&uip=2a06%3A98c0%3A3600%3A%3A103&h=cb4a8f7351cca29ad0d6e635cebefb12c13e40c6dc3d9afe4317ad5169542d05
-https://aspaltvpasti.top/Tesmar/1.php/6786.mpd?dev_kaki_09&t=1777614425&uip=2a06%3A98c0%3A3600%3A%3A103&h=cb4a8f7351cca29ad0d6e635cebefb12c13e40c6dc3d9afe4317ad5169542d05
-#EXTINF:-1 group-logo="https://static-web.prod.vidiocdn.com/_next/static/logo/vidio.png" tvg-logo="https://thumbor.prod.vidiocdn.com/6I6EwjU5jeUZIh_wn7cu8tkqeMI=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6786/champions-tv-3-76ca7c.jpg" group-title="TV SPORTS", 10:00 WIB 21/02/20 PARMA vs PISA : Serie A 2025/26 (ALT)
+#KODIPROP:inputstream.adaptive.license_key=https://aspaltvpasti.top/Tesmar/1.php/6786.drm?dev_kaki_09&t=1777626926&uip=2a06%3A98c0%3A3600%3A%3A103&h=7d92132accc975a1426b693a93d26172fb4e767c627d2950f4567768f808ca0e
+https://aspaltvpasti.top/Tesmar/1.php/6786.mpd?dev_kaki_09&t=1777626926&uip=2a06%3A98c0%3A3600%3A%3A103&h=7d92132accc975a1426b693a93d26172fb4e767c627d2950f4567768f808ca0e
+#EXTINF:-1 group-logo="https://static-web.prod.vidiocdn.com/_next/static/logo/vidio.png" tvg-logo="https://thumbor.prod.vidiocdn.com/6I6EwjU5jeUZIh_wn7cu8tkqeMI=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6786/champions-tv-3-76ca7c.jpg" group-title="TV SPORTS", 10:00 WIB 21/02/20 Semifinal - Mutua Madrid Open : WTA 1000 (ALT)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://aspaltvpasti.top/Tesmar/2.php/6786.drm?exp=1777614425&uip=2a06%3A98c0%3A3600%3A%3A103&sign=931dd096b7e25f4dbe776bdb40a1a774847c40df22bd79bb5fb73ba8f331cb06
-https://aspaltvpasti.top/Tesmar/2.php/6786.mpd?exp=1777614425&uip=2a06%3A98c0%3A3600%3A%3A103&sign=da7f5c92256a3b63d5e06c348785b9543f42f5e826ac9476e2754e4fd3f4a377
-#EXTINF:-1 group-logo="https://static-web.prod.vidiocdn.com/_next/static/logo/vidio.png" tvg-logo="https://thumbor.prod.vidiocdn.com/DDucwJyoKvfCLglPujyq3EPGcjc=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/17140/spotv-2-c8e8ac.jpg" group-title="TV SPORTS", 00:00 WIB 09/03/24 Ep 12 Sioux Falls : 2026 PBR: Unleash the Beast (INTI)
+#KODIPROP:inputstream.adaptive.license_key=https://aspaltvpasti.top/Tesmar/2.php/6786.drm?exp=1777626926&uip=2a06%3A98c0%3A3600%3A%3A103&sign=3d3c518fc5ddededb3981d2ee653c53b47daf233a063ecd6092bbbf7e3503854
+https://aspaltvpasti.top/Tesmar/2.php/6786.mpd?exp=1777626926&uip=2a06%3A98c0%3A3600%3A%3A103&sign=6ac71cad495aac6e310679f85db3eedbb156630ecac8a8dfab755ca5353ba6ec
+#EXTINF:-1 group-logo="https://static-web.prod.vidiocdn.com/_next/static/logo/vidio.png" tvg-logo="https://thumbor.prod.vidiocdn.com/DDucwJyoKvfCLglPujyq3EPGcjc=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/17140/spotv-2-c8e8ac.jpg" group-title="TV SPORTS", 00:00 WIB 09/03/24 Highlights : 2026 MotoGP Rd 4 Estrella Galicia 0,0 Grand Prix of Spain (INTI)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://aspaltvpasti.top/Tesmar/1.php/17140.drm?dev_kaki_09&t=1777614425&uip=2a06%3A98c0%3A3600%3A%3A103&h=968f1729bdc5d0f74b495d180e54ce73f776626642d7724f768e22eb2c83a081
-https://aspaltvpasti.top/Tesmar/1.php/17140.mpd?dev_kaki_09&t=1777614425&uip=2a06%3A98c0%3A3600%3A%3A103&h=968f1729bdc5d0f74b495d180e54ce73f776626642d7724f768e22eb2c83a081
-#EXTINF:-1 group-logo="https://static-web.prod.vidiocdn.com/_next/static/logo/vidio.png" tvg-logo="https://thumbor.prod.vidiocdn.com/DDucwJyoKvfCLglPujyq3EPGcjc=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/17140/spotv-2-c8e8ac.jpg" group-title="TV SPORTS", 00:00 WIB 09/03/24 Ep 12 Sioux Falls : 2026 PBR: Unleash the Beast (ALT)
+#KODIPROP:inputstream.adaptive.license_key=https://aspaltvpasti.top/Tesmar/1.php/17140.drm?dev_kaki_09&t=1777626926&uip=2a06%3A98c0%3A3600%3A%3A103&h=bc40d6bc849e3a3a2216f99b0f5069508863faafef0ee35a7a85c705722620ec
+https://aspaltvpasti.top/Tesmar/1.php/17140.mpd?dev_kaki_09&t=1777626926&uip=2a06%3A98c0%3A3600%3A%3A103&h=bc40d6bc849e3a3a2216f99b0f5069508863faafef0ee35a7a85c705722620ec
+#EXTINF:-1 group-logo="https://static-web.prod.vidiocdn.com/_next/static/logo/vidio.png" tvg-logo="https://thumbor.prod.vidiocdn.com/DDucwJyoKvfCLglPujyq3EPGcjc=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/17140/spotv-2-c8e8ac.jpg" group-title="TV SPORTS", 00:00 WIB 09/03/24 Highlights : 2026 MotoGP Rd 4 Estrella Galicia 0,0 Grand Prix of Spain (ALT)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://aspaltvpasti.top/Tesmar/2.php/17140.drm?exp=1777614425&uip=2a06%3A98c0%3A3600%3A%3A103&sign=961ab2a31705a4405210efc53ec48015caa8b1793e72100531ceef20ea0120a8
-https://aspaltvpasti.top/Tesmar/2.php/17140.mpd?exp=1777614425&uip=2a06%3A98c0%3A3600%3A%3A103&sign=9c364b6c92817b5fe3183e617fefa3f31cccbe69be74e4f3f87944f5f8c84284
-#EXTINF:-1 group-logo="https://static-web.prod.vidiocdn.com/_next/static/logo/vidio.png" tvg-logo="https://thumbor.prod.vidiocdn.com/5NgLTDabV3AEIYs3ivgNuCNCjyg=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/19538/real-madrid-tv-243de0.jpg" group-title="TV SPORTS", 15:00 WIB 16/09/25 Liga 25/26: Villarreal vs Real Madrid (INTI)
+#KODIPROP:inputstream.adaptive.license_key=https://aspaltvpasti.top/Tesmar/2.php/17140.drm?exp=1777626926&uip=2a06%3A98c0%3A3600%3A%3A103&sign=75b7780f29c9918737ea9af170bf613a0cbef9d84456c04a8090ffb618065638
+https://aspaltvpasti.top/Tesmar/2.php/17140.mpd?exp=1777626926&uip=2a06%3A98c0%3A3600%3A%3A103&sign=fcd62ead7331f79ebabcc9b6c5777952f65c7f403e7311bd492ded9b282a743f
+#EXTINF:-1 group-logo="https://static-web.prod.vidiocdn.com/_next/static/logo/vidio.png" tvg-logo="https://thumbor.prod.vidiocdn.com/5NgLTDabV3AEIYs3ivgNuCNCjyg=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/19538/real-madrid-tv-243de0.jpg" group-title="TV SPORTS", 15:00 WIB 16/09/25 European Super Cup 2024: Real Madrid vs Atalanta (INTI)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://aspaltvpasti.top/Tesmar/1.php/19538.drm?dev_kaki_09&t=1777614425&uip=2a06%3A98c0%3A3600%3A%3A103&h=442171c43a488990a3d1744899fd1fe5ff155c64fbe6b1a042658663c056f812
-https://aspaltvpasti.top/Tesmar/1.php/19538.mpd?dev_kaki_09&t=1777614425&uip=2a06%3A98c0%3A3600%3A%3A103&h=442171c43a488990a3d1744899fd1fe5ff155c64fbe6b1a042658663c056f812
-#EXTINF:-1 group-logo="https://static-web.prod.vidiocdn.com/_next/static/logo/vidio.png" tvg-logo="https://thumbor.prod.vidiocdn.com/5NgLTDabV3AEIYs3ivgNuCNCjyg=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/19538/real-madrid-tv-243de0.jpg" group-title="TV SPORTS", 15:00 WIB 16/09/25 Liga 25/26: Villarreal vs Real Madrid (ALT)
+#KODIPROP:inputstream.adaptive.license_key=https://aspaltvpasti.top/Tesmar/1.php/19538.drm?dev_kaki_09&t=1777626926&uip=2a06%3A98c0%3A3600%3A%3A103&h=8382e9e6479393d553d9443d1d6678cfe11e6b0df139e968351eabc967185e29
+https://aspaltvpasti.top/Tesmar/1.php/19538.mpd?dev_kaki_09&t=1777626926&uip=2a06%3A98c0%3A3600%3A%3A103&h=8382e9e6479393d553d9443d1d6678cfe11e6b0df139e968351eabc967185e29
+#EXTINF:-1 group-logo="https://static-web.prod.vidiocdn.com/_next/static/logo/vidio.png" tvg-logo="https://thumbor.prod.vidiocdn.com/5NgLTDabV3AEIYs3ivgNuCNCjyg=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/19538/real-madrid-tv-243de0.jpg" group-title="TV SPORTS", 15:00 WIB 16/09/25 European Super Cup 2024: Real Madrid vs Atalanta (ALT)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://aspaltvpasti.top/Tesmar/2.php/19538.drm?exp=1777614425&uip=2a06%3A98c0%3A3600%3A%3A103&sign=4b185aa30a6af6cbdea2ff15dff61f66eee00e35dea4cdd2a90281bb3604260b
-https://aspaltvpasti.top/Tesmar/2.php/19538.mpd?exp=1777614425&uip=2a06%3A98c0%3A3600%3A%3A103&sign=675846f81fcdc97a71560de366cc05238b4412144c3fad3242014757878adf35
-#EXTINF:-1 group-logo="https://static-web.prod.vidiocdn.com/_next/static/logo/vidio.png" tvg-logo="https://thumbor.prod.vidiocdn.com/bqIhhEZ_mt13sjJKdGaThwSkCBA=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/21178/voli-tv-2-ecf90b.jpg" group-title="TV SPORTS", 17:00 WIB 14/04/26 PROLIGA 2026 HIGHLIGHT (INTI)
+#KODIPROP:inputstream.adaptive.license_key=https://aspaltvpasti.top/Tesmar/2.php/19538.drm?exp=1777626926&uip=2a06%3A98c0%3A3600%3A%3A103&sign=2a83e2649b754369c8e60643c9f223220d1b915219d009568dc14a4e963992f6
+https://aspaltvpasti.top/Tesmar/2.php/19538.mpd?exp=1777626926&uip=2a06%3A98c0%3A3600%3A%3A103&sign=c719d94cddd25dbb3d86a303d3a2152a357541fdca55866f3cc3424f5e80f94d
+#EXTINF:-1 group-logo="https://static-web.prod.vidiocdn.com/_next/static/logo/vidio.png" tvg-logo="https://thumbor.prod.vidiocdn.com/bqIhhEZ_mt13sjJKdGaThwSkCBA=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/21178/voli-tv-2-ecf90b.jpg" group-title="TV SPORTS", 17:00 WIB 14/04/26 TBA : 2026 AVC Women's Volleyball Champions League (INTI)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://aspaltvpasti.top/Tesmar/1.php/21178.drm?dev_kaki_09&t=1777614425&uip=2a06%3A98c0%3A3600%3A%3A103&h=c6b4a2fce513f8408501b48d024e703b4bab050be7c7dbff8c6889b380e6c127
-https://aspaltvpasti.top/Tesmar/1.php/21178.mpd?dev_kaki_09&t=1777614425&uip=2a06%3A98c0%3A3600%3A%3A103&h=c6b4a2fce513f8408501b48d024e703b4bab050be7c7dbff8c6889b380e6c127
-#EXTINF:-1 group-logo="https://static-web.prod.vidiocdn.com/_next/static/logo/vidio.png" tvg-logo="https://thumbor.prod.vidiocdn.com/bqIhhEZ_mt13sjJKdGaThwSkCBA=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/21178/voli-tv-2-ecf90b.jpg" group-title="TV SPORTS", 17:00 WIB 14/04/26 PROLIGA 2026 HIGHLIGHT (ALT)
+#KODIPROP:inputstream.adaptive.license_key=https://aspaltvpasti.top/Tesmar/1.php/21178.drm?dev_kaki_09&t=1777626926&uip=2a06%3A98c0%3A3600%3A%3A103&h=d95d8322eb9e742ca1108d90f10b1baa081b9f63dfb55be6f396513ca27f1af6
+https://aspaltvpasti.top/Tesmar/1.php/21178.mpd?dev_kaki_09&t=1777626926&uip=2a06%3A98c0%3A3600%3A%3A103&h=d95d8322eb9e742ca1108d90f10b1baa081b9f63dfb55be6f396513ca27f1af6
+#EXTINF:-1 group-logo="https://static-web.prod.vidiocdn.com/_next/static/logo/vidio.png" tvg-logo="https://thumbor.prod.vidiocdn.com/bqIhhEZ_mt13sjJKdGaThwSkCBA=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/21178/voli-tv-2-ecf90b.jpg" group-title="TV SPORTS", 17:00 WIB 14/04/26 TBA : 2026 AVC Women's Volleyball Champions League (ALT)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://aspaltvpasti.top/Tesmar/2.php/21178.drm?exp=1777614425&uip=2a06%3A98c0%3A3600%3A%3A103&sign=53f3e0c56c9cade1c3fe56528dc80e802bc1a0cccf78352682c665a1966e7ed6
-https://aspaltvpasti.top/Tesmar/2.php/21178.mpd?exp=1777614425&uip=2a06%3A98c0%3A3600%3A%3A103&sign=452e3bfb4fe1b50f789d3ca97a1c22c60f4496e20f55aed898603e8613d11c4f
-#EXTINF:-1 group-logo="https://static-web.prod.vidiocdn.com/_next/static/logo/vidio.png" tvg-logo="https://thumbor.prod.vidiocdn.com/YMONijGwzaZJSqIYXFnswSZVves=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/21179/citra-drama-9342a3.jpg" group-title="HIBURAN", 16:54 WIB 14/04/26 Supaya Cinta Kita Mulus Pinjam Dombanya Seratus (INTI)
+#KODIPROP:inputstream.adaptive.license_key=https://aspaltvpasti.top/Tesmar/2.php/21178.drm?exp=1777626926&uip=2a06%3A98c0%3A3600%3A%3A103&sign=bc4378996f9a8da7fab3ab7939a45825267cdda14123c298e1dcc5bdef103d59
+https://aspaltvpasti.top/Tesmar/2.php/21178.mpd?exp=1777626926&uip=2a06%3A98c0%3A3600%3A%3A103&sign=15cc422da362c527eb476ba03417480174bff033b8917e444fd88f607d2eea96
+#EXTINF:-1 group-logo="https://static-web.prod.vidiocdn.com/_next/static/logo/vidio.png" tvg-logo="https://thumbor.prod.vidiocdn.com/YMONijGwzaZJSqIYXFnswSZVves=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/21179/citra-drama-9342a3.jpg" group-title="HIBURAN", 16:54 WIB 14/04/26 Pasutri Kw Udah Go Public (INTI)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://aspaltvpasti.top/Tesmar/1.php/21179.drm?dev_kaki_09&t=1777614425&uip=2a06%3A98c0%3A3600%3A%3A103&h=d2dfcd0289ecdf70489b4c8543dc2b257cdc711e5da407ba4803de4d5570d150
-https://aspaltvpasti.top/Tesmar/1.php/21179.mpd?dev_kaki_09&t=1777614425&uip=2a06%3A98c0%3A3600%3A%3A103&h=d2dfcd0289ecdf70489b4c8543dc2b257cdc711e5da407ba4803de4d5570d150
-#EXTINF:-1 group-logo="https://static-web.prod.vidiocdn.com/_next/static/logo/vidio.png" tvg-logo="https://thumbor.prod.vidiocdn.com/YMONijGwzaZJSqIYXFnswSZVves=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/21179/citra-drama-9342a3.jpg" group-title="HIBURAN", 16:54 WIB 14/04/26 Supaya Cinta Kita Mulus Pinjam Dombanya Seratus (ALT)
+#KODIPROP:inputstream.adaptive.license_key=https://aspaltvpasti.top/Tesmar/1.php/21179.drm?dev_kaki_09&t=1777626926&uip=2a06%3A98c0%3A3600%3A%3A103&h=bac8332dfcedc06bb5a3835a0e891f644dfcf5a705d44325a17b0ac71b5785a6
+https://aspaltvpasti.top/Tesmar/1.php/21179.mpd?dev_kaki_09&t=1777626926&uip=2a06%3A98c0%3A3600%3A%3A103&h=bac8332dfcedc06bb5a3835a0e891f644dfcf5a705d44325a17b0ac71b5785a6
+#EXTINF:-1 group-logo="https://static-web.prod.vidiocdn.com/_next/static/logo/vidio.png" tvg-logo="https://thumbor.prod.vidiocdn.com/YMONijGwzaZJSqIYXFnswSZVves=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/21179/citra-drama-9342a3.jpg" group-title="HIBURAN", 16:54 WIB 14/04/26 Pasutri Kw Udah Go Public (ALT)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://aspaltvpasti.top/Tesmar/2.php/21179.drm?exp=1777614425&uip=2a06%3A98c0%3A3600%3A%3A103&sign=5ed7256a4191bb89ff0263f357b6c256518368775c32cef876f7cd4c72e5b241
-https://aspaltvpasti.top/Tesmar/2.php/21179.mpd?exp=1777614425&uip=2a06%3A98c0%3A3600%3A%3A103&sign=5e1dc8bc219014fef7ca8e26b515f755b52413cd28c767e8dc8da4b1e4e0480e
+#KODIPROP:inputstream.adaptive.license_key=https://aspaltvpasti.top/Tesmar/2.php/21179.drm?exp=1777626926&uip=2a06%3A98c0%3A3600%3A%3A103&sign=a8085cb2338dbaeef7a678d6bfa7d344055e6c958b7ed0755a55667776b717d9
+https://aspaltvpasti.top/Tesmar/2.php/21179.mpd?exp=1777626926&uip=2a06%3A98c0%3A3600%3A%3A103&sign=9043f09deb61945495f352860b40bdee986c7cfe5cc4c1287850e287637efc35
 #EXTINF:-1 group-logo="https://static-web.prod.vidiocdn.com/_next/static/logo/vidio.png" tvg-logo="https://thumbor.prod.vidiocdn.com/LgjZlvzsHgnGnRVWFa-nxjJc0KI=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/18105/ggs-tv-e2ff0e.jpg" group-title="HIBURAN", 09:00 WIB 20/12/24 GGS TV (INTI)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://aspaltvpasti.top/Tesmar/1.php/18105.drm?dev_kaki_09&t=1777614425&uip=2a06%3A98c0%3A3600%3A%3A103&h=1eb4dcd8dc25fc6e3e39717ed5f820b2fb4cd2aff264693ff0bf65d30c87624c
-https://aspaltvpasti.top/Tesmar/1.php/18105.mpd?dev_kaki_09&t=1777614425&uip=2a06%3A98c0%3A3600%3A%3A103&h=1eb4dcd8dc25fc6e3e39717ed5f820b2fb4cd2aff264693ff0bf65d30c87624c
+#KODIPROP:inputstream.adaptive.license_key=https://aspaltvpasti.top/Tesmar/1.php/18105.drm?dev_kaki_09&t=1777626926&uip=2a06%3A98c0%3A3600%3A%3A103&h=7a4e5b01b85f65c18ca4c9953a47936101d4d26df436d22d9e0211f569bc4a7d
+https://aspaltvpasti.top/Tesmar/1.php/18105.mpd?dev_kaki_09&t=1777626926&uip=2a06%3A98c0%3A3600%3A%3A103&h=7a4e5b01b85f65c18ca4c9953a47936101d4d26df436d22d9e0211f569bc4a7d
 #EXTINF:-1 group-logo="https://static-web.prod.vidiocdn.com/_next/static/logo/vidio.png" tvg-logo="https://thumbor.prod.vidiocdn.com/LgjZlvzsHgnGnRVWFa-nxjJc0KI=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/18105/ggs-tv-e2ff0e.jpg" group-title="HIBURAN", 09:00 WIB 20/12/24 GGS TV (ALT)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://aspaltvpasti.top/Tesmar/2.php/18105.drm?exp=1777614425&uip=2a06%3A98c0%3A3600%3A%3A103&sign=8c362701cd180ddf77971f6b66246657cfb1b20cb0512fd7fe3fdc0925b6fa24
-https://aspaltvpasti.top/Tesmar/2.php/18105.mpd?exp=1777614425&uip=2a06%3A98c0%3A3600%3A%3A103&sign=f00ca1998abfce25460d3d46b717fca6e0dfe6153049025078d1b8c25579e385
-#EXTINF:-1 group-logo="https://static-web.prod.vidiocdn.com/_next/static/logo/vidio.png" tvg-logo="https://thumbor.prod.vidiocdn.com/1XiuB1Q4IrLfiS-JO5SIa5eP36I=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6362/tvn-40a16d.jpg" group-title="HIBURAN", 00:00 WIB 07/09/18 Curtain Up, Class! (INTI)
+#KODIPROP:inputstream.adaptive.license_key=https://aspaltvpasti.top/Tesmar/2.php/18105.drm?exp=1777626926&uip=2a06%3A98c0%3A3600%3A%3A103&sign=bc829d796ec63595a166d95604188f09e377c1ea1c6c6883ffe206e87ad6c18a
+https://aspaltvpasti.top/Tesmar/2.php/18105.mpd?exp=1777626926&uip=2a06%3A98c0%3A3600%3A%3A103&sign=04711170a933787f6b806a4a097e37664efb34da9d66b9c189fd85068d3df892
+#EXTINF:-1 group-logo="https://static-web.prod.vidiocdn.com/_next/static/logo/vidio.png" tvg-logo="https://thumbor.prod.vidiocdn.com/1XiuB1Q4IrLfiS-JO5SIa5eP36I=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6362/tvn-40a16d.jpg" group-title="HIBURAN", 00:00 WIB 07/09/18 The Judge Returns Ep12 (INTI)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://aspaltvpasti.top/Tesmar/1.php/6362.drm?dev_kaki_09&t=1777614425&uip=2a06%3A98c0%3A3600%3A%3A103&h=743f58aee35ebed59f59b9af30321c483749ada4992cdaa61e5dbe34ace0cbfb
-https://aspaltvpasti.top/Tesmar/1.php/6362.mpd?dev_kaki_09&t=1777614425&uip=2a06%3A98c0%3A3600%3A%3A103&h=743f58aee35ebed59f59b9af30321c483749ada4992cdaa61e5dbe34ace0cbfb
-#EXTINF:-1 group-logo="https://static-web.prod.vidiocdn.com/_next/static/logo/vidio.png" tvg-logo="https://thumbor.prod.vidiocdn.com/1XiuB1Q4IrLfiS-JO5SIa5eP36I=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6362/tvn-40a16d.jpg" group-title="HIBURAN", 00:00 WIB 07/09/18 Curtain Up, Class! (ALT)
+#KODIPROP:inputstream.adaptive.license_key=https://aspaltvpasti.top/Tesmar/1.php/6362.drm?dev_kaki_09&t=1777626926&uip=2a06%3A98c0%3A3600%3A%3A103&h=03a95276aa5542abe7f27032e098b79da17824d012e302dcb8ea7beaeffa2cf0
+https://aspaltvpasti.top/Tesmar/1.php/6362.mpd?dev_kaki_09&t=1777626926&uip=2a06%3A98c0%3A3600%3A%3A103&h=03a95276aa5542abe7f27032e098b79da17824d012e302dcb8ea7beaeffa2cf0
+#EXTINF:-1 group-logo="https://static-web.prod.vidiocdn.com/_next/static/logo/vidio.png" tvg-logo="https://thumbor.prod.vidiocdn.com/1XiuB1Q4IrLfiS-JO5SIa5eP36I=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6362/tvn-40a16d.jpg" group-title="HIBURAN", 00:00 WIB 07/09/18 The Judge Returns Ep12 (ALT)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://aspaltvpasti.top/Tesmar/2.php/6362.drm?exp=1777614425&uip=2a06%3A98c0%3A3600%3A%3A103&sign=601e47bdb5b7df98315d433c6241b9302080e9487d406b4f3b8b70ae688d5dba
-https://aspaltvpasti.top/Tesmar/2.php/6362.mpd?exp=1777614425&uip=2a06%3A98c0%3A3600%3A%3A103&sign=8b97a8c37b7ebd5db5711912888250639ee85467a923d59649b9e835182ec938
-#EXTINF:-1 group-logo="https://static-web.prod.vidiocdn.com/_next/static/logo/vidio.png" tvg-logo="https://thumbor.prod.vidiocdn.com/QEzhky9Io4g9RlJF25aDUzNQUg0=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/8121/rock-action-3cc936.jpg" group-title="HIBURAN", 11:00 WIB 29/09/21 Final Approach Part 1 (INTI)
+#KODIPROP:inputstream.adaptive.license_key=https://aspaltvpasti.top/Tesmar/2.php/6362.drm?exp=1777626926&uip=2a06%3A98c0%3A3600%3A%3A103&sign=5555c686fb5ba29adb013d537f994d57fb8732f11d8aaa9495fdcfe20b195a5f
+https://aspaltvpasti.top/Tesmar/2.php/6362.mpd?exp=1777626926&uip=2a06%3A98c0%3A3600%3A%3A103&sign=0d2325727eddb7f7d8cd458591bcb3ae6cdba6d774ccbdc897285f519a37250c
+#EXTINF:-1 group-logo="https://static-web.prod.vidiocdn.com/_next/static/logo/vidio.png" tvg-logo="https://thumbor.prod.vidiocdn.com/QEzhky9Io4g9RlJF25aDUzNQUg0=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/8121/rock-action-3cc936.jpg" group-title="HIBURAN", 11:00 WIB 29/09/21 Tears Of The Sun (INTI)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://aspaltvpasti.top/Tesmar/1.php/8121.drm?dev_kaki_09&t=1777614425&uip=2a06%3A98c0%3A3600%3A%3A103&h=59883a535b34a59b68eb447179eee0a61530e6a98bac97514496e26a1653084c
-https://aspaltvpasti.top/Tesmar/1.php/8121.mpd?dev_kaki_09&t=1777614425&uip=2a06%3A98c0%3A3600%3A%3A103&h=59883a535b34a59b68eb447179eee0a61530e6a98bac97514496e26a1653084c
-#EXTINF:-1 group-logo="https://static-web.prod.vidiocdn.com/_next/static/logo/vidio.png" tvg-logo="https://thumbor.prod.vidiocdn.com/QEzhky9Io4g9RlJF25aDUzNQUg0=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/8121/rock-action-3cc936.jpg" group-title="HIBURAN", 11:00 WIB 29/09/21 Final Approach Part 1 (ALT)
+#KODIPROP:inputstream.adaptive.license_key=https://aspaltvpasti.top/Tesmar/1.php/8121.drm?dev_kaki_09&t=1777626926&uip=2a06%3A98c0%3A3600%3A%3A103&h=e031b4e45abacd5d156b818ffb1865ef924fd27ddc8e2fd2c64296624bbe04be
+https://aspaltvpasti.top/Tesmar/1.php/8121.mpd?dev_kaki_09&t=1777626926&uip=2a06%3A98c0%3A3600%3A%3A103&h=e031b4e45abacd5d156b818ffb1865ef924fd27ddc8e2fd2c64296624bbe04be
+#EXTINF:-1 group-logo="https://static-web.prod.vidiocdn.com/_next/static/logo/vidio.png" tvg-logo="https://thumbor.prod.vidiocdn.com/QEzhky9Io4g9RlJF25aDUzNQUg0=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/8121/rock-action-3cc936.jpg" group-title="HIBURAN", 11:00 WIB 29/09/21 Tears Of The Sun (ALT)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://aspaltvpasti.top/Tesmar/2.php/8121.drm?exp=1777614425&uip=2a06%3A98c0%3A3600%3A%3A103&sign=64837c5fc0e9a10a83b69a4982e3ddd5d01b474b360ed1019bf6f08877e5e318
-https://aspaltvpasti.top/Tesmar/2.php/8121.mpd?exp=1777614425&uip=2a06%3A98c0%3A3600%3A%3A103&sign=6c1a6d6526fbde4b44d5c95241de0bc542934e7b35291506c08f33952387fc8a
-#EXTINF:-1 group-logo="https://static-web.prod.vidiocdn.com/_next/static/logo/vidio.png" tvg-logo="https://thumbor.prod.vidiocdn.com/0QymG0gPECMxPclnXE8liMwVm6c=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/17278/tv5monde-a7754f.jpg" group-title="HIBURAN", 10:00 WIB 02/05/24 Pistes Vertes (INTI)
+#KODIPROP:inputstream.adaptive.license_key=https://aspaltvpasti.top/Tesmar/2.php/8121.drm?exp=1777626926&uip=2a06%3A98c0%3A3600%3A%3A103&sign=c15386e3ab8a013e53bf643ea7b808e1b7e4defeefb84f7ffcb559329ad3b7c0
+https://aspaltvpasti.top/Tesmar/2.php/8121.mpd?exp=1777626926&uip=2a06%3A98c0%3A3600%3A%3A103&sign=6c8180f8ec24f69bfdc38c9a8fa9359bfac0f8d95b34ae31c00c572b8d4c51b3
+#EXTINF:-1 group-logo="https://static-web.prod.vidiocdn.com/_next/static/logo/vidio.png" tvg-logo="https://thumbor.prod.vidiocdn.com/0QymG0gPECMxPclnXE8liMwVm6c=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/17278/tv5monde-a7754f.jpg" group-title="HIBURAN", 10:00 WIB 02/05/24 Telematin (INTI)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://aspaltvpasti.top/Tesmar/1.php/17278.drm?dev_kaki_09&t=1777614425&uip=2a06%3A98c0%3A3600%3A%3A103&h=1de3b1ecd662b4a6fe3dfc050a0eef5a7ef04a2c823e840de24f56cc0ddbbc76
-https://aspaltvpasti.top/Tesmar/1.php/17278.mpd?dev_kaki_09&t=1777614425&uip=2a06%3A98c0%3A3600%3A%3A103&h=1de3b1ecd662b4a6fe3dfc050a0eef5a7ef04a2c823e840de24f56cc0ddbbc76
-#EXTINF:-1 group-logo="https://static-web.prod.vidiocdn.com/_next/static/logo/vidio.png" tvg-logo="https://thumbor.prod.vidiocdn.com/0QymG0gPECMxPclnXE8liMwVm6c=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/17278/tv5monde-a7754f.jpg" group-title="HIBURAN", 10:00 WIB 02/05/24 Pistes Vertes (ALT)
+#KODIPROP:inputstream.adaptive.license_key=https://aspaltvpasti.top/Tesmar/1.php/17278.drm?dev_kaki_09&t=1777626926&uip=2a06%3A98c0%3A3600%3A%3A103&h=bf89250ab300afcde7c5fedc36716767ca32a5f18a0e85164533e37d6a43aa6e
+https://aspaltvpasti.top/Tesmar/1.php/17278.mpd?dev_kaki_09&t=1777626926&uip=2a06%3A98c0%3A3600%3A%3A103&h=bf89250ab300afcde7c5fedc36716767ca32a5f18a0e85164533e37d6a43aa6e
+#EXTINF:-1 group-logo="https://static-web.prod.vidiocdn.com/_next/static/logo/vidio.png" tvg-logo="https://thumbor.prod.vidiocdn.com/0QymG0gPECMxPclnXE8liMwVm6c=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/17278/tv5monde-a7754f.jpg" group-title="HIBURAN", 10:00 WIB 02/05/24 Telematin (ALT)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://aspaltvpasti.top/Tesmar/2.php/17278.drm?exp=1777614425&uip=2a06%3A98c0%3A3600%3A%3A103&sign=61fa376a7d8d04ba79c4e4f7622e6a157af962b9392a78e0e61eef1747e70bec
-https://aspaltvpasti.top/Tesmar/2.php/17278.mpd?exp=1777614425&uip=2a06%3A98c0%3A3600%3A%3A103&sign=35d4f3e01259c2fb2de1b33096fe53a525973aac839a93187413332e8311ca68
-#EXTINF:-1 group-logo="https://static-web.prod.vidiocdn.com/_next/static/logo/vidio.png" tvg-logo="https://thumbor.prod.vidiocdn.com/nkgtwd5f9lgiHwuLSBTFfZ2Usj4=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6784/arirang-12980d.jpg" group-title="HIBURAN", 12:00 WIB 22/02/20 Culture Crunch [L] (INTI)
+#KODIPROP:inputstream.adaptive.license_key=https://aspaltvpasti.top/Tesmar/2.php/17278.drm?exp=1777626926&uip=2a06%3A98c0%3A3600%3A%3A103&sign=38d33a26cc408b1f98b5482b2b31242b512675c1e253bffc2b7427817357a6c2
+https://aspaltvpasti.top/Tesmar/2.php/17278.mpd?exp=1777626926&uip=2a06%3A98c0%3A3600%3A%3A103&sign=878e5f1ba9c1bd75205c56b8f1e836835e00032bd7cb59c9da2420d42bfe5aac
+#EXTINF:-1 group-logo="https://static-web.prod.vidiocdn.com/_next/static/logo/vidio.png" tvg-logo="https://thumbor.prod.vidiocdn.com/nkgtwd5f9lgiHwuLSBTFfZ2Usj4=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6784/arirang-12980d.jpg" group-title="HIBURAN", 12:00 WIB 22/02/20 K-Food Class (INTI)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://aspaltvpasti.top/Tesmar/1.php/6784.drm?dev_kaki_09&t=1777614425&uip=2a06%3A98c0%3A3600%3A%3A103&h=b1e1fdda730b5b09027199cda0160924d8ee119a30d32da0c106e478f023a47c
-https://aspaltvpasti.top/Tesmar/1.php/6784.mpd?dev_kaki_09&t=1777614425&uip=2a06%3A98c0%3A3600%3A%3A103&h=b1e1fdda730b5b09027199cda0160924d8ee119a30d32da0c106e478f023a47c
-#EXTINF:-1 group-logo="https://static-web.prod.vidiocdn.com/_next/static/logo/vidio.png" tvg-logo="https://thumbor.prod.vidiocdn.com/nkgtwd5f9lgiHwuLSBTFfZ2Usj4=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6784/arirang-12980d.jpg" group-title="HIBURAN", 12:00 WIB 22/02/20 Culture Crunch [L] (ALT)
+#KODIPROP:inputstream.adaptive.license_key=https://aspaltvpasti.top/Tesmar/1.php/6784.drm?dev_kaki_09&t=1777626926&uip=2a06%3A98c0%3A3600%3A%3A103&h=bcf36dc65b145a1093007dc0448076a6d4d92d2a673b967e5d4be61bc7af0454
+https://aspaltvpasti.top/Tesmar/1.php/6784.mpd?dev_kaki_09&t=1777626926&uip=2a06%3A98c0%3A3600%3A%3A103&h=bcf36dc65b145a1093007dc0448076a6d4d92d2a673b967e5d4be61bc7af0454
+#EXTINF:-1 group-logo="https://static-web.prod.vidiocdn.com/_next/static/logo/vidio.png" tvg-logo="https://thumbor.prod.vidiocdn.com/nkgtwd5f9lgiHwuLSBTFfZ2Usj4=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6784/arirang-12980d.jpg" group-title="HIBURAN", 12:00 WIB 22/02/20 K-Food Class (ALT)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://aspaltvpasti.top/Tesmar/2.php/6784.drm?exp=1777614425&uip=2a06%3A98c0%3A3600%3A%3A103&sign=cc5a8f60059f5f490c4b6a90686d164a27881f0aa691419ffee55a6ec0bdbbce
-https://aspaltvpasti.top/Tesmar/2.php/6784.mpd?exp=1777614425&uip=2a06%3A98c0%3A3600%3A%3A103&sign=45d61fa1d009a6e8f71a1b54802e41f22473b03bebe2306c4bc83e6ae9eeeed8
+#KODIPROP:inputstream.adaptive.license_key=https://aspaltvpasti.top/Tesmar/2.php/6784.drm?exp=1777626926&uip=2a06%3A98c0%3A3600%3A%3A103&sign=7ef1cbdd4a52cc3579d35238d6940a5e9eca8bb248d3152670896a2eb8c69159
+https://aspaltvpasti.top/Tesmar/2.php/6784.mpd?exp=1777626926&uip=2a06%3A98c0%3A3600%3A%3A103&sign=db403fe887c62ac6b4a5a5722ebece5f3f1cdbf1bca8c68f349117db4f50aea0
 #EXTINF:-1 group-logo="https://static-web.prod.vidiocdn.com/_next/static/logo/vidio.png" tvg-logo="https://thumbor.prod.vidiocdn.com/WPWZbvGP8QAtCzAxNhvRp9E-J18=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/7619/musica-e98c30.jpg" group-title="HIBURAN", 12:00 WIB 04/02/21 MUSICA (INTI)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://aspaltvpasti.top/Tesmar/1.php/7619.drm?dev_kaki_09&t=1777614425&uip=2a06%3A98c0%3A3600%3A%3A103&h=daed5bbed93b19adf3dc88b535c738d104372a826a434d6b121260e6d1dca456
-https://aspaltvpasti.top/Tesmar/1.php/7619.mpd?dev_kaki_09&t=1777614425&uip=2a06%3A98c0%3A3600%3A%3A103&h=daed5bbed93b19adf3dc88b535c738d104372a826a434d6b121260e6d1dca456
+#KODIPROP:inputstream.adaptive.license_key=https://aspaltvpasti.top/Tesmar/1.php/7619.drm?dev_kaki_09&t=1777626926&uip=2a06%3A98c0%3A3600%3A%3A103&h=853f18416810dc2471ae43aa3c6482653c4351fbd40d424c49b5e933f97c679b
+https://aspaltvpasti.top/Tesmar/1.php/7619.mpd?dev_kaki_09&t=1777626926&uip=2a06%3A98c0%3A3600%3A%3A103&h=853f18416810dc2471ae43aa3c6482653c4351fbd40d424c49b5e933f97c679b
 #EXTINF:-1 group-logo="https://static-web.prod.vidiocdn.com/_next/static/logo/vidio.png" tvg-logo="https://thumbor.prod.vidiocdn.com/WPWZbvGP8QAtCzAxNhvRp9E-J18=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/7619/musica-e98c30.jpg" group-title="HIBURAN", 12:00 WIB 04/02/21 MUSICA (ALT)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://aspaltvpasti.top/Tesmar/2.php/7619.drm?exp=1777614425&uip=2a06%3A98c0%3A3600%3A%3A103&sign=a10e312fe225664ef705bfcf19650bd8c238eb3939bbcac2b3c21f84b020ef69
-https://aspaltvpasti.top/Tesmar/2.php/7619.mpd?exp=1777614425&uip=2a06%3A98c0%3A3600%3A%3A103&sign=dc8a2d6330f6892a4ca711956b9de6da69ca223bae1405ecb7b53ab1d0cc2307
+#KODIPROP:inputstream.adaptive.license_key=https://aspaltvpasti.top/Tesmar/2.php/7619.drm?exp=1777626926&uip=2a06%3A98c0%3A3600%3A%3A103&sign=ad7ca552df9254994f8bf5ee2dca65bdcf8c2be932cc48356ca601351a2a3e29
+https://aspaltvpasti.top/Tesmar/2.php/7619.mpd?exp=1777626926&uip=2a06%3A98c0%3A3600%3A%3A103&sign=41ef88721aed7e44d43367a2b0ea76fd640be5aaa5078fca33b099e990d26752
 #EXTINF:-1 group-logo="https://static-web.prod.vidiocdn.com/_next/static/logo/vidio.png" tvg-logo="https://thumbor.prod.vidiocdn.com/js-wGeyru_2IwlapPABOq8fi2sA=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/7230/magna-tv-8f461a.jpg" group-title="HIBURAN", 12:00 WIB 17/07/20 Magna TV (INTI)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://aspaltvpasti.top/Tesmar/1.php/7230.drm?dev_kaki_09&t=1777614425&uip=2a06%3A98c0%3A3600%3A%3A103&h=27ccf203c5fbbb19a0dba04c8481c2880f84bc28562cd7b1717ec935911afefe
-https://aspaltvpasti.top/Tesmar/1.php/7230.mpd?dev_kaki_09&t=1777614425&uip=2a06%3A98c0%3A3600%3A%3A103&h=27ccf203c5fbbb19a0dba04c8481c2880f84bc28562cd7b1717ec935911afefe
+#KODIPROP:inputstream.adaptive.license_key=https://aspaltvpasti.top/Tesmar/1.php/7230.drm?dev_kaki_09&t=1777626926&uip=2a06%3A98c0%3A3600%3A%3A103&h=c380031e689a03d5e89f8b47d7524bb88f1a4148ee95b7aaea56381802b7230d
+https://aspaltvpasti.top/Tesmar/1.php/7230.mpd?dev_kaki_09&t=1777626926&uip=2a06%3A98c0%3A3600%3A%3A103&h=c380031e689a03d5e89f8b47d7524bb88f1a4148ee95b7aaea56381802b7230d
 #EXTINF:-1 group-logo="https://static-web.prod.vidiocdn.com/_next/static/logo/vidio.png" tvg-logo="https://thumbor.prod.vidiocdn.com/js-wGeyru_2IwlapPABOq8fi2sA=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/7230/magna-tv-8f461a.jpg" group-title="HIBURAN", 12:00 WIB 17/07/20 Magna TV (ALT)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://aspaltvpasti.top/Tesmar/2.php/7230.drm?exp=1777614425&uip=2a06%3A98c0%3A3600%3A%3A103&sign=285b67ec71a636accd31aa1bc89a4b6ed6e17ccaf0b57e882e9083e0a627f3d4
-https://aspaltvpasti.top/Tesmar/2.php/7230.mpd?exp=1777614425&uip=2a06%3A98c0%3A3600%3A%3A103&sign=2277556cf239930d87b76ee3e16b3ffe14666bdc75ad0f778f05ef06b4a6f50e
-#EXTINF:-1 tvg-logo="https://metahost.biz.id/axsports/genlogo.php?logo=https%3A%2F%2Fcts-dev.sgp1.cdn.digitaloceanspaces.com%2Fpublic%2Fe8wex6a26joyng.png" group-title="📂 LIVE BY AXS" logo-background="#282828", 🔴 [Live] RB Bragantino vs River Plate • CONMEBOL Sudamericana (07:30 WIB • 01/05/2026)
+#KODIPROP:inputstream.adaptive.license_key=https://aspaltvpasti.top/Tesmar/2.php/7230.drm?exp=1777626926&uip=2a06%3A98c0%3A3600%3A%3A103&sign=893b996544eba07a67eef8940e33e338e3e716b1444c2f4659a5e17da2f74612
+https://aspaltvpasti.top/Tesmar/2.php/7230.mpd?exp=1777626926&uip=2a06%3A98c0%3A3600%3A%3A103&sign=3e1da3372f05b510c3557eb9daeb94baccf1b56f8b1186664fb1fc4d8f39a187
+#EXTINF:-1 tvg-logo="https://metahost.biz.id/axsports/genlogo.php?logo=https%3A%2F%2Fmetahost.biz.id%2Faxsports%2Fsoccer.png" group-title="📂 LIVE BY AXS" logo-background="#282828", 🔴 [Live] Auto racing channel • Auto Racing (12:00 WIB • 01/05/2026)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://iframe.lucifershop.info/
 #EXTVLCOPT:http-origin=https://iframe.lucifershop.info
-https://livecdn-bp-iptv.linewgen.xyz/live_abr/398_hd/index.m3u8?is_vip=false&token=e1212834e2beb014981084e5f75cf39c975b760d&x-sign=6e4917a5ebda08b8c490886d17474013&x-time=1777603620
-#EXTINF:-1 tvg-logo="https://metahost.biz.id/axsports/genlogo.php?logo=https%3A%2F%2Fcts-dev.sgp1.cdn.digitaloceanspaces.com%2Fpublic%2Fyicfg6wsiec5wc.png" group-title="📂 LIVE BY AXS" logo-background="#282828", 🔴 [Live] Independiente Medellin vs Cusco • CONMEBOL Libertadores (09:00 WIB • 01/05/2026)
+https://livecdn-bp-iptv.linewgen.xyz/live_abr/239_hd/index.m3u8?is_vip=false&token=e1212834e2beb014981084e5f75cf39c975b760d&x-sign=e78ddc7f4d6a6889b6d7cef5a6ef1ff3&x-time=1777616100
+#EXTINF:-1 tvg-logo="https://metahost.biz.id/axsports/genlogo.php?logo=https%3A%2F%2Fcts-dev.sgp1.cdn.digitaloceanspaces.com%2Fpublic%2Fg8ajm5tx5rmp3w.png" group-title="📂 LIVE BY AXS" logo-background="#282828", 🔴 [Live] Hurricanes vs Crusaders • Super Rugby Pacific (13:30 WIB • 01/05/2026)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://iframe.lucifershop.info/
 #EXTVLCOPT:http-origin=https://iframe.lucifershop.info
-https://livecdn-bp-iptv.linewgen.xyz/live_abr/274843_hd/index.m3u8?is_vip=false&token=e1212834e2beb014981084e5f75cf39c975b760d&x-sign=0a28b179f03a9343a42696141ca9cf43&x-time=1777603620
-#EXTINF:-1 tvg-logo="https://metahost.biz.id/axsports/genlogo.php?logo=https%3A%2F%2Fmetahost.biz.id%2Faxsports%2Fsoccer.png" group-title="📂 LIVE BY AXS" logo-background="#282828", 🔴 [Live] Alianza Atletico vs Macara • CONMEBOL Sudamericana (09:00 WIB • 01/05/2026)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://iframe.lucifershop.info/
-#EXTVLCOPT:http-origin=https://iframe.lucifershop.info
-https://livecdn-bp-iptv.linewgen.xyz/live_abr/274849_hd/index.m3u8?is_vip=false&token=e1212834e2beb014981084e5f75cf39c975b760d&x-sign=e407dfad2f4aae8739d839b38300ec71&x-time=1777603620
-#EXTINF:-1 tvg-logo="https://metahost.biz.id/axsports/genlogo.php?logo=https%3A%2F%2Fcts-dev.sgp1.cdn.digitaloceanspaces.com%2Fpublic%2Ffoqr84ndqplutg.png" group-title="📂 LIVE BY AXS" logo-background="#282828", ⏳ [Soon] Chunichi Dragons vs Fukuoka SoftBank Hawks • NPB Farm Leagues (10:30 WIB • 01/05/2026)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://iframe.lucifershop.info/
-#EXTVLCOPT:http-origin=https://iframe.lucifershop.info
-https://dantetivi.my.id/comingsoons.mp4
-#EXTINF:-1 tvg-logo="https://metahost.biz.id/axsports/genlogo.php?logo=https%3A%2F%2Fcts-dev.sgp1.cdn.digitaloceanspaces.com%2Fpublic%2Fll7c0gcweyx5qx.png" group-title="📂 LIVE BY AXS" logo-background="#282828", ⏳ [Soon] Tokyo Yakult Swallows vs Hanshin Tigers • NPB Farm Leagues (10:30 WIB • 01/05/2026)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://iframe.lucifershop.info/
-#EXTVLCOPT:http-origin=https://iframe.lucifershop.info
-https://dantetivi.my.id/comingsoons.mp4
-#EXTINF:-1 tvg-logo="https://metahost.biz.id/axsports/genlogo.php?logo=https%3A%2F%2Fcts-dev.sgp1.cdn.digitaloceanspaces.com%2Fpublic%2Fhpqweof8dtnxep.png" group-title="📂 LIVE BY AXS" logo-background="#282828", ⏳ [Soon] ORIX Buffaloes vs Chiba Lotte Marines • NPB Farm Leagues (11:00 WIB • 01/05/2026)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://iframe.lucifershop.info/
-#EXTVLCOPT:http-origin=https://iframe.lucifershop.info
-https://dantetivi.my.id/comingsoons.mp4
-#EXTINF:-1 tvg-logo="https://metahost.biz.id/axsports/genlogo.php?logo=https%3A%2F%2Fcts-dev.sgp1.cdn.digitaloceanspaces.com%2Fpublic%2Fu405osx3mrt0nk.png" group-title="📂 LIVE BY AXS" logo-background="#282828", ⏳ [Soon] Yomiuri Giants vs Hiroshima Toyo Carp • NPB Farm Leagues (12:00 WIB • 01/05/2026)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://iframe.lucifershop.info/
-#EXTVLCOPT:http-origin=https://iframe.lucifershop.info
-https://dantetivi.my.id/comingsoons.mp4
-#EXTINF:-1 tvg-logo="https://metahost.biz.id/axsports/genlogo.php?logo=https%3A%2F%2Fcts-dev.sgp1.cdn.digitaloceanspaces.com%2Fpublic%2Fg8ajm5tx5rmp3w.png" group-title="📂 LIVE BY AXS" logo-background="#282828", ⏳ [Soon] Hurricanes vs Crusaders • Super Rugby Pacific (13:30 WIB • 01/05/2026)
+https://livecdn-bp-livestream.linewgen.xyz/stream/2/chunks.m3u8?is_vip=false&token=e1212834e2beb014981084e5f75cf39c975b760d&x-sign=c25b085ad49052b83c158af5ffe47554&x-time=1777616100
+#EXTINF:-1 tvg-logo="https://metahost.biz.id/axsports/genlogo.php?logo=https%3A%2F%2Fcts-dev.sgp1.cdn.digitaloceanspaces.com%2Fpublic%2Fvum44q9xot48s8.png" group-title="📂 LIVE BY AXS" logo-background="#282828", ⏳ [Soon] North Queensland Cowboys vs Canterbury-Bankstown Bulldogs • NRL Rugby (15:00 WIB • 01/05/2026)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://iframe.lucifershop.info/
 #EXTVLCOPT:http-origin=https://iframe.lucifershop.info
@@ -1572,7 +1544,7 @@ https://dantetivi.my.id/comingsoons.mp4
 #EXTVLCOPT:http-referrer=https://iframe.lucifershop.info/
 #EXTVLCOPT:http-origin=https://iframe.lucifershop.info
 https://dantetivi.my.id/comingsoons.mp4
-#EXTINF:-1 tvg-logo="https://metahost.biz.id/axsports/genlogo.php?logo=https%3A%2F%2Fcts-dev.sgp1.cdn.digitaloceanspaces.com%2Fpublic%2Fvum44q9xot48s8.png" group-title="📂 LIVE BY AXS" logo-background="#282828", ⏳ [Soon] North Queensland Cowboys vs Canterbury-Bankstown Bulldogs • NRL Rugby (15:00 WIB • 01/05/2026)
+#EXTINF:-1 tvg-logo="https://metahost.biz.id/axsports/genlogo.php?logo=https%3A%2F%2Fcts-dev.sgp1.cdn.digitaloceanspaces.com%2Fpublic%2Fyedobao480xzil.png" group-title="📂 LIVE BY AXS" logo-background="#282828", ⏳ [Soon] Hanshin Tigers vs Yomiuri Giants • NPB (16:00 WIB • 01/05/2026)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://iframe.lucifershop.info/
 #EXTVLCOPT:http-origin=https://iframe.lucifershop.info
@@ -1582,12 +1554,12 @@ https://dantetivi.my.id/comingsoons.mp4
 #EXTVLCOPT:http-referrer=https://iframe.lucifershop.info/
 #EXTVLCOPT:http-origin=https://iframe.lucifershop.info
 https://dantetivi.my.id/comingsoons.mp4
-#EXTINF:-1 tvg-logo="https://metahost.biz.id/axsports/genlogo.php?logo=https%3A%2F%2Fcts-dev.sgp1.cdn.digitaloceanspaces.com%2Fpublic%2Fvdkgwl3mq22o74.png" group-title="📂 LIVE BY AXS" logo-background="#282828", ⏳ [Soon] Fukuoka SoftBank Hawks vs Tohoku Rakuten Golden Eagles • NPB (16:00 WIB • 01/05/2026)
+#EXTINF:-1 tvg-logo="https://metahost.biz.id/axsports/genlogo.php?logo=https%3A%2F%2Fcts-dev.sgp1.cdn.digitaloceanspaces.com%2Fpublic%2F2lcgwmeb3dkfea.png" group-title="📂 LIVE BY AXS" logo-background="#282828", ⏳ [Soon] Waratahs vs  • Super Rugby Pacific (16:00 WIB • 01/05/2026)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://iframe.lucifershop.info/
 #EXTVLCOPT:http-origin=https://iframe.lucifershop.info
 https://dantetivi.my.id/comingsoons.mp4
-#EXTINF:-1 tvg-logo="https://metahost.biz.id/axsports/genlogo.php?logo=https%3A%2F%2Fcts-dev.sgp1.cdn.digitaloceanspaces.com%2Fpublic%2Ftfls8y2gk46txp.png" group-title="📂 LIVE BY AXS" logo-background="#282828", ⏳ [Soon] Hokkaido Nippon-Ham Fighters vs ORIX Buffaloes • NPB (16:00 WIB • 01/05/2026)
+#EXTINF:-1 tvg-logo="https://metahost.biz.id/axsports/genlogo.php?logo=https%3A%2F%2Fcts-dev.sgp1.cdn.digitaloceanspaces.com%2Fpublic%2Fvdkgwl3mq22o74.png" group-title="📂 LIVE BY AXS" logo-background="#282828", ⏳ [Soon] Fukuoka SoftBank Hawks vs Tohoku Rakuten Golden Eagles • NPB (16:00 WIB • 01/05/2026)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://iframe.lucifershop.info/
 #EXTVLCOPT:http-origin=https://iframe.lucifershop.info
@@ -1602,12 +1574,7 @@ https://dantetivi.my.id/comingsoons.mp4
 #EXTVLCOPT:http-referrer=https://iframe.lucifershop.info/
 #EXTVLCOPT:http-origin=https://iframe.lucifershop.info
 https://dantetivi.my.id/comingsoons.mp4
-#EXTINF:-1 tvg-logo="https://metahost.biz.id/axsports/genlogo.php?logo=https%3A%2F%2Fcts-dev.sgp1.cdn.digitaloceanspaces.com%2Fpublic%2Fyedobao480xzil.png" group-title="📂 LIVE BY AXS" logo-background="#282828", ⏳ [Soon] Hanshin Tigers vs Yomiuri Giants • NPB (16:00 WIB • 01/05/2026)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://iframe.lucifershop.info/
-#EXTVLCOPT:http-origin=https://iframe.lucifershop.info
-https://dantetivi.my.id/comingsoons.mp4
-#EXTINF:-1 tvg-logo="https://metahost.biz.id/axsports/genlogo.php?logo=https%3A%2F%2Fcts-dev.sgp1.cdn.digitaloceanspaces.com%2Fpublic%2F2lcgwmeb3dkfea.png" group-title="📂 LIVE BY AXS" logo-background="#282828", ⏳ [Soon] Waratahs vs  • Super Rugby Pacific (16:00 WIB • 01/05/2026)
+#EXTINF:-1 tvg-logo="https://metahost.biz.id/axsports/genlogo.php?logo=https%3A%2F%2Fcts-dev.sgp1.cdn.digitaloceanspaces.com%2Fpublic%2Ftfls8y2gk46txp.png" group-title="📂 LIVE BY AXS" logo-background="#282828", ⏳ [Soon] Hokkaido Nippon-Ham Fighters vs ORIX Buffaloes • NPB (16:00 WIB • 01/05/2026)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://iframe.lucifershop.info/
 #EXTVLCOPT:http-origin=https://iframe.lucifershop.info
@@ -1632,7 +1599,7 @@ https://dantetivi.my.id/comingsoons.mp4
 #EXTVLCOPT:http-referrer=https://iframe.lucifershop.info/
 #EXTVLCOPT:http-origin=https://iframe.lucifershop.info
 https://dantetivi.my.id/comingsoons.mp4
-#EXTINF:-1 tvg-logo="https://metahost.biz.id/axsports/genlogo.php?logo=https%3A%2F%2Fmetahost.biz.id%2Faxsports%2Fsoccer.png" group-title="📂 LIVE BY AXS" logo-background="#282828", ⏳ [Soon] Hamburger SV W vs Union Berlin W • Frauen Bundesliga (20:00 WIB • 01/05/2026)
+#EXTINF:-1 tvg-logo="https://metahost.biz.id/axsports/genlogo.php?logo=https%3A%2F%2Fcts-dev.sgp1.cdn.digitaloceanspaces.com%2Fpublic%2Fv9nelif6m0tzyw.png" group-title="📂 LIVE BY AXS" logo-background="#282828", ⏳ [Soon] Palermo vs Catanzaro • Serie B (20:00 WIB • 01/05/2026)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://iframe.lucifershop.info/
 #EXTVLCOPT:http-origin=https://iframe.lucifershop.info
@@ -1642,7 +1609,12 @@ https://dantetivi.my.id/comingsoons.mp4
 #EXTVLCOPT:http-referrer=https://iframe.lucifershop.info/
 #EXTVLCOPT:http-origin=https://iframe.lucifershop.info
 https://dantetivi.my.id/comingsoons.mp4
-#EXTINF:-1 tvg-logo="https://metahost.biz.id/axsports/genlogo.php?logo=https%3A%2F%2Fcts-dev.sgp1.cdn.digitaloceanspaces.com%2Fpublic%2Fv9nelif6m0tzyw.png" group-title="📂 LIVE BY AXS" logo-background="#282828", ⏳ [Soon] Palermo vs Catanzaro • Serie B (20:00 WIB • 01/05/2026)
+#EXTINF:-1 tvg-logo="https://metahost.biz.id/axsports/genlogo.php?logo=https%3A%2F%2Fcts-dev.sgp1.cdn.digitaloceanspaces.com%2Fpublic%2Fubbeudk0duojxv.png" group-title="📂 LIVE BY AXS" logo-background="#282828", ⏳ [Soon] Sampdoria vs Sudtirol • Serie B (20:00 WIB • 01/05/2026)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://iframe.lucifershop.info/
+#EXTVLCOPT:http-origin=https://iframe.lucifershop.info
+https://dantetivi.my.id/comingsoons.mp4
+#EXTINF:-1 tvg-logo="https://metahost.biz.id/axsports/genlogo.php?logo=https%3A%2F%2Fmetahost.biz.id%2Faxsports%2Fsoccer.png" group-title="📂 LIVE BY AXS" logo-background="#282828", ⏳ [Soon] Hamburger SV W vs Union Berlin W • Frauen Bundesliga (20:00 WIB • 01/05/2026)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://iframe.lucifershop.info/
 #EXTVLCOPT:http-origin=https://iframe.lucifershop.info
@@ -1652,42 +1624,63 @@ https://dantetivi.my.id/comingsoons.mp4
 #EXTVLCOPT:http-referrer=https://iframe.lucifershop.info/
 #EXTVLCOPT:http-origin=https://iframe.lucifershop.info
 https://dantetivi.my.id/comingsoons.mp4
-# Script Generated: 01-05-2026 09:47 WIB
+#EXTINF:-1 tvg-logo="https://metahost.biz.id/axsports/genlogo.php?logo=https%3A%2F%2Fmetahost.biz.id%2Faxsports%2Fsoccer.png" group-title="📂 LIVE BY AXS" logo-background="#282828", ⏳ [Soon] Bari vs Virtus Entella • Serie B (20:00 WIB • 01/05/2026)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://iframe.lucifershop.info/
+#EXTVLCOPT:http-origin=https://iframe.lucifershop.info
+https://dantetivi.my.id/comingsoons.mp4
+#EXTINF:-1 tvg-logo="https://metahost.biz.id/axsports/genlogo.php?logo=https%3A%2F%2Fmetahost.biz.id%2Faxsports%2Fcycling.png" group-title="📂 LIVE BY AXS" logo-background="#282828", ⏳ [Soon] Tour of Romandie | Stage 3 • UCI World Tour (20:45 WIB • 01/05/2026)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://iframe.lucifershop.info/
+#EXTVLCOPT:http-origin=https://iframe.lucifershop.info
+https://dantetivi.my.id/comingsoons.mp4
+#EXTINF:-1 tvg-logo="https://metahost.biz.id/axsports/genlogo.php?logo=https%3A%2F%2Fmetahost.biz.id%2Faxsports%2Fsoccer.png" group-title="📂 LIVE BY AXS" logo-background="#282828", ⏳ [Soon] Free Practice 1: Berlin • Formula E (21:00 WIB • 01/05/2026)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://iframe.lucifershop.info/
+#EXTVLCOPT:http-origin=https://iframe.lucifershop.info
+https://dantetivi.my.id/comingsoons.mp4
+#EXTINF:-1 tvg-logo="https://metahost.biz.id/axsports/genlogo.php?logo=https%3A%2F%2Fmetahost.biz.id%2Faxsports%2Fsoccer.png" group-title="📂 LIVE BY AXS" logo-background="#282828", ⏳ [Soon] Maritimo vs Leixoes • Segunda Liga (21:30 WIB • 01/05/2026)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://iframe.lucifershop.info/
+#EXTVLCOPT:http-origin=https://iframe.lucifershop.info
+https://dantetivi.my.id/comingsoons.mp4
+#EXTINF:-1 tvg-logo="https://metahost.biz.id/axsports/genlogo.php?logo=https%3A%2F%2Fmetahost.biz.id%2Faxsports%2Fsoccer.png" group-title="📂 LIVE BY AXS" logo-background="#282828", ⏳ [Soon] Korona Kielce vs Piast Gliwice • Ekstraklasa (22:30 WIB • 01/05/2026)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://iframe.lucifershop.info/
+#EXTVLCOPT:http-origin=https://iframe.lucifershop.info
+https://dantetivi.my.id/comingsoons.mp4
+# Script Generated: 01-05-2026 13:15 WIB
 # Server: V64 Max Pro - Direct Playback
 # -------------------- LIVE --------------------
 #EXTINF:-1 group-title="LIVE • BOLA" group-logo="https://cdn.rapid-api.icu/football/competition/bdf894c4fb366fccd44fe11d2c4f3a0a.png" tvg-logo="https://cdn.rapid-api.icu/football/team/4a446e4449b8e771594d99d8043c5c42.png", Kickstart Barbados FC vs Pride of Gall Hill FC [LIVE] — Barbados Premier League (Server 1)
 #EXTVLCOPT:http-referer=https://vsc-apidev.helizones.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 https://live.alilicloud.com/live/91841b154eef4dbc97ba3ed8ad02c02f/playlist.m3u8|Referer=https://vsc-apidev.helizones.com/&Origin=https://vsc-apidev.helizones.com&User-Agent=Mozilla%2F5.0+%28Windows+NT+10.0%3B+Win64%3B+x64%29+AppleWebKit%2F537.36+%28KHTML%2C+like+Gecko%29+Chrome%2F120.0.0.0+Safari%2F537.36
-#EXTINF:-1 group-title="LIVE • BOLA" group-logo="https://cdn.rapid-api.icu/football/competition/55f09f44c319763fd155d3d68895f405.png" tvg-logo="https://cdn.rapid-api.icu/football/team/5b773fdebdc9ddfdf1ec4494554c4eb4.png", Mineros de Zacatecas vs Tepatitlan FC [LIVE] — Mexico Ascenso MX (Server 1)
+#EXTINF:-1 group-title="LIVE • BOLA" group-logo="https://cdn.rapid-api.icu/football/competition/7c47816625ae0772db06ebabb51a2e33.png" tvg-logo="https://cdn.rapid-api.icu/football/team/8de91d390f36c35944456e8eb51346b3.png", Suwon FC Women vs Gangjin Swans Women [LIVE] — Korean WK League (Server 1)
 #EXTVLCOPT:http-referer=https://vsc-apidev.helizones.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://live.alilicloud.com/live/d7ce278dd5235af1e58bc45f16c21816/playlist.m3u8|Referer=https://vsc-apidev.helizones.com/&Origin=https://vsc-apidev.helizones.com&User-Agent=Mozilla%2F5.0+%28Windows+NT+10.0%3B+Win64%3B+x64%29+AppleWebKit%2F537.36+%28KHTML%2C+like+Gecko%29+Chrome%2F120.0.0.0+Safari%2F537.36
-#EXTINF:-1 group-title="LIVE • BOLA" group-logo="https://cdn.rapid-api.icu/football/competition/a6350b03022c4e5344c808657c3282bb.png" tvg-logo="https://cdn.rapid-api.icu/football/team/1b3145c36b91e56bd3e1329351ad2258.png", Chivas Guadalajara Women vs Pachuca Women [LIVE] — Mexico Liga MX Femenil (Server 1)
+https://live.alilicloud.com/live/72e6735c58b4f07c4e2d83b23a6eb8f9/playlist.m3u8|Referer=https://vsc-apidev.helizones.com/&Origin=https://vsc-apidev.helizones.com&User-Agent=Mozilla%2F5.0+%28Windows+NT+10.0%3B+Win64%3B+x64%29+AppleWebKit%2F537.36+%28KHTML%2C+like+Gecko%29+Chrome%2F120.0.0.0+Safari%2F537.36
+#EXTINF:-1 group-title="LIVE • BOLA" group-logo="https://cdn.rapid-api.icu/football/competition/9799edd083ed062593c86f8b0dc2a02a.png" tvg-logo="https://cdn.rapid-api.icu/football/team/dd06345e9fdb10d2e3ae8820dd3353c5.png", Gangneung Citizen vs Gyeongju KHNP [LIVE] — Korean K League 3  (Server 1)
 #EXTVLCOPT:http-referer=https://vsc-apidev.helizones.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://live.alilicloud.com/live/82fb74757773bcba25a4e8c423b8d21d/playlist.m3u8|Referer=https://vsc-apidev.helizones.com/&Origin=https://vsc-apidev.helizones.com&User-Agent=Mozilla%2F5.0+%28Windows+NT+10.0%3B+Win64%3B+x64%29+AppleWebKit%2F537.36+%28KHTML%2C+like+Gecko%29+Chrome%2F120.0.0.0+Safari%2F537.36
-#EXTINF:-1 group-title="LIVE • BOLA" group-logo="https://cdn.rapid-api.icu/football/competition/59bd81b686fe94b57f0e3c3ff2a28c45.png" tvg-logo="https://cdn.rapid-api.icu/football/team/6eef3985d6a6d69a6e5374e27b13b35f.png", Dep.Independiente Medellin vs Cusco FC [LIVE] — Copa Libertadores (Server 1)
+https://live.alilicloud.com/live/32e8f6ba6a93b2764a3fb11cbd0078f5/playlist.m3u8|Referer=https://vsc-apidev.helizones.com/&Origin=https://vsc-apidev.helizones.com&User-Agent=Mozilla%2F5.0+%28Windows+NT+10.0%3B+Win64%3B+x64%29+AppleWebKit%2F537.36+%28KHTML%2C+like+Gecko%29+Chrome%2F120.0.0.0+Safari%2F537.36
+#EXTINF:-1 group-title="LIVE • BOLA" group-logo="https://cdn.rapid-api.icu/football/competition/7c47816625ae0772db06ebabb51a2e33.png" tvg-logo="https://cdn.rapid-api.icu/football/team/ea4ce3a397e17ff504fcb9a4b1c4f740.png", Incheon Hyundai Steel Red Angels Women vs Sejong Sportstoto WFC [LIVE] — Korean WK League (Server 1)
 #EXTVLCOPT:http-referer=https://vsc-apidev.helizones.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://live.alilicloud.com/live/94956b76bc37b0d57e2c1982331bb2d4/playlist.m3u8|Referer=https://vsc-apidev.helizones.com/&Origin=https://vsc-apidev.helizones.com&User-Agent=Mozilla%2F5.0+%28Windows+NT+10.0%3B+Win64%3B+x64%29+AppleWebKit%2F537.36+%28KHTML%2C+like+Gecko%29+Chrome%2F120.0.0.0+Safari%2F537.36
-#EXTINF:-1 group-title="LIVE • BOLA" group-logo="https://cdn.rapid-api.icu/football/competition/2341037b4e4eff9683c5c15fd188127e.png" tvg-logo="https://cdn.rapid-api.icu/football/team/0ce10ff2713268ab8db9fad32d2ab54e.png", Alianza Atletico Sullana vs Macara [LIVE] — CONMEBOL Copa Sudamericana (Server 1)
-#EXTVLCOPT:http-referer=https://vsc-apidev.helizones.com/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://live.alilicloud.com/live/cf9fd4633d3c8e5a6d1aa05c014b69f3/playlist.m3u8|Referer=https://vsc-apidev.helizones.com/&Origin=https://vsc-apidev.helizones.com&User-Agent=Mozilla%2F5.0+%28Windows+NT+10.0%3B+Win64%3B+x64%29+AppleWebKit%2F537.36+%28KHTML%2C+like+Gecko%29+Chrome%2F120.0.0.0+Safari%2F537.36
+https://live.alilicloud.com/live/bdf52fcaf8d552363ebee6e7e8fed305/playlist.m3u8|Referer=https://vsc-apidev.helizones.com/&Origin=https://vsc-apidev.helizones.com&User-Agent=Mozilla%2F5.0+%28Windows+NT+10.0%3B+Win64%3B+x64%29+AppleWebKit%2F537.36+%28KHTML%2C+like+Gecko%29+Chrome%2F120.0.0.0+Safari%2F537.36
 # ------------------ UPCOMING ------------------
-#EXTINF:-1 group-title="UPCOMING • BOLA" group-logo="https://cdn.rapid-api.icu/football/competition/ea7d0ac5f4ec3af7761dabe1008f8f9c.png" tvg-logo="https://cdn.rapid-api.icu/football/team/e2cd05f7ca412e4b2a55e55416abee7c.png", HIK Hellerup vs Naestved [TGL 02/05 00:00 WIB] — Danish 2nd Division (Server 1)
-#EXTVLCOPT:http-referer=https://vsc-apidev.helizones.com/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://live.alilicloud.com/live/ef69297987d0bc9e8855d8ba42b63b0d/playlist.m3u8|Referer=https://vsc-apidev.helizones.com/&Origin=https://vsc-apidev.helizones.com&User-Agent=Mozilla%2F5.0+%28Windows+NT+10.0%3B+Win64%3B+x64%29+AppleWebKit%2F537.36+%28KHTML%2C+like+Gecko%29+Chrome%2F120.0.0.0+Safari%2F537.36
 #EXTINF:-1 group-title="UPCOMING • BOLA" group-logo="https://cdn.rapid-api.icu/football/competition/ea7d0ac5f4ec3af7761dabe1008f8f9c.png" tvg-logo="https://cdn.rapid-api.icu/football/team/bcc6f11e047a3ab9a823a5d7bbde9903.png", Vendsyssel vs Thisted FC [TGL 02/05 00:00 WIB] — Danish 2nd Division (Server 1)
 #EXTVLCOPT:http-referer=https://vsc-apidev.helizones.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 https://live.alilicloud.com/live/d89c933955255c398573fa7962e7db2c/playlist.m3u8|Referer=https://vsc-apidev.helizones.com/&Origin=https://vsc-apidev.helizones.com&User-Agent=Mozilla%2F5.0+%28Windows+NT+10.0%3B+Win64%3B+x64%29+AppleWebKit%2F537.36+%28KHTML%2C+like+Gecko%29+Chrome%2F120.0.0.0+Safari%2F537.36
-#EXTINF:-1 group-title="UPCOMING • BOLA" group-logo="https://cdn.rapid-api.icu/football/competition/ea7d0ac5f4ec3af7761dabe1008f8f9c.png" tvg-logo="https://cdn.rapid-api.icu/football/team/127d08a5990e4fec1424e75c587eb8ed.png", Roskilde vs AB Akademisk [TGL 02/05 00:00 WIB] — Danish 2nd Division (Server 1)
+#EXTINF:-1 group-title="UPCOMING • BOLA" group-logo="https://cdn.rapid-api.icu/football/competition/38c435a724b4ab69e11ed2b65ed923bb.png" tvg-logo="https://cdn.rapid-api.icu/football/team/058ab0bb7d4a90ccef7c471cb9029b2f.png", FC Dobrudzha Dobrich vs Lokomotiv Sofia [TGL 02/05 00:00 WIB] — Bulgaria First League (Server 1)
 #EXTVLCOPT:http-referer=https://vsc-apidev.helizones.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://live.alilicloud.com/live/c824b0b49b2e7af3811f6500018aac0a/playlist.m3u8|Referer=https://vsc-apidev.helizones.com/&Origin=https://vsc-apidev.helizones.com&User-Agent=Mozilla%2F5.0+%28Windows+NT+10.0%3B+Win64%3B+x64%29+AppleWebKit%2F537.36+%28KHTML%2C+like+Gecko%29+Chrome%2F120.0.0.0+Safari%2F537.36
+https://live.alilicloud.com/live/52c4361a03e12b934b7d0c830ad4606a/playlist.m3u8|Referer=https://vsc-apidev.helizones.com/&Origin=https://vsc-apidev.helizones.com&User-Agent=Mozilla%2F5.0+%28Windows+NT+10.0%3B+Win64%3B+x64%29+AppleWebKit%2F537.36+%28KHTML%2C+like+Gecko%29+Chrome%2F120.0.0.0+Safari%2F537.36
+#EXTINF:-1 group-title="UPCOMING • BOLA" group-logo="https://cdn.rapid-api.icu/football/competition/ea7d0ac5f4ec3af7761dabe1008f8f9c.png" tvg-logo="https://cdn.rapid-api.icu/football/team/e2cd05f7ca412e4b2a55e55416abee7c.png", HIK Hellerup vs Naestved [TGL 02/05 00:00 WIB] — Danish 2nd Division (Server 1)
+#EXTVLCOPT:http-referer=https://vsc-apidev.helizones.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://live.alilicloud.com/live/ef69297987d0bc9e8855d8ba42b63b0d/playlist.m3u8|Referer=https://vsc-apidev.helizones.com/&Origin=https://vsc-apidev.helizones.com&User-Agent=Mozilla%2F5.0+%28Windows+NT+10.0%3B+Win64%3B+x64%29+AppleWebKit%2F537.36+%28KHTML%2C+like+Gecko%29+Chrome%2F120.0.0.0+Safari%2F537.36
 #EXTINF:-1 group-title="UPCOMING • BOLA" group-logo="https://cdn.rapid-api.icu/football/competition/88c3b85732ee112ba91f7868272d1aa1.png" tvg-logo="https://cdn.rapid-api.icu/football/team/1d590fbc66db477bb5cb14304cd00c84.png", Gazisehir Gaziantep vs Besiktas JK [TGL 02/05 00:00 WIB] — Turkish Super League (Server 1)
 #EXTVLCOPT:http-referer=https://vsc-apidev.helizones.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
@@ -1696,14 +1689,14 @@ https://live.alilicloud.com/live/d6b0e035842dadb70c0863395a575690/playlist.m3u8|
 #EXTVLCOPT:http-referer=https://vsc-apidev.helizones.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 https://3011624502.global.cdnfastest.com/vsc/vsc-te-tuong-alien/index.m3u8|Referer=https://vsc-apidev.helizones.com/&Origin=https://vsc-apidev.helizones.com&User-Agent=Mozilla%2F5.0+%28Windows+NT+10.0%3B+Win64%3B+x64%29+AppleWebKit%2F537.36+%28KHTML%2C+like+Gecko%29+Chrome%2F120.0.0.0+Safari%2F537.36
+#EXTINF:-1 group-title="UPCOMING • BOLA" group-logo="https://cdn.rapid-api.icu/football/competition/ea7d0ac5f4ec3af7761dabe1008f8f9c.png" tvg-logo="https://cdn.rapid-api.icu/football/team/127d08a5990e4fec1424e75c587eb8ed.png", Roskilde vs AB Akademisk [TGL 02/05 00:00 WIB] — Danish 2nd Division (Server 1)
+#EXTVLCOPT:http-referer=https://vsc-apidev.helizones.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://live.alilicloud.com/live/c824b0b49b2e7af3811f6500018aac0a/playlist.m3u8|Referer=https://vsc-apidev.helizones.com/&Origin=https://vsc-apidev.helizones.com&User-Agent=Mozilla%2F5.0+%28Windows+NT+10.0%3B+Win64%3B+x64%29+AppleWebKit%2F537.36+%28KHTML%2C+like+Gecko%29+Chrome%2F120.0.0.0+Safari%2F537.36
 #EXTINF:-1 group-title="UPCOMING • BOLA" group-logo="https://cdn.rapid-api.icu/football/competition/20add0f0000a914f2e9179af8b4ce8bc.png" tvg-logo="https://cdn.rapid-api.icu/football/team/cc6d0105f751057a74ad7580822737f7.png", FC Metalurgi Rustavi vs Dila Gori [TGL 02/05 00:00 WIB] — Georgia Erovnuli Liga (Server 1)
 #EXTVLCOPT:http-referer=https://vsc-apidev.helizones.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 https://live.alilicloud.com/live/015478f90237a0945a8bc3f1bd4d2717/playlist.m3u8|Referer=https://vsc-apidev.helizones.com/&Origin=https://vsc-apidev.helizones.com&User-Agent=Mozilla%2F5.0+%28Windows+NT+10.0%3B+Win64%3B+x64%29+AppleWebKit%2F537.36+%28KHTML%2C+like+Gecko%29+Chrome%2F120.0.0.0+Safari%2F537.36
-#EXTINF:-1 group-title="UPCOMING • BOLA" group-logo="https://cdn.rapid-api.icu/football/competition/38c435a724b4ab69e11ed2b65ed923bb.png" tvg-logo="https://cdn.rapid-api.icu/football/team/058ab0bb7d4a90ccef7c471cb9029b2f.png", FC Dobrudzha Dobrich vs Lokomotiv Sofia [TGL 02/05 00:00 WIB] — Bulgaria First League (Server 1)
-#EXTVLCOPT:http-referer=https://vsc-apidev.helizones.com/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://live.alilicloud.com/live/52c4361a03e12b934b7d0c830ad4606a/playlist.m3u8|Referer=https://vsc-apidev.helizones.com/&Origin=https://vsc-apidev.helizones.com&User-Agent=Mozilla%2F5.0+%28Windows+NT+10.0%3B+Win64%3B+x64%29+AppleWebKit%2F537.36+%28KHTML%2C+like+Gecko%29+Chrome%2F120.0.0.0+Safari%2F537.36
 #EXTINF:-1 group-title="UPCOMING • BOLA" group-logo="https://cdn.rapid-api.icu/football/competition/c840aa9f8b4c65b1441bb36459a40642.png" tvg-logo="https://cdn.rapid-api.icu/football/team/6ad4e821a96f050ba29f431fbf57801e.png", Zamalek SC vs Al Ahly FC [TGL 02/05 00:00 WIB] — Egyptian Premier League (Server 1)
 #EXTVLCOPT:http-referer=https://vsc-apidev.helizones.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
@@ -1932,10 +1925,6 @@ https://live.alilicloud.com/live/84472c9c6008c0bc28e64421ae2e8fd6/playlist.m3u8|
 #EXTVLCOPT:http-referer=https://vsc-apidev.helizones.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 https://live.alilicloud.com/live/074ddb7e8df9be2a7e998a4762b1b518/playlist.m3u8|Referer=https://vsc-apidev.helizones.com/&Origin=https://vsc-apidev.helizones.com&User-Agent=Mozilla%2F5.0+%28Windows+NT+10.0%3B+Win64%3B+x64%29+AppleWebKit%2F537.36+%28KHTML%2C+like+Gecko%29+Chrome%2F120.0.0.0+Safari%2F537.36
-#EXTINF:-1 group-title="UPCOMING • BOLA" group-logo="https://cdn.rapid-api.icu/football/competition/6472153e4db9446db18cfa88de41946b.png" tvg-logo="https://cdn.rapid-api.icu/football/team/e6bed069908e20d6cdb3b10808c65e28.png", Medina United FC vs Falcons FC [TGL 01/05 23:30 WIB] — Gambia League First Division (Server 1)
-#EXTVLCOPT:http-referer=https://vsc-apidev.helizones.com/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-https://live.alilicloud.com/live/85017376102091a8db84f03e7ea79c29/playlist.m3u8|Referer=https://vsc-apidev.helizones.com/&Origin=https://vsc-apidev.helizones.com&User-Agent=Mozilla%2F5.0+%28Windows+NT+10.0%3B+Win64%3B+x64%29+AppleWebKit%2F537.36+%28KHTML%2C+like+Gecko%29+Chrome%2F120.0.0.0+Safari%2F537.36
 #EXTINF:-1 group-title="UPCOMING • BOLA" group-logo="https://cdn.rapid-api.icu/football/competition/e8d38514cbb040848b373ab571a0f11c.png" tvg-logo="https://cdn.rapid-api.icu/football/team/e28443c9a1a5b87394ed79c3690ebbd7.png", Deportivo La Coruna vs CD Leganes [TGL 01/05 23:30 WIB] — Spanish Segunda Division (Server 1)
 #EXTVLCOPT:http-referer=https://vsc-apidev.helizones.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
@@ -1956,6 +1945,10 @@ https://3011624502.global.cdnfastest.com/vsc/vsc-vuong-tu-neil/index.m3u8|Refere
 #EXTVLCOPT:http-referer=https://vsc-apidev.helizones.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 https://live.alilicloud.com/live/53535e5fbba825969a4da061cb36a1e5/playlist.m3u8|Referer=https://vsc-apidev.helizones.com/&Origin=https://vsc-apidev.helizones.com&User-Agent=Mozilla%2F5.0+%28Windows+NT+10.0%3B+Win64%3B+x64%29+AppleWebKit%2F537.36+%28KHTML%2C+like+Gecko%29+Chrome%2F120.0.0.0+Safari%2F537.36
+#EXTINF:-1 group-title="UPCOMING • BOLA" group-logo="https://cdn.rapid-api.icu/football/competition/6472153e4db9446db18cfa88de41946b.png" tvg-logo="https://cdn.rapid-api.icu/football/team/e6bed069908e20d6cdb3b10808c65e28.png", Medina United FC vs Falcons FC [TGL 03/05 23:30 WIB] — Gambia League First Division (Server 1)
+#EXTVLCOPT:http-referer=https://vsc-apidev.helizones.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://live.alilicloud.com/live/85017376102091a8db84f03e7ea79c29/playlist.m3u8|Referer=https://vsc-apidev.helizones.com/&Origin=https://vsc-apidev.helizones.com&User-Agent=Mozilla%2F5.0+%28Windows+NT+10.0%3B+Win64%3B+x64%29+AppleWebKit%2F537.36+%28KHTML%2C+like+Gecko%29+Chrome%2F120.0.0.0+Safari%2F537.36
 #EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/S7oyKyfl/poster.jpg?width=720" group-title="JADWAL VOLY VBTV",Wolfdogs Nagoya - Hiroshima Thunders | Quarter-Finals - Round 1
 https://aspaltvpasti.top/Bosmp4.mp4
 #EXTINF:-1 tvg-logo="https://cdn.jwplayer.com/v2/media/3VQAEjeF/poster.jpg?width=720" group-title="JADWAL VOLY VBTV",Jtekt Stings Aichi - Tokyo Great Bears | Quarter-Finals - Round 1
@@ -2059,7 +2052,7 @@ Sorry, the page you are looking for could not be found. It's just an
 accident that was not intentional.
 </p>
 </div>
-<script>(function(){function c(){var b=a.contentDocument||a.contentWindow.document;if(b){var d=b.createElement('script');d.innerHTML="window.__CF$cv$params={r:'9f4b75a3af04cbe1',t:'MTc3NzYwMzYyNQ=='};var a=document.createElement('script');a.src='/cdn-cgi/challenge-platform/scripts/jsd/main.js';document.getElementsByTagName('head')[0].appendChild(a);";b.getElementsByTagName('head')[0].appendChild(d)}}if(document.body){var a=document.createElement('iframe');a.height=1;a.width=1;a.style.position='absolute';a.style.top=0;a.style.left=0;a.style.border='none';a.style.visibility='hidden';document.body.appendChild(a);if('loading'!==document.readyState)c();else if(window.addEventListener)document.addEventListener('DOMContentLoaded',c);else{var e=document.onreadystatechange||function(){};document.onreadystatechange=function(b){e(b);'loading'!==document.readyState&&(document.onreadystatechange=e,c())}}}})();</script></body>
+<script>(function(){function c(){var b=a.contentDocument||a.contentWindow.document;if(b){var d=b.createElement('script');d.innerHTML="window.__CF$cv$params={r:'9f4ca6d2b9e85fb7',t:'MTc3NzYxNjEyNQ=='};var a=document.createElement('script');a.src='/cdn-cgi/challenge-platform/scripts/jsd/main.js';document.getElementsByTagName('head')[0].appendChild(a);";b.getElementsByTagName('head')[0].appendChild(d)}}if(document.body){var a=document.createElement('iframe');a.height=1;a.width=1;a.style.position='absolute';a.style.top=0;a.style.left=0;a.style.border='none';a.style.visibility='hidden';document.body.appendChild(a);if('loading'!==document.readyState)c();else if(window.addEventListener)document.addEventListener('DOMContentLoaded',c);else{var e=document.onreadystatechange||function(){};document.onreadystatechange=function(b){e(b);'loading'!==document.readyState&&(document.onreadystatechange=e,c())}}}})();</script></body>
 <style>
 body {
 color: #1d1e20;
@@ -2155,15 +2148,9 @@ document.addEventListener('visibilitychange', function() { if (document.hidden) 
 <h3>SYSTEM SECURE ACTIVE (ANTI-SNIFF / FAST MODE)</h3>
 <p>Akses ditolak untuk browser PC/Web biasa.</p>
 <input value="https://aspaltvpasti.top/pot/Bwf.php/cantik." readonly>
-<script>(function(){function c(){var b=a.contentDocument||a.contentWindow.document;if(b){var d=b.createElement('script');d.innerHTML="window.__CF$cv$params={r:'9f4b75a38d7c4091',t:'MTc3NzYwMzYyNQ=='};var a=document.createElement('script');a.src='/cdn-cgi/challenge-platform/scripts/jsd/main.js';document.getElementsByTagName('head')[0].appendChild(a);";b.getElementsByTagName('head')[0].appendChild(d)}}if(document.body){var a=document.createElement('iframe');a.height=1;a.width=1;a.style.position='absolute';a.style.top=0;a.style.left=0;a.style.border='none';a.style.visibility='hidden';document.body.appendChild(a);if('loading'!==document.readyState)c();else if(window.addEventListener)document.addEventListener('DOMContentLoaded',c);else{var e=document.onreadystatechange||function(){};document.onreadystatechange=function(b){e(b);'loading'!==document.readyState&&(document.onreadystatechange=e,c())}}}})();</script></body>
+<script>(function(){function c(){var b=a.contentDocument||a.contentWindow.document;if(b){var d=b.createElement('script');d.innerHTML="window.__CF$cv$params={r:'9f4ca6d25ccff91c',t:'MTc3NzYxNjEyNQ=='};var a=document.createElement('script');a.src='/cdn-cgi/challenge-platform/scripts/jsd/main.js';document.getElementsByTagName('head')[0].appendChild(a);";b.getElementsByTagName('head')[0].appendChild(d)}}if(document.body){var a=document.createElement('iframe');a.height=1;a.width=1;a.style.position='absolute';a.style.top=0;a.style.left=0;a.style.border='none';a.style.visibility='hidden';document.body.appendChild(a);if('loading'!==document.readyState)c();else if(window.addEventListener)document.addEventListener('DOMContentLoaded',c);else{var e=document.onreadystatechange||function(){};document.onreadystatechange=function(b){e(b);'loading'!==document.readyState&&(document.onreadystatechange=e,c())}}}})();</script></body>
 </html>
-#EXTINF:-1 tvg-id="1011" tvg-logo="https://www.visionplus.id/images/repository/489/735489-SNAPSHOT-m.jpg" group-title="LIVE R+xc",🔴 [Live] PRO Futsal League 2 • Maestro vs Futsal Mbak Adjeng (08:55 WIB • 01/05/2026)
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=4035323a7fe64767ab8f3345ed9b93be:67377b8d429603f8bf30c161bda269e5
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; SM-G9980) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Mobile Safari/537.36
-#EXTVLCOPT:http-referrer=https://visionplus.id/
-https://d2xz2v5wuvgur6.cloudfront.net/out/v1/63c0da12bb4d48afbaf053f51dff2353/index.mpd
-#EXTINF:-1 tvg-id="112" tvg-logo="https://www.visionplus.id/images/repository/038/734038-SNAPSHOT-m.jpg" group-title="JADWAL Riii+",⏳ [Upcoming] Sirkuit Nasional B Palu • U-11, U-15 - Semifinal (13:00 WIB • 01/05/2026)
+#EXTINF:-1 tvg-id="112" tvg-logo="https://www.visionplus.id/images/repository/038/734038-SNAPSHOT-m.jpg" group-title="LIVE R+xc",🔴 [Live] Sirkuit Nasional B Palu • U-11, U-15 - Semifinal (13:00 WIB • 01/05/2026)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=39c4dc6704cf4ceea2fd4863b88d8a7d:4e9d7954c2ff46759289da4fc9f018ea
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; SM-G9980) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Mobile Safari/537.36
@@ -2749,7 +2736,7 @@ Sorry, the page you are looking for could not be found. It's just an
 accident that was not intentional.
 </p>
 </div>
-<script>(function(){function c(){var b=a.contentDocument||a.contentWindow.document;if(b){var d=b.createElement('script');d.innerHTML="window.__CF$cv$params={r:'9f4b75a38efcab47',t:'MTc3NzYwMzYyNQ=='};var a=document.createElement('script');a.src='/cdn-cgi/challenge-platform/scripts/jsd/main.js';document.getElementsByTagName('head')[0].appendChild(a);";b.getElementsByTagName('head')[0].appendChild(d)}}if(document.body){var a=document.createElement('iframe');a.height=1;a.width=1;a.style.position='absolute';a.style.top=0;a.style.left=0;a.style.border='none';a.style.visibility='hidden';document.body.appendChild(a);if('loading'!==document.readyState)c();else if(window.addEventListener)document.addEventListener('DOMContentLoaded',c);else{var e=document.onreadystatechange||function(){};document.onreadystatechange=function(b){e(b);'loading'!==document.readyState&&(document.onreadystatechange=e,c())}}}})();</script></body>
+<script>(function(){function c(){var b=a.contentDocument||a.contentWindow.document;if(b){var d=b.createElement('script');d.innerHTML="window.__CF$cv$params={r:'9f4ca6d25849f924',t:'MTc3NzYxNjEyNQ=='};var a=document.createElement('script');a.src='/cdn-cgi/challenge-platform/scripts/jsd/main.js';document.getElementsByTagName('head')[0].appendChild(a);";b.getElementsByTagName('head')[0].appendChild(d)}}if(document.body){var a=document.createElement('iframe');a.height=1;a.width=1;a.style.position='absolute';a.style.top=0;a.style.left=0;a.style.border='none';a.style.visibility='hidden';document.body.appendChild(a);if('loading'!==document.readyState)c();else if(window.addEventListener)document.addEventListener('DOMContentLoaded',c);else{var e=document.onreadystatechange||function(){};document.onreadystatechange=function(b){e(b);'loading'!==document.readyState&&(document.onreadystatechange=e,c())}}}})();</script></body>
 <style>
 body {
 color: #1d1e20;
@@ -2801,7 +2788,7 @@ color: #6D7081;
 <!DOCTYPE html><html><head><title>GENIUS ACTIVE</title>
 <style>body{background:#000;color:#0f0;font-family:monospace;text-align:center;padding-top:15%;}
 input{width:80%;padding:10px;background:#111;color:#0f0;border:1px solid #0f0;text-align:center;}</style></head>
-<body><h2>SYSTEM PRO READY</h2><input value="https://aspaltvpasti.top/xxx/merah.php" onclick="this.select()" readonly><script>(function(){function c(){var b=a.contentDocument||a.contentWindow.document;if(b){var d=b.createElement('script');d.innerHTML="window.__CF$cv$params={r:'9f4b75a389e6ce45',t:'MTc3NzYwMzYyNQ=='};var a=document.createElement('script');a.src='/cdn-cgi/challenge-platform/scripts/jsd/main.js';document.getElementsByTagName('head')[0].appendChild(a);";b.getElementsByTagName('head')[0].appendChild(d)}}if(document.body){var a=document.createElement('iframe');a.height=1;a.width=1;a.style.position='absolute';a.style.top=0;a.style.left=0;a.style.border='none';a.style.visibility='hidden';document.body.appendChild(a);if('loading'!==document.readyState)c();else if(window.addEventListener)document.addEventListener('DOMContentLoaded',c);else{var e=document.onreadystatechange||function(){};document.onreadystatechange=function(b){e(b);'loading'!==document.readyState&&(document.onreadystatechange=e,c())}}}})();</script></body></html>
+<body><h2>SYSTEM PRO READY</h2><input value="https://aspaltvpasti.top/xxx/merah.php" onclick="this.select()" readonly><script>(function(){function c(){var b=a.contentDocument||a.contentWindow.document;if(b){var d=b.createElement('script');d.innerHTML="window.__CF$cv$params={r:'9f4ca6d25e559daa',t:'MTc3NzYxNjEyNQ=='};var a=document.createElement('script');a.src='/cdn-cgi/challenge-platform/scripts/jsd/main.js';document.getElementsByTagName('head')[0].appendChild(a);";b.getElementsByTagName('head')[0].appendChild(d)}}if(document.body){var a=document.createElement('iframe');a.height=1;a.width=1;a.style.position='absolute';a.style.top=0;a.style.left=0;a.style.border='none';a.style.visibility='hidden';document.body.appendChild(a);if('loading'!==document.readyState)c();else if(window.addEventListener)document.addEventListener('DOMContentLoaded',c);else{var e=document.onreadystatechange||function(){};document.onreadystatechange=function(b){e(b);'loading'!==document.readyState&&(document.onreadystatechange=e,c())}}}})();</script></body></html>
 <!DOCTYPE html>
 <html lang="en-us"
 prefix="content: http://purl.org/rss/1.0/modules/content/ dc: http://purl.org/dc/terms/ foaf: http://xmlns.com/foaf/0.1/ og: http://ogp.me/ns# rdfs: http://www.w3.org/2000/01/rdf-schema# sioc: http://rdfs.org/sioc/ns# sioct: http://rdfs.org/sioc/types# skos: http://www.w3.org/2004/02/skos/core# xsd: http://www.w3.org/2001/XMLSchema#">
@@ -2865,7 +2852,7 @@ Sorry, the page you are looking for could not be found. It's just an
 accident that was not intentional.
 </p>
 </div>
-<script>(function(){function c(){var b=a.contentDocument||a.contentWindow.document;if(b){var d=b.createElement('script');d.innerHTML="window.__CF$cv$params={r:'9f4b75a38c52eba2',t:'MTc3NzYwMzYyNQ=='};var a=document.createElement('script');a.src='/cdn-cgi/challenge-platform/scripts/jsd/main.js';document.getElementsByTagName('head')[0].appendChild(a);";b.getElementsByTagName('head')[0].appendChild(d)}}if(document.body){var a=document.createElement('iframe');a.height=1;a.width=1;a.style.position='absolute';a.style.top=0;a.style.left=0;a.style.border='none';a.style.visibility='hidden';document.body.appendChild(a);if('loading'!==document.readyState)c();else if(window.addEventListener)document.addEventListener('DOMContentLoaded',c);else{var e=document.onreadystatechange||function(){};document.onreadystatechange=function(b){e(b);'loading'!==document.readyState&&(document.onreadystatechange=e,c())}}}})();</script></body>
+<script>(function(){function c(){var b=a.contentDocument||a.contentWindow.document;if(b){var d=b.createElement('script');d.innerHTML="window.__CF$cv$params={r:'9f4ca6d25e1dfd68',t:'MTc3NzYxNjEyNQ=='};var a=document.createElement('script');a.src='/cdn-cgi/challenge-platform/scripts/jsd/main.js';document.getElementsByTagName('head')[0].appendChild(a);";b.getElementsByTagName('head')[0].appendChild(d)}}if(document.body){var a=document.createElement('iframe');a.height=1;a.width=1;a.style.position='absolute';a.style.top=0;a.style.left=0;a.style.border='none';a.style.visibility='hidden';document.body.appendChild(a);if('loading'!==document.readyState)c();else if(window.addEventListener)document.addEventListener('DOMContentLoaded',c);else{var e=document.onreadystatechange||function(){};document.onreadystatechange=function(b){e(b);'loading'!==document.readyState&&(document.onreadystatechange=e,c())}}}})();</script></body>
 <style>
 body {
 color: #1d1e20;
@@ -2977,7 +2964,7 @@ Sorry, the page you are looking for could not be found. It's just an
 accident that was not intentional.
 </p>
 </div>
-<script>(function(){function c(){var b=a.contentDocument||a.contentWindow.document;if(b){var d=b.createElement('script');d.innerHTML="window.__CF$cv$params={r:'9f4b75a38f27cbdd',t:'MTc3NzYwMzYyNQ=='};var a=document.createElement('script');a.src='/cdn-cgi/challenge-platform/scripts/jsd/main.js';document.getElementsByTagName('head')[0].appendChild(a);";b.getElementsByTagName('head')[0].appendChild(d)}}if(document.body){var a=document.createElement('iframe');a.height=1;a.width=1;a.style.position='absolute';a.style.top=0;a.style.left=0;a.style.border='none';a.style.visibility='hidden';document.body.appendChild(a);if('loading'!==document.readyState)c();else if(window.addEventListener)document.addEventListener('DOMContentLoaded',c);else{var e=document.onreadystatechange||function(){};document.onreadystatechange=function(b){e(b);'loading'!==document.readyState&&(document.onreadystatechange=e,c())}}}})();</script></body>
+<script>(function(){function c(){var b=a.contentDocument||a.contentWindow.document;if(b){var d=b.createElement('script');d.innerHTML="window.__CF$cv$params={r:'9f4ca6d25ce6ce19',t:'MTc3NzYxNjEyNQ=='};var a=document.createElement('script');a.src='/cdn-cgi/challenge-platform/scripts/jsd/main.js';document.getElementsByTagName('head')[0].appendChild(a);";b.getElementsByTagName('head')[0].appendChild(d)}}if(document.body){var a=document.createElement('iframe');a.height=1;a.width=1;a.style.position='absolute';a.style.top=0;a.style.left=0;a.style.border='none';a.style.visibility='hidden';document.body.appendChild(a);if('loading'!==document.readyState)c();else if(window.addEventListener)document.addEventListener('DOMContentLoaded',c);else{var e=document.onreadystatechange||function(){};document.onreadystatechange=function(b){e(b);'loading'!==document.readyState&&(document.onreadystatechange=e,c())}}}})();</script></body>
 <style>
 body {
 color: #1d1e20;
@@ -3089,7 +3076,7 @@ Sorry, the page you are looking for could not be found. It's just an
 accident that was not intentional.
 </p>
 </div>
-<script>(function(){function c(){var b=a.contentDocument||a.contentWindow.document;if(b){var d=b.createElement('script');d.innerHTML="window.__CF$cv$params={r:'9f4b75a38e87ecd5',t:'MTc3NzYwMzYyNQ=='};var a=document.createElement('script');a.src='/cdn-cgi/challenge-platform/scripts/jsd/main.js';document.getElementsByTagName('head')[0].appendChild(a);";b.getElementsByTagName('head')[0].appendChild(d)}}if(document.body){var a=document.createElement('iframe');a.height=1;a.width=1;a.style.position='absolute';a.style.top=0;a.style.left=0;a.style.border='none';a.style.visibility='hidden';document.body.appendChild(a);if('loading'!==document.readyState)c();else if(window.addEventListener)document.addEventListener('DOMContentLoaded',c);else{var e=document.onreadystatechange||function(){};document.onreadystatechange=function(b){e(b);'loading'!==document.readyState&&(document.onreadystatechange=e,c())}}}})();</script></body>
+<script>(function(){function c(){var b=a.contentDocument||a.contentWindow.document;if(b){var d=b.createElement('script');d.innerHTML="window.__CF$cv$params={r:'9f4ca6d26935fd24',t:'MTc3NzYxNjEyNQ=='};var a=document.createElement('script');a.src='/cdn-cgi/challenge-platform/scripts/jsd/main.js';document.getElementsByTagName('head')[0].appendChild(a);";b.getElementsByTagName('head')[0].appendChild(d)}}if(document.body){var a=document.createElement('iframe');a.height=1;a.width=1;a.style.position='absolute';a.style.top=0;a.style.left=0;a.style.border='none';a.style.visibility='hidden';document.body.appendChild(a);if('loading'!==document.readyState)c();else if(window.addEventListener)document.addEventListener('DOMContentLoaded',c);else{var e=document.onreadystatechange||function(){};document.onreadystatechange=function(b){e(b);'loading'!==document.readyState&&(document.onreadystatechange=e,c())}}}})();</script></body>
 <style>
 body {
 color: #1d1e20;
@@ -3138,13 +3125,13 @@ color: #6D7081;
 }
 </style>
 </html>
-#EXTINF:-1 group-logo="https://static-web.prod.vidiocdn.com/_next/static/logo/vidio.png" tvg-logo="https://thumbor.prod.vidiocdn.com/mk4AsRibau3CLGQvd5G6uAKHzUU=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5038854/d41a3a.jpg" group-title="LIVE BASKET 🏀", 09:00 WIB 01/05/26 Soegijapranata Catholic University vs Universitas Kristen Duta Wacana (Grup C | Putra) - CL Basketball 2026 - Regional Jogja [J1]
+#EXTINF:-1 group-logo="https://static-web.prod.vidiocdn.com/_next/static/logo/vidio.png" tvg-logo="https://thumbor.prod.vidiocdn.com/Sm80SwRbYyF-deoILYwtT7dZGwI=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5055293/501e14.jpg" group-title="LIVE FIGHTING 🥊", 13:00 WIB 01/05/26 Universitas Atma Jaya Yogyakarta vs Universitas Muhammadiyah Yogyakarta (Grup B | Putra) - CL Basketball 2026 - Regional Jogja [J1]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 #EXTVLCOPT:network-caching=150
 #EXTVLCOPT:live-caching=150
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 https://bosstv.asia/1/21210.m3u8?sign=561b2125
-#EXTINF:-1 group-logo="https://static-web.prod.vidiocdn.com/_next/static/logo/vidio.png" tvg-logo="https://thumbor.prod.vidiocdn.com/mk4AsRibau3CLGQvd5G6uAKHzUU=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5038854/d41a3a.jpg" group-title="LIVE BASKET 🏀", 09:00 WIB 01/05/26 Soegijapranata Catholic University vs Universitas Kristen Duta Wacana (Grup C | Putra) - CL Basketball 2026 - Regional Jogja [J1] (MPD)
+#EXTINF:-1 group-logo="https://static-web.prod.vidiocdn.com/_next/static/logo/vidio.png" tvg-logo="https://thumbor.prod.vidiocdn.com/Sm80SwRbYyF-deoILYwtT7dZGwI=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5055293/501e14.jpg" group-title="LIVE FIGHTING 🥊", 13:00 WIB 01/05/26 Universitas Atma Jaya Yogyakarta vs Universitas Muhammadiyah Yogyakarta (Grup B | Putra) - CL Basketball 2026 - Regional Jogja [J1] (MPD)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 #EXTVLCOPT:network-caching=150
 #EXTVLCOPT:live-caching=150
@@ -3153,13 +3140,7 @@ https://bosstv.asia/1/21210.m3u8?sign=561b2125
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://bosstv.asia/1/21210.drm?sign=561b2125
 https://bosstv.asia/1/21210.mpd?sign=561b2125
-#EXTINF:-1 tvg-id="1011" tvg-logo="https://www.visionplus.id/images/repository/489/735489-SNAPSHOT-m.jpg" group-title="LIVE R+xc",🔴 [Live] PRO Futsal League 2 • Maestro vs Futsal Mbak Adjeng (08:55 WIB • 01/05/2026)
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=4035323a7fe64767ab8f3345ed9b93be:67377b8d429603f8bf30c161bda269e5
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; SM-G9980) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Mobile Safari/537.36
-#EXTVLCOPT:http-referrer=https://visionplus.id/
-https://d2xz2v5wuvgur6.cloudfront.net/out/v1/63c0da12bb4d48afbaf053f51dff2353/index.mpd
-#EXTINF:-1 tvg-id="112" tvg-logo="https://www.visionplus.id/images/repository/038/734038-SNAPSHOT-m.jpg" group-title="JADWAL Riii+",⏳ [Upcoming] Sirkuit Nasional B Palu • U-11, U-15 - Semifinal (13:00 WIB • 01/05/2026)
+#EXTINF:-1 tvg-id="112" tvg-logo="https://www.visionplus.id/images/repository/038/734038-SNAPSHOT-m.jpg" group-title="LIVE R+xc",🔴 [Live] Sirkuit Nasional B Palu • U-11, U-15 - Semifinal (13:00 WIB • 01/05/2026)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=39c4dc6704cf4ceea2fd4863b88d8a7d:4e9d7954c2ff46759289da4fc9f018ea
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; SM-G9980) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Mobile Safari/537.36
