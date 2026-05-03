@@ -1,13 +1,13 @@
 const fs = require('fs');
 
 // ==============================
-// CONFIG — Hanya baris ini yang berbeda dari extract_merah.js
+// CONFIG
 // ==============================
 const PLAYLIST_URLS = [
     "https://enak.maling.pl/"
 ];
 const OUTPUT_FILE  = "enak.m3u8";
-const USER_AGENT   = "TiviMate/5.0.4";
+const USER_AGENT   = "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36";
 const CLEARKEY_PROXY_UA = "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36";
 
 // ==============================
@@ -53,7 +53,7 @@ async function fetchAndFormatClearKey(licenseUrl, retries = 3) {
 
             if (data.keys && data.keys.length > 0) {
                 const base64ToHex = (b64) => {
-                    const raw = atob(b64.replace(/-/g, '+').replace(/_/g, '/'));
+                    const raw = Buffer.from(b64.replace(/-/g, '+').replace(/_/g, '/'), 'base64').toString('binary');
                     return Array.from(raw).map(c => c.charCodeAt(0).toString(16).padStart(2, '0')).join('');
                 };
                 const keyPairs = data.keys
@@ -76,10 +76,12 @@ async function getWorkingProxy() {
     console.log(`[0/3] Fetching Indonesian proxies...`);
     let allProxies = new Set();
     try {
+        const fetch = require('node-fetch');
         const r1 = await fetch('https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=id&ssl=all&anonymity=all');
         (await r1.text()).split('\n').map(p => p.trim()).filter(Boolean).forEach(p => allProxies.add(p));
     } catch (e) {}
     try {
+        const fetch = require('node-fetch');
         const r2 = await fetch('https://www.proxy-list.download/api/v1/get?type=http&country=ID');
         (await r2.text()).split('\n').map(p => p.trim()).filter(Boolean).forEach(p => allProxies.add(p));
     } catch (e) {}
@@ -101,7 +103,7 @@ async function fetchWithRetry(url, options, proxies) {
         console.log(`  -> Trying system curl (TLS Bypass)...`);
         const args = ['-sL', url,
             '-H', `User-Agent: ${options.headers['User-Agent']}`,
-            '-H', 'Accept: */*',
+            '-H', 'Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8',
             '-H', 'Accept-Language: id-ID,id;q=0.9',
             '-H', 'Connection: keep-alive',
             '--compressed'
@@ -114,19 +116,19 @@ async function fetchWithRetry(url, options, proxies) {
                 console.log(`  -> Success with curl!`);
                 return text;
             }
-            // Tampilkan preview jika bukan M3U
-            console.log(`  -> Curl response preview: ${text.substring(0, 200)}`);
+            console.log(`  -> Curl response preview: ${text.substring(0, 50)}...`);
         }
     } catch (e) {}
 
     // 2. Coba Node fetch langsung
     try {
         console.log(`  -> Trying direct Node fetch...`);
+        const fetch = require('node-fetch');
         const res = await fetch(url, options);
         let text = (await res.text()).trim();
         if (text.charCodeAt(0) === 0xFEFF) text = text.slice(1);
         if (text.startsWith('#EXTM3U')) return text;
-        console.log(`  -> Direct fetch response (${res.status}): ${text.substring(0, 200)}`);
+        console.log(`  -> Direct fetch response (${res.status}): ${text.substring(0, 50)}...`);
     } catch (e) { console.log(`  -> Direct fetch error: ${e.message}`); }
 
     if (proxies.length === 0) throw new Error("No proxies available.");
@@ -135,21 +137,56 @@ async function fetchWithRetry(url, options, proxies) {
     console.log(`  -> Racing ${proxies.length} proxies...`);
     return new Promise((resolve, reject) => {
         let pending = proxies.length, resolved = false;
+        if (pending === 0) return reject(new Error("No proxies available."));
+
+        const timeoutId = setTimeout(() => {
+            if (!resolved) {
+                resolved = true;
+                reject(new Error("Proxy racing timed out (30s)"));
+            }
+        }, 30000);
+
         for (const proxy of proxies) {
-            const agent = new HttpsProxyAgent(`http://${proxy}`);
-            fetchWithAgent(url, { ...options, agent, timeout: 15000 })
-                .then(async res => {
-                    if (resolved) return;
-                    if (!res.ok) throw new Error("Status " + res.status);
-                    let text = (await res.text()).trim();
-                    if (text.charCodeAt(0) === 0xFEFF) text = text.slice(1);
-                    if (text.startsWith('#EXTM3U')) {
-                        resolved = true;
-                        console.log(`  -> Success with proxy ${proxy}!`);
-                        resolve(text);
-                    } else throw new Error("Not M3U");
-                })
-                .catch(() => { pending--; if (pending === 0 && !resolved) reject(new Error("All proxies failed.")); });
+            try {
+                if (!proxy.includes(':')) { 
+                    pending--; 
+                    if (pending === 0 && !resolved) {
+                        clearTimeout(timeoutId);
+                        reject(new Error("All proxies were invalid."));
+                    }
+                    continue; 
+                }
+                
+                const agent = new HttpsProxyAgent(`http://${proxy}`);
+                fetchWithAgent(url, { ...options, agent, timeout: 12000 })
+                    .then(async res => {
+                        if (resolved) return;
+                        if (!res.ok) throw new Error("Status " + res.status);
+                        let text = (await res.text()).trim();
+                        if (text.charCodeAt(0) === 0xFEFF) text = text.slice(1);
+                        if (text.startsWith('#EXTM3U')) {
+                            resolved = true;
+                            clearTimeout(timeoutId);
+                            console.log(`  -> Success with proxy ${proxy}!`);
+                            resolve(text);
+                        } else throw new Error("Not M3U");
+                    })
+                    .catch(() => { 
+                        pending--; 
+                        if (pending === 0 && !resolved) {
+                            resolved = true;
+                            clearTimeout(timeoutId);
+                            reject(new Error("All proxies failed."));
+                        }
+                    });
+            } catch (e) {
+                pending--;
+                if (pending === 0 && !resolved) {
+                    resolved = true;
+                    clearTimeout(timeoutId);
+                    reject(new Error("All proxies failed during initialization."));
+                }
+            }
         }
     });
 }
@@ -166,8 +203,6 @@ async function processM3U(m3uText) {
     for (let i = 0; i < lines.length; i++) {
         let line = lines[i].trim();
         if (!line) continue;
-
-        // Skip header — akan ditambahkan satu kali oleh main
         if (line.startsWith('#EXTM3U')) continue;
 
         if (line.startsWith('#KODIPROP:inputstream.adaptive.license_type=')) {
@@ -200,7 +235,6 @@ async function processM3U(m3uText) {
             processedLines.push(line);
         }
     }
-
     return processedLines;
 }
 
@@ -211,7 +245,7 @@ async function main() {
     const fetchOptions = {
         headers: {
             "User-Agent": USER_AGENT,
-            "Accept": "*/*",
+            "Accept": "text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8",
             "Accept-Encoding": "gzip",
             "Connection": "Keep-Alive"
         },
@@ -221,7 +255,6 @@ async function main() {
     let mergedLines = ['#EXTM3U'];
     let totalChannels = 0;
 
-    console.log(`[0/3] Fetching Indonesian proxies...`);
     const proxies = await getWorkingProxy();
 
     for (let idx = 0; idx < PLAYLIST_URLS.length; idx++) {
