@@ -120,6 +120,7 @@ async function fetchWithRetry(url, options, proxies) {
                 console.log(`  -> Success with curl!`);
                 return text;
             }
+            console.log(`  -> Curl failed. Preview: ${text.substring(0, 100).replace(/\n/g, ' ')}`);
         }
     } catch (e) {}
 
@@ -131,7 +132,8 @@ async function fetchWithRetry(url, options, proxies) {
         let text = (await res.text()).trim();
         if (text.charCodeAt(0) === 0xFEFF) text = text.slice(1);
         if (text.startsWith('#EXTM3U')) return text;
-    } catch (e) {}
+        console.log(`  -> Direct fetch failed (${res.status}). Preview: ${text.substring(0, 100).replace(/\n/g, ' ')}`);
+    } catch (e) { console.log(`  -> Direct fetch error: ${e.message}`); }
 
     if (proxies.length === 0) throw new Error("No proxies available.");
 
@@ -147,30 +149,48 @@ async function fetchWithRetry(url, options, proxies) {
             }
         }, 30000);
 
-        for (const proxy of proxies) {
-            if (!proxy.includes(':')) { pending--; continue; }
-            const agent = new HttpsProxyAgent(`http://${proxy}`);
-            fetchWithAgent(url, { ...options, agent, timeout: 12000 })
-                .then(async res => {
-                    if (resolved) return;
-                    if (!res.ok) throw new Error("Status " + res.status);
-                    let text = (await res.text()).trim();
-                    if (text.charCodeAt(0) === 0xFEFF) text = text.slice(1);
-                    if (text.startsWith('#EXTM3U')) {
-                        resolved = true;
-                        clearTimeout(timeoutId);
-                        console.log(`  -> Success with proxy ${proxy}!`);
-                        resolve(text);
-                    } else throw new Error("Not M3U");
-                })
-                .catch(() => { 
-                    pending--; 
-                    if (pending === 0 && !resolved) {
-                        resolved = true;
-                        clearTimeout(timeoutId);
-                        reject(new Error("All proxies failed."));
-                    }
-                });
+        for (const rawProxy of proxies) {
+            const proxy = rawProxy.replace(/\r/g, '').trim(); // Bersihkan karakter siluman \r
+            if (!proxy || !proxy.includes(':')) { 
+                pending--; 
+                if (pending === 0 && !resolved) {
+                    clearTimeout(timeoutId);
+                    reject(new Error("All proxies failed or invalid."));
+                }
+                continue; 
+            }
+            
+            try {
+                const agent = new HttpsProxyAgent(`http://${proxy}`);
+                fetchWithAgent(url, { ...options, agent, timeout: 12000 })
+                    .then(async res => {
+                        if (resolved) return;
+                        if (!res.ok) throw new Error("Status " + res.status);
+                        let text = (await res.text()).trim();
+                        if (text.charCodeAt(0) === 0xFEFF) text = text.slice(1);
+                        if (text.startsWith('#EXTM3U')) {
+                            resolved = true;
+                            clearTimeout(timeoutId);
+                            console.log(`  -> Success with proxy ${proxy}!`);
+                            resolve(text);
+                        } else throw new Error("Not M3U");
+                    })
+                    .catch(() => { 
+                        pending--; 
+                        if (pending === 0 && !resolved) {
+                            resolved = true;
+                            clearTimeout(timeoutId);
+                            reject(new Error("All proxies failed."));
+                        }
+                    });
+            } catch (e) {
+                pending--;
+                if (pending === 0 && !resolved) {
+                    resolved = true;
+                    clearTimeout(timeoutId);
+                    reject(new Error("All proxies failed during initialization."));
+                }
+            }
         }
     });
 }
