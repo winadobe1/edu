@@ -1,314 +1,263 @@
 const fs = require('fs');
-const readline = require('readline');
+const path = require('path');
 
-const PLAYLIST_URL = "https://semar25.short.gy";
-const USER_AGENT = "TiviMate/5.0.4"; // Required to bypass
+// ==============================
+// CONFIG
+// ==============================
+const PLAYLIST_URLS = [
+    "https://semar25.short.gy"
+];
+const OUTPUT_FILE  = "merah.m3u8";
+const USER_AGENT   = "TiviMate/5.0.4";
 const CLEARKEY_PROXY_UA = "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36";
 
-/**
- * Helper to fetch ClearKey JSON from provider and format it as kid:key
- */
+// ==============================
+// FETCH CLEARKEY (kid:key Resolver)
+// ==============================
 async function fetchAndFormatClearKey(licenseUrl, retries = 3) {
     for (let attempt = 1; attempt <= retries; attempt++) {
         try {
-            // Create a dummy payload. Most providers just need ANY kids array to respond with the full key rotation.
             const payload = { kids: ["W2uFp1vEQKigw1q1yU_9Wg"], type: "temporary" };
-
             let headers = {
                 'Content-Type': 'application/json',
                 'User-Agent': CLEARKEY_PROXY_UA
             };
 
-            if (licenseUrl.includes('semar.my.id') || licenseUrl.includes('aspaltvpasti.top')) {
-                try {
-                    const urlObj = new URL(licenseUrl);
-                    headers['Referer'] = urlObj.origin + '/';
-                    headers['Origin'] = urlObj.origin;
-                } catch (e) {
-                    // Fallback
-                    headers['Referer'] = 'https://sports.semar.my.id/';
-                    headers['Origin'] = 'https://sports.semar.my.id';
-                }
+            try {
+                const urlObj = new URL(licenseUrl);
+                headers['Referer'] = urlObj.origin + '/';
+                headers['Origin']  = urlObj.origin;
+            } catch (e) {
+                headers['Referer'] = 'https://sports.semar.my.id/';
+                headers['Origin']  = 'https://sports.semar.my.id';
             }
 
             const { spawnSync } = require('child_process');
-            
             const curlArgs = [
-                '-sL', licenseUrl,
-                '-X', 'POST',
+                '-sL', licenseUrl, '-X', 'POST',
                 '-H', `Content-Type: ${headers['Content-Type']}`,
                 '-H', `User-Agent: ${headers['User-Agent']}`,
                 '-H', `Referer: ${headers['Referer']}`,
                 '-H', `Origin: ${headers['Origin']}`,
-                '-d', JSON.stringify(payload),
-                '--compressed'
+                '-d', JSON.stringify(payload), '--compressed'
             ];
 
             const curlResult = spawnSync('curl', curlArgs, { encoding: 'utf-8' });
-            
+
             if (curlResult.status !== 0 || !curlResult.stdout || curlResult.stdout.includes('Cloudflare') || curlResult.stdout.includes('<html')) {
-                // If it returned HTML or failed curl, likely a 502/Cloudflare block
-                if (attempt < retries) {
-                    await new Promise(r => setTimeout(r, 1500 * attempt));
-                    continue;
-                }
-                console.log(`\n  -> [Provider Error] Curl failed or got HTML on ${licenseUrl} (Attempt ${attempt}/${retries})`);
-                if (curlResult.stdout) console.log(`  -> [Provider Body] ${curlResult.stdout.substring(0, 150).replace(/\n/g, ' ')}`);
+                if (attempt < retries) { await new Promise(r => setTimeout(r, 1500 * attempt)); continue; }
                 return licenseUrl;
             }
 
             let data;
-            try {
-                data = JSON.parse(curlResult.stdout);
-            } catch (e) {
-                if (attempt < retries) {
-                    await new Promise(r => setTimeout(r, 1500 * attempt));
-                    continue;
-                }
-                console.log(`\n  -> [Provider Error] Invalid JSON on ${licenseUrl}`);
+            try { data = JSON.parse(curlResult.stdout); } catch (e) {
+                if (attempt < retries) { await new Promise(r => setTimeout(r, 1500 * attempt)); continue; }
                 return licenseUrl;
             }
-            
+
             if (data.keys && data.keys.length > 0) {
-                // Helper to decode Base64Url into raw Hex string
-                const base64ToHex = (base64) => {
-                    const b64 = base64.replace(/-/g, '+').replace(/_/g, '/');
-                    const raw = atob(b64);
-                    let hex = '';
-                    for (let i = 0; i < raw.length; i++) {
-                        const hexChar = raw.charCodeAt(i).toString(16);
-                        hex += (hexChar.length === 2 ? hexChar : '0' + hexChar);
-                    }
-                    return hex;
+                const base64ToHex = (b64) => {
+                    const raw = Buffer.from(b64.replace(/-/g, '+').replace(/_/g, '/'), 'base64').toString('binary');
+                    return Array.from(raw).map(c => c.charCodeAt(0).toString(16).padStart(2, '0')).join('');
                 };
-
-                const keyPairs = data.keys.map(k => {
-                    if (k.kty === 'oct' && k.k && k.kid) {
-                        return `${base64ToHex(k.kid)}:${base64ToHex(k.k)}`;
-                    }
-                    return null;
-                }).filter(Boolean);
-
-                if (keyPairs.length > 0) {
-                    return keyPairs.join(','); // E.g., "kid1:key1,kid2:key2"
-                }
+                const keyPairs = data.keys
+                    .filter(k => k.kty === 'oct' && k.k && k.kid)
+                    .map(k => `${base64ToHex(k.kid)}:${base64ToHex(k.k)}`);
+                if (keyPairs.length > 0) return keyPairs.join(',');
             }
             return licenseUrl;
         } catch (e) {
-            if (attempt < retries) {
-                await new Promise(r => setTimeout(r, 1000 * attempt));
-                continue;
-            }
-            console.error(`Failed to fetch key for ${licenseUrl} after ${retries} attempts:`, e.message);
+            if (attempt < retries) { await new Promise(r => setTimeout(r, 1000 * attempt)); continue; }
             return licenseUrl;
         }
     }
 }
 
+// ==============================
+// PROXY FETCHER
+// ==============================
 async function getWorkingProxy() {
-    console.log(`[0/3] Fetching Indonesian proxies to bypass Datacenter Block...`);
+    console.log(`[0/3] Fetching Indonesian proxies...`);
     let allProxies = new Set();
-    
     try {
-        const url1 = 'https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=id&ssl=all&anonymity=all';
-        const res1 = await fetch(url1);
-        const text1 = await res1.text();
-        text1.split('\n').map(p => p.trim()).filter(Boolean).forEach(p => allProxies.add(p));
+        const fetch = require('node-fetch');
+        const r1 = await fetch('https://api.proxyscrape.com/v2/?request=displayproxies&protocol=http&timeout=10000&country=id&ssl=all&anonymity=all');
+        (await r1.text()).split('\n').map(p => p.trim()).filter(Boolean).forEach(p => allProxies.add(p));
     } catch (e) {}
-
     try {
-        const url2 = 'https://www.proxy-list.download/api/v1/get?type=http&country=ID';
-        const res2 = await fetch(url2);
-        const text2 = await res2.text();
-        text2.split('\n').map(p => p.trim()).filter(Boolean).forEach(p => allProxies.add(p));
+        const fetch = require('node-fetch');
+        const r2 = await fetch('https://www.proxy-list.download/api/v1/get?type=http&country=ID');
+        (await r2.text()).split('\n').map(p => p.trim()).filter(Boolean).forEach(p => allProxies.add(p));
     } catch (e) {}
-
     const proxyList = Array.from(allProxies);
     console.log(`  -> Found ${proxyList.length} proxies.`);
     return proxyList;
 }
 
+// ==============================
+// FETCH WITH RETRY (curl + proxy)
+// ==============================
 async function fetchWithRetry(url, options, proxies) {
     const { HttpsProxyAgent } = require('https-proxy-agent');
     const fetchWithAgent = require('node-fetch');
     const { spawnSync } = require('child_process');
 
-    // Coba menggunakan CURL (untuk bypass Cloudflare TLS Fingerprint pada Node.js)
+    // 1. Coba curl (TLS Fingerprint Bypass)
     try {
         console.log(`  -> Trying system curl (TLS Bypass)...`);
-        
-        const args = [
-            '-sL', url,
+        const args = ['-sL', url,
             '-H', `User-Agent: ${options.headers['User-Agent']}`,
-            '-H', 'Accept: */*',
+            '-H', 'Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8',
             '-H', 'Accept-Language: id-ID,id;q=0.9,en-US;q=0.8,en;q=0.7',
             '-H', 'Connection: keep-alive',
             '--compressed'
         ];
-        
-        const curlResult = spawnSync('curl', args, { encoding: 'utf-8' });
-        
-        if (curlResult.stdout) {
-            let text = curlResult.stdout.trim();
+        const result = spawnSync('curl', args, { encoding: 'utf-8' });
+        if (result.stdout) {
+            let text = result.stdout.trim();
             if (text.charCodeAt(0) === 0xFEFF) text = text.slice(1);
-            if (text.startsWith("#EXTM3U")) {
-                console.log(`  -> Success with system curl!`);
+            if (text.startsWith('#EXTM3U')) {
+                console.log(`  -> Success with curl!`);
                 return text;
             }
         }
     } catch (e) {}
 
-    // Coba tanpa proxy pakai Node Fetch
+    // 2. Coba Node fetch langsung
     try {
         console.log(`  -> Trying direct Node fetch...`);
+        const fetch = require('node-fetch');
         const res = await fetch(url, options);
-        let text = await res.text();
-        text = text.trim();
+        let text = (await res.text()).trim();
         if (text.charCodeAt(0) === 0xFEFF) text = text.slice(1);
-        if (text.startsWith("#EXTM3U")) return text;
+        if (text.startsWith('#EXTM3U')) return text;
     } catch (e) {}
 
-    if (proxies.length === 0) {
-        throw new Error("No proxies available to bypass Cloudflare.");
-    }
+    if (proxies.length === 0) throw new Error("No proxies available.");
 
-    console.log(`  -> Racing ${proxies.length} proxies concurrently...`);
-    
+    // 3. Race proxies (Bypass Datacenter Block)
+    console.log(`  -> Racing ${proxies.length} proxies...`);
     return new Promise((resolve, reject) => {
-        let pending = proxies.length;
-        let resolved = false;
+        let pending = proxies.length, resolved = false;
+        
+        const timeoutId = setTimeout(() => {
+            if (!resolved) {
+                resolved = true;
+                reject(new Error("Proxy racing timed out (30s)"));
+            }
+        }, 30000);
 
-        const checkData = (text) => {
-            text = text.trim();
-            if (text.charCodeAt(0) === 0xFEFF) text = text.slice(1);
-            return text.startsWith("#EXTM3U") ? text : null;
-        };
-
-        for (let i = 0; i < proxies.length; i++) {
-            const proxyUrl = `http://${proxies[i]}`;
-            const agent = new HttpsProxyAgent(proxyUrl);
-            const proxyOptions = { ...options, agent, timeout: 15000 };
-
-            fetchWithAgent(url, proxyOptions)
-                .then(async (res) => {
+        for (const proxy of proxies) {
+            if (!proxy.includes(':')) { pending--; continue; }
+            const agent = new HttpsProxyAgent(`http://${proxy}`);
+            fetchWithAgent(url, { ...options, agent, timeout: 12000 })
+                .then(async res => {
                     if (resolved) return;
                     if (!res.ok) throw new Error("Status " + res.status);
-                    
-                    const text = await res.text();
-                    const validM3u = checkData(text);
-                    
-                    if (validM3u) {
+                    let text = (await res.text()).trim();
+                    if (text.charCodeAt(0) === 0xFEFF) text = text.slice(1);
+                    if (text.startsWith('#EXTM3U')) {
                         resolved = true;
-                        console.log(`  -> Success with proxy ${proxies[i]}!`);
-                        resolve(validM3u);
-                    } else {
-                        throw new Error("Not M3U format");
-                    }
+                        clearTimeout(timeoutId);
+                        console.log(`  -> Success with proxy ${proxy}!`);
+                        resolve(text);
+                    } else throw new Error("Not M3U");
                 })
-                .catch((err) => {
-                    pending--;
+                .catch(() => { 
+                    pending--; 
                     if (pending === 0 && !resolved) {
-                        reject(new Error("Invalid M3U received or blocked by all proxies."));
+                        resolved = true;
+                        clearTimeout(timeoutId);
+                        reject(new Error("All proxies failed."));
                     }
                 });
         }
     });
 }
 
-async function generateOfflineM3U() {
-    console.log(`[1/3] Downloading live playlist from: ${PLAYLIST_URL}`);
-    
-    try {
-        const proxies = await getWorkingProxy();
-        
-        const fetchOptions = {
-            headers: { 
-                "User-Agent": USER_AGENT,
-                "Accept": "*/*",
-                "Accept-Encoding": "gzip",
-                "Connection": "Keep-Alive"
-            },
-            redirect: "follow"
-        };
+// ==============================
+// PROCESS M3U CONTENT
+// ==============================
+async function processM3U(m3uText) {
+    const lines = m3uText.split('\n');
+    let processedLines = [];
+    let skipChannel = false;
+    let currentLicenseType = '';
 
-        const m3uText = await fetchWithRetry(PLAYLIST_URL, fetchOptions, proxies);
+    for (let i = 0; i < lines.length; i++) {
+        let line = lines[i].trim();
+        if (!line) continue;
+        if (line.startsWith('#EXTM3U')) continue;
 
-        console.log(`[2/3] Playlist downloaded. Sifting for ClearKey links and fetching keys...`);
-        
-        const lines = m3uText.split('\n');
-        let processedLines = [];
-        let skipChannel = false;
-        let currentLicenseType = '';
-        
-        for (let i = 0; i < lines.length; i++) {
-            let line = lines[i].trim();
-            if (!line) continue;
-            
-            // Clean up the main EXTM3U header by removing url-tvg
-            if (line.startsWith('#EXTM3U')) {
-                processedLines.push('#EXTM3U');
-                continue;
-            }
+        if (line.startsWith('#KODIPROP:inputstream.adaptive.license_type=')) {
+            currentLicenseType = line.split('=')[1].trim();
+        } else if (line.startsWith('#EXTINF:')) {
+            currentLicenseType = '';
+            skipChannel = line.includes('https://t.me/semar_25');
+        }
 
-            if (line.startsWith('#KODIPROP:inputstream.adaptive.license_type=')) {
-                currentLicenseType = line.split('=')[1].trim();
-            } else if (line.startsWith('#EXTINF:')) {
-                // Reset license type for the next channel
-                currentLicenseType = '';
-            }
+        if (skipChannel) continue;
 
-            // Filter out specific SemarTV Telegram channels
-            if (line.startsWith('#EXTINF:')) {
-                if (line.includes('https://t.me/semar_25')) {
-                    skipChannel = true;
-                    continue;
+        if (line.startsWith('#KODIPROP:inputstream.adaptive.license_key=') && currentLicenseType === 'clearkey') {
+            let licenseUrl = line.substring('#KODIPROP:inputstream.adaptive.license_key='.length).trim();
+            if (licenseUrl && licenseUrl.startsWith('http') && !licenseUrl.includes('indick.kt')) {
+                process.stdout.write(`  Fetching key -> ${licenseUrl.substring(0, 50)}... `);
+                const hexKey = await fetchAndFormatClearKey(licenseUrl);
+                if (hexKey && hexKey !== licenseUrl) {
+                    console.log(`OK`);
+                    processedLines.push(`#KODIPROP:inputstream.adaptive.license_key=${hexKey}`);
                 } else {
-                    skipChannel = false;
-                }
-            }
-
-            // Skip all lines associated with the excluded channel
-            if (skipChannel) continue;
-            
-            // Look for ClearKey KODIPROP properties
-            if (line.startsWith('#KODIPROP:inputstream.adaptive.license_key=')) {
-                let licenseUrl = line.substring('#KODIPROP:inputstream.adaptive.license_key='.length).trim();
-                
-                // If it's a web URL, try to intercept and resolve the key
-                if (licenseUrl && licenseUrl.startsWith('http') && !licenseUrl.includes('indick.kt')) {
-                    if (currentLicenseType === 'clearkey') {
-                        process.stdout.write(`Fetching key for URL -> ${licenseUrl.substring(0, 50)}... `);
-                        
-                        const hexKeyCombo = await fetchAndFormatClearKey(licenseUrl);
-                        
-                        if (hexKeyCombo && hexKeyCombo !== licenseUrl) {
-                            console.log(`SUCCESS`);
-                            processedLines.push(`#KODIPROP:inputstream.adaptive.license_key=${hexKeyCombo}`);
-                        } else {
-                            console.log(`FAILED (Keeping original URL)`);
-                            processedLines.push(line);
-                        }
-                    } else {
-                        // Widevine or missing license type, ignore URL fetch
-                        processedLines.push(line);
-                    }
-                } else {
+                    console.log(`FAILED (keeping URL)`);
                     processedLines.push(line);
                 }
             } else {
                 processedLines.push(line);
             }
+        } else {
+            processedLines.push(line);
         }
-
-        const outputPath = 'merah.m3u8';
-        fs.writeFileSync(outputPath, processedLines.join('\n'));
-        console.log(`\n[3/3] DONE! Offline M3U has been written to: ${outputPath}`);
-        process.exit(0);
-        
-    } catch (error) {
-        console.error("Error generating offline M3U:", error);
-        process.exit(1);
     }
+    return processedLines;
 }
 
-generateOfflineM3U();
+// ==============================
+// MAIN
+// ==============================
+async function main() {
+    const fetchOptions = {
+        headers: {
+            "User-Agent": USER_AGENT,
+            "Accept": "text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8",
+            "Accept-Encoding": "gzip",
+            "Connection": "Keep-Alive"
+        },
+        redirect: "follow"
+    };
+
+    let mergedLines = ['#EXTM3U'];
+    let totalChannels = 0;
+
+    const proxies = await getWorkingProxy();
+
+    for (let idx = 0; idx < PLAYLIST_URLS.length; idx++) {
+        const url = PLAYLIST_URLS[idx];
+        console.log(`\n[${idx + 1}/${PLAYLIST_URLS.length}] Downloading: ${url}`);
+        try {
+            const m3uText = await fetchWithRetry(url, fetchOptions, proxies);
+            console.log(`  -> Downloaded (${m3uText.length} chars). Processing...`);
+            const processed = await processM3U(m3uText);
+            const channelCount = processed.filter(l => l.startsWith('#EXTINF')).length;
+            console.log(`  -> Processed: ${channelCount} channels`);
+            totalChannels += channelCount;
+            mergedLines.push(...processed, '');
+        } catch (err) {
+            console.error(`  -> FAILED: ${err.message} (skipping)`);
+        }
+    }
+
+    fs.writeFileSync(OUTPUT_FILE, mergedLines.join('\n'));
+    console.log(`\n✅ DONE! Output: ${OUTPUT_FILE} | Total: ${totalChannels} channels from ${PLAYLIST_URLS.length} sources`);
+    process.exit(0);
+}
+
+main();
