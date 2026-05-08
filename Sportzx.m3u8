@@ -331,6 +331,21 @@ https://d1yi40sjj0ca0v.cloudfront.net/TVD6411/index.mpd
 #EXTINF:-1 tvg-id="borussiadortmundvsfrankfurt1930skybundesligasd" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="Bundesliga 🇩🇪",Borussia Dortmund vs Frankfurt 19:30 (SKY BUNDESLIGA SD)
 https://instreams.pro/bil2/bundes1/tracks-v1a1/mono.m3u8
 
+#EXTINF:-1 tvg-id="rclensvsnantes1945ligue1hd" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="Ligue 1 🇫🇷",RC Lens vs Nantes 19:45 (LIGUE 1  HD)
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=0:0
+https://d1yi40sjj0ca0v.cloudfront.net/TVD2084/index.mpd
+
+#EXTINF:-1 tvg-id="alhilalvsalkholood1900foxdeportes" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="Kings Cup",Al-Hilal vs Al-Kholood 19:00 (FOX DEPORTES)
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=d1a163914db8ffad2c3e94f979896a0d:9728800a3959aafdd5b0bcfbf3768811
+https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/vkpoljjpkj/out/v1/502bcf68b3514cd28a220e6f0a43816f/cenc.mpd
+
+#EXTINF:-1 tvg-id="alhilalvsalkholood1900thmanyahhd" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="Kings Cup",Al-Hilal vs Al-Kholood 19:00 (THMANYAH HD)
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=0:0
+https://d1yi40sjj0ca0v.cloudfront.net/TVD1451/index.mpd
+
 #EXTINF:-1 tvg-id="kaiserslauternvsarminia1730elevensports" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="2. Bundesliga",Kaiserslautern vs Arminia 17:30 (ELEVEN SPORTS)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=0:0
