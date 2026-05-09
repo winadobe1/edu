@@ -250,11 +250,6 @@ https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/h9urpo3cwb/out/v1
 #EXTINF:-1 tvg-id="oklahomacitythunder0130hdserver" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="NBA",Oklahoma City Thunder 01:30 (HD SERVER)
 https://instreams.pro/US/NBA2/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 tvg-id="alnajmascvsalhazem1715thmanyahhd" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="Pro League 🇸🇦",Al-Najma SC vs Al-Hazem 17:15 (THMANYAH HD)
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=0:0
-https://d1yi40sjj0ca0v.cloudfront.net/TVD6737/index.mpd
-
 #EXTINF:-1 tvg-id="alfayhavsalqadsiah1900thmanyahhd" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="Pro League 🇸🇦",Al-Fayha vs Al-Qadsiah 19:00 (THMANYAH HD)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=0:0
@@ -270,8 +265,8 @@ https://instreams.pro/US/NHL1/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-id="minnesotawild0200premiersports" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="NHL",Minnesota Wild 02:00 (PREMIER SPORTS)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=1444f4235529f183f0a5a486befe9cdb:e5e3fec67a1bb3472a2089c8a0a2557f
-https://a151aivottlinear-a.akamaihd.net/OTTB/sin-nitro/live/dash/enc/m6sqanvm2m/out/v1/f6beb46c6e9a4132ad739f3ca27df6aa/cenc.mpd
+#KODIPROP:inputstream.adaptive.license_key=1a5df53609ebc9857898c490f4724918:77f62980d582ec541280796acf8b2d19
+https://a151aivottlinear-a.akamaihd.net/OTTB/sin-nitro/live/dash/enc/bcj3iscpd6/out/v1/fcd137b391214f7cb99dd4d7be90ca87/cenc.mpd
 
 #EXTINF:-1 tvg-id="minnesotawild0200hdserver" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="NHL",Minnesota Wild 02:00 (HD SERVER)
 https://instreams.pro/US/NHL2/tracks-v1a1/mono.m3u8
@@ -401,6 +396,9 @@ https://d1yi40sjj0ca0v.cloudfront.net/TVD4071/index.mpd
 #KODIPROP:inputstream.adaptive.license_key=0:0
 https://d1yi40sjj0ca0v.cloudfront.net/TVD6411/index.mpd
 
+#EXTINF:-1 tvg-id="motherwellvsheart2000maineventfhd" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="Scottish Premiership",Motherwell vs Heart 20:00 (MAIN EVENT FHD)
+https://customer-zbcm6pq2tkb2rho0.cloudflarestream.com/1719e2f2cf8b19a82dad1bdc46fedfa9/manifest/video.m3u8
+
 #EXTINF:-1 tvg-id="motherwellvsheart2000sportdigitalfussball" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="Scottish Premiership",Motherwell vs Heart 20:00 (SportDigital Fussball)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=0ad4080cdff8c60b1233b22087f0b340:285f129c5eca01dd08a5d5a14ad801c8
@@ -419,13 +417,10 @@ https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/vkpoljjpkj/out/v1
 #KODIPROP:inputstream.adaptive.license_key=0:0
 https://d1yi40sjj0ca0v.cloudfront.net/TVD1451/index.mpd
 
-#EXTINF:-1 tvg-id="mlagavssportinggijn2000sportdigitalfussball" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="LaLiga 2",M laga vs Sporting Gij n 20:00 (SportDigital Fussball)
+#EXTINF:-1 tvg-id="mlagavssportinggijn2000laligahypermotiones" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="LaLiga 2",M laga vs Sporting Gij n 20:00 (Laliga Hypermotion ES)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=0ad4080cdff8c60b1233b22087f0b340:285f129c5eca01dd08a5d5a14ad801c8
-https://a151aivottlinear-a.akamaihd.net/OTTB/sin-nitro/live/dash/enc/ssdefyhkkr/out/v1/cf01290cb7f64525bdf861580a016ca8/cenc.mpd
-
-#EXTINF:-1 tvg-id="mlagavssportinggijn2000espnnl" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="LaLiga 2",M laga vs Sporting Gij n 20:00 (ESPN NL)
-https://instreams.pro/bil2/foxnl2/tracks-v1a1/mono.m3u8
+#KODIPROP:inputstream.adaptive.license_key=d69894c7b729c5d1e85893e5e6cfcb0f:db0d53f871f5d2ef91d3a112c7ec9f30
+https://a151aivottlinear-a.akamaihd.net/OTTB/sin-nitro/live/dash/enc/tcninbbnt5/out/v1/7668f47d28e345979c072e361f3d3ce3/cenc.mpd
 
 #EXTINF:-1 tvg-id="nrnbergvsschalke1930skybundesligasd" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="2. Bundesliga",N rnberg vs Schalke 19:30 (SKY BUNDESLIGA SD)
 https://instreams.pro/bil2/bundes2/tracks-v1a1/mono.m3u8
@@ -493,6 +488,26 @@ https://instreams.pro/bil2/bundes5/tracks-v1a1/mono.m3u8
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=9dc40460c93087aea84d6315f08ecb64:f69c8d4624fddff4ca89bd0b31bdc4a7
 https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/oy6rp0jwmf/out/v1/580ecf12bad24979baf8dd993dce053e/cenc.mpd
+
+#EXTINF:-1 tvg-id="fluminensevsvitria2200premiererbr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="Brasileirão",Fluminense vs Vit ria 22:00 (PREMIERER BR)
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=56b79c1782b30e6b6fc973b0e8fd4104:fa38aaa865a57eda7c77444697ba8ed3
+https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/nelfyucw9a/out/v1/6ffb2c365ad14f88b154591beb43d1f6/cenc.mpd
+
+#EXTINF:-1 tvg-id="fluminensevsvitria2200sportvbr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="Brasileirão",Fluminense vs Vit ria 22:00 (SporTV BR)
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=4bbcff3289d457b4dd5dbdd21221de9a:c4906b9a9f8dda3c0725bddb8c497733
+https://a151aivottlinear-a.akamaihd.net/OTTB/sin-nitro/live/dash/enc/m7duvnk2bu/out/v1/d1ad69118b5647309b1eb7213affdb3d/cenc.mpd
+
+#EXTINF:-1 tvg-id="bahiavscruzeiro0100premiererbr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="Brasileirão",Bahia vs Cruzeiro 01:00 (PREMIERER BR)
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=9dc40460c93087aea84d6315f08ecb64:f69c8d4624fddff4ca89bd0b31bdc4a7
+https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/oy6rp0jwmf/out/v1/580ecf12bad24979baf8dd993dce053e/cenc.mpd
+
+#EXTINF:-1 tvg-id="bahiavscruzeiro0100sportvbr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="Brasileirão",Bahia vs Cruzeiro 01:00 (SporTV BR)
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=4bbcff3289d457b4dd5dbdd21221de9a:c4906b9a9f8dda3c0725bddb8c497733
+https://a151aivottlinear-a.akamaihd.net/OTTB/sin-nitro/live/dash/enc/m7duvnk2bu/out/v1/d1ad69118b5647309b1eb7213affdb3d/cenc.mpd
 
 #EXTINF:-1 tvg-id="boltonvsbradfordcity2000beinenglishfhd" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="League One 🏴󠁧󠁢󠁥󠁮󠁧󠁿",Bolton vs Bradford City 20:00 (beIN ENGLISH FHD)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
