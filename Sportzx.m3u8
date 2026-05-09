@@ -282,7 +282,7 @@ https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/cllekigzzn/out/v1
 #EXTINF:-1 tvg-id="liverpoolvschelsea1230skysportsfhd" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="EPL 🏴󠁧󠁢󠁥󠁮󠁧󠁿",Liverpool vs Chelsea 12:30 (SKY SPORTS FHD)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=7a2758575dc04d63acc3573ab594d441:47071dd80de746a38cdc6a4dcde21abc
-https://dice-live-oc.akamaized.net/hdntl=exp=1778363892~acl=%2F*~id=2cd8004e-7ae0-43d1-9805-76bc88479344~data=hdntl,aXA9MTA4LjE4MS4zLjE0OSZleHA9MTc3ODI3NzUyMiZlaWQ9OTM5NjY2Jm9pZD0xNTQmdHlwZT1WT0QmdWlkPXhSUnFvOXxiY2FlYTdjZi1jMzM3LTQwMzktODE1OC0zYzFjZTQ5ZTcyOTMmY2lkPWRjZS5maXNmZWQmcHQ9bnVsbA~hmac=917885330f3ece39a3194b2812ca7c0e8cc1c93bfcda87409969c0dd45a3c026/dash/live/2093712/219035-321027/manifest-d.mpd
+https://dice-live-oc.akamaized.net/hdntl=exp=1778407475~acl=%2f*~id=abb506c5-4e11-4f2a-8f4c-bc87e14db85a~data=hdntl,aXA9MjA4Ljg3LjI0Mi4yMyZleHA9MTc3ODMyMTEwNSZlaWQ9OTM2NDI0Jm9pZD0xNTQmdHlwZT1WT0QmdWlkPXhSUnFvOXxiY2FlYTdjZi1jMzM3LTQwMzktODE1OC0zYzFjZTQ5ZTcyOTMmY2lkPWRjZS5maXNmZWQmcHQ9bnVsbA~hmac=06e99f1f8445fdc9f801ffe190da453128aff20c7541f4ab80fcdadfecb29663/dash/live/2093712/219035-321027/manifest-d.mpd
 
 #EXTINF:-1 tvg-id="liverpoolvschelsea1230fubosports" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="EPL 🏴󠁧󠁢󠁥󠁮󠁧󠁿",Liverpool vs Chelsea 12:30 (FUBO SPORTS)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -296,6 +296,9 @@ https://d1yi40sjj0ca0v.cloudfront.net/TVD6219/index.mpd
 
 #EXTINF:-1 tvg-id="liverpoolvschelsea1230hubpremierhd" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="EPL 🏴󠁧󠁢󠁥󠁮󠁧󠁿",Liverpool vs Chelsea 12:30 (HUB PREMIER HD)
 https://cdn-1.ttvb.eu.org/api/Hub-Premier-2/index.m3u8
+
+#EXTINF:-1 tvg-id="liverpoolvschelsea1230beinarabichd" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="EPL 🏴󠁧󠁢󠁥󠁮󠁧󠁿",Liverpool vs Chelsea 12:30 (beIN ARABIC HD)
+https://20syrialive.s3.us-east-2.amazonaws.com/bein1/master.m3u8
 
 #EXTINF:-1 tvg-id="sunderlandvsmanchesterunited1500skysportsfhd" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="EPL 🏴󠁧󠁢󠁥󠁮󠁧󠁿",Sunderland vs Manchester United 15:00 (SKY SPORTS FHD)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -507,14 +510,29 @@ https://a151aivottlinear-a.akamaihd.net/OTTB/sin-nitro/live/dash/enc/ssdefyhkkr/
 #EXTINF:-1 tvg-id="mlagavssportinggijn2000espnnl" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="LaLiga 2",M laga vs Sporting Gij n 20:00 (ESPN NL)
 https://instreams.pro/bil2/foxnl2/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 tvg-id="braunschweigvsdynamodresden1200espnnl" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="2. Bundesliga",Braunschweig vs Dynamo Dresden 12:00 (ESPN NL)
-https://instreams.pro/bil2/foxnl3/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="braunschweigvsdynamodresden1200elevensportshd" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="2. Bundesliga",Braunschweig vs Dynamo Dresden 12:00 (ELEVEN SPORTS HD)
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=0:0
+https://d1yi40sjj0ca0v.cloudfront.net/TVD6412/index.mpd
 
-#EXTINF:-1 tvg-id="bochumvshannover961200beinsportssd" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="2. Bundesliga",Bochum vs Hannover 96 12:00 (beIN SPORTS SD)
-https://instreams.pro/bil1/ligtv2/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="braunschweigvsdynamodresden1200skybundesligasd" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="2. Bundesliga",Braunschweig vs Dynamo Dresden 12:00 (SKY BUNDESLIGA SD)
+https://instreams.pro/bil2/bundes3/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 tvg-id="holsteinkielvsmagdeburg1200beinsportssd" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="2. Bundesliga",Holstein Kiel vs Magdeburg 12:00 (beIN SPORTS SD)
-https://instreams.pro/bil1/ligtv3/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="bochumvshannover961200elevensportshd" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="2. Bundesliga",Bochum vs Hannover 96 12:00 (ELEVEN SPORTS HD)
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=0:0
+https://d1yi40sjj0ca0v.cloudfront.net/TVD6414/index.mpd
+
+#EXTINF:-1 tvg-id="bochumvshannover961200skybundesligasd" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="2. Bundesliga",Bochum vs Hannover 96 12:00 (SKY BUNDESLIGA SD)
+https://instreams.pro/bil2/bundes4/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-id="holsteinkielvsmagdeburg1200elevensportshd" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="2. Bundesliga",Holstein Kiel vs Magdeburg 12:00 (ELEVEN SPORTS HD)
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=0:0
+https://d1yi40sjj0ca0v.cloudfront.net/TVD6411/index.mpd
+
+#EXTINF:-1 tvg-id="holsteinkielvsmagdeburg1200skybundesligasd" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="2. Bundesliga",Holstein Kiel vs Magdeburg 12:00 (SKY BUNDESLIGA SD)
+https://instreams.pro/bil2/bundes5/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-id="nrnbergvsschalke1930beinsportssd" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="2. Bundesliga",N rnberg vs Schalke 19:30 (beIN SPORTS SD)
 https://instreams.pro/bil1/ligtv1/tracks-v1a1/mono.m3u8
