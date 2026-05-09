@@ -287,34 +287,10 @@ https://a151aivottlinear-a.akamaihd.net/OTTB/sin-nitro/live/dash/enc/m6sqanvm2m/
 #EXTINF:-1 tvg-id="minnesotawild0200hdserver" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="NHL",Minnesota Wild 02:00 (HD SERVER)
 https://instreams.pro/US/NHL2/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 tvg-id="liverpoolvschelsea1230tntsportsfhd" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="EPL 🏴󠁧󠁢󠁥󠁮󠁧󠁿",Liverpool vs Chelsea 12:30 (TNT SPORTS FHD)
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=294b5761cefc22d0c6312939e13d8278:52148f1042d238849f0a7813f1da8a7b
-https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/cllekigzzn/out/v1/bd3b0c314fff4bb1ab4693358f3cd2d3/cenc.mpd
-
-#EXTINF:-1 tvg-id="liverpoolvschelsea1230skysportsfhd" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="EPL 🏴󠁧󠁢󠁥󠁮󠁧󠁿",Liverpool vs Chelsea 12:30 (SKY SPORTS FHD)
+#EXTINF:-1 tvg-id="eplgoalrush1455skysportsfhd" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="EPL 🏴󠁧󠁢󠁥󠁮󠁧󠁿",EPL Goal Rush 14:55 (SKY SPORTS FHD)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=7a2758575dc04d63acc3573ab594d441:47071dd80de746a38cdc6a4dcde21abc
 https://dice-live-oc.akamaized.net/hdntl=exp=1778407475~acl=%2f*~id=abb506c5-4e11-4f2a-8f4c-bc87e14db85a~data=hdntl,aXA9MjA4Ljg3LjI0Mi4yMyZleHA9MTc3ODMyMTEwNSZlaWQ9OTM2NDI0Jm9pZD0xNTQmdHlwZT1WT0QmdWlkPXhSUnFvOXxiY2FlYTdjZi1jMzM3LTQwMzktODE1OC0zYzFjZTQ5ZTcyOTMmY2lkPWRjZS5maXNmZWQmcHQ9bnVsbA~hmac=06e99f1f8445fdc9f801ffe190da453128aff20c7541f4ab80fcdadfecb29663/dash/live/2093712/219035-321027/manifest-d.mpd
-
-#EXTINF:-1 tvg-id="liverpoolvschelsea1230fubosports" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="EPL 🏴󠁧󠁢󠁥󠁮󠁧󠁿",Liverpool vs Chelsea 12:30 (FUBO SPORTS)
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=dc69b6159a0f9f0a4e03b3ff91cbacd5:d0dcbcd7723bc40df0bf34c9c092d51f
-https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/3b7qwiqzk3/out/v1/9f14895badca43e6a716db021dcd0c31/cenc.mpd
-
-#EXTINF:-1 tvg-id="liverpoolvschelsea1230nbcpeacockfhd" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="EPL 🏴󠁧󠁢󠁥󠁮󠁧󠁿",Liverpool vs Chelsea 12:30 (NBC PEACOCK FHD)
-https://justinyouwesi.s3.us-east-1.amazonaws.com/sportsnet.m3u8
-
-#EXTINF:-1 tvg-id="liverpoolvschelsea1230novasportspl" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="EPL 🏴󠁧󠁢󠁥󠁮󠁧󠁿",Liverpool vs Chelsea 12:30 (NOVA SPORTS PL)
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=0:0
-https://d1yi40sjj0ca0v.cloudfront.net/TVD6219/index.mpd
-
-#EXTINF:-1 tvg-id="liverpoolvschelsea1230hubpremierhd" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="EPL 🏴󠁧󠁢󠁥󠁮󠁧󠁿",Liverpool vs Chelsea 12:30 (HUB PREMIER HD)
-https://cdn-1.ttvb.eu.org/api/Hub-Premier-1/index.m3u8
-
-#EXTINF:-1 tvg-id="liverpoolvschelsea1230beinarabichd" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="EPL 🏴󠁧󠁢󠁥󠁮󠁧󠁿",Liverpool vs Chelsea 12:30 (beIN ARABIC HD)
-https://20syrialive.s3.us-east-2.amazonaws.com/bein1/master.m3u8
 
 #EXTINF:-1 tvg-id="sunderlandvsmanchesterunited1500skysportsfhd" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="EPL 🏴󠁧󠁢󠁥󠁮󠁧󠁿",Sunderland vs Manchester United 15:00 (SKY SPORTS FHD)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -326,8 +302,8 @@ https://dice-live-oc.akamaized.net/hdntl=exp=1778407462~acl=%2F*~id=423000a0-169
 #KODIPROP:inputstream.adaptive.license_key=0:0
 https://d1yi40sjj0ca0v.cloudfront.net/TVD6219/index.mpd
 
-#EXTINF:-1 tvg-id="sunderlandvsmanchesterunited1500hubpremierhd" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="EPL 🏴󠁧󠁢󠁥󠁮󠁧󠁿",Sunderland vs Manchester United 15:00 (HUB PREMIER HD)
-https://cdn-1.ttvb.eu.org/api/Hub-Premier-4/index.m3u8
+#EXTINF:-1 tvg-id="sunderlandvsmanchesterunited1500skysportshd" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="EPL 🏴󠁧󠁢󠁥󠁮󠁧󠁿",Sunderland vs Manchester United 15:00 (SKY SPORTS HD)
+https://storage.googleapis.com/unicertyngher2/mux_video_ts1/index-1.m3u8
 
 #EXTINF:-1 tvg-id="manchestercityvsbrentford1730fubosports" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="EPL 🏴󠁧󠁢󠁥󠁮󠁧󠁿",Manchester City vs Brentford 17:30 (FUBO SPORTS)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -362,6 +338,9 @@ https://dice-live-oc.akamaized.net/hdntl=exp=1778407470~acl=%2F*~id=e9e9354d-c0f
 #KODIPROP:inputstream.adaptive.license_key=96b67fa09140329a89b7a1ead134eda3:c618d32c56cdc6cad8330eb98507ca3f
 https://live-oneapp-prd-news.akamaized.net/Content/CMAF_OL2-CTR-4s/Live/channel(universo-east)/master.mpd
 
+#EXTINF:-1 tvg-id="fulhamvsbournemouth1500usanetworkhd" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="EPL 🏴󠁧󠁢󠁥󠁮󠁧󠁿",Fulham vs Bournemouth 15:00 (USA NETWORK HD)
+https://storage.googleapis.com/unicertyngher3/mux_video_ts1/index-1.m3u8
+
 #EXTINF:-1 tvg-id="fulhamvsbournemouth1500hubpremierhd" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="EPL 🏴󠁧󠁢󠁥󠁮󠁧󠁿",Fulham vs Bournemouth 15:00 (HUB PREMIER HD)
 https://cdn-1.ttvb.eu.org/api/Hub-Premier-2/index.m3u8
 
@@ -369,6 +348,9 @@ https://cdn-1.ttvb.eu.org/api/Hub-Premier-2/index.m3u8
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=2e2636daa74141b68cc14882ea3ff82b:0961f48287324adbb4b7ff3c9d82b3c9
 https://dice-live-oc.akamaized.net/hdntl=exp=1778407461~acl=%2F*~id=638a748f-951e-403b-aa3f-0f342172f46e~data=hdntl,aXA9MjA4Ljg3LjI0Mi4yMyZleHA9MTc3ODMyMTA5MCZlaWQ9OTM4NTQ3Jm9pZD0xNTQmdHlwZT1WT0QmdWlkPXhSUnFvOXxiY2FlYTdjZi1jMzM3LTQwMzktODE1OC0zYzFjZTQ5ZTcyOTMmY2lkPWRjZS5maXNmZWQmcHQ9bnVsbA~hmac=7af817fc5df624e16b23f2334fdc33c97f490f3f076a4128d0cd8bcdd3d3481d/dash/live/2093717/219028-321030/manifest-d.mpd
+
+#EXTINF:-1 tvg-id="brightonvswolverhampton1500skysportshd" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="EPL 🏴󠁧󠁢󠁥󠁮󠁧󠁿",Brighton vs Wolverhampton 15:00 (SKY SPORTS HD)
+https://storage.googleapis.com/unicertyngher1/mux_video_ts1/index-1.m3u8
 
 #EXTINF:-1 tvg-id="brightonvswolverhampton1500hubpremierhd" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="EPL 🏴󠁧󠁢󠁥󠁮󠁧󠁿",Brighton vs Wolverhampton 15:00 (HUB PREMIER HD)
 https://cdn-1.ttvb.eu.org/api/Hub-Premier-3/index.m3u8
@@ -431,7 +413,7 @@ https://instreams.pro/bil2/bundes3/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="hoffenheimvswerderbremen1430skybundesligasd" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="Bundesliga 🇩🇪",Hoffenheim vs Werder Bremen 14:30 (SKY BUNDESLIGA SD)
 https://instreams.pro/bil2/bundes4/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 tvg-id="middlesbroughvssouthampton1230beinenglishfhd" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="Championship 🏴󠁧󠁢󠁥󠁮󠁧󠁿",Middlesbrough vs Southampton 12:30 (beIN ENGLISH FHD)
+#EXTINF:-1 tvg-id="torontofcvsintermiami1800beinenglishfhd" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="MLS 🇺🇸",Toronto FC vs Inter Miami 18:00 (beIN ENGLISH FHD)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=0b42be2664d7e811d04f3e504e0924c5:ae24090123b8c72ac5404dc152847cb8
 https://a151aivottlinear-a.akamaihd.net/OTTB/sin-nitro/live/dash/enc/8m8cd46i1t/out/v1/83985c68e4174e90a58a1f2c024be4c9/cenc.mpd
