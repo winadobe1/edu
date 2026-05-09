@@ -323,26 +323,19 @@ https://dice-live-oc.akamaized.net/hdntl=exp=1778363892~acl=%2F*~id=2cd8004e-7ae
 #KODIPROP:inputstream.adaptive.license_key=96b67fa09140329a89b7a1ead134eda3:c618d32c56cdc6cad8330eb98507ca3f
 https://live-oneapp-prd-news.akamaized.net/Content/CMAF_OL2-CTR-4s/Live/channel(universo-east)/master.mpd
 
+#EXTINF:-1 tvg-id="manchestercityvsbrentford1730skymainevent" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="EPL 🏴󠁧󠁢󠁥󠁮󠁧󠁿",Manchester City vs Brentford 17:30 (SKY MAIN EVENT)
+https://customer-zbcm6pq2tkb2rho0.cloudflarestream.com/1719e2f2cf8b19a82dad1bdc46fedfa9/manifest/video.m3u8
+
 #EXTINF:-1 tvg-id="manchestercityvsbrentford1730novasportspl" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="EPL 🏴󠁧󠁢󠁥󠁮󠁧󠁿",Manchester City vs Brentford 17:30 (NOVA SPORTS PL)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=0:0
 https://d1yi40sjj0ca0v.cloudfront.net/TVD6219/index.mpd
 
-#EXTINF:-1 tvg-id="manchestercityvsbrentford1730hubpremierhd" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="EPL 🏴󠁧󠁢󠁥󠁮󠁧󠁿",Manchester City vs Brentford 17:30 (HUB PREMIER HD)
-https://cdn-1.ttvb.eu.org/api/Hub-Premier-1/index.m3u8
+#EXTINF:-1 tvg-id="manchestercityvsbrentford1730skysportshd" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="EPL 🏴󠁧󠁢󠁥󠁮󠁧󠁿",Manchester City vs Brentford 17:30 (SKY SPORTS HD)
+https://storage.googleapis.com/unicertyngher1/mux_video_ts1/index-1.m3u8
 
-#EXTINF:-1 tvg-id="fulhamvsbournemouth1500skysportsfhd" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="EPL 🏴󠁧󠁢󠁥󠁮󠁧󠁿",Fulham vs Bournemouth 15:00 (SKY SPORTS FHD)
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=01d02c97d1c949f9877acd230dcaa56d:708410b8bf1f4e998931183e8fab5d1e
-https://dice-live-oc.akamaized.net/hdntl=exp=1778407470~acl=%2F*~id=e9e9354d-c0f4-41da-9d16-c97e89c40165~data=hdntl,aXA9MjA4Ljg3LjI0Mi4yMyZleHA9MTc3ODMyMTEwMCZlaWQ9OTM5OTYzJm9pZD0xNTQmdHlwZT1WT0QmdWlkPXhSUnFvOXxiY2FlYTdjZi1jMzM3LTQwMzktODE1OC0zYzFjZTQ5ZTcyOTMmY2lkPWRjZS5maXNmZWQmcHQ9bnVsbA~hmac=f587292364824a9d280a97c138c9703b285561bd300ce8c93195ed7da577ede1/dash/live/2093719/219037-321031/manifest-d.mpd
-
-#EXTINF:-1 tvg-id="fulhamvsbournemouth1500universofhd" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="EPL 🏴󠁧󠁢󠁥󠁮󠁧󠁿",Fulham vs Bournemouth 15:00 (UNIVERSO FHD)
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=96b67fa09140329a89b7a1ead134eda3:c618d32c56cdc6cad8330eb98507ca3f
-https://live-oneapp-prd-news.akamaized.net/Content/CMAF_OL2-CTR-4s/Live/channel(universo-east)/master.mpd
-
-#EXTINF:-1 tvg-id="fulhamvsbournemouth1500usanetworkhd" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="EPL 🏴󠁧󠁢󠁥󠁮󠁧󠁿",Fulham vs Bournemouth 15:00 (USA NETWORK HD)
-https://storage.googleapis.com/unicertyngher3/mux_video_ts1/index-1.m3u8
+#EXTINF:-1 tvg-id="manchestercityvsbrentford1730peacocktvaq" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="EPL 🏴󠁧󠁢󠁥󠁮󠁧󠁿",Manchester City vs Brentford 17:30 (PEACOCK TV  AQ)
+https://justinyouwesi.s3.us-east-1.amazonaws.com/sportsnet.m3u8
 
 #EXTINF:-1 tvg-id="brightonvswolverhampton1500skysportsfhd" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="EPL 🏴󠁧󠁢󠁥󠁮󠁧󠁿",Brighton vs Wolverhampton 15:00 (SKY SPORTS FHD)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -375,24 +368,24 @@ https://a151aivottlinear-a.akamaihd.net/OTTB/sin-nitro/live/dash/enc/8m8cd46i1t/
 #KODIPROP:inputstream.adaptive.license_key=620e51b82596475517a27aa425c52280:2b9ba811e9c5aeafc8ae1b71cdca4d6a
 https://a151aivottlinear-a.akamaihd.net/OTTB/sin-nitro/live/dash/enc/k0duzgfejg/out/v1/70a50b1bda944628b8e7e66ab4069419/cenc.mpd
 
-#EXTINF:-1 tvg-id="atlticomadridvsceltavigo1730espndeportes" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="LaLiga 🇪🇸",Atl tico Madrid vs Celta Vigo 17:30 (ESPN DEPORTES)
-https://smarthard.click/hls/sabrouchespndeportes/index.m3u8
-
-#EXTINF:-1 tvg-id="stuttgartvsbayerleverkusen1430elevensportshd" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="Bundesliga 🇩🇪",Stuttgart vs Bayer Leverkusen 14:30 (ELEVEN SPORTS HD)
+#EXTINF:-1 tvg-id="wolfsburgvsbayernmnchen1730sportvbrfhd" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="Bundesliga 🇩🇪",Wolfsburg vs Bayern M nchen 17:30 (SporTV BR FHD)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=0:0
-https://d1yi40sjj0ca0v.cloudfront.net/TVD6411/index.mpd
-
-#EXTINF:-1 tvg-id="stuttgartvsbayerleverkusen1430skybundesligasd" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="Bundesliga 🇩🇪",Stuttgart vs Bayer Leverkusen 14:30 (SKY BUNDESLIGA SD)
-https://instreams.pro/bil2/bundes1/tracks-v1a1/mono.m3u8
+#KODIPROP:inputstream.adaptive.license_key=4bbcff3289d457b4dd5dbdd21221de9a:c4906b9a9f8dda3c0725bddb8c497733
+https://a151aivottlinear-a.akamaihd.net/OTTB/sin-nitro/live/dash/enc/m7duvnk2bu/out/v1/d1ad69118b5647309b1eb7213affdb3d/cenc.mpd
 
 #EXTINF:-1 tvg-id="wolfsburgvsbayernmnchen1730elevensportshd" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="Bundesliga 🇩🇪",Wolfsburg vs Bayern M nchen 17:30 (ELEVEN SPORTS HD)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=0:0
 https://d1yi40sjj0ca0v.cloudfront.net/TVD6414/index.mpd
 
+#EXTINF:-1 tvg-id="wolfsburgvsbayernmnchen1730onesoccerhd" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="Bundesliga 🇩🇪",Wolfsburg vs Bayern M nchen 17:30 (ONE SOCCER HD)
+https://storage.googleapis.com/unicertyngher3/mux_video_ts1/index-1.m3u8
+
 #EXTINF:-1 tvg-id="wolfsburgvsbayernmnchen1730skybundesligasd" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="Bundesliga 🇩🇪",Wolfsburg vs Bayern M nchen 17:30 (SKY BUNDESLIGA SD)
 https://instreams.pro/bil2/bundes1/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-id="wolfsburgvsbayernmnchen1730sonyliv" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="Bundesliga 🇩🇪",Wolfsburg vs Bayern M nchen 17:30 (SonyLiv)
+https://sonymtmnew-akamaized.pages.dev/hls/live/2005444/Bliga_Wo0905/ENG/master.m3u8
 
 #EXTINF:-1 tvg-id="augsburgvsmgladbach1430skybundesligasd" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="Bundesliga 🇩🇪",Augsburg vs M'gladbach 14:30 (SKY BUNDESLIGA SD)
 https://instreams.pro/bil2/bundes2/tracks-v1a1/mono.m3u8
@@ -408,10 +401,10 @@ https://instreams.pro/bil2/bundes3/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="hoffenheimvswerderbremen1430skybundesligasd" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="Bundesliga 🇩🇪",Hoffenheim vs Werder Bremen 14:30 (SKY BUNDESLIGA SD)
 https://instreams.pro/bil2/bundes4/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 tvg-id="torontofcvsintermiami1800beinenglishfhd" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="MLS 🇺🇸",Toronto FC vs Inter Miami 18:00 (beIN ENGLISH FHD)
+#EXTINF:-1 tvg-id="torontofcvsintermiami1800tsn4" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="MLS 🇺🇸",Toronto FC vs Inter Miami 18:00 (TSN 4)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=0b42be2664d7e811d04f3e504e0924c5:ae24090123b8c72ac5404dc152847cb8
-https://a151aivottlinear-a.akamaihd.net/OTTB/sin-nitro/live/dash/enc/8m8cd46i1t/out/v1/83985c68e4174e90a58a1f2c024be4c9/cenc.mpd
+#KODIPROP:inputstream.adaptive.license_key=c4088f5f265f9de50cffd80bf89308b7:2c4d2239d96d532b4ec2050653611003
+https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/h9urpo3cwb/out/v1/fde190f369484bc6b6117cc16cd82a9f/cenc.mpd
 
 #EXTINF:-1 tvg-id="cagliarivsudinese1400beinenglishfhd" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="Serie A 🇮🇹",Cagliari vs Udinese 14:00 (beIN ENGLISH FHD)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -442,6 +435,9 @@ https://d1yi40sjj0ca0v.cloudfront.net/TVD4071/index.mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=0:0
 https://d1yi40sjj0ca0v.cloudfront.net/TVD6411/index.mpd
+
+#EXTINF:-1 tvg-id="laziovsinter1700daznsportsit" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="Serie A 🇮🇹",Lazio vs Inter 17:00 (DAZN SPORTS IT)
+https://instreams.pro/EU/HDTV11/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-id="leccevsjuventus1945tntsportsfhd" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="Serie A 🇮🇹",Lecce vs Juventus 19:45 (TNT SPORTS FHD)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
