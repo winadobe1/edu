@@ -46,11 +46,8 @@ https://d2xz2v5wuvgur6.cloudfront.net/out/v1/997ce8767b604fae9fce05379b3b8b3a/in
 #EXTVLCOPT:http-referrer=https://www.rctiplus.com/
 #https://liveplus.rctiplus.id/RTMP-IN.m3u8
 #EXTINF:-1  tvg-name="iNews" tvg-id="iNews.id" tvg-logo="https://i.imgur.com/PAy1NQ4.png" group-title="Saluran",iNews
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=8ee7df15ff584967a3eb7b885bafc71e:9a297bf2200eee7dee21b9ace9f57c77
-#EXTVLCOPT:http-referrer=https://www.visionplus.id/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
-https://d2tjypxxy769fn.cloudfront.net/out/v1/7b0404cd6a8a4a908123f10774854e46/index.mpd
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+https://cdn10jtedge.indihometv.com/atm/DASH/inews/manifest.mpd
 #EXTINF:-1 tvg-id="Indosiar.id" tvg-logo="https://i.imgur.com/S5k3QDO.png" group-title="Saluran",Indosiar
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 #KODIPROP:inputstream.adaptive.manifest_type=dash
@@ -76,17 +73,13 @@ https://dickgital.semar.my.id/fetch?id=sdigital.m3u8&auth=sdgtlsemar25&url=up
 #EXTVLCOPT:http-user-agent=VidioPlayer/6.41.11
 https://vidx.semar.my.id/biasa2.mpd?id=8237&type=dash
 #EXTINF:-1 tvg-id="Trans7.id" tvg-url="https://bit.ly/IndonesiaEpg" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRKpv42_NHgvbLPYtkmvnu3q3gA5kP0KsaZpUvzDk-tZeZX1tFGqdlh3t8&s=10" group-title="Saluran",Trans7
-#EXTVLCOPT:http-referrer=https://www.indihometv.com
-#EXTVLCOPT:http-user-agent=IndiHomeTV/8.7.12 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://kelontong.semar.my.id/indick.kt
-https://cdn08jtedge.indihometv.com/dassdvr/130/trans7/manifest_wuseetv.mpd
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#EXTVLCOPT:http-user-agent=VidioPlayer/6.41.11
+https://vidx.semar.my.id/biasa2.mpd?id=734&type=dash
 #EXTINF:-1 tvg-id="TransTV.id" tvg-url="https://bit.ly/IndonesiaEpg" tvg-logo="https://www.transtv.co.id/layout/new/src/images/tv/TRANS%20TV%20live%20streaming%20tv.jpg" group-title="Saluran",TransTV
-#EXTVLCOPT:http-referrer=https://www.indihometv.com
-#EXTVLCOPT:http-user-agent=IndiHomeTV/8.7.12 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://kelontong.semar.my.id/indick.kt
-https://cdn08jtedge.indihometv.com/dassdvr/130/transtv/manifest_wuseetv.mpd
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#EXTVLCOPT:http-user-agent=VidioPlayer/6.41.11
+https://vidx.semar.my.id/biasa2.mpd?id=733&type=dash
 #EXTINF:-1  tvg-name="CNN Indonesia" tvg-id="CNNIndonesia.id" tvg-logo="https://cdn.cnnindonesia.com/cnnid/images/Logo-CNN-Indonesia-Peta-Indonesia.jpg?v=8.3.1" group-title="Saluran",CNN Indonesia
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
 https://live.cnnindonesia.com/livecnn/smil:cnntv.smil/playlist.m3u8
@@ -952,147 +945,87 @@ https://vidx.semar.my.id/cobaduarr.mpd?id=18253&type=dash
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=91b9592c819246c68b3b08a1fe08ba22:fa0d80dfd865b34077bae44cd4a0c5e6
 #https://tglmp04.akamaized.net/sssssout/v1/400fc0702dee453bb33ebcc29466e58a/manifest.mpd
-#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/8L4ZPe8nHWlxRmFfLT3DMmDZQZc=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5063928/9569fa.jpg" group-title="Live Event", Putra: Tectona Bandung vs Patriot Purworejo - Semifinal - Kejurnas Bola Voli Antarklub U-18 17:02 08 Mei 2026
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 15; P1 Build/AP4A.25010.002; wv-atv) Google/0.4.7-dev AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/83.0.4103.106 Mobile Safari/537.36
-#KODIPROP:inputstream.adaptive.manifest_type=hls
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://vidx.semar.my.id/pidick.php?id=21355&type=drm
-https://vidx.semar.my.id/19541.m3u8?pepek=7gslmi1v6YaNHTc6LFrwWtmYxtYTIPsccBTLSGk2keY0D90ngwey4f38B35dS38yzwEk_KDR4rSY-BTpSyoiN0M1B4rM1K0m_9ysuZ3bWn-d3adDzt7jd6yPUk8vTBGB
-#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/nNx7L9yFJs62gFhAte9s-wuG5Yk=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5063929/0f18c6.jpg" group-title="Live Event", Putra: Cinus VC vs Atlas Semarang - Semifinal - Kejurnas Bola Voli Antarklub U-18 20:00 08 Mei 2026
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 15; P1 Build/AP4A.25010.002; wv-atv) Google/0.4.7-dev AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/83.0.4103.106 Mobile Safari/537.36
-#KODIPROP:inputstream.adaptive.manifest_type=hls
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://vidx.semar.my.id/pidick.php?id=21355&type=drm
-https://vidx.semar.my.id/19541.m3u8?pepek=CAnioYaLnaE6wbXxV4mktxyXnDPfZ2S2R6jOasJ6VTk2jXHYyp6uHSA-QYY-2RYBJ3SkE6rJOzOREsBwl6b1u3ATgfOX5TRWSPAQruZazE0dV3JHYs2tykLUkZ3xGDJE
-#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/yVfstMfceyrqeakfWAuDdoAhs30=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5068297/5bd916.jpg" group-title="Live Event", Putra: Tectona Bandung vs Cinus VC - Perebutan Tempat Ketiga - Kejurnas Bola Voli Antarklub U-18 12:45 09 Mei 2026
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 15; P1 Build/AP4A.25010.002; wv-atv) Google/0.4.7-dev AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/83.0.4103.106 Mobile Safari/537.36
-#KODIPROP:inputstream.adaptive.manifest_type=hls
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://vidx.semar.my.id/pidick.php?id=21355&type=drm
-https://vidx.semar.my.id/19541.m3u8?pepek=FXcrgySBLVA66VqKzdzp3W3gjLh_9KGSHs6L8rorKxbBqL2CbMMLzBS5VOW2FKyJEI_zp_eiUYNRPpjCDYxnjsWuqDW3sSM9kX1nivjeMIYZArvuY3LucTjRNlK2wWoE
-#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/oym4yAXEfed2GykC8-hHm7xDBM0=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5068305/4567eb.jpg" group-title="Live Event", Putri: Bivota Inges Lombok vs JVC Surge - Perebutan Tempat Ketiga - Kejurnas Bola Voli Antarklub U-18 15:00 09 Mei 2026
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 15; P1 Build/AP4A.25010.002; wv-atv) Google/0.4.7-dev AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/83.0.4103.106 Mobile Safari/537.36
-#KODIPROP:inputstream.adaptive.manifest_type=hls
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://vidx.semar.my.id/pidick.php?id=21355&type=drm
-https://vidx.semar.my.id/19541.m3u8?pepek=CkgMDW_2KGjdVnxMBKZxb5baurXhpG9vTMKHr92wtSjv1KbPKS5XuqTOq61gdE4zFAaytzKAqKVAEZZHDRtPMRN7UGauQZ3E5DlOJ062jCi1cqpfsbsW0Z3we5T0F4D_
-#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/HqM0L6n4Vshlqx9LFdBxmBMdlJ0=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5068306/8c8397.jpg" group-title="Live Event", Putri: Ajaib Wahana Kuningan vs O2C Ciparay - Final - Kejurnas Bola Voli Antarklub U-18 17:00 09 Mei 2026
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 15; P1 Build/AP4A.25010.002; wv-atv) Google/0.4.7-dev AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/83.0.4103.106 Mobile Safari/537.36
-#KODIPROP:inputstream.adaptive.manifest_type=hls
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://vidx.semar.my.id/pidick.php?id=21355&type=drm
-https://vidx.semar.my.id/19541.m3u8?pepek=75q10UitDMPISGi4eoFuQQ-R3kTJ1ZvQnwWeIUX5ag_f46fko9QwOkPjccms04rdP1lma9dYNZYRVfEc6rQwgoCQUoQOXp1pgs_SyTDWLcGK56Gc1HchSqEUrOa-uCY1
-#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/14SDSP85dhEuwiFjEC5pfYWp9p8=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5068307/dcbd48.jpg" group-title="Live Event", Putra: Patriot Purworejo vs Atlas Semarang - Final - Kejurnas Bola Voli Antarklub U-18 19:00 09 Mei 2026
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 15; P1 Build/AP4A.25010.002; wv-atv) Google/0.4.7-dev AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/83.0.4103.106 Mobile Safari/537.36
-#KODIPROP:inputstream.adaptive.manifest_type=hls
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://vidx.semar.my.id/pidick.php?id=21355&type=drm
-https://vidx.semar.my.id/19541.m3u8?pepek=ieOaT2ijXQL6_krK9GYcu44C5zlOVQuv2TCUtJOAWsI1yyc5Dd1Vn6b8tYdtZGWIYBjxHU2rhCRPR_MPPbVLELPAwBixJB30AQz75hEXcpIwm5D9W-Pu6g9JMZDq12OK
-#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/XMVuxVLKCVvTt-pmZ4Ng_9P5k6o=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/21100/triple-crown-i-pertiwi-cup-2026-22e3b0.jpg" group-title="Live Event", Piala Raja: Mangkunegaran Triple Crown II 08:30 10 Mei 2026
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 15; P1 Build/AP4A.25010.002; wv-atv) Google/0.4.7-dev AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/83.0.4103.106 Mobile Safari/537.36
-#KODIPROP:inputstream.adaptive.manifest_type=hls
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://vidx.semar.my.id/pidick.php?id=21100&type=drm
-https://vidx.semar.my.id/19541.m3u8?pepek=SzBZH7LjpIztpo-fMpYBfPaaKKr3N89unSLLqB7Ry8_014G0f7Jl2kr3NT3piD5qLg-AB4uyo2cyYlWRCkaN7ZgVXdIxHP4FIwcFE-GR9tOvPHiTBCDtRrB5WKQDGM09
-#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/w3PiLB0hlcjJRfmvxkNxRTMm1wE=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5062594/7fb34c.jpg" group-title="Live Event", Jelang Kick Off - PERSIJA vs PERSIB - BRI Super League 14:30 10 Mei 2026
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 15; P1 Build/AP4A.25010.002; wv-atv) Google/0.4.7-dev AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/83.0.4103.106 Mobile Safari/537.36
-#KODIPROP:inputstream.adaptive.manifest_type=hls
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://vidx.semar.my.id/pidick.php?id=19355&type=drm
-https://vidx.semar.my.id/19541.m3u8?pepek=fExwoctUr3ey9SGH7G4vZR1gFFduf35UelEHekGc8-MPEu6vvT7RRd_oYFcQe0_kB1LZTj9nYDEOMvKn_fVT8e2yGpSIR9zEHuBg316E7l6b1rd5wxUI774Il9pBXDs4
-#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/KtTk65buW_NcEG94dX8u1nVtzS8=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5061647/368193.jpg" group-title="Live Event", PERSIJA vs PERSIB - BRI Super League 14:30 10 Mei 2026
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 15; P1 Build/AP4A.25010.002; wv-atv) Google/0.4.7-dev AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/83.0.4103.106 Mobile Safari/537.36
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=81dc256adac12db58a502742de75abb4:236057d85c7b92215485a52cee45b8b6,415db37a5af6809ec3dd750094bedd0a:741110fa0a4e26081550ffdc25bd3c14,86c7301cf655df73be605f11143920d6:e190795a6ad0ffc07a1f80249ea8365c,ebfee30bc79d56b26625c791ba302cc4:0eb8b0f46b58a70523b398706be11508,1bafd07609f116d7a0437f129e9e98c2:6f4ebc46acfc497037175a88cee11ef7,cf2bc98934d365f8d433fa300d3fd022:06ee25c43bf72b1467015975968d420e,7f18eaed36c72f661a66200278f2f9ab:2f20b0e7e2e9515a045a149ed85256ef,d5a2dfaf578fa0c1952c119af4846f1b:525511f25f6d7d07a3d9665dc03581f1
-https://vidx.semar.my.id/19354.mpd?pepek=o93gA13eo6bRU6ryzki9TPbeB6cA4bNLG_Usd_BRG2KK-A9h-CNSx6SfyNchjfgxvv0tiUva2fyYIMEGFjzDpc424rY1dVQ0YAVCmmZO2PcaZiwVSpc7ZgngyyliqS8S
-#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/L3d5WzrLj-bv2cymK8Vtrkb-eTA=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5061648/55ad2a.jpg" group-title="Live Event", PERSITA vs PERSIJAP - BRI Super League 15:22 10 Mei 2026
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 15; P1 Build/AP4A.25010.002; wv-atv) Google/0.4.7-dev AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/83.0.4103.106 Mobile Safari/537.36
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=60b2e5269e9d1bc2fbb29afb5081dc08:1dff5b2331511f2acbf42a9688c60e2b,7a8b52177b1f34f8ba99cdc48b46e716:24b391a266eb4893e65f7b4347701af6
-https://vidx.semar.my.id/19354.mpd?pepek=sqeNWblx0iF_arnxWh08ok2Cc3We_NjEaTd_RCeaBN1u8OrHuGqTbpknpFQYMZ1L3gc6mw5qKnqVx-2tS1G_m2iT_cKHPOvrd6sv9WgKovMsNMMTEb22eby2oH1mF2-M
-#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/hQGUvk3zul_7H3pcvA7TD38drwc=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5062774/da8038.jpg" group-title="Live Event", Verona vs Como - Serie A 17:15 10 Mei 2026
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 15; P1 Build/AP4A.25010.002; wv-atv) Google/0.4.7-dev AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/83.0.4103.106 Mobile Safari/537.36
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://vidx.semar.my.id/mbledos.php?drum=bJPdzzvU8ieSb8ikgi79KLINR5dI7FP5w2cWeLZvP2WJUZYeOTHbFlhhkjgvA2KRve006MSYcYMa9jKIQDrbmGKtjDFO3PDPwM58qc5Q38LKlHp9UVJJO4n4nwYz2gLs
-https://vidx.semar.my.id/mbledos.mpd?pepek=M-kQSX92f4r8p_7qo8YzjjCaQF-EXOBuikS2U7ZIvKZ-4Hx1C78aLGJVJ1k0aJ4AI5-4dnk-g1l-jfRbHtyQzbpPIAL2r4YCACjJa_isW36RUneJ7t9UIf86TVOAsBbg
-#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/sUdDQn4O9AsY8qqC-_2HneKBaZ4=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5062758/0014f2.jpg" group-title="Live Event", PSIM Jogja vs Malut United FC - BRI Super League 18:30 10 Mei 2026
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 15; P1 Build/AP4A.25010.002; wv-atv) Google/0.4.7-dev AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/83.0.4103.106 Mobile Safari/537.36
-#KODIPROP:inputstream.adaptive.manifest_type=hls
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=6a8b65c83036329e7185b9cd8cbdee29:0eb2beb5633f8e35cafab45af3d21de0
-https://vidx.semar.my.id/19541.m3u8?pepek=h9LcyJZ7U7pr5L9i-P-qSCyxVhNSAIQgKTEuKUtnI1lUYHK6Yemu4XHs45hp_yp_tBggFJ7PTkB0LrADR2h7d2bQcmu-_c83c2AY-n_MWU-ffjTZgZPBfzFU6RWJDLL9
-#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/X97ciYSsOD4eqO06zDobJxyi8ec=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5062753/e74ed4.jpg" group-title="Live Event", Mallorca vs Villarreal - LaLiga 19:00 10 Mei 2026
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 15; P1 Build/AP4A.25010.002; wv-atv) Google/0.4.7-dev AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/83.0.4103.106 Mobile Safari/537.36
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://vidx.semar.my.id/mbledos.php?drum=SJwvbUAQdPC1SZsdyV9WLEsKNstL4D0OvjcNtHxJRvOho38p1RNH1O3Ml_qIX9Lh_GMZcmRPqlG7WTmwUBg1gTeLnFQd23h1SBY6zYV7U_R_sg9Hh-p4DICFQvSKROK3
-https://vidx.semar.my.id/mbledos.mpd?pepek=bfdlVE8KHA18vxZJCURD0b7fVaHkgf5JW8BagWfbotBdd0vWXGOKtYVnqE8KSdSN3jvrM_ul3ic_KfL7xfbr6iX-cD_pglGyvd_GGjjDVDhTN5v2xai6iDlC7Wf6o7go
-#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/FPNcjmHOLV6tc0CN50UYU7zUv80=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5062721/44839d.jpg" group-title="Live Event", Nottingham Forest vs Newcastle - Premier League 19:30 10 Mei 2026
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 15; P1 Build/AP4A.25010.002; wv-atv) Google/0.4.7-dev AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/83.0.4103.106 Mobile Safari/537.36
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://vidx.semar.my.id/mbledos.php?drum=sMG4wtWelWIe_dhA85Um6NGSIdnn9rHc51ZV4jAs4WQ9HHwKxqXzt778jwXyshD3nZ2mVCZWUoQ0rpszCS3RBlt5_7KOjPUQoP2UlalQozGG_qceKlPAS0ch5PfHehdC
-https://vidx.semar.my.id/mbledos.mpd?pepek=OAHLpmSdELolUbPf-t0_k1AO_kOx4GzBl-sH_ofBXpzTtbdG2yvrKBCo4_WwCXNv82qgTdplLBNxlzpJo7f5mKPBNA8136L9duVBSZ7bBiifMPU5Z66utExXa6_zoNsu
 #EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/NAbYlXkh1xkf8r9hwD40ixZalCM=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5062598/ab926d.jpg" group-title="Live Event", Burnley vs Aston Villa - Premier League 19:30 10 Mei 2026
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 15; P1 Build/AP4A.25010.002; wv-atv) Google/0.4.7-dev AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/83.0.4103.106 Mobile Safari/537.36
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://vidx.semar.my.id/mbledos.php?drum=DajDEAcFN3NMreXhk9qO9eK51LhLDQ4ZQrZa3BgZJ124erdO-CWnN1SxkaSLdOpmshBbVsD9-HQQunYXi3sEj8NmGI-V1KSERafiPvzG3QRYUesPnlLbVsG6yDPrO3Af
-https://vidx.semar.my.id/mbledos.mpd?pepek=GDJUcR90XUw-hmwpXXRYVVuEEhLBWwAb187OcAiE5Jr5dubA4EYtPdd-zNYnSIbsZwOkyexdxUXfaOc1E925S1MjZHsHZK057alhIyQfGEr4CTtOIl8JixgGfft175z3
+#KODIPROP:inputstream.adaptive.license_key=https://vidx.semar.my.id/mbledos.php?drum=YrHqZ7xSBAHB_suTfLHNsuU2SP6VQg3NMImHobemzts6WIAm8LVxPmo7zQCzI0F9CNcvgSkCeIyA_S2RomCytsSLKp7bnWJDcvUvggwm6eM30xufUvnyKEKYasTHwCEN
+https://vidx.semar.my.id/mbledos.mpd?pepek=JaHDhXAZ2mODFqz4qU4rhoH7rMUu7XBcRAxMbqtlHXoGiPIr7rsM17ibxFtFPweI8nGmAA9BkFKRC0tzhpJFWdEisIiw6I1kdJ1rgI939f1qne7qwyO_f8bRKn44Oorz
+#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/sUdDQn4O9AsY8qqC-_2HneKBaZ4=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5062758/0014f2.jpg" group-title="Live Event", PSIM Jogja vs Malut United FC - BRI Super League 18:38 10 Mei 2026
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 15; P1 Build/AP4A.25010.002; wv-atv) Google/0.4.7-dev AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/83.0.4103.106 Mobile Safari/537.36
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=6a8b65c83036329e7185b9cd8cbdee29:0eb2beb5633f8e35cafab45af3d21de0
+https://vidx.semar.my.id/19354.mpd?pepek=LZASRtKnl5E41LdCZu7CWxWKWX-4LkOzjGcSpnDeiWrHpzQ6eu8zPRiqR1dVqn8UCBcCOszF-ND47Q51llVinShgM6RMvaCXCfp3ut9tiFeIINzzyjr0XETza4LulIwI
 #EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/-Srrts4Iac0yJ3ein53l8Jj536I=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5062775/403d5c.jpg" group-title="Live Event", Cremonese vs Pisa - Serie A 19:45 10 Mei 2026
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 15; P1 Build/AP4A.25010.002; wv-atv) Google/0.4.7-dev AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/83.0.4103.106 Mobile Safari/537.36
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://vidx.semar.my.id/mbledos.php?drum=ZRt7PcgBk-pCdxiOf8XDV-xeU4jyByeAvqMboxzZBvJGbqkZ9Iad4MNANmjVezDTGrlTDTV60ghhwnL_wm8i28Qb5k7sFHnVB6MyTrR7nzfTBgJxCU36_aMDnu5uA4iY
-https://vidx.semar.my.id/mbledos.mpd?pepek=lgoExjGuRu-zvA0Yz_8eeJdMvZFa6cpsdKO0v_lQShfaygDsmhCdBA9jOfLxoHBUlJZqar2NtpC6UGyJXrPDh1RYprdCRVKx6nQxwOgapPHwU7LVinTcPh5McQyvZa4z
+#KODIPROP:inputstream.adaptive.license_key=https://vidx.semar.my.id/mbledos.php?drum=HV2vFz7XyzI-IhMoJADaq2mz4fKH8mR3kDbWigQtMI_KfkVWxk9dvIKJZGX8V4EfychXPsE-k5peRAl59C6AqgKmZ2cWZRacWxR_6tT8pWgM5Fy-7qNgnhqS97Tuj5aL
+https://vidx.semar.my.id/mbledos.mpd?pepek=O61A7cAi3pxNqYUZ6pvlrXpL_u93clpotliPykP88PEga5GCHDoL2NGCcKiecPP0xshD93urAM5tDa7yOfuYFElAiNkcGzNNFsdvirE3GGjmjJWmrr-piwuIRtmEx4lV
+#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/X97ciYSsOD4eqO06zDobJxyi8ec=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5062753/e74ed4.jpg" group-title="Live Event", Mallorca vs Villarreal - LaLiga 19:00 10 Mei 2026
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 15; P1 Build/AP4A.25010.002; wv-atv) Google/0.4.7-dev AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/83.0.4103.106 Mobile Safari/537.36
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://vidx.semar.my.id/mbledos.php?drum=_nljeQC8_Rt5P8WyezU1DBwUOeUY-_hSZfeU2tB0_wy2GpD8coxUaUXDS0z6e8FAlq0Wp-WAws6v_u8HwRiE1pCDtmY1t4WFK6zkFXPvNgNXMilTp_V_RqUg0_FWByGg
+https://vidx.semar.my.id/mbledos.mpd?pepek=owV5V5G7Dvc_XaZynVGiXP7Ir7wvqAjk8oVkcrs0WKCSQjbxsuBF5XAPucF1GQiYqZLeD_8TBdZeldyp8XLQBKLtogR_vHJmNz3lsrVm53AjMYzF74T3Z4U4pSwZ_pDS
+#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/FPNcjmHOLV6tc0CN50UYU7zUv80=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5062721/44839d.jpg" group-title="Live Event", Nottingham Forest vs Newcastle - Premier League 19:30 10 Mei 2026
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 15; P1 Build/AP4A.25010.002; wv-atv) Google/0.4.7-dev AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/83.0.4103.106 Mobile Safari/537.36
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://vidx.semar.my.id/mbledos.php?drum=vL6T3oijpNkZ9MnuFBkvF7F3eUAEOta76PWGiVApWszbOIYiFp5jc9pwHMH9GcaFAudzrCG9Ph84NFxt-VBfJY6n245xQwnxVZchx7hxWb-z-IVoC-6kHZw1FNpnnEh2
+https://vidx.semar.my.id/mbledos.mpd?pepek=C_f18GpiA14WP74Fj5PYlm5oER8UkHUNLJdTq33_VVYnOETjG6fz5rEXZIVRjQCjb4RkvPJ2-ctaz8dKtp54EfbfCv-ZJKDPfj1XymhUfTectDusGFOHCNO8T-VDV7D6
 #EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/SRgHlO7gZ1GpBESY_IC6YU9dJSY=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5062777/dfc96b.jpg" group-title="Live Event", Fiorentina vs Genoa - Serie A 19:45 10 Mei 2026
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 15; P1 Build/AP4A.25010.002; wv-atv) Google/0.4.7-dev AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/83.0.4103.106 Mobile Safari/537.36
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://vidx.semar.my.id/mbledos.php?drum=Ipyj2Gedu_SsXXqnIlrKsR9r-_2iepkVuNPIY2tHz7-BoEzbw4HT8O6ZNyGZ3F28GuQ23h5c0w3pulP7RmHJFquqzVj1vrFn6DfoiwfJeyzhwuJIBUssPxe7Vi2YggzC
-https://vidx.semar.my.id/mbledos.mpd?pepek=6CXlapRWZh9-7tZPmPo1HCE5Ehj-PR9RYx5U95DmIgDmB4O4rHlCLvKVrNDAZYfXn1KqIDuJ7_4rLf8ESiRWMktoJKIqgUE7JoQ0twtXy-6YTY3e54t3MvWOhNCnYUnm
+#KODIPROP:inputstream.adaptive.license_key=https://vidx.semar.my.id/mbledos.php?drum=Yd9SJ3jd6RbQZG2Mr2ItPQdHGSLxQyPgHSfYQegsuFifAg4VRBBzLBQMPMzEuMzTr5lSJ_JwNjSWzYEqtqsl5NH5W7h6dl_3eDj8JxZh_kEOVNU2xRTEJxZmU-k9xZG7
+https://vidx.semar.my.id/mbledos.mpd?pepek=HlEtLqa2-mNiMOWfCRyVzdNEkhm_NxOZwd9S-PmdJLNo9n80rtRfchR6hSUWyhNTzF7GxnZFB_fOqQUEn4quHCVUJ4EH0IrNo3S-KDSuZEGm1DNgSIMpo7m1Wo9sS0tz
 #EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/2EMs0SmtJQ7V-5yaM4Uv_d7r2tM=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5062746/17e0e8.jpg" group-title="Live Event", Crystal Palace vs Everton - Premier League 19:50 10 Mei 2026
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 15; P1 Build/AP4A.25010.002; wv-atv) Google/0.4.7-dev AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/83.0.4103.106 Mobile Safari/537.36
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://vidx.semar.my.id/mbledos.php?drum=wI-EBr1DaBP59M6dZzmGZeS6QoXAZs_gLHFm7duLhlPp595Xlus2jouOX7U-YAuh2ksNwxyCGFw0wkYofiKnq61KPfe4AgAQSJVOXsB9Be7zcLouR_YMxcLjeWAAMKZz
-https://vidx.semar.my.id/mbledos.mpd?pepek=ylkKeJ9n8CTGZrgqRPV5WvIIJXPGYgI_OAwPKYkZSI8_pf46cWgvmGfe80uyIb3Gbx2UmKbMeIfYMQUUMcaz9XVZAz80_MMVKeNQ3C3pFtJtpxxqYPiv6Bk_0L6t8sSB
+#KODIPROP:inputstream.adaptive.license_key=https://vidx.semar.my.id/mbledos.php?drum=etY7S64okaadIKXGEP_RGPZtg50VLaFmi9ulqsBiIwYTTfZJ1gyw0R-RrGmmBfmPF8WcYqMjL5Bjw4WJ0JYqovoHPQ2V-9V01_HV-SuB1mDyEugl9TDTSPzc6eZHqbA_
+https://vidx.semar.my.id/mbledos.mpd?pepek=BY1bUgCB9KYU1SRj2msnqnJCwb-WPXFDaiivuHm5qAYjmHHWfBV5XAbu3K4u8ual7MwDkhMqwprJ-xFcbzAdgXT7ZP3qK46IpPhsQ6ZUT2hL01Z5A2XRUzcuxZ_yY62V
 #EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/qh4qvSTEkNmjX9QcGzCGXv_5GgM=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5062754/3ecabe.jpg" group-title="Live Event", Athletic Club vs Valencia - LaLiga 21:15 10 Mei 2026
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 15; P1 Build/AP4A.25010.002; wv-atv) Google/0.4.7-dev AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/83.0.4103.106 Mobile Safari/537.36
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://vidx.semar.my.id/mbledos.php?drum=_m9QdLaF8IePwKXnxMACvDm5Ei_J0cdwa_gBCfyKOgpwgNTVJWRAQjieWNAYqhjISa54L1tKRtO5kM8K5zXtf4yxMtTPYym6ElwTQTOLhlNZ2EcwAViHZF_84bRlilD-
-https://vidx.semar.my.id/mbledos.mpd?pepek=G632-4GHs7bunc5QIWAkVT5E9wPKDstiisHdzUUKZoeTX72qUvSlmOnziHgkhZZ8XXOt_q0qiJzXWT3BkdH_Ohsxvqx3Vcoks2PmocynYSFbrxMP20pdLNg6y2Kk4RUE
+#KODIPROP:inputstream.adaptive.license_key=https://vidx.semar.my.id/mbledos.php?drum=HKShdokrl44Xsjh9m0ZfrO90__H1aGAQfYnCMo64O7kjJyj-mDvpn5gT9TWzDEAKQpIRyLJPD4e0WQdga6aXicG8PcvLj7WCZi9OcCSgjwCRyLJ62jqQpavPz8dJVXEA
+https://vidx.semar.my.id/mbledos.mpd?pepek=70Rb9I3B9hATOy0G3QllQG5bG0C1m925lgPx85XIBhnuozHcqa2jjuph6Wn3LUu3cmWSy3u8fVd7YDrTUcume8JduO-NSlcGuAjvtNSRdod2mFXYLjFqycEl9stoCxdw
+#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/-HL5GdPAOeXmVS4tq8nrsNHDXtg=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5069634/205b03.jpg" group-title="Live Event", PERSIJA vs PERSIB - BRI Super League 21:30 10 Mei 2026
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 15; P1 Build/AP4A.25010.002; wv-atv) Google/0.4.7-dev AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/83.0.4103.106 Mobile Safari/537.36
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=81dc256adac12db58a502742de75abb4:236057d85c7b92215485a52cee45b8b6,415db37a5af6809ec3dd750094bedd0a:741110fa0a4e26081550ffdc25bd3c14,86c7301cf655df73be605f11143920d6:e190795a6ad0ffc07a1f80249ea8365c,ebfee30bc79d56b26625c791ba302cc4:0eb8b0f46b58a70523b398706be11508,1bafd07609f116d7a0437f129e9e98c2:6f4ebc46acfc497037175a88cee11ef7,cf2bc98934d365f8d433fa300d3fd022:06ee25c43bf72b1467015975968d420e,7f18eaed36c72f661a66200278f2f9ab:2f20b0e7e2e9515a045a149ed85256ef,d5a2dfaf578fa0c1952c119af4846f1b:525511f25f6d7d07a3d9665dc03581f1
+https://vidx.semar.my.id/19354.mpd?pepek=3ZCfiazE1wKvPCGogRYAgsIGgDnV4oNxGwQErEiH6IrZ1a2b87FCK8yZGGhKtZBUq35VqdwOSyl3pJApqFl0I1SyQBxlUDtud_WaxVTkvm4hVp2wFCu1fueepccW-7_v
 #EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/Yr_CPgfjAJIzsBWwQVhrLuGzjJU=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5062622/6feafd.jpg" group-title="Live Event", West Ham vs Arsenal - Premier League 22:00 10 Mei 2026
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 15; P1 Build/AP4A.25010.002; wv-atv) Google/0.4.7-dev AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/83.0.4103.106 Mobile Safari/537.36
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://vidx.semar.my.id/mbledos.php?drum=Onp_vl7U73w6nD-WKNxVnNB8tvkZAfzm1vNHfWo814ZZJLdX0dz_QV5WZt3IHG9SJ5CVbYzRqnAtpaYS_88lyGsDbcVsbU6PNEoPF_a2n8EZ90ulAgIFLI_sLRIiq5W2
-https://vidx.semar.my.id/mbledos.mpd?pepek=DyrAQ1cM3mNNgPl_E-6K7JzifE8qOWaeMX9ryBBxGeQQi_N_AT5rdT9k1FYEWf3UQQh6BY8Atf0seljIu6FYXIM0xsJntdjipN5ixsBxBpZgg6UqUnpaxsLDVZvLcIWE
+#KODIPROP:inputstream.adaptive.license_key=https://vidx.semar.my.id/mbledos.php?drum=vLC7elzWKtwTJ4TmFyiM6qWrbe3TR6wHx2rmf_27zOn0kefkbW9JDUC5pmbpFcXCj4OS9kOgMGopo1vNLrc4rEQOnRw0MUu_CiUg_ZGL7Wg_RQp0AZyuibMqZtIVYPSR
+https://vidx.semar.my.id/mbledos.mpd?pepek=zqX0OXpKQA-5TWH51IPLa-ZfeIDNgX7KTojFc3bPE5czzJKykZe5ci46Y2Gxt9uUDsaDhSiTvgRZ5sOdtKuL34G4E7b3aGInuYCFUYutAgNcUirC3eAD07s0r2pGGEHk
 #EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/EWmPBsQNVhDV2cxAalsCyleewdw=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5062776/6db591.jpg" group-title="Live Event", Parma vs Roma - Serie A 22:45 10 Mei 2026
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 15; P1 Build/AP4A.25010.002; wv-atv) Google/0.4.7-dev AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/83.0.4103.106 Mobile Safari/537.36
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://vidx.semar.my.id/mbledos.php?drum=30BLCqsLmP3y70nIGBDF7AQXTgPYXwixABdEiGr0Gix4tKSSygbjoQYegfpspi3-hzwBJUpJCBRZa9yypDER3soAV1TaxLtUsjMKTz4_tqd3D5fnr7JUjTbeASnqSa9w
-https://vidx.semar.my.id/mbledos.mpd?pepek=Ed86B1t0DQ77syp-Rb4CY092A6x6Zoe8dKT1DUD8gustP9r942aS9TRARDyTynqBI09_R5uGLtKXJPXiiugsThnrKIdGCWgt1rSxxLY5kuZTattXn4SyuK9czk9WCOaI
+#KODIPROP:inputstream.adaptive.license_key=https://vidx.semar.my.id/mbledos.php?drum=O7AIejWSgmE930dcEszbJziHn9ugxXveP_NXMwAo-T0VktjWcIec9hGEgqgv3PoXThWapjbi1fnq113ZQcr4ONlG1X0VfbyuRKsf5CFssKkO_hHdb4asOkALvsrZMCA2
+https://vidx.semar.my.id/mbledos.mpd?pepek=1B8jXKhQeFPYUPGlnfgpfTx0Sh-9ntsY_1aDz4s80dtTxyB0QK5r_6xduMb2DaYsOTq5G0EVuDIdCcmY_y9MVJICjspQNQrNfWD5B9SFWdGyIFdPTyfTrSbhwEUCZQhG
 #EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/Myh2b1vc5j7xDhVayWo13KvI3IY=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5062755/317713.jpg" group-title="Live Event", Oviedo vs Getafe - LaLiga 23:30 10 Mei 2026
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 15; P1 Build/AP4A.25010.002; wv-atv) Google/0.4.7-dev AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/83.0.4103.106 Mobile Safari/537.36
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://vidx.semar.my.id/mbledos.php?drum=Gf9qWOYetYoCRuLVCCsVaWC2AlFn9m1ReeEwmj91Z20FAfBu-cV9FIy2V6javbKNZK6kl9vFKHBvNzBxuZOyjIznb5--h2bw3mGx6CcGPztsnsPQ0_x3QM9D81Xf0mSu
-https://vidx.semar.my.id/mbledos.mpd?pepek=o15YOoZd3WOmwerKgRN_9QmA5LO_nsxoe02d9xRgAzDEcgQ8B6Og3xHHt3-GTtfZe829eL_TogqQwg4f1I90Ga2gIc9PEFNGxRoHD4mBx1y-Zw34LLVbdeIgIKwmQsQS
+#KODIPROP:inputstream.adaptive.license_key=https://vidx.semar.my.id/mbledos.php?drum=PoBu7Wr_6xmXKkRxtlIMw3F2D2zrraxJNIX6v-IDRP0IcsMQ-fj-7K4egLF_QaJpghPCwZme0JK_OroPLazZpERLjnkEinERREYSaro2cojloDFQfmQyYMTpcn-ik2g5
+https://vidx.semar.my.id/mbledos.mpd?pepek=4ymJnfjZpaPfq96BH5zXVsB_D9pyjNeI-Id3T8l_7TvgzbMRNGsraPFxrkGTkPciOLx2CLXsMHuvH6MEpBEIJZZac6kx0zAo6Ry0dlwrwpWOIjK1Y4xVNMTlIh3CNmsQ
 #EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/vdqKtwOMamUsPp4Z-oOimOzeLco=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5068943/68c3bd.jpg" group-title="Live Event", Milan vs Atalanta - Serie A 01:45 11 Mei 2026
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 15; P1 Build/AP4A.25010.002; wv-atv) Google/0.4.7-dev AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/83.0.4103.106 Mobile Safari/537.36
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://vidx.semar.my.id/mbledos.php?drum=yuQJKnPyrFpsw-yoExEdGtoy5ah19zZej9KcYddQd8fYN6O3fY8m75srNM6kOmvGiArQ1Wy2mwRKfyHEp93eunvV3JklQZqr9wRI1y9vZEvOI43odinseSU-heqH62wA
-https://vidx.semar.my.id/mbledos.mpd?pepek=pPKLcXqUhd-zHNAC3HJeP-cDbmht2eILuBAagedgLm6dnZX3dLx88UDWZH4bDDnj2VBFYxv7pVq6SUy5ZuI4YoUj44KXpXBctJz4HDonKSrkGSlpHRe3tMHRCZ_eDnJ1
+#KODIPROP:inputstream.adaptive.license_key=https://vidx.semar.my.id/mbledos.php?drum=eR-CynXXOH0JkbHEFyEoopFRNIC-OVUf4Mx7T2mn0ckAU5wWH5tBPk-kZtAP1qqffAKvUgu4JQxV85ZD1k1iSDhfm85TJPJN3yb_-qZRIRhkuyW3-AZtqU86MHfiQiZR
+https://vidx.semar.my.id/mbledos.mpd?pepek=WowEeiinF_MIgPqgKD6DycRaKlieFIpxPIEx5PG5gjuExtAHDD-wV2cdjwHQnlrEPuULjtm-vLvNNpmILV9eAxAeg7s3_d3P455hDcWdlZ0K7AbGTqGBIlRqs05YPxGe
 #EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/SV8a_Gfyw8mbyaHAf2p1fW9GXj8=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5062756/f6ff6c.jpg" group-title="Live Event", Barcelona vs Real Madrid - LaLiga 02:00 11 Mei 2026
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 15; P1 Build/AP4A.25010.002; wv-atv) Google/0.4.7-dev AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/83.0.4103.106 Mobile Safari/537.36
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://vidx.semar.my.id/mbledos.php?drum=RypddmB1D6BsQcuwg7_HWy-rv7Kr9l5D1j1ym1QHmIYZv-g0CWA3_pi758e-h7-YVUzvEzk91QyMMVIrS8rr-mLYMeZ5p5zen5YVeWVr6Np2K_d2Uja1qGlFhVrLAwFs
-https://vidx.semar.my.id/mbledos.mpd?pepek=33Kr5YdBYxs-WRIAhYkKBXdYmDdoPLT13OMddDaDFjv0fYg9FfP69dnMclTQ61kTkJ3Hzw_uYt56n4M9KNr8mMyjyh6xroDeNJ9pqnFQtl5h61wfNqEpV1lrVe3cjONN
+#KODIPROP:inputstream.adaptive.license_key=https://vidx.semar.my.id/mbledos.php?drum=olzEkGfj6bhUCD6NOV0K97f38L0QM5LpL2nYjfXWOu-1Os-uU2RIqjq6Znh_t9zgWzIsT2Q0mjj0QVMpYmHcdThknB6c_rm99ZJbHmExSjNv63hNmxyBy6kCaGD4BCSl
+https://vidx.semar.my.id/mbledos.mpd?pepek=Ar1mMJaVNYqZ1KjpiNZCWZk_M1ar3Zyk5p4QGFPvDCT0c4p_wrrekXX5INA47udxH9UGCmRiTuoP5QGD5UtjnoowLa7uqb_9ftetkcBbCTXNc8O9AXvhQ_GR2aNd5G9O
