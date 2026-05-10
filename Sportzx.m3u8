@@ -266,6 +266,11 @@ https://a151aivottlinear-a.akamaihd.net/OTTB/sin-nitro/live/dash/enc/bcj3iscpd6/
 #EXTINF:-1 tvg-id="goldenknights0230hdserver" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="NHL",Golden Knights 02:30 (HD SERVER)
 https://instreams.pro/US/NHL2/tracks-v1a1/mono.m3u8
 
+#EXTINF:-1 tvg-id="barcelonavsrealmadrid2000laligatvfhd" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="LaLiga 🇪🇸",Barcelona vs Real Madrid 20:00 (Laliga TV FHD)
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=620e51b82596475517a27aa425c52280:2b9ba811e9c5aeafc8ae1b71cdca4d6a
+https://a151aivottlinear-a.akamaihd.net/OTTB/sin-nitro/live/dash/enc/k0duzgfejg/out/v1/70a50b1bda944628b8e7e66ab4069419/cenc.mpd
+
 #EXTINF:-1 tvg-id="barcelonavsrealmadrid2000beinenglishfhd" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="LaLiga 🇪🇸",Barcelona vs Real Madrid 20:00 (beIN ENGLISH FHD)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=0b42be2664d7e811d04f3e504e0924c5:ae24090123b8c72ac5404dc152847cb8
@@ -285,6 +290,9 @@ https://a151aivottlinear-a.akamaihd.net/OTTB/sin-nitro/live/dash/enc/m6sqanvm2m/
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=7e9239c1982d984a002df3ed049d0756:1b8a17598129a3618535c8fb05f103fe
 https://abfjk4haaaaaaaampv6ofhkihi4r6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/fdb3pubmek/out/v1/aefca6420f944a9482e117f315de535f/cenc.mpd
+
+#EXTINF:-1 tvg-id="barcelonavsrealmadrid2000espndeportes" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="LaLiga 🇪🇸",Barcelona vs Real Madrid 20:00 (ESPN DEPORTES)
+https://xstm.250909.cc/live/SPORTSFLUX-PRD-54477-1/1b1a90a747e1/405.m3u8
 
 #EXTINF:-1 tvg-id="barcelonavsrealmadrid2000tsnsportsaq" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="LaLiga 🇪🇸",Barcelona vs Real Madrid 20:00 (TSN SPORTS - AQ)
 https://noahxzflj854.s3.us-east-1.amazonaws.com/espn.m3u8
