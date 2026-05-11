@@ -277,6 +277,12 @@ https://live-oneapp-prd-news.akamaized.net/Content/CMAF_OL2-CTR-4s/Live/channel(
 #KODIPROP:inputstream.adaptive.license_key=0:0
 https://d1yi40sjj0ca0v.cloudfront.net/TVD6219/index.mpd
 
+#EXTINF:-1 tvg-id="tottenhamvsleedsunited2000hubpremierfhd" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="EPL 🏴󠁧󠁢󠁥󠁮󠁧󠁿",Tottenham vs Leeds United 20:00 (HUB PREMIER FHD)
+https://braxipoflprafi.zulo-0084.online/out/v1/c1afef049a0b424c988e9215b95f6211/playlist.m3u8
+
+#EXTINF:-1 tvg-id="tottenhamvsleedsunited2000setantasports" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="EPL 🏴󠁧󠁢󠁥󠁮󠁧󠁿",Tottenham vs Leeds United 20:00 (SETANTA SPORTS)
+https://fo01-bkm.beetv.kz/bpk-tv/000004498/tve/index.m3u8
+
 #EXTINF:-1 tvg-id="tottenhamvsleedsunited2000usatvaq" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="EPL 🏴󠁧󠁢󠁥󠁮󠁧󠁿",Tottenham vs Leeds United 20:00 (USA TV - AQ)
 https://noahxzflj854.s3.us-east-1.amazonaws.com/btsport.m3u8
 
@@ -314,6 +320,9 @@ https://a151aivottlinear-a.akamaihd.net/OTTB/sin-nitro/live/dash/enc/tcninbbnt5/
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=7995c724a13748ed970840a8ab5bb9b3:67bdaf1e2175b9ff682fcdf0e2354b1e
 https://a151aivottlinear-a.akamaihd.net/OTTB/sin-nitro/live/dash/enc/q4u5nwaogz/out/v1/18de6d3e65934f3a8de4358e69eab86c/cenc.mpd
+
+#EXTINF:-1 tvg-id="millwallvshullcity2000setantasports" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="Championship 🏴󠁧󠁢󠁥󠁮󠁧󠁿",Millwall vs Hull City 20:00 (SETANTA SPORTS)
+https://fo01-bkm.beetv.kz/bpk-tv/000004499/tve/index.m3u8
 
 #EXTINF:-1 tvg-id="altaawounvsalahli1900foxsportsfhd" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="Pro League 🇸🇦",Al-Taawoun vs Al-Ahli 19:00 (FOX SPORTS FHD)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
