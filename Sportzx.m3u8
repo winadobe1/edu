@@ -326,29 +326,6 @@ https://d1yi40sjj0ca0v.cloudfront.net/TVD2083/index.mpd
 #EXTINF:-1 tvg-id="rclensvspsg2000sdserver" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="Ligue 1 🇫🇷",RC Lens vs PSG 20:00 (SD SERVER)
 http://193.47.62.49/hls/GIII.m3u8
 
-#EXTINF:-1 tvg-id="laziovsinter2000fubosportsfhd" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="Coppa Italia 🇮🇹",Lazio vs Inter 20:00 (FUBO SPORTS FHD)
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=dc69b6159a0f9f0a4e03b3ff91cbacd5:d0dcbcd7723bc40df0bf34c9c092d51f
-https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/3b7qwiqzk3/out/v1/9f14895badca43e6a716db021dcd0c31/cenc.mpd
-
-#EXTINF:-1 tvg-id="laziovsinter2000premiersports" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="Coppa Italia 🇮🇹",Lazio vs Inter 20:00 (PREMIER SPORTS)
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=1444f4235529f183f0a5a486befe9cdb:e5e3fec67a1bb3472a2089c8a0a2557f
-https://a151aivottlinear-a.akamaihd.net/OTTB/sin-nitro/live/dash/enc/m6sqanvm2m/out/v1/f6beb46c6e9a4132ad739f3ca27df6aa/cenc.mpd
-
-#EXTINF:-1 tvg-id="laziovsinter2000canalsportshd" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="Coppa Italia 🇮🇹",Lazio vs Inter 20:00 (CANAL SPORTS HD)
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=00f9f3c0783536b8ce4a30a01a52e082:e926f7d45af4f7d154c990eae6a2d937
-https://live03p-seg.msf.cdn.mediaset.net/live/ch-c5/c5-dash-widevine.isml/manifest.mpd
-
-#EXTINF:-1 tvg-id="laziovsinter2000canalsports" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="Coppa Italia 🇮🇹",Lazio vs Inter 20:00 (CANAL SPORTS)
-https://storage.googleapis.com/ounhdsfugfak3/mux_video_ts1/index-1.m3u8
-
-#EXTINF:-1 tvg-id="stockportcountyvsstevenage2000beinenglishfhd" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="League One 🏴󠁧󠁢󠁥󠁮󠁧󠁿",Stockport County vs Stevenage 20:00 (beIN ENGLISH FHD)
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=0b42be2664d7e811d04f3e504e0924c5:ae24090123b8c72ac5404dc152847cb8
-https://a151aivottlinear-a.akamaihd.net/OTTB/sin-nitro/live/dash/enc/8m8cd46i1t/out/v1/83985c68e4174e90a58a1f2c024be4c9/cenc.mpd
-
 #EXTINF:-1 tvg-id="juventudevssopaulo2300premiersports" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="Copa do Brasil",Juventude vs S o Paulo 23:00 (PREMIER SPORTS)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=1a5df53609ebc9857898c490f4724918:77f62980d582ec541280796acf8b2d19
@@ -421,3 +398,11 @@ https://a151aivottlinear-a.akamaihd.net/OTTB/sin-nitro/live/dash/enc/ssdefyhkkr/
 
 #EXTINF:-1 tvg-id="heartsvsfalkirk2000skysportshd" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="Scottish Premiership",HeartS vs Falkirk 20:00 (SKY SPORTS HD)
 https://601.ellitescripts.com/football.m3u8
+
+#EXTINF:-1 tvg-id="coritibavssantos2330primevideofhd" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="Copa do Brasil",Coritiba vs Santos 23:30 (PRIME VIDEO FHD)
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=51394da99a5b49d25f253ccc87e0e045:fba4ac0c7199ed634e69820277cb5092
+https://otte.cache.aiv-cdn.net/gru-nitro/live/clients/dash/enc/rqinjldrpp/out/v1/bf6c4f84f1fe4a1b850e19a0c9d16e8f/cenc.mpd
+
+#EXTINF:-1 tvg-id="coritibavssantos2330sportzxlive" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="Copa do Brasil",Coritiba vs Santos 23:30 (SportzX Live)
+https://image-storage-31.imgcontent.xyz/live/internacional-x-athletic/index.m3u8
