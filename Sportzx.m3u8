@@ -221,16 +221,14 @@ https://dice-live-oc.akamaized.net/hdntl=exp=1778796599~acl=%2F*~id=f9aaa618-2ab
 #EXTINF:-1 tvg-id="clevelandcavaliers0100hdserver" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="NBA",Cleveland Cavaliers 01:00 (HD SERVER)
 https://instreams.pro/US/NBA1/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 tvg-id="torontotempovsseattlestorm0000tsnsportsfhd" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="WNBA",Toronto Tempo vs Seattle Storm 00:00 (TSN SPORTS FHD)
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=c4088f5f265f9de50cffd80bf89308b7:2c4d2239d96d532b4ec2050653611003
-https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/h9urpo3cwb/out/v1/fde190f369484bc6b6117cc16cd82a9f/cenc.mpd
-
 #EXTINF:-1 tvg-id="connecticutvslasvegasaces0100usanetwork" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="WNBA",Connecticut vs Las Vegas Aces 01:00 (USA NETWORK)
 https://xstm.250909.cc/live/SPORTSFLUX-PRD-75441-100/3015d8e2ea17/195.m3u8
 
 #EXTINF:-1 tvg-id="connecticutvslasvegasaces0100hdserver" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="WNBA",Connecticut vs Las Vegas Aces 01:00 (HD SERVER)
 https://rolis.drompakisdoulesonline.online/premium343/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-id="sparksvsindianafever0330skymainevent" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="WNBA",Sparks vs Indiana Fever 03:30 (SKY MAIN EVENT)
+https://iptv.852851.xyz/ch/8e7f4d61756a334943773b8e3c7b1e48/master.m3u8
 
 #EXTINF:-1 tvg-id="sparksvsindianafever0330usanetwork" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="WNBA",Sparks vs Indiana Fever 03:30 (USA NETWORK)
 https://xstm.250909.cc/live/SPORTSFLUX-PRD-75441-100/3015d8e2ea17/195.m3u8
@@ -250,6 +248,15 @@ https://dice-live-oc.akamaized.net/hdntl=exp=1778796598~acl=%2F*~id=8171d523-c77
 
 #EXTINF:-1 tvg-id="coloradoavalanche0100hdserver" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="NHL",Colorado Avalanche 01:00 (HD SERVER)
 https://instreams.pro/US/NHL1/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-id="losangelesdodgers0310hdserver" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="MLB",Los Angeles Dodgers 03:10 (HD SERVER)
+https://instreams.pro/US/MLB1/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-id="cruzazulvscdguadalajara0300hdserver" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="Liga MX",Cruz Azul vs CD Guadalajara 03:00 (HD SERVER)
+https://bobis.zaglemplokis.online/premium66/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-id="cruzazulvscdguadalajara0300sdserver" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="Liga MX",Cruz Azul vs CD Guadalajara 03:00 (SD SERVER)
+https://instreams.pro/bil1/tudn/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-id="manchestercityvscrystalpalace2000skysportsfhd" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="EPL 🏴󠁧󠁢󠁥󠁮󠁧󠁿",Manchester City vs Crystal Palace 20:00 (SKY SPORTS FHD)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -281,33 +288,10 @@ https://storage.googleapis.com/ounhdsfugfak1/mux_video_ts1/index-1.m3u8
 #EXTINF:-1 tvg-id="manchestercityvscrystalpalace2000skysportsmx" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="EPL 🏴󠁧󠁢󠁥󠁮󠁧󠁿",Manchester City vs Crystal Palace 20:00 (SKY SPORTS MX)
 https://601.ellitescripts.com/skysportsmx.m3u8
 
-#EXTINF:-1 tvg-id="cincinnativsintermiami0030hdserver" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="MLS 🇺🇸",Cincinnati vs Inter Miami 00:30 (HD SERVER)
-https://bobis.zaglemplokis.online/premium76/tracks-v1a1/mono.m3u8
-
 #EXTINF:-1 tvg-id="atlantabravesvschicagocubs0015tntsportsfhd" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="MLB",Atlanta Braves vs Chicago Cubs 00:15 (TNT SPORTS FHD)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=294b5761cefc22d0c6312939e13d8278:52148f1042d238849f0a7813f1da8a7b
 https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/cllekigzzn/out/v1/bd3b0c314fff4bb1ab4693358f3cd2d3/cenc.mpd
-
-#EXTINF:-1 tvg-id="juventudevssopaulo2300premiersports" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="Copa do Brasil",Juventude vs S o Paulo 23:00 (PREMIER SPORTS)
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=1a5df53609ebc9857898c490f4724918:77f62980d582ec541280796acf8b2d19
-https://a151aivottlinear-a.akamaihd.net/OTTB/sin-nitro/live/dash/enc/bcj3iscpd6/out/v1/fcd137b391214f7cb99dd4d7be90ca87/cenc.mpd
-
-#EXTINF:-1 tvg-id="juventudevssopaulo2300premiererbr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="Copa do Brasil",Juventude vs S o Paulo 23:00 (PREMIERER BR)
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=56b79c1782b30e6b6fc973b0e8fd4104:fa38aaa865a57eda7c77444697ba8ed3
-https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/nelfyucw9a/out/v1/6ffb2c365ad14f88b154591beb43d1f6/cenc.mpd
-
-#EXTINF:-1 tvg-id="juventudevssopaulo2300sportvbr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="Copa do Brasil",Juventude vs S o Paulo 23:00 (SporTV BR)
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=4bbcff3289d457b4dd5dbdd21221de9a:c4906b9a9f8dda3c0725bddb8c497733
-https://a151aivottlinear-a.akamaihd.net/OTTB/sin-nitro/live/dash/enc/m7duvnk2bu/out/v1/d1ad69118b5647309b1eb7213affdb3d/cenc.mpd
-
-#EXTINF:-1 tvg-id="juventudevssopaulo2300foxdeportes" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="Copa do Brasil",Juventude vs S o Paulo 23:00 (FOX DEPORTES)
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=d1a163914db8ffad2c3e94f979896a0d:9728800a3959aafdd5b0bcfbf3768811
-https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/vkpoljjpkj/out/v1/502bcf68b3514cd28a220e6f0a43816f/cenc.mpd
 
 #EXTINF:-1 tvg-id="removsbahia0130premiererbr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="Copa do Brasil",Remo vs Bahia 01:30 (PREMIERER BR)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -315,16 +299,6 @@ https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/vkpoljjpkj/out/v1
 https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/oy6rp0jwmf/out/v1/580ecf12bad24979baf8dd993dce053e/cenc.mpd
 
 #EXTINF:-1 tvg-id="removsbahia0130sportvbr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="Copa do Brasil",Remo vs Bahia 01:30 (SporTV BR)
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=3de028eafb3b2caffec03be1c1c818b3:8fbdd8a9ae6748696bb13e547bb093fc
-https://otte.cache.aiv-cdn.net/gru-nitro/live/clients/dash/enc/dsa3hwuhd1/out/v1/631b48c8d9ea437e8309d1a4b55acef5/cenc.mpd
-
-#EXTINF:-1 tvg-id="vascodagamavspaysandu2300premiererbr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="Copa do Brasil",Vasco da Gama vs Paysandu 23:00 (PREMIERER BR)
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=9dc40460c93087aea84d6315f08ecb64:f69c8d4624fddff4ca89bd0b31bdc4a7
-https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/oy6rp0jwmf/out/v1/580ecf12bad24979baf8dd993dce053e/cenc.mpd
-
-#EXTINF:-1 tvg-id="vascodagamavspaysandu2300sportvbr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="Copa do Brasil",Vasco da Gama vs Paysandu 23:00 (SporTV BR)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=3de028eafb3b2caffec03be1c1c818b3:8fbdd8a9ae6748696bb13e547bb093fc
 https://otte.cache.aiv-cdn.net/gru-nitro/live/clients/dash/enc/dsa3hwuhd1/out/v1/631b48c8d9ea437e8309d1a4b55acef5/cenc.mpd
@@ -339,14 +313,6 @@ https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/nelfyucw9a/out/v1
 #KODIPROP:inputstream.adaptive.license_key=4bbcff3289d457b4dd5dbdd21221de9a:c4906b9a9f8dda3c0725bddb8c497733
 https://a151aivottlinear-a.akamaihd.net/OTTB/sin-nitro/live/dash/enc/m7duvnk2bu/out/v1/d1ad69118b5647309b1eb7213affdb3d/cenc.mpd
 
-#EXTINF:-1 tvg-id="coritibavssantos2330primevideofhd" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="Copa do Brasil",Coritiba vs Santos 23:30 (PRIME VIDEO FHD)
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=51394da99a5b49d25f253ccc87e0e045:fba4ac0c7199ed634e69820277cb5092
-https://otte.cache.aiv-cdn.net/gru-nitro/live/clients/dash/enc/rqinjldrpp/out/v1/bf6c4f84f1fe4a1b850e19a0c9d16e8f/cenc.mpd
-
-#EXTINF:-1 tvg-id="coritibavssantos2330sportzxlive" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="Copa do Brasil",Coritiba vs Santos 23:30 (SportzX Live)
-https://image-storage-31.imgcontent.xyz/live/internacional-x-athletic/index.m3u8
-
 #EXTINF:-1 tvg-id="mirassolvsrbbragantino0030primevideofhd" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="Copa do Brasil",Mirassol vs RB Bragantino 00:30 (PRIME VIDEO FHD)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=a7ac7bc5acb5cfcc624185a711db0522:9caf2138e40bc655c6d80f48e33a0d13
@@ -354,3 +320,8 @@ https://otte.cache.aiv-cdn.net/gru-nitro/live/clients/dash/enc/rhslrrr7iv/out/v1
 
 #EXTINF:-1 tvg-id="mirassolvsrbbragantino0030primevideohd" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="Copa do Brasil",Mirassol vs RB Bragantino 00:30 (PRIME VIDEO HD)
 https://image-storage-31.imgcontent.xyz/live/fluminense-x-operario-ferroviario/index.m3u8
+
+#EXTINF:-1 tvg-id="jacuipensevspalmeiras0130primevideofhd" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="Copa do Brasil",Jacuipense vs Palmeiras 01:30 (PRIME VIDEO FHD)
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=d7acb1a27fef944a16ac5a24d1daf515:865afde5561d492bebe8074da07f74ee
+https://otte.cache.aiv-cdn.net/gru-nitro/live/clients/dash/enc/itnxm9pzh2/out/v1/fa857febc7a2488a95bdcdaa17d52955/cenc.mpd
