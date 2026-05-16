@@ -220,6 +220,9 @@ https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/tll6uwepxa/out/v1
 #KODIPROP:inputstream.adaptive.license_key=0ad4080cdff8c60b1233b22087f0b340:285f129c5eca01dd08a5d5a14ad801c8
 https://a151aivottlinear-a.akamaihd.net/OTTB/sin-nitro/live/dash/enc/ssdefyhkkr/out/v1/cf01290cb7f64525bdf861580a016ca8/cenc.mpd
 
+#EXTINF:-1 tvg-id="alnassrvsgambaosaka1845fancodehd" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="AFC Champions Two",Al-Nassr vs Gamba Osaka 18:45 (FANCODE HD)
+https://fncd.kuvuslov.cymru/mumbai/140874_english_hls_ef7a6a2b9267306_1ta-di_h264/index.m3u8
+
 #EXTINF:-1 tvg-id="buffalosabres0100premiersports" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="NHL",Buffalo Sabres 01:00 (PREMIER SPORTS)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=1444f4235529f183f0a5a486befe9cdb:e5e3fec67a1bb3472a2089c8a0a2557f
@@ -281,11 +284,6 @@ https://zomis.zempovlantis.online/premium62/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="gaziantepvsbaakehir1800beinsportshd" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="Super Lig",Gaziantep vs Ba ak ehir 18:00 (beIN SPORTS HD)
 https://zomis.zempovlantis.online/premium63/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 tvg-id="portovssantaclara1530sportdigitalfussball" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="Liga Portugal",Porto vs Santa Clara 15:30 (SportDigital Fussball)
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=0ad4080cdff8c60b1233b22087f0b340:285f129c5eca01dd08a5d5a14ad801c8
-https://a151aivottlinear-a.akamaihd.net/OTTB/sin-nitro/live/dash/enc/ssdefyhkkr/out/v1/cf01290cb7f64525bdf861580a016ca8/cenc.mpd
-
 #EXTINF:-1 tvg-id="sportingvsgilvicente2030sportdigitalfussball" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="Liga Portugal",Sporting vs Gil Vicente 20:30 (SportDigital Fussball)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=0ad4080cdff8c60b1233b22087f0b340:285f129c5eca01dd08a5d5a14ad801c8
@@ -321,3 +319,6 @@ https://rolis.drompakisdoulesonline.online/premium17/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-id="daveallen1800sportzxlive" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="Boxing",Dave Allen 18:00 (SportzX Live)
 https://bo3.bofiles.cfd/live/filip/stream.m3u8
+
+#EXTINF:-1 tvg-id="daveallen1800daznppvhd" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="Boxing",Dave Allen 18:00 (DAZN PPV HD)
+https://rolis.drompakisdoulesonline.online/premium77/tracks-v1a1/mono.m3u8
