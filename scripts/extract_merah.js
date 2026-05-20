@@ -5,7 +5,8 @@ const path = require('path');
 // CONFIG
 // ==============================
 const PLAYLIST_URLS = [
-    "https://semar25.short.gy"
+    "https://semar25.short.gy",
+    "https://getch.semar.my.id/"
 ];
 const OUTPUT_FILE  = "merah.m3u8";
 const USER_AGENT   = "TiviMate/5.0.4";
