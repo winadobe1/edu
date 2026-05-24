@@ -173,10 +173,15 @@ https://dice-live-oc.akamaized.net/hdntl=exp=1779716803~acl=%2F*~id=e3c0718d-26e
 #EXTINF:-1 tvg-id="oklahomacitythunder0100hdserver" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="NBA",Oklahoma City Thunder 01:00 (HD SERVER)
 https://instreams.pro/US/NBA1/tracks-v1a1/mono.m3u8
 
+#EXTINF:-1 tvg-id="coloradoavalanche0100setantasports" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="NHL",Colorado Avalanche 01:00 (SETANTA SPORTS)
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=6547dbaa76c54917b68b90cfc9c606dc:e82672e5d155441da8e2d2b111b6d584
+https://adjara-live-eu.akamaized.net/hdntl=exp=1779737054~acl=%2F*~id=91b2b77c-5acf-4562-a302-81dfd4e0db31~data=hdntl,aXA9MTcyLjE4NS4xNjcuMzYmZXhwPTE3Nzk2NTA2ODQmZWlkPTk2MjYwOCZvaWQ9MTA4JnR5cGU9Vk9EJnVpZD1FcVo5d2d8YmY4MTQ1ODAtMWFjMy00NjczLWFhMDktMDhlMjI1Y2NkMDFhJmNpZD1kY2Uuc3B1cnMmcHQ9bnVsbA~hmac=e3d75e1fd221b2be35a0c17a3e03975e84b24153ab4ec4f7ac54eb335251287b/dash/live/2019654/303496-322029/manifest-d.mpd
+
 #EXTINF:-1 tvg-id="coloradoavalanche0100premiersports" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="NHL",Colorado Avalanche 01:00 (PREMIER SPORTS)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=1a5df53609ebc9857898c490f4724918:77f62980d582ec541280796acf8b2d19
-https://a151aivottlinear-a.akamaihd.net/OTTB/sin-nitro/live/dash/enc/bcj3iscpd6/out/v1/fcd137b391214f7cb99dd4d7be90ca87/cenc.mpd
+#KODIPROP:inputstream.adaptive.license_key=1444f4235529f183f0a5a486befe9cdb:e5e3fec67a1bb3472a2089c8a0a2557f
+https://a151aivottlinear-a.akamaihd.net/OTTB/sin-nitro/live/dash/enc/m6sqanvm2m/out/v1/f6beb46c6e9a4132ad739f3ca27df6aa/cenc.mpd
 
 #EXTINF:-1 tvg-id="coloradoavalanche0100espnsportshd" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="NHL",Colorado Avalanche 01:00 (ESPN SPORTS HD)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -195,14 +200,14 @@ https://26hrwgorfcmh.windows-devs.top/AccessLog2/108085_HD/apache.m3u8
 #EXTINF:-1 tvg-id="aewdoubleornothing0100sdserver" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="WWE",AEW Double or Nothing 01:00 (SD SERVER)
 https://26hrwgorfcmh.windows-devs.top/AccessLog2/108085_LQ/apache.m3u8
 
-#EXTINF:-1 tvg-id="pumasunamvscruzazul0200tudnusahd" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="Liga MX",Pumas UNAM vs Cruz Azul 02:00 (TUDN USA HD)
-https://daffodil.thelistener.pk/tudn.m3u8
+#EXTINF:-1 tvg-id="pumasunamvscruzazul0200tudnsportshd" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="Liga MX",Pumas UNAM vs Cruz Azul 02:00 (TUDN SPORTS HD)
+https://daffodil.sandhost.qzz.io/tudn.m3u8
 
 #EXTINF:-1 tvg-id="pumasunamvscruzazul0200sportzxlive" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="Liga MX",Pumas UNAM vs Cruz Azul 02:00 (SportzX Live)
 https://instreams.pro/bil1/tudn/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 tvg-id="pumasunamvscruzazul0200tudnsportshd" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="Liga MX",Pumas UNAM vs Cruz Azul 02:00 (TUDN SPORTS HD)
-https://daffodil.sandhost.qzz.io/tudn.m3u8
+#EXTINF:-1 tvg-id="pumasunamvscruzazul0200tudnusahd" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="Liga MX",Pumas UNAM vs Cruz Azul 02:00 (TUDN USA HD)
+https://daffodil.thelistener.pk/tudn.m3u8
 
 #EXTINF:-1 tvg-id="milanvscagliari1945setantasports" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="Serie A 🇮🇹",Milan vs Cagliari 19:45 (SETANTA SPORTS)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -324,9 +329,6 @@ https://a151aivottlinear-a.akamaihd.net/OTTB/sin-nitro/live/dash/enc/m7duvnk2bu/
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=56b79c1782b30e6b6fc973b0e8fd4104:fa38aaa865a57eda7c77444697ba8ed3
 https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/nelfyucw9a/out/v1/6ffb2c365ad14f88b154591beb43d1f6/cenc.mpd
-
-#EXTINF:-1 tvg-id="intermiamivsphiladelphiaunion0000foxusahd" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="MLS 🇺🇸",Inter Miami vs Philadelphia Union 00:00 (FOX USA HD)
-https://daffodil.thelistener.pk/fox.m3u8
 
 #EXTINF:-1 tvg-id="intermiamivsphiladelphiaunion0000foxdeportes" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="MLS 🇺🇸",Inter Miami vs Philadelphia Union 00:00 (FOX DEPORTES)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
