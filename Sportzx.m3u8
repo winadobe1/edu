@@ -241,6 +241,11 @@ https://dice-live-oc.akamaized.net/hdntl=exp=1779769090~acl=%2F*~id=68e3825b-e42
 #KODIPROP:inputstream.adaptive.license_key=4d346b1d1ae64d4a800409cffa14983e:208c972bd2da4359ac94e6944fe378b6
 https://dice-live-oc.akamaized.net/hdntl=exp=1779769090~acl=%2F*~id=68e3825b-e424-4ede-b44a-01bd82701425~data=hdntl,aXA9MTcyLjE4My44OS4zNCZleHA9MTc3OTY4MjcyMCZlaWQ9OTYyNjYyJm9pZD0xMDgmdHlwZT1WT0QmdWlkPW5yS25IaXxhNDE5NzJhMS1jOTk4LTQ1ZDAtYjg1NS05MmRlYjQwNzZmMmYmY2lkPWRjZS5zcHVycyZwdD1udWxs~hmac=42e94e0a1e596b8894e65b2bbff7f8670440b0fc51955a8832857b9d1db43f1d/dash/live/2093666/294921-318514/manifest-d.mpd
 
+#EXTINF:-1 tvg-id="englandwvsnewzealandw1430willowfhd" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="Cricket",England W vs New Zealand W 14:30 (WILLOW FHD)
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=290e09c837da78d5cd961978d390515c:b748836c71e6a4ca68ef5b5652db6247
+https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/tll6uwepxa/out/v1/a7f67cbb33df46539312956427343886/cenc.mpd
+
 #EXTINF:-1 tvg-id="paderbornvswolfsburg1930beinenglish" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="Bundesliga 🇩🇪",Paderborn vs Wolfsburg 19:30 (beIN ENGLISH)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=0b42be2664d7e811d04f3e504e0924c5:ae24090123b8c72ac5404dc152847cb8
@@ -250,6 +255,14 @@ https://a151aivottlinear-a.akamaihd.net/OTTB/sin-nitro/live/dash/enc/8m8cd46i1t/
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=4bbcff3289d457b4dd5dbdd21221de9a:c4906b9a9f8dda3c0725bddb8c497733
 https://a151aivottlinear-a.akamaihd.net/OTTB/sin-nitro/live/dash/enc/m7duvnk2bu/out/v1/d1ad69118b5647309b1eb7213affdb3d/cenc.mpd
+
+#EXTINF:-1 tvg-id="paderbornvswolfsburg1930skybundesligasd" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="Bundesliga 🇩🇪",Paderborn vs Wolfsburg 19:30 (SKY BUNDESLIGA SD)
+https://instreams.pro/bil2/bundes1/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-id="nottscountyvssalfordcity1500setantasports" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="League Two 🏴󠁧󠁢󠁥󠁮󠁧󠁿",Notts County vs Salford City 15:00 (SETANTA SPORTS)
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=8bd8a422acf6481ca386312429058070:a8ae987bf3654b089605d987b78fcaa7
+https://adjara-live-eu.akamaized.net/hdntl=exp=1779790787~acl=%2F*~id=284decba-7860-4f39-b74c-4255087b3a1c~data=hdntl,aXA9MTMuODMuMTYyLjQxJmV4cD0xNzc5NzA0NDE2JmVpZD05NjI2Mzcmb2lkPTEwOCZ0eXBlPVZPRCZ1aWQ9NmhuOVdjfGM1MDA1YzYxLWQ5YzMtNGYyMC1iMDc4LTMyNGM3MTliNWFiZCZjaWQ9ZGNlLnNwdXJzJnB0PW51bGw~hmac=2dc323600917b12047650fdcf64761e764372b75814de40e01f884b3430eb515/dash/live/2001567/303310-322032/manifest-d.mpd
 
 #EXTINF:-1 tvg-id="nottscountyvssalfordcity1500beinenglish" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="League Two 🏴󠁧󠁢󠁥󠁮󠁧󠁿",Notts County vs Salford City 15:00 (beIN ENGLISH)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
