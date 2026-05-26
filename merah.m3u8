@@ -145,7 +145,7 @@ http://khano.nng.cloudns.us/live/m3u8/id/270f72deeb5843h.m3u8
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.19.1 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
 #EXTVLCOPT:http-referrer=http://dens.tv
 http://op-group1-swiftservehd-1.dens.tv/h/h40/01.m3u8
-#EXTINF:-1 tvg-id="9ae05db1c2a2a128e2b99c418b613b1c" tvg-logo="https://web.semar.my.id/sinpotv.jpg" group-title="Saluran",SIN PO TV
+#EXTINF:-1 tvg-id="9ae05db1c2a2a128e2b99c418b613b1c" tvg-logo="https://super.semar.my.id/sinpotv.jpg" group-title="Saluran",SIN PO TV
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #EXTVLCOPT:http-user-agent=VidioPlayer/6.41.11
 https://vidx.semar.my.id/biasa2.mpd?id=19046&type=dash
@@ -410,25 +410,25 @@ https://fta4-cdn-flr.visionplus.id/out/v1/751a0982779f4edd904205eb351e220d/index
 #KODIPROP:inputstream.adaptive.license_key=0d9539db24004da9ac36ea49a09e255c:30304533b5008ad7f33c25f225506bc0
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
 https://live-channel4-cdn.visionplus.id/out/v1/45c0752c6b6b4397b80243ac9fed96fd/index.mpd
-#EXTINF:-1 tvg-logo="https://web.semar.my.id/originals.jpg" group-title="Saluran Premium", Originals
+#EXTINF:-1 tvg-logo="https://super.semar.my.id/originals.jpg" group-title="Saluran Premium", Originals
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=33333f38930949b1af65b3361ad80d1d:b159847f9af0500738b01e91cf023e30
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
 https://d3b0v7fggu5zwm.cloudfront.net/out/v1/e992e986a88346c18a5dcc4fbcdae6b9/index.mpd
-#EXTINF:-1 tvg-logo="https://web.semar.my.id/cedge.jpg" group-title="Saluran Premium", Cineedge
+#EXTINF:-1 tvg-logo="https://super.semar.my.id/cedge.jpg" group-title="Saluran Premium", Cineedge
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=c7b3852d9c84418f942923e41c31e633:ddb99755e0bebd98c92c7eab974bf161
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
 https://d2xz2v5wuvgur6.cloudfront.net/out/v1/47c895ca72544fcfa4221c499b555a10/index.mpd
-#EXTINF:-1 tvg-logo="https://web.semar.my.id/superrix.jpg" group-title="Saluran Premium", Superrix
+#EXTINF:-1 tvg-logo="https://super.semar.my.id/superrix.jpg" group-title="Saluran Premium", Superrix
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=1dc30f49888c4652897d9c998aa2cac1:8ccb6857157c1a01c5a47eb853f51aa2
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
 https://d2tjypxxy769fn.cloudfront.net/out/v1/782400332c96440598260730a864bc6f/index.mpd
-#EXTINF:-1 tvg-logo="https://web.semar.my.id/uniques.jpg" group-title="Saluran Premium", Uniques
+#EXTINF:-1 tvg-logo="https://super.semar.my.id/uniques.jpg" group-title="Saluran Premium", Uniques
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=5a6668f3a5d64338bce13307e5c570be:d0c76237c5ee38e7a420e9c83323023e
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
@@ -853,7 +853,7 @@ https://sports.semar.my.id/manifest/HubPremier4.mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko)Safari/537.36
 https://parlay12.serv00.net/pidio/index.m3u8?id=12607&type=hls
-#EXTINF:-1 tvg-logo="https://web.semar.my.id/nabawi.jpg" group-title="Saluran Religi", NABAWI TV
+#EXTINF:-1 tvg-logo="https://super.semar.my.id/nabawi.jpg" group-title="Saluran Religi", NABAWI TV
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.stream_headers=user-agent=Xstream XGO/1.22 (Linux;Android 9) ExoPlayerLib/2.10.5
 #KODIPROP:inputstream.adaptive.manifest_type=dash
@@ -861,7 +861,7 @@ https://parlay12.serv00.net/pidio/index.m3u8?id=12607&type=hls
 #KODIPROP:inputstream.adaptive.license_key=https://kelontong.semar.my.id/cumbudrm1.php
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 https://cdnjkt913.transvision.co.id:1000/live/master/2/4028c68588e2da5a01892e3755c046bf/manifest.mpd
-#EXTINF:-1 tvg-logo="https://web.semar.my.id/khazanah.jpg" group-title="Saluran Religi",Khazanah
+#EXTINF:-1 tvg-logo="https://super.semar.my.id/khazanah.jpg" group-title="Saluran Religi",Khazanah
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://kelontong.semar.my.id/cumbudrm1.php
 #KODIPROP:inputstream.adaptive.stream_headers=user-agent=Xstream XGO/1.22 (Linux;Android 9) ExoPlayerLib/2.10.5
@@ -874,11 +874,11 @@ https://wahyu1ptv.pages.dev/SurauTV-HD.m3u8
 https://wahyu1ptv.pages.dev/MQTV-HD.m3u8
 #EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/4a1HKMcVk1U/maxresdefault.jpg" group-title="Saluran Religi", WesalTV
 https://wahyu1ptv.pages.dev/WesalTV-HD.m3u8
-#EXTINF:-1 tvg-logo="https://web.semar.my.id/Ashill.jpg" group-title="Saluran Religi",AshillTV
+#EXTINF:-1 tvg-logo="https://super.semar.my.id/Ashill.jpg" group-title="Saluran Religi",AshillTV
 https://wahyu1ptv.pages.dev/AshiilTV-HD.m3u8
-#EXTINF:-1 group-title="Saluran Religi"  tvg-logo="https://web.semar.my.id/muitv.jpg" ,MUI TV
+#EXTINF:-1 group-title="Saluran Religi"  tvg-logo="https://super.semar.my.id/muitv.jpg" ,MUI TV
 https://mui.siar.us/mui/live/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://web.semar.my.id/tv10.jpg" group-title="Saluran Religi" ,TV 10 HD
+#EXTINF:-1 tvg-logo="https://super.semar.my.id/tv10.jpg" group-title="Saluran Religi" ,TV 10 HD
 https://video1.earthcam.com/myearthcam/641f889a7774a38d5fc93dc76c4aeded.flv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQD_sHJcxc4uMCl0zaHOQBmXk0Tbn4NpOHehaqBhE7cRM2e36a3DBMYm54&s=10" group-title="Saluran Religi" ,TV9 HD
 https://5bf7b725107e5.streamlock.net/tv9/tv9/playlist.m3u8
@@ -930,12 +930,6 @@ https://vidx.semar.my.id/cobaduarr.mpd?id=18253&type=dash
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=91b9592c819246c68b3b08a1fe08ba22:fa0d80dfd865b34077bae44cd4a0c5e6
 #https://tglmp04.akamaized.net/sssssout/v1/400fc0702dee453bb33ebcc29466e58a/manifest.mpd
-#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/OocqljphAokztfeFgPDQAykuRI0=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5084160/fa4973.jpg" group-title="Live Event", Arsenal Trophy Ceremony 00:00 25 Mei 2026
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 15; P1 Build/AP4A.25010.002; wv-atv) Google/0.4.7-dev AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/83.0.4103.106 Mobile Safari/537.36
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://vidx.semar.my.id/mbledos.php?drum=qGrdeDzVnkOu4Z_2KDLT5iPKnpwi25S1tWqma-MMeNgkOV9_bl2DJ0EvK_ijuyl9K94KMZT9lMpi86QFEjIvP_jhMRx7o-tjLUCuIpdlBvdLiaCPy7IlGawMXFVixKI4
-https://vidx.semar.my.id/mbledos.mpd?pepek=wqwy9L8MdJgYkMnCz57bCQ-y3mbum7ZwXAp-ts80eREQ2unRH_mB-eiUMyaUsrQMq5ks3448hZLiNpDaOoiUBNAP00ebdGaHqtYC40RcS7hRRDGxUo3Ffg5tOC1nVAZt
 
 #EXTINF:-1 tvg-id="AlQuranAlKareemTV.sa" tvg-name="Al Quran Al Kareem TV" tvg-country="SA" tvg-language="Arabic" tvg-logo="https://i.imgur.com/zmVCXIK.png" group-title="Saluran",Al Quran Al Kareem TV (TV Mekah)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -1083,7 +1077,7 @@ http://khano.nng.cloudns.us/live/m3u8/id/270f72deeb5843h.m3u8
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.19.1 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
 #EXTVLCOPT:http-referrer=http://dens.tv
 http://op-group1-swiftservehd-1.dens.tv/h/h40/01.m3u8
-#EXTINF:-1 tvg-id="9ae05db1c2a2a128e2b99c418b613b1c" tvg-logo="https://web.semar.my.id/sinpotv.jpg" group-title="Saluran",SIN PO TV
+#EXTINF:-1 tvg-id="9ae05db1c2a2a128e2b99c418b613b1c" tvg-logo="https://super.semar.my.id/sinpotv.jpg" group-title="Saluran",SIN PO TV
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #EXTVLCOPT:http-user-agent=VidioPlayer/6.41.11
 https://vidx.semar.my.id/biasa2.mpd?id=19046&type=dash
@@ -1348,25 +1342,25 @@ https://fta4-cdn-flr.visionplus.id/out/v1/751a0982779f4edd904205eb351e220d/index
 #KODIPROP:inputstream.adaptive.license_key=0d9539db24004da9ac36ea49a09e255c:30304533b5008ad7f33c25f225506bc0
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
 https://live-channel4-cdn.visionplus.id/out/v1/45c0752c6b6b4397b80243ac9fed96fd/index.mpd
-#EXTINF:-1 tvg-logo="https://web.semar.my.id/originals.jpg" group-title="Saluran Premium", Originals
+#EXTINF:-1 tvg-logo="https://super.semar.my.id/originals.jpg" group-title="Saluran Premium", Originals
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=33333f38930949b1af65b3361ad80d1d:b159847f9af0500738b01e91cf023e30
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
 https://d3b0v7fggu5zwm.cloudfront.net/out/v1/e992e986a88346c18a5dcc4fbcdae6b9/index.mpd
-#EXTINF:-1 tvg-logo="https://web.semar.my.id/cedge.jpg" group-title="Saluran Premium", Cineedge
+#EXTINF:-1 tvg-logo="https://super.semar.my.id/cedge.jpg" group-title="Saluran Premium", Cineedge
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=c7b3852d9c84418f942923e41c31e633:ddb99755e0bebd98c92c7eab974bf161
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
 https://d2xz2v5wuvgur6.cloudfront.net/out/v1/47c895ca72544fcfa4221c499b555a10/index.mpd
-#EXTINF:-1 tvg-logo="https://web.semar.my.id/superrix.jpg" group-title="Saluran Premium", Superrix
+#EXTINF:-1 tvg-logo="https://super.semar.my.id/superrix.jpg" group-title="Saluran Premium", Superrix
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=1dc30f49888c4652897d9c998aa2cac1:8ccb6857157c1a01c5a47eb853f51aa2
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
 https://d2tjypxxy769fn.cloudfront.net/out/v1/782400332c96440598260730a864bc6f/index.mpd
-#EXTINF:-1 tvg-logo="https://web.semar.my.id/uniques.jpg" group-title="Saluran Premium", Uniques
+#EXTINF:-1 tvg-logo="https://super.semar.my.id/uniques.jpg" group-title="Saluran Premium", Uniques
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=5a6668f3a5d64338bce13307e5c570be:d0c76237c5ee38e7a420e9c83323023e
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
@@ -1791,7 +1785,7 @@ https://sports.semar.my.id/manifest/HubPremier4.mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko)Safari/537.36
 https://parlay12.serv00.net/pidio/index.m3u8?id=12607&type=hls
-#EXTINF:-1 tvg-logo="https://web.semar.my.id/nabawi.jpg" group-title="Saluran Religi", NABAWI TV
+#EXTINF:-1 tvg-logo="https://super.semar.my.id/nabawi.jpg" group-title="Saluran Religi", NABAWI TV
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.stream_headers=user-agent=Xstream XGO/1.22 (Linux;Android 9) ExoPlayerLib/2.10.5
 #KODIPROP:inputstream.adaptive.manifest_type=dash
@@ -1799,7 +1793,7 @@ https://parlay12.serv00.net/pidio/index.m3u8?id=12607&type=hls
 #KODIPROP:inputstream.adaptive.license_key=https://kelontong.semar.my.id/cumbudrm1.php
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 https://cdnjkt913.transvision.co.id:1000/live/master/2/4028c68588e2da5a01892e3755c046bf/manifest.mpd
-#EXTINF:-1 tvg-logo="https://web.semar.my.id/khazanah.jpg" group-title="Saluran Religi",Khazanah
+#EXTINF:-1 tvg-logo="https://super.semar.my.id/khazanah.jpg" group-title="Saluran Religi",Khazanah
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://kelontong.semar.my.id/cumbudrm1.php
 #KODIPROP:inputstream.adaptive.stream_headers=user-agent=Xstream XGO/1.22 (Linux;Android 9) ExoPlayerLib/2.10.5
@@ -1812,11 +1806,11 @@ https://wahyu1ptv.pages.dev/SurauTV-HD.m3u8
 https://wahyu1ptv.pages.dev/MQTV-HD.m3u8
 #EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/4a1HKMcVk1U/maxresdefault.jpg" group-title="Saluran Religi", WesalTV
 https://wahyu1ptv.pages.dev/WesalTV-HD.m3u8
-#EXTINF:-1 tvg-logo="https://web.semar.my.id/Ashill.jpg" group-title="Saluran Religi",AshillTV
+#EXTINF:-1 tvg-logo="https://super.semar.my.id/Ashill.jpg" group-title="Saluran Religi",AshillTV
 https://wahyu1ptv.pages.dev/AshiilTV-HD.m3u8
-#EXTINF:-1 group-title="Saluran Religi"  tvg-logo="https://web.semar.my.id/muitv.jpg" ,MUI TV
+#EXTINF:-1 group-title="Saluran Religi"  tvg-logo="https://super.semar.my.id/muitv.jpg" ,MUI TV
 https://mui.siar.us/mui/live/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://web.semar.my.id/tv10.jpg" group-title="Saluran Religi" ,TV 10 HD
+#EXTINF:-1 tvg-logo="https://super.semar.my.id/tv10.jpg" group-title="Saluran Religi" ,TV 10 HD
 https://video1.earthcam.com/myearthcam/641f889a7774a38d5fc93dc76c4aeded.flv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQD_sHJcxc4uMCl0zaHOQBmXk0Tbn4NpOHehaqBhE7cRM2e36a3DBMYm54&s=10" group-title="Saluran Religi" ,TV9 HD
 https://5bf7b725107e5.streamlock.net/tv9/tv9/playlist.m3u8
@@ -1868,9 +1862,3 @@ https://vidx.semar.my.id/cobaduarr.mpd?id=18253&type=dash
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=91b9592c819246c68b3b08a1fe08ba22:fa0d80dfd865b34077bae44cd4a0c5e6
 #https://tglmp04.akamaized.net/sssssout/v1/400fc0702dee453bb33ebcc29466e58a/manifest.mpd
-#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/OocqljphAokztfeFgPDQAykuRI0=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5084160/fa4973.jpg" group-title="Live Event", Arsenal Trophy Ceremony 00:00 25 Mei 2026
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 15; P1 Build/AP4A.25010.002; wv-atv) Google/0.4.7-dev AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/83.0.4103.106 Mobile Safari/537.36
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://vidx.semar.my.id/mbledos.php?drum=qGrdeDzVnkOu4Z_2KDLT5iPKnpwi25S1tWqma-MMeNgkOV9_bl2DJ0EvK_ijuyl9K94KMZT9lMpi86QFEjIvP_jhMRx7o-tjLUCuIpdlBvdLiaCPy7IlGawMXFVixKI4
-https://vidx.semar.my.id/mbledos.mpd?pepek=wqwy9L8MdJgYkMnCz57bCQ-y3mbum7ZwXAp-ts80eREQ2unRH_mB-eiUMyaUsrQMq5ks3448hZLiNpDaOoiUBNAP00ebdGaHqtYC40RcS7hRRDGxUo3Ffg5tOC1nVAZt
