@@ -935,6 +935,12 @@ https://vidx.semar.my.id/cobaduarr.mpd?id=18253&type=dash
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=91b9592c819246c68b3b08a1fe08ba22:fa0d80dfd865b34077bae44cd4a0c5e6
 #https://tglmp04.akamaized.net/sssssout/v1/400fc0702dee453bb33ebcc29466e58a/manifest.mpd
+#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/ngJNsKO4NFvt50A9dgH8hOhfk-s=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5105751/4a8e94.jpg" group-title="Live Event", Indonesia vs Myanmar - ASEAN U19 Boys' Bank Sumut Championship 20:00 01 Juni 2026
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 15; P1 Build/AP4A.25010.002; wv-atv) Google/0.4.7-dev AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/83.0.4103.106 Mobile Safari/537.36
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://vidx.semar.my.id/mbledos.php?drum=9nqttPj4N8YEz_H4Wby0BIKV5y8EUmjEjPV0jmm-fM9B1zTmfksOU4SWhVPK00VFhtmqfa264hq8ZC7w3g68RjzUy4GmDGyJZkZ5LItmZlzpa_YLvyYpBQ5uzOrWk1hl
+https://vidx.semar.my.id/mbledos.mpd?pepek=ImmzGAUVQnmIMXU5BMSa4IoLkTlM0RgJ5CVefHUuyxdA_leU34xhckvKqOFnPnXNa1iwwpOm4T1wb01eITTdKekutmrdLrTFViaUJ9dBvJPpOheNbuSbwlAswzH9zPlF
 
 #EXTINF:-1 tvg-id="AlQuranAlKareemTV.sa" tvg-name="Al Quran Al Kareem TV" tvg-country="SA" tvg-language="Arabic" tvg-logo="https://i.imgur.com/zmVCXIK.png" group-title="Saluran",Al Quran Al Kareem TV (TV Mekah)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -1872,3 +1878,9 @@ https://vidx.semar.my.id/cobaduarr.mpd?id=18253&type=dash
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=91b9592c819246c68b3b08a1fe08ba22:fa0d80dfd865b34077bae44cd4a0c5e6
 #https://tglmp04.akamaized.net/sssssout/v1/400fc0702dee453bb33ebcc29466e58a/manifest.mpd
+#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/ngJNsKO4NFvt50A9dgH8hOhfk-s=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5105751/4a8e94.jpg" group-title="Live Event", Indonesia vs Myanmar - ASEAN U19 Boys' Bank Sumut Championship 20:00 01 Juni 2026
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 15; P1 Build/AP4A.25010.002; wv-atv) Google/0.4.7-dev AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/83.0.4103.106 Mobile Safari/537.36
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://vidx.semar.my.id/mbledos.php?drum=9nqttPj4N8YEz_H4Wby0BIKV5y8EUmjEjPV0jmm-fM9B1zTmfksOU4SWhVPK00VFhtmqfa264hq8ZC7w3g68RjzUy4GmDGyJZkZ5LItmZlzpa_YLvyYpBQ5uzOrWk1hl
+https://vidx.semar.my.id/mbledos.mpd?pepek=ImmzGAUVQnmIMXU5BMSa4IoLkTlM0RgJ5CVefHUuyxdA_leU34xhckvKqOFnPnXNa1iwwpOm4T1wb01eITTdKekutmrdLrTFViaUJ9dBvJPpOheNbuSbwlAswzH9zPlF
