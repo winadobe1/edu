@@ -82,11 +82,13 @@ https://v1dx.semar.my.id/biasa2.mpd?id=8237&type=dash
 #EXTINF:-1 tvg-id="Trans7.id" tvg-url="https://bit.ly/IndonesiaEpg" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRKpv42_NHgvbLPYtkmvnu3q3gA5kP0KsaZpUvzDk-tZeZX1tFGqdlh3t8&s=10" group-title="Saluran Nasional",Trans7
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #EXTVLCOPT:http-user-agent=VidioPlayer/7.27.12
-https://v1dx.semar.my.id/biasa2.mpd?id=734&type=dash
+#https://v1dx.semar.my.id/biasa2.mpd?id=734&type=dash
+http://157.15.187.3:25092/hls/42/42.m3u8
 #EXTINF:-1 tvg-id="TransTV.id" tvg-url="https://bit.ly/IndonesiaEpg" tvg-logo="https://www.transtv.co.id/layout/new/src/images/tv/TRANS%20TV%20live%20streaming%20tv.jpg" group-title="Saluran Nasional",TransTV
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #EXTVLCOPT:http-user-agent=VidioPlayer/7.27.12
-https://v1dx.semar.my.id/biasa2.mpd?id=733&type=dash
+#https://v1dx.semar.my.id/biasa2.mpd?id=733&type=dash
+http://157.15.187.3:25092/hls/43/43.m3u8
 #EXTINF:-1  tvg-name="CNN Indonesia" tvg-id="CNNIndonesia.id" tvg-logo="https://cdn.cnnindonesia.com/cnnid/images/Logo-CNN-Indonesia-Peta-Indonesia.jpg?v=8.3.1" group-title="Saluran Nasional",CNN Indonesia
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
 https://live.cnnindonesia.com/livecnn/smil:cnntv.smil/playlist.m3u8
@@ -667,57 +669,57 @@ https://otte.live.fly.ww.aiv-cdn.net/dub-nitro/live/clients/dash/enc/2jbycgm3g3/
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=b8234540888aaac0b056c430f52f48bf:aaad1315f5d21d969518a0fb9a2b83cb
-https://v1dx.semar.my.id/cobaduarr.mpd?id=20216&type=dash
+#https://v1dx.semar.my.id/cobaduarr.mpd?id=20216&type=dash
 #EXTINF:-1 tvg-id="Champions TV 1.id" tvg-logo="https://cdn0-production-images-kly.akamaized.net/si4Z12-cK8zODt65n5FoNJ03jtc=/1200x675/smart/filters:quality(75):strip_icc():format(jpeg)/kly-media-production/medias/2907592/original/056844200_1568171580-Champions_TV-Vidio.jpeg" group-title="Saluran Olahraga",Champions TV 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=68d120b783a0420e63b17f44ef2a2af2:fcfad4cd945a66d489293b72f1eae8ac
-https://v1dx.semar.my.id/cobaduarr.mpd?id=6685&type=dash
+#https://v1dx.semar.my.id/cobaduarr.mpd?id=6685&type=dash
 #EXTINF:-1 tvg-id="Champions TV 1.id" tvg-logo="https://cdn0-production-images-kly.akamaized.net/si4Z12-cK8zODt65n5FoNJ03jtc=/1200x675/smart/filters:quality(75):strip_icc():format(jpeg)/kly-media-production/medias/2907592/original/056844200_1568171580-Champions_TV-Vidio.jpeg" group-title="Saluran Olahraga",Champions TV 1 SerieA
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=21afccfca882b6fd029bfbf101b039c4:4178b215436eb40ec733adc233ff1760
-https://v1dx.semar.my.id/cobaduarr.mpd?id=17938&type=dash
+#https://v1dx.semar.my.id/cobaduarr.mpd?id=17938&type=dash
 #EXTINF:-1 tvg-id="Champions TV 2.id" tvg-logo="https://thumbor.prod.vidiocdn.com/3t3zHq1HLp4HOlhQfZA1-rc7QQ4=/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6686/champions-tv-2-58cc4d.jpg" group-title="Saluran Olahraga",Champions TV 2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type= clearkey
 #KODIPROP:inputstream.adaptive.license_key=d8810a06df6e5437aa378be1aef6a3d9:f9e0f84b886f7402738c2e201af9f4db
-https://v1dx.semar.my.id/cobaduarr.mpd?id=6686&type=dash
+#https://v1dx.semar.my.id/cobaduarr.mpd?id=6686&type=dash
 #EXTINF:-1 tvg-id="Champions TV 2.id" tvg-logo="https://thumbor.prod.vidiocdn.com/3t3zHq1HLp4HOlhQfZA1-rc7QQ4=/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6686/champions-tv-2-58cc4d.jpg" group-title="Saluran Olahraga",Champions TV 2 SerieA
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type= clearkey
 #KODIPROP:inputstream.adaptive.license_key=8912d41b6dc628229afa43a67cf2f3ac:1588e5fc9e30b995c81e661487b68265
-https://v1dx.semar.my.id/cobaduarr.mpd?id=17939&type=dash
+#https://v1dx.semar.my.id/cobaduarr.mpd?id=17939&type=dash
 #EXTINF:-1 tvg-id="Champions TV 3.id" tvg-logo="https://thumbor.prod.vidiocdn.com/f4-7EI2_Sj9cY0Tb1v8QHyA1QBU=/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6786/champions-tv-3-7898f2.jpg" group-title="Saluran Olahraga",Champions TV 3
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=0368770b1b2a3b3b9377c75e32acd23f:2cdada53fa00b7b66518261ed587b2d9
-https://v1dx.semar.my.id/cobaduarr.mpd?id=6786&type=dash
+#https://v1dx.semar.my.id/cobaduarr.mpd?id=6786&type=dash
 #EXTINF:-1 tvg-id="Champions TV 3.id" tvg-logo="https://thumbor.prod.vidiocdn.com/f4-7EI2_Sj9cY0Tb1v8QHyA1QBU=/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6786/champions-tv-3-7898f2.jpg" group-title="Saluran Olahraga",Champions TV 3 SerieA
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=5ff97f69b25400874cce1f8634af5b67:c31810b4fb70f882146940bcf3388815
-https://v1dx.semar.my.id/cobaduarr.mpd?id=19404&type=dash
+#https://v1dx.semar.my.id/cobaduarr.mpd?id=19404&type=dash
 #EXTINF:-1 tvg-id="Champions TV 5.id" tvg-logo="https://thumbor.prod.vidiocdn.com/RfKLbSky5UzOc6_BnlkZzdQ1hGw=/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/9182/champions-tv-5-764e22.jpg" group-title="Saluran Olahraga",Champions TV 5
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=654e3893f622a676cccd048d13b8d54e:fc272dd6b7945bcd562c186854b8538b
-https://v1dx.semar.my.id/cobaduarr.mpd?id=9182&type=dash
+#https://v1dx.semar.my.id/cobaduarr.mpd?id=9182&type=dash
 #EXTINF:-1 tvg-id="Champions TV 6.id" tvg-logo="https://thumbor.prod.vidiocdn.com/FlchC_zDtL6BohLUeP5ANFfnQ_w=/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/9183/champions-tv-6-01b4c7.jpg" group-title="Saluran Olahraga",Champions TV 6
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=f5edbe4006617c5a576a61b592437469:b8c47aa4f0ff958aaac5e655845c7834
-https://v1dx.semar.my.id/cobaduarr.mpd?id=9183&type=dash
+#https://v1dx.semar.my.id/cobaduarr.mpd?id=9183&type=dash
 #EXTINF:-1 group-title="Saluran Olahraga" tvg-logo="http://content.presspage.com/uploads/2429/19c5ace0-4fc0-4d7d-8e52-9a8bd6545246/1920_tntsports-logo-ongradient.jpg?10000" tvg-name="",TNT SPORTS 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/140.0
 #KODIPROP:inputstreamaddon=inputstream.adaptive
@@ -895,6 +897,42 @@ https://video1.earthcam.com/myearthcam/641f889a7774a38d5fc93dc76c4aeded.flv/play
 https://5bf7b725107e5.streamlock.net/tv9/tv9/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQRgb9z2xzIvdPOAakcjq7xke72PuU_1v71HnSXIMwgpIQ5HjV8dQMQTW_U&s=10" group-title="Saluran Religi" ,TVMU HD
 https://e.siar.us/live/tvmu.m3u8
+#EXTINF:-1 group-title="Pildun 2026 Backup" tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRKR0DCfxFI5fUqP54B6GhUO_cdgL5ISGcI9w&s",TVRI NASIONAL
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://sports.semar.my.id/ckwc.cpp
+https://sports.semar.my.id/gasswc.php?gass=c3BvcnRzLnNlbWFyLm15LmlkL2dldC5waHA/aWQ9dHZyaW4ubTN1OCZhdXRoPXR2cmlzZW1hcjI1
+#EXTINF:-1 group-title="Pildun 2026 Backup" tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT5M4xTE7QKPMvisxy0c_pORLD3wGLRt66sKQ&s",TVRI SPORT
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://sports.semar.my.id/ckwc.cpp
+https://sports.semar.my.id/gasswc.php?gass=c3BvcnRzLnNlbWFyLm15LmlkL2dldC5waHA/aWQ9dHZyaXMubTN1OCZhdXRoPXR2cmlzZW1hcjI1
+#EXTINF:-1 group-title="Pildun 2026 Backup" tvg-id="" tvg-logo="https://i.ytimg.com/vi/nv_4pGFs298/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLA62EcAeIxwjN-BHOxvwd1y-yNPeQ",CAZE TV 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://sports.semar.my.id/ckwc.cpp
+https://sports.semar.my.id/gasswc.php?gass=ZGZyODBxejQzNWNyYy5jbG91ZGZyb250Lm5ldC9NTk9QL0FtYWdpL0NhemUvQ2F6ZV9UVl9CUi9DYXplX1RWLm0zdTg=
+#EXTINF:-1 group-title="Pildun 2026 Backup" tvg-id="" tvg-logo="https://i.ytimg.com/vi/nv_4pGFs298/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLA62EcAeIxwjN-BHOxvwd1y-yNPeQ",CAZE TV 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://sports.semar.my.id/ckwc.cpp
+https://sports.semar.my.id/gasswc.php?gass=b3R0ZS5saXZlLmZseS53dy5haXYtY2RuLm5ldC9ncnUtbml0cm8vbGl2ZS9jbGllbnRzL2Rhc2gvZW5jLzN5bnJwZGFucTIvb3V0L3YxLzgxZmQ0YzI2NTg0MDQ0ZDJiMWExY2M1YjMyZmE5YWYwL2NlbmMubXBkP2Ftem5EdGlkPUFPQUdaQTAxNE81UkUmZW5jb2Rpbmc9c2VnbWVudEJhc2U=
+#EXTINF:-1 group-title="Pildun 2026 Backup" tvg-id="" tvg-logo="https://i.ytimg.com/vi/nv_4pGFs298/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLA62EcAeIxwjN-BHOxvwd1y-yNPeQ",CAZE TV 3
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://sports.semar.my.id/ckwc.cpp
+https://sports.semar.my.id/gasswc.php?gass=b3R0ZS5saXZlLmZseS53dy5haXYtY2RuLm5ldC9ncnUtbml0cm8vbGl2ZS9jbGllbnRzL2Rhc2gvZW5jL2VwZzlzdzZvd2Mvb3V0L3YxL2U1MGFlY2VmY2IyOTRmYWU4NWQ2YjM0M2UwYTZmMWNjL2NlbmMubXBkP2Ftem5EdGlkPUFPQUdaQTAxNE81UkUmZW5jb2Rpbmc9c2VnbWVudEJhc2U=
+#EXTINF:-1 group-title="Pildun 2026 Backup" tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTpljEgpx6e8TJMCBoY6MsszwJdnCejzq_D5A&s",Telemundo
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://sports.semar.my.id/ckwc.cpp
+https://sports.semar.my.id/gasswc.php?gass=bGl2ZS1vbmVhcHAtcHJkLW5ld3MuYWthbWFpemVkLm5ldC9Db250ZW50L0NNQUZfT0wyLUNUUi00cy12Mi9MaXZlL2NoYW5uZWwoa3ZlYSkvbWFzdGVyLm1wZA==
 #EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/Ni_3C1wqWcw/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLBgHvDp4ZaeFW3kEst-I00hiwB2iQ" roup-title="Live Event", Live FIVB Men U21 Pool 1
 #EXTVLCOPT:http-user-agent=VidioPlayer/7.27.12
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -907,25 +945,25 @@ https://e.siar.us/live/tvmu.m3u8
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=af26846e31d8c142395297699771ff8f:b0d970b7ba24bd76dcab99b0fe75f4e4
-https://v1dx.semar.my.id/cobaduarr.mpd?id=18249&type=dash&access=MjAyLjUxLjIwOS4xMDY=
+#https://v1dx.semar.my.id/cobaduarr.mpd?id=18249&type=dash
 #EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/G5SuhBoZu0tcK3E9dpnriXRVJyo=/960x576/filters:quality(75)/vidio-web-prod-headline/uploads/headline/mobile_image/11123/bwf-2025-5e38f5.jpg" group-title="Live Event", Live BWF Court 2
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #EXTVLCOPT:http-user-agent=VidioPlayer/7.17.9
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=75220a7bbbf54ed5509311ea5eed03e2:3eb88f56a66998870aff2367654d9b60
-https://v1dx.semar.my.id/cobaduarr.mpd?id=18250&type=dash&access=MjAyLjUxLjIwOS4xMDY=
+#https://v1dx.semar.my.id/cobaduarr.mpd?id=18250&type=dash
 #EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/G5SuhBoZu0tcK3E9dpnriXRVJyo=/960x576/filters:quality(75)/vidio-web-prod-headline/uploads/headline/mobile_image/11123/bwf-2025-5e38f5.jpg" group-title="Live Event", Live BWF Court 3
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #EXTVLCOPT:http-user-agent=VidioPlayer/7.17.9
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=c11d52e2c176d22abf86c23b4b0b9170:76197676008839a3b784d773a2542b98
-https://v1dx.semar.my.id/cobaduarr.mpd?id=18252&type=dash&access=MjAyLjUxLjIwOS4xMDY=
+#https://v1dx.semar.my.id/cobaduarr.mpd?id=18252&type=dash
 #EXTINF:-1 group-logo="" group-title="Live Event" tvg-logo="https://thumbor.prod.vidiocdn.com/G5SuhBoZu0tcK3E9dpnriXRVJyo=/960x576/filters:quality(75)/vidio-web-prod-headline/uploads/headline/mobile_image/11123/bwf-2025-5e38f5.jpg" ch-number="1", Live BWF Court 4
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #EXTVLCOPT:http-user-agent=VidioPlayer/7.17.9
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=7abf8c6b6ad702c484b59959c11ab575:33a8a0828e996d4918edb8957798e1d7
-https://v1dx.semar.my.id/cobaduarr.mpd?id=18253&type=dash&access=MjAyLjUxLjIwOS4xMDY=
+#https://v1dx.semar.my.id/cobaduarr.mpd?id=18253&type=dash
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTOvqApHkBREX1I0Y2prGNvkSKLja_HGHDioS0d5tkN60YU6HltNXlyAdu-&s=10" group-title="Live Event",Live MLS USA 1
 #https://sports.semar.my.id/get.php?id=mls1.m3u8&auth=mls1semar25&url=up
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTOvqApHkBREX1I0Y2prGNvkSKLja_HGHDioS0d5tkN60YU6HltNXlyAdu-&s=10" group-title="Live Event",Live MLS USA 2
@@ -946,7 +984,7 @@ https://v1dx.semar.my.id/cobaduarr.mpd?id=18253&type=dash&access=MjAyLjUxLjIwOS4
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=618880fd141330378cf6aff5d48a252c:835e5fc97bfec870d8ac7e3d145e14ad,549ab7cd35a64bb6bb479ecead04d69d:829799ed534d11fcadeb4b192467e050,9752ef72590ef441ffa3731e0486fbc0:db63ec7b9f11348b7cc6808a54c99457,cf7ab3022e753307997f58afe001bac4:72d631a66e635c60829a0fe7705516c1
-https://sports.semar.my.id/bbbbb.kt?id=wc2&auth=wc2semar25&ts=1781634600&access=MjAyLjUxLjIwOS4xMDY=
+https://sports.semar.my.id/bbbbb.kt?id=wc2&auth=wc2semar25&ts=1781634600&access=MzYuNjkuMTYzLjU3
 
 #EXTINF:-1 tvg-logo="" group-title="1.Playlist ini gratis 100%",0. Kalo beli berarti kena tipu
 #https://cdn.semar.my.id/
@@ -1031,11 +1069,13 @@ https://v1dx.semar.my.id/biasa2.mpd?id=8237&type=dash
 #EXTINF:-1 tvg-id="Trans7.id" tvg-url="https://bit.ly/IndonesiaEpg" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRKpv42_NHgvbLPYtkmvnu3q3gA5kP0KsaZpUvzDk-tZeZX1tFGqdlh3t8&s=10" group-title="Saluran Nasional",Trans7
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #EXTVLCOPT:http-user-agent=VidioPlayer/7.27.12
-https://v1dx.semar.my.id/biasa2.mpd?id=734&type=dash
+#https://v1dx.semar.my.id/biasa2.mpd?id=734&type=dash
+http://157.15.187.3:25092/hls/42/42.m3u8
 #EXTINF:-1 tvg-id="TransTV.id" tvg-url="https://bit.ly/IndonesiaEpg" tvg-logo="https://www.transtv.co.id/layout/new/src/images/tv/TRANS%20TV%20live%20streaming%20tv.jpg" group-title="Saluran Nasional",TransTV
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #EXTVLCOPT:http-user-agent=VidioPlayer/7.27.12
-https://v1dx.semar.my.id/biasa2.mpd?id=733&type=dash
+#https://v1dx.semar.my.id/biasa2.mpd?id=733&type=dash
+http://157.15.187.3:25092/hls/43/43.m3u8
 #EXTINF:-1  tvg-name="CNN Indonesia" tvg-id="CNNIndonesia.id" tvg-logo="https://cdn.cnnindonesia.com/cnnid/images/Logo-CNN-Indonesia-Peta-Indonesia.jpg?v=8.3.1" group-title="Saluran Nasional",CNN Indonesia
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
 https://live.cnnindonesia.com/livecnn/smil:cnntv.smil/playlist.m3u8
@@ -1616,57 +1656,57 @@ https://otte.live.fly.ww.aiv-cdn.net/dub-nitro/live/clients/dash/enc/2jbycgm3g3/
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=b8234540888aaac0b056c430f52f48bf:aaad1315f5d21d969518a0fb9a2b83cb
-https://v1dx.semar.my.id/cobaduarr.mpd?id=20216&type=dash
+#https://v1dx.semar.my.id/cobaduarr.mpd?id=20216&type=dash
 #EXTINF:-1 tvg-id="Champions TV 1.id" tvg-logo="https://cdn0-production-images-kly.akamaized.net/si4Z12-cK8zODt65n5FoNJ03jtc=/1200x675/smart/filters:quality(75):strip_icc():format(jpeg)/kly-media-production/medias/2907592/original/056844200_1568171580-Champions_TV-Vidio.jpeg" group-title="Saluran Olahraga",Champions TV 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=68d120b783a0420e63b17f44ef2a2af2:fcfad4cd945a66d489293b72f1eae8ac
-https://v1dx.semar.my.id/cobaduarr.mpd?id=6685&type=dash
+#https://v1dx.semar.my.id/cobaduarr.mpd?id=6685&type=dash
 #EXTINF:-1 tvg-id="Champions TV 1.id" tvg-logo="https://cdn0-production-images-kly.akamaized.net/si4Z12-cK8zODt65n5FoNJ03jtc=/1200x675/smart/filters:quality(75):strip_icc():format(jpeg)/kly-media-production/medias/2907592/original/056844200_1568171580-Champions_TV-Vidio.jpeg" group-title="Saluran Olahraga",Champions TV 1 SerieA
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=21afccfca882b6fd029bfbf101b039c4:4178b215436eb40ec733adc233ff1760
-https://v1dx.semar.my.id/cobaduarr.mpd?id=17938&type=dash
+#https://v1dx.semar.my.id/cobaduarr.mpd?id=17938&type=dash
 #EXTINF:-1 tvg-id="Champions TV 2.id" tvg-logo="https://thumbor.prod.vidiocdn.com/3t3zHq1HLp4HOlhQfZA1-rc7QQ4=/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6686/champions-tv-2-58cc4d.jpg" group-title="Saluran Olahraga",Champions TV 2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type= clearkey
 #KODIPROP:inputstream.adaptive.license_key=d8810a06df6e5437aa378be1aef6a3d9:f9e0f84b886f7402738c2e201af9f4db
-https://v1dx.semar.my.id/cobaduarr.mpd?id=6686&type=dash
+#https://v1dx.semar.my.id/cobaduarr.mpd?id=6686&type=dash
 #EXTINF:-1 tvg-id="Champions TV 2.id" tvg-logo="https://thumbor.prod.vidiocdn.com/3t3zHq1HLp4HOlhQfZA1-rc7QQ4=/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6686/champions-tv-2-58cc4d.jpg" group-title="Saluran Olahraga",Champions TV 2 SerieA
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type= clearkey
 #KODIPROP:inputstream.adaptive.license_key=8912d41b6dc628229afa43a67cf2f3ac:1588e5fc9e30b995c81e661487b68265
-https://v1dx.semar.my.id/cobaduarr.mpd?id=17939&type=dash
+#https://v1dx.semar.my.id/cobaduarr.mpd?id=17939&type=dash
 #EXTINF:-1 tvg-id="Champions TV 3.id" tvg-logo="https://thumbor.prod.vidiocdn.com/f4-7EI2_Sj9cY0Tb1v8QHyA1QBU=/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6786/champions-tv-3-7898f2.jpg" group-title="Saluran Olahraga",Champions TV 3
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=0368770b1b2a3b3b9377c75e32acd23f:2cdada53fa00b7b66518261ed587b2d9
-https://v1dx.semar.my.id/cobaduarr.mpd?id=6786&type=dash
+#https://v1dx.semar.my.id/cobaduarr.mpd?id=6786&type=dash
 #EXTINF:-1 tvg-id="Champions TV 3.id" tvg-logo="https://thumbor.prod.vidiocdn.com/f4-7EI2_Sj9cY0Tb1v8QHyA1QBU=/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6786/champions-tv-3-7898f2.jpg" group-title="Saluran Olahraga",Champions TV 3 SerieA
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=5ff97f69b25400874cce1f8634af5b67:c31810b4fb70f882146940bcf3388815
-https://v1dx.semar.my.id/cobaduarr.mpd?id=19404&type=dash
+#https://v1dx.semar.my.id/cobaduarr.mpd?id=19404&type=dash
 #EXTINF:-1 tvg-id="Champions TV 5.id" tvg-logo="https://thumbor.prod.vidiocdn.com/RfKLbSky5UzOc6_BnlkZzdQ1hGw=/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/9182/champions-tv-5-764e22.jpg" group-title="Saluran Olahraga",Champions TV 5
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=654e3893f622a676cccd048d13b8d54e:fc272dd6b7945bcd562c186854b8538b
-https://v1dx.semar.my.id/cobaduarr.mpd?id=9182&type=dash
+#https://v1dx.semar.my.id/cobaduarr.mpd?id=9182&type=dash
 #EXTINF:-1 tvg-id="Champions TV 6.id" tvg-logo="https://thumbor.prod.vidiocdn.com/FlchC_zDtL6BohLUeP5ANFfnQ_w=/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/9183/champions-tv-6-01b4c7.jpg" group-title="Saluran Olahraga",Champions TV 6
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=f5edbe4006617c5a576a61b592437469:b8c47aa4f0ff958aaac5e655845c7834
-https://v1dx.semar.my.id/cobaduarr.mpd?id=9183&type=dash
+#https://v1dx.semar.my.id/cobaduarr.mpd?id=9183&type=dash
 #EXTINF:-1 group-title="Saluran Olahraga" tvg-logo="http://content.presspage.com/uploads/2429/19c5ace0-4fc0-4d7d-8e52-9a8bd6545246/1920_tntsports-logo-ongradient.jpg?10000" tvg-name="",TNT SPORTS 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/140.0
 #KODIPROP:inputstreamaddon=inputstream.adaptive
@@ -1844,6 +1884,42 @@ https://video1.earthcam.com/myearthcam/641f889a7774a38d5fc93dc76c4aeded.flv/play
 https://5bf7b725107e5.streamlock.net/tv9/tv9/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQRgb9z2xzIvdPOAakcjq7xke72PuU_1v71HnSXIMwgpIQ5HjV8dQMQTW_U&s=10" group-title="Saluran Religi" ,TVMU HD
 https://e.siar.us/live/tvmu.m3u8
+#EXTINF:-1 group-title="Pildun 2026 Backup" tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRKR0DCfxFI5fUqP54B6GhUO_cdgL5ISGcI9w&s",TVRI NASIONAL
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://sports.semar.my.id/ckwc.cpp
+https://sports.semar.my.id/gasswc.php?gass=c3BvcnRzLnNlbWFyLm15LmlkL2dldC5waHA/aWQ9dHZyaW4ubTN1OCZhdXRoPXR2cmlzZW1hcjI1
+#EXTINF:-1 group-title="Pildun 2026 Backup" tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT5M4xTE7QKPMvisxy0c_pORLD3wGLRt66sKQ&s",TVRI SPORT
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://sports.semar.my.id/ckwc.cpp
+https://sports.semar.my.id/gasswc.php?gass=c3BvcnRzLnNlbWFyLm15LmlkL2dldC5waHA/aWQ9dHZyaXMubTN1OCZhdXRoPXR2cmlzZW1hcjI1
+#EXTINF:-1 group-title="Pildun 2026 Backup" tvg-id="" tvg-logo="https://i.ytimg.com/vi/nv_4pGFs298/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLA62EcAeIxwjN-BHOxvwd1y-yNPeQ",CAZE TV 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://sports.semar.my.id/ckwc.cpp
+https://sports.semar.my.id/gasswc.php?gass=ZGZyODBxejQzNWNyYy5jbG91ZGZyb250Lm5ldC9NTk9QL0FtYWdpL0NhemUvQ2F6ZV9UVl9CUi9DYXplX1RWLm0zdTg=
+#EXTINF:-1 group-title="Pildun 2026 Backup" tvg-id="" tvg-logo="https://i.ytimg.com/vi/nv_4pGFs298/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLA62EcAeIxwjN-BHOxvwd1y-yNPeQ",CAZE TV 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://sports.semar.my.id/ckwc.cpp
+https://sports.semar.my.id/gasswc.php?gass=b3R0ZS5saXZlLmZseS53dy5haXYtY2RuLm5ldC9ncnUtbml0cm8vbGl2ZS9jbGllbnRzL2Rhc2gvZW5jLzN5bnJwZGFucTIvb3V0L3YxLzgxZmQ0YzI2NTg0MDQ0ZDJiMWExY2M1YjMyZmE5YWYwL2NlbmMubXBkP2Ftem5EdGlkPUFPQUdaQTAxNE81UkUmZW5jb2Rpbmc9c2VnbWVudEJhc2U=
+#EXTINF:-1 group-title="Pildun 2026 Backup" tvg-id="" tvg-logo="https://i.ytimg.com/vi/nv_4pGFs298/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLA62EcAeIxwjN-BHOxvwd1y-yNPeQ",CAZE TV 3
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://sports.semar.my.id/ckwc.cpp
+https://sports.semar.my.id/gasswc.php?gass=b3R0ZS5saXZlLmZseS53dy5haXYtY2RuLm5ldC9ncnUtbml0cm8vbGl2ZS9jbGllbnRzL2Rhc2gvZW5jL2VwZzlzdzZvd2Mvb3V0L3YxL2U1MGFlY2VmY2IyOTRmYWU4NWQ2YjM0M2UwYTZmMWNjL2NlbmMubXBkP2Ftem5EdGlkPUFPQUdaQTAxNE81UkUmZW5jb2Rpbmc9c2VnbWVudEJhc2U=
+#EXTINF:-1 group-title="Pildun 2026 Backup" tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTpljEgpx6e8TJMCBoY6MsszwJdnCejzq_D5A&s",Telemundo
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://sports.semar.my.id/ckwc.cpp
+https://sports.semar.my.id/gasswc.php?gass=bGl2ZS1vbmVhcHAtcHJkLW5ld3MuYWthbWFpemVkLm5ldC9Db250ZW50L0NNQUZfT0wyLUNUUi00cy12Mi9MaXZlL2NoYW5uZWwoa3ZlYSkvbWFzdGVyLm1wZA==
 #EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/Ni_3C1wqWcw/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLBgHvDp4ZaeFW3kEst-I00hiwB2iQ" roup-title="Live Event", Live FIVB Men U21 Pool 1
 #EXTVLCOPT:http-user-agent=VidioPlayer/7.27.12
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -1856,25 +1932,25 @@ https://e.siar.us/live/tvmu.m3u8
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=af26846e31d8c142395297699771ff8f:b0d970b7ba24bd76dcab99b0fe75f4e4
-https://v1dx.semar.my.id/cobaduarr.mpd?id=18249&type=dash&access=MTE0LjE0MS41NC4yMjE=
+#https://v1dx.semar.my.id/cobaduarr.mpd?id=18249&type=dash
 #EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/G5SuhBoZu0tcK3E9dpnriXRVJyo=/960x576/filters:quality(75)/vidio-web-prod-headline/uploads/headline/mobile_image/11123/bwf-2025-5e38f5.jpg" group-title="Live Event", Live BWF Court 2
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #EXTVLCOPT:http-user-agent=VidioPlayer/7.17.9
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=75220a7bbbf54ed5509311ea5eed03e2:3eb88f56a66998870aff2367654d9b60
-https://v1dx.semar.my.id/cobaduarr.mpd?id=18250&type=dash&access=MTE0LjE0MS41NC4yMjE=
+#https://v1dx.semar.my.id/cobaduarr.mpd?id=18250&type=dash
 #EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/G5SuhBoZu0tcK3E9dpnriXRVJyo=/960x576/filters:quality(75)/vidio-web-prod-headline/uploads/headline/mobile_image/11123/bwf-2025-5e38f5.jpg" group-title="Live Event", Live BWF Court 3
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #EXTVLCOPT:http-user-agent=VidioPlayer/7.17.9
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=c11d52e2c176d22abf86c23b4b0b9170:76197676008839a3b784d773a2542b98
-https://v1dx.semar.my.id/cobaduarr.mpd?id=18252&type=dash&access=MTE0LjE0MS41NC4yMjE=
+#https://v1dx.semar.my.id/cobaduarr.mpd?id=18252&type=dash
 #EXTINF:-1 group-logo="" group-title="Live Event" tvg-logo="https://thumbor.prod.vidiocdn.com/G5SuhBoZu0tcK3E9dpnriXRVJyo=/960x576/filters:quality(75)/vidio-web-prod-headline/uploads/headline/mobile_image/11123/bwf-2025-5e38f5.jpg" ch-number="1", Live BWF Court 4
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #EXTVLCOPT:http-user-agent=VidioPlayer/7.17.9
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=7abf8c6b6ad702c484b59959c11ab575:33a8a0828e996d4918edb8957798e1d7
-https://v1dx.semar.my.id/cobaduarr.mpd?id=18253&type=dash&access=MTE0LjE0MS41NC4yMjE=
+#https://v1dx.semar.my.id/cobaduarr.mpd?id=18253&type=dash
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTOvqApHkBREX1I0Y2prGNvkSKLja_HGHDioS0d5tkN60YU6HltNXlyAdu-&s=10" group-title="Live Event",Live MLS USA 1
 #https://sports.semar.my.id/get.php?id=mls1.m3u8&auth=mls1semar25&url=up
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTOvqApHkBREX1I0Y2prGNvkSKLja_HGHDioS0d5tkN60YU6HltNXlyAdu-&s=10" group-title="Live Event",Live MLS USA 2
@@ -1895,4 +1971,4 @@ https://v1dx.semar.my.id/cobaduarr.mpd?id=18253&type=dash&access=MTE0LjE0MS41NC4
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=618880fd141330378cf6aff5d48a252c:835e5fc97bfec870d8ac7e3d145e14ad,549ab7cd35a64bb6bb479ecead04d69d:829799ed534d11fcadeb4b192467e050,9752ef72590ef441ffa3731e0486fbc0:db63ec7b9f11348b7cc6808a54c99457,cf7ab3022e753307997f58afe001bac4:72d631a66e635c60829a0fe7705516c1
-https://sports.semar.my.id/bbbbb.kt?id=wc2&auth=wc2semar25&ts=1781634600&access=MTE0LjE0MS41NC4yMjE=
+https://sports.semar.my.id/bbbbb.kt?id=wc2&auth=wc2semar25&ts=1781634600&access=MTAzLjk3LjE0MC4yMjY=
