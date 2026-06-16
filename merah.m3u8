@@ -80,12 +80,12 @@ https://dickgital.semar.my.id/fetch?id=sdigital.m3u8&auth=sdgtlsemar25&url=up
 #EXTVLCOPT:http-user-agent=VidioPlayer/7.27.12
 https://v1dx.semar.my.id/biasa2.mpd?id=8237&type=dash
 #EXTINF:-1 tvg-id="Trans7.id" tvg-url="https://bit.ly/IndonesiaEpg" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRKpv42_NHgvbLPYtkmvnu3q3gA5kP0KsaZpUvzDk-tZeZX1tFGqdlh3t8&s=10" group-title="Saluran Nasional",Trans7
-#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.manifest_type=hls
 #EXTVLCOPT:http-user-agent=VidioPlayer/7.27.12
 #https://v1dx.semar.my.id/biasa2.mpd?id=734&type=dash
 http://157.15.187.3:25092/hls/42/42.m3u8
 #EXTINF:-1 tvg-id="TransTV.id" tvg-url="https://bit.ly/IndonesiaEpg" tvg-logo="https://www.transtv.co.id/layout/new/src/images/tv/TRANS%20TV%20live%20streaming%20tv.jpg" group-title="Saluran Nasional",TransTV
-#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.manifest_type=hls
 #EXTVLCOPT:http-user-agent=VidioPlayer/7.27.12
 #https://v1dx.semar.my.id/biasa2.mpd?id=733&type=dash
 http://157.15.187.3:25092/hls/43/43.m3u8
@@ -979,12 +979,36 @@ https://sports.semar.my.id/gasswc.php?gass=bGl2ZS1vbmVhcHAtcHJkLW5ld3MuYWthbWFpe
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=91b9592c819246c68b3b08a1fe08ba22:fa0d80dfd865b34077bae44cd4a0c5e6
 #https://tglmp04.akamaized.net/sssssout/v1/400fc0702dee453bb33ebcc29466e58a/manifest.mpd
-#EXTINF:-1 tvg-logo="http://klotok.semar.my.id/fola/genlogo.php?v=polos&home=https%3A%2F%2Fcms-static.folaplay.com%2Ficon%2F7998.jpg&away=https%3A%2F%2Fcms-static.folaplay.com%2Ficon%2F8652.jpg" group-title="Live Event",France vs Senegal - Piala Dunia FIFA 2026 02:00 17 June 2026
+#EXTINF:-1 tvg-logo="http://klotok.semar.my.id/fola/genlogo.php?v=polos&home=https%3A%2F%2Fcms-static.folaplay.com%2Ficon%2F8606.jpg&away=https%3A%2F%2Fcms-static.folaplay.com%2Ficon%2F7970.jpg" group-title="Live Event",Iraq vs Norway - Piala Dunia FIFA 2026 05:00 17 June 2026
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=618880fd141330378cf6aff5d48a252c:835e5fc97bfec870d8ac7e3d145e14ad,549ab7cd35a64bb6bb479ecead04d69d:829799ed534d11fcadeb4b192467e050,9752ef72590ef441ffa3731e0486fbc0:db63ec7b9f11348b7cc6808a54c99457,cf7ab3022e753307997f58afe001bac4:72d631a66e635c60829a0fe7705516c1
-https://sports.semar.my.id/bbbbb.kt?id=wc2&auth=wc2semar25&ts=1781634600&access=MzYuNjkuMTYzLjU3
+https://sports.semar.my.id/bbbbb.kt?id=wc2&auth=wc2semar25&ts=1781645400&access=MTE2LjEyLjQ1LjE2Mg==
+#EXTINF:-1 tvg-logo="http://klotok.semar.my.id/fola/genlogo.php?v=polos&home=https%3A%2F%2Fcms-static.folaplay.com%2Ficon%2F8625.jpg&away=https%3A%2F%2Fcms-static.folaplay.com%2Ficon%2F8636.jpg" group-title="Live Event",Argentina vs Algeria - Piala Dunia FIFA 2026 08:00 17 June 2026
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=618880fd141330378cf6aff5d48a252c:835e5fc97bfec870d8ac7e3d145e14ad,549ab7cd35a64bb6bb479ecead04d69d:829799ed534d11fcadeb4b192467e050,9752ef72590ef441ffa3731e0486fbc0:db63ec7b9f11348b7cc6808a54c99457,cf7ab3022e753307997f58afe001bac4:72d631a66e635c60829a0fe7705516c1
+https://sports.semar.my.id/bbbbb.kt?id=wc2&auth=wc2semar25&ts=1781656200&access=MTE2LjEyLjQ1LjE2Mg==
+#EXTINF:-1 tvg-logo="http://klotok.semar.my.id/fola/genlogo.php?v=polos&home=https%3A%2F%2Fcms-static.folaplay.com%2Ficon%2F7963.jpg&away=https%3A%2F%2Fcms-static.folaplay.com%2Ficon%2F8580.jpg" group-title="Live Event",Austria vs Jordan - Piala Dunia FIFA 2026 11:00 17 June 2026
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=618880fd141330378cf6aff5d48a252c:835e5fc97bfec870d8ac7e3d145e14ad,549ab7cd35a64bb6bb479ecead04d69d:829799ed534d11fcadeb4b192467e050,9752ef72590ef441ffa3731e0486fbc0:db63ec7b9f11348b7cc6808a54c99457,cf7ab3022e753307997f58afe001bac4:72d631a66e635c60829a0fe7705516c1
+https://sports.semar.my.id/bbbbb.kt?id=wc2&auth=wc2semar25&ts=1781667000&access=MTE2LjEyLjQ1LjE2Mg==
+#EXTINF:-1 tvg-logo="http://klotok.semar.my.id/fola/genlogo.php?v=polos&home=https%3A%2F%2Fcms-static.folaplay.com%2Ficon%2F7969.jpg&away=https%3A%2F%2Fcms-static.folaplay.com%2Ficon%2F8704.jpg" group-title="Live Event",Portugal vs Congo DR - Piala Dunia FIFA 2026 00:00 18 June 2026
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=618880fd141330378cf6aff5d48a252c:835e5fc97bfec870d8ac7e3d145e14ad,549ab7cd35a64bb6bb479ecead04d69d:829799ed534d11fcadeb4b192467e050,9752ef72590ef441ffa3731e0486fbc0:db63ec7b9f11348b7cc6808a54c99457,cf7ab3022e753307997f58afe001bac4:72d631a66e635c60829a0fe7705516c1
+https://sports.semar.my.id/bbbbb.kt?id=wc2&auth=wc2semar25&ts=1781713800&access=MTE2LjEyLjQ1LjE2Mg==
+#EXTINF:-1 tvg-logo="http://klotok.semar.my.id/fola/genlogo.php?v=polos&home=https%3A%2F%2Fcms-static.folaplay.com%2Ficon%2F7981.jpg&away=https%3A%2F%2Fcms-static.folaplay.com%2Ficon%2F7999.jpg" group-title="Live Event",England vs Croatia - Piala Dunia FIFA 2026 03:00 18 June 2026
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=618880fd141330378cf6aff5d48a252c:835e5fc97bfec870d8ac7e3d145e14ad,549ab7cd35a64bb6bb479ecead04d69d:829799ed534d11fcadeb4b192467e050,9752ef72590ef441ffa3731e0486fbc0:db63ec7b9f11348b7cc6808a54c99457,cf7ab3022e753307997f58afe001bac4:72d631a66e635c60829a0fe7705516c1
+https://sports.semar.my.id/bbbbb.kt?id=wc2&auth=wc2semar25&ts=1781724600&access=MTE2LjEyLjQ1LjE2Mg==
 
 #EXTINF:-1 tvg-logo="" group-title="1.Playlist ini gratis 100%",0. Kalo beli berarti kena tipu
 #https://cdn.semar.my.id/
@@ -1067,12 +1091,12 @@ https://dickgital.semar.my.id/fetch?id=sdigital.m3u8&auth=sdgtlsemar25&url=up
 #EXTVLCOPT:http-user-agent=VidioPlayer/7.27.12
 https://v1dx.semar.my.id/biasa2.mpd?id=8237&type=dash
 #EXTINF:-1 tvg-id="Trans7.id" tvg-url="https://bit.ly/IndonesiaEpg" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRKpv42_NHgvbLPYtkmvnu3q3gA5kP0KsaZpUvzDk-tZeZX1tFGqdlh3t8&s=10" group-title="Saluran Nasional",Trans7
-#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.manifest_type=hls
 #EXTVLCOPT:http-user-agent=VidioPlayer/7.27.12
 #https://v1dx.semar.my.id/biasa2.mpd?id=734&type=dash
 http://157.15.187.3:25092/hls/42/42.m3u8
 #EXTINF:-1 tvg-id="TransTV.id" tvg-url="https://bit.ly/IndonesiaEpg" tvg-logo="https://www.transtv.co.id/layout/new/src/images/tv/TRANS%20TV%20live%20streaming%20tv.jpg" group-title="Saluran Nasional",TransTV
-#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.manifest_type=hls
 #EXTVLCOPT:http-user-agent=VidioPlayer/7.27.12
 #https://v1dx.semar.my.id/biasa2.mpd?id=733&type=dash
 http://157.15.187.3:25092/hls/43/43.m3u8
@@ -1966,9 +1990,33 @@ https://sports.semar.my.id/gasswc.php?gass=bGl2ZS1vbmVhcHAtcHJkLW5ld3MuYWthbWFpe
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=91b9592c819246c68b3b08a1fe08ba22:fa0d80dfd865b34077bae44cd4a0c5e6
 #https://tglmp04.akamaized.net/sssssout/v1/400fc0702dee453bb33ebcc29466e58a/manifest.mpd
-#EXTINF:-1 tvg-logo="http://klotok.semar.my.id/fola/genlogo.php?v=polos&home=https%3A%2F%2Fcms-static.folaplay.com%2Ficon%2F7998.jpg&away=https%3A%2F%2Fcms-static.folaplay.com%2Ficon%2F8652.jpg" group-title="Live Event",France vs Senegal - Piala Dunia FIFA 2026 02:00 17 June 2026
+#EXTINF:-1 tvg-logo="http://klotok.semar.my.id/fola/genlogo.php?v=polos&home=https%3A%2F%2Fcms-static.folaplay.com%2Ficon%2F8606.jpg&away=https%3A%2F%2Fcms-static.folaplay.com%2Ficon%2F7970.jpg" group-title="Live Event",Iraq vs Norway - Piala Dunia FIFA 2026 05:00 17 June 2026
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=618880fd141330378cf6aff5d48a252c:835e5fc97bfec870d8ac7e3d145e14ad,549ab7cd35a64bb6bb479ecead04d69d:829799ed534d11fcadeb4b192467e050,9752ef72590ef441ffa3731e0486fbc0:db63ec7b9f11348b7cc6808a54c99457,cf7ab3022e753307997f58afe001bac4:72d631a66e635c60829a0fe7705516c1
-https://sports.semar.my.id/bbbbb.kt?id=wc2&auth=wc2semar25&ts=1781634600&access=MTAzLjk3LjE0MC4yMjY=
+https://sports.semar.my.id/bbbbb.kt?id=wc2&auth=wc2semar25&ts=1781645400&access=MjAyLjU4Ljc5LjE4MQ==
+#EXTINF:-1 tvg-logo="http://klotok.semar.my.id/fola/genlogo.php?v=polos&home=https%3A%2F%2Fcms-static.folaplay.com%2Ficon%2F8625.jpg&away=https%3A%2F%2Fcms-static.folaplay.com%2Ficon%2F8636.jpg" group-title="Live Event",Argentina vs Algeria - Piala Dunia FIFA 2026 08:00 17 June 2026
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=618880fd141330378cf6aff5d48a252c:835e5fc97bfec870d8ac7e3d145e14ad,549ab7cd35a64bb6bb479ecead04d69d:829799ed534d11fcadeb4b192467e050,9752ef72590ef441ffa3731e0486fbc0:db63ec7b9f11348b7cc6808a54c99457,cf7ab3022e753307997f58afe001bac4:72d631a66e635c60829a0fe7705516c1
+https://sports.semar.my.id/bbbbb.kt?id=wc2&auth=wc2semar25&ts=1781656200&access=MjAyLjU4Ljc5LjE4MQ==
+#EXTINF:-1 tvg-logo="http://klotok.semar.my.id/fola/genlogo.php?v=polos&home=https%3A%2F%2Fcms-static.folaplay.com%2Ficon%2F7963.jpg&away=https%3A%2F%2Fcms-static.folaplay.com%2Ficon%2F8580.jpg" group-title="Live Event",Austria vs Jordan - Piala Dunia FIFA 2026 11:00 17 June 2026
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=618880fd141330378cf6aff5d48a252c:835e5fc97bfec870d8ac7e3d145e14ad,549ab7cd35a64bb6bb479ecead04d69d:829799ed534d11fcadeb4b192467e050,9752ef72590ef441ffa3731e0486fbc0:db63ec7b9f11348b7cc6808a54c99457,cf7ab3022e753307997f58afe001bac4:72d631a66e635c60829a0fe7705516c1
+https://sports.semar.my.id/bbbbb.kt?id=wc2&auth=wc2semar25&ts=1781667000&access=MjAyLjU4Ljc5LjE4MQ==
+#EXTINF:-1 tvg-logo="http://klotok.semar.my.id/fola/genlogo.php?v=polos&home=https%3A%2F%2Fcms-static.folaplay.com%2Ficon%2F7969.jpg&away=https%3A%2F%2Fcms-static.folaplay.com%2Ficon%2F8704.jpg" group-title="Live Event",Portugal vs Congo DR - Piala Dunia FIFA 2026 00:00 18 June 2026
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=618880fd141330378cf6aff5d48a252c:835e5fc97bfec870d8ac7e3d145e14ad,549ab7cd35a64bb6bb479ecead04d69d:829799ed534d11fcadeb4b192467e050,9752ef72590ef441ffa3731e0486fbc0:db63ec7b9f11348b7cc6808a54c99457,cf7ab3022e753307997f58afe001bac4:72d631a66e635c60829a0fe7705516c1
+https://sports.semar.my.id/bbbbb.kt?id=wc2&auth=wc2semar25&ts=1781713800&access=MjAyLjU4Ljc5LjE4MQ==
+#EXTINF:-1 tvg-logo="http://klotok.semar.my.id/fola/genlogo.php?v=polos&home=https%3A%2F%2Fcms-static.folaplay.com%2Ficon%2F7981.jpg&away=https%3A%2F%2Fcms-static.folaplay.com%2Ficon%2F7999.jpg" group-title="Live Event",England vs Croatia - Piala Dunia FIFA 2026 03:00 18 June 2026
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=618880fd141330378cf6aff5d48a252c:835e5fc97bfec870d8ac7e3d145e14ad,549ab7cd35a64bb6bb479ecead04d69d:829799ed534d11fcadeb4b192467e050,9752ef72590ef441ffa3731e0486fbc0:db63ec7b9f11348b7cc6808a54c99457,cf7ab3022e753307997f58afe001bac4:72d631a66e635c60829a0fe7705516c1
+https://sports.semar.my.id/bbbbb.kt?id=wc2&auth=wc2semar25&ts=1781724600&access=MjAyLjU4Ljc5LjE4MQ==
