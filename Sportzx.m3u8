@@ -1113,15 +1113,18 @@ https://otte.live.fly.ww.aiv-cdn.net/lhr-nitro/live/clients/dash/enc/epg9sw6owc/
 #KODIPROP:inputstream.adaptive.license_key=a7d11d37a1f7611ee88d4db880171f32:68f96d618b0b956b008c445896a25a79
 https://otte.live.fly.ww.aiv-cdn.net/gru-nitro/live/clients/dash/enc/ubehitlwzo/out/v1/8e09c381a51f4366a19e979418112e8f/cenc.mpd
 
+#EXTINF:-1 tvg-id="mexicovssouthkorea0200tudnmexico" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="FIFA World Cup",Mexico vs South Korea 02:00 (TUDN MEXICO)
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=1710ac2bbfcd3032d0f6533850968f47:d2548dacc8efcd1cd0af0373060c82dc
+https://otte.cache.aiv-cdn.net/bom-nitro/live/dash/enc/8u9cregwlt/out/v1/687f6b2a559943549be271504a948ffd/cenc.mpd
+
 #EXTINF:-1 tvg-id="mexicovssouthkorea0200foxone4k" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="FIFA World Cup",Mexico vs South Korea 02:00 (FOX ONE 4K)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=1f68713028d439ec03be07f56c1d6213:20093db6455160fffed4c394def3193d
-https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/n0ouwelm9t/out/v1/fc40f22f10374517a2784e1d97cb23f4/cenc.mpd
+https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/1n1mskjnsk/out/v1/31d30c91fc65458789b84209d3fa22e4/cenc.mpd
 
-#EXTINF:-1 tvg-id="mexicovssouthkorea0200foxone4kalt" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="FIFA World Cup",Mexico vs South Korea 02:00 (FOX ONE 4K  ALT )
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=1f68713028d439ec03be07f56c1d6213:20093db6455160fffed4c394def3193d
-https://a35live-pv-ta-amazon.akamaized.net/iad-nitro/live/clients/dash/enc/pfcxjf1zas/out/v1/31d30c91fc65458789b84209d3fa22e4/cenc.mpd
+#EXTINF:-1 tvg-id="mexicovssouthkorea0200irib4k" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="FIFA World Cup",Mexico vs South Korea 02:00 (IRIB 4K)
+https://ncdn.telewebion.ir/faratar/live/playlist.m3u8
 
 #EXTINF:-1 tvg-id="mexicovssouthkorea0200telemundofhd" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="FIFA World Cup",Mexico vs South Korea 02:00 (TELEMUNDO FHD)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -1148,6 +1151,9 @@ https://raw.githubusercontent.com/ON2026/1smas/refs/heads/main/mx2app2.m3u8
 
 #EXTINF:-1 tvg-id="mexicovssouthkorea0200daznspanish" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="FIFA World Cup",Mexico vs South Korea 02:00 (DAZN SPANISH)
 https://1nyaler.streamhostingcdn.top/stream/94/index.m3u8
+
+#EXTINF:-1 tvg-id="mexicovssouthkorea0200fastserver2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="FIFA World Cup",Mexico vs South Korea 02:00 (FAST SERVER 2)
+https://storage.googleapis.com/uourhnfgakefr1/mux_video_ts1/index-1.m3u8
 
 #EXTINF:-1 tvg-id="mexicovssouthkorea0200sportvbrfhd" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="FIFA World Cup",Mexico vs South Korea 02:00 (SporTV BR FHD)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -1471,7 +1477,13 @@ https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/vaplpo3app/out/v1
 #KODIPROP:inputstream.adaptive.license_key=09453ce820d65fbc675de3185f9e454c:98cff9600995fa381c76fdacf3c7edae
 https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/awxnrqkbo5/out/v1/716529a4091947b0877e6cb80dbd6ccb/cenc.mpd
 
-#EXTINF:-1 tvg-id="redsoxvsbluejays0130willowhd" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="Major League Cricket",Red Sox vs Blue Jays 01:30 (Willow HD)
+#EXTINF:-1 tvg-id="texassuperkingsvsseattleorcas0130willowfhd" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="Major League Cricket",Texas Super Kings vs Seattle Orcas 01:30 (WILLOW FHD)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=290e09c837da78d5cd961978d390515c:b748836c71e6a4ca68ef5b5652db6247
-https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/tll6uwepxa/out/v1/a7f67cbb33df46539312956427343886/cenc.mpd
+#KODIPROP:inputstream.adaptive.license_key=9d04482a571bd3de3f3a395fb736b248:3927147a8deb5a6ac33eb47b0d7d8966
+https://a57live-pv-ta-amazon.akamaized.net/iad-nitro/live/clients/dash/enc/wgrmbrvhu8/out/v1/09861970a7a74322aa31ddb10c4b1bce/cenc.mpd
+
+#EXTINF:-1 tvg-id="texassuperkingsvsseattleorcas0130skymainevent" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="Major League Cricket",Texas Super Kings vs Seattle Orcas 01:30 (SKY MAIN EVENT)
+https://tmaxapp.site/skymainevent.m3u8
+
+#EXTINF:-1 tvg-id="texassuperkingsvsseattleorcas0130willowsd" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="Major League Cricket",Texas Super Kings vs Seattle Orcas 01:30 (WILLOW SD)
+https://tmaxapp.site/willoweng.m3u8
