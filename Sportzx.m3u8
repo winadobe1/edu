@@ -20,27 +20,6 @@ https://27lftgqlgzmy.windows-devs.top/AccessLog2/83_FHD/apache.m3u8
 #EXTINF:-1 tvg-id="wwe0100backupsd" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="WWE",WWE 01:00 (BACKUP SD)
 https://27lftgqlgzmy.windows-devs.top/AccessLog2/108087_HD/apache.m3u8
 
-#EXTINF:-1 tvg-id="indiavsafghanistan0900willowfhd" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="Cricket",India vs Afghanistan 09:00 (WILLOW FHD)
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=c961aa99a64fb1ab0d4fc07c9c45910f:13ee767345996b84504c1f7d950c6944
-https://abfjk4haaaaaaaamkitc5445rybm6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/9ojf3ab417/out/v1/dab862174a2e42608efd6e964343c287/cenc.mpd
-
-#EXTINF:-1 tvg-id="indiavsafghanistan0900tntsportsfhd" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="Cricket",India vs Afghanistan 09:00 (TNT Sports FHD)
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=d14658a0ede94debcb4013b2056ba6d1:60838a3176127fed0eaf038a5575de11
-https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/vaplpo3app/out/v1/49b4d538ec854efa90d45084866cf7f9/cenc.mpd
-
-#EXTINF:-1 tvg-id="indiavsafghanistan0900willowalt" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="Cricket",India vs Afghanistan 09:00 (WILLOW ALT)
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=c961aa99a64fb1ab0d4fc07c9c45910f:13ee767345996b84504c1f7d950c6944
-https://a201aivottlinear-a.akamaihd.net/OTTB/iad-nitro/live/clients/dash/enc/9ojf3ab417/out/v1/dab862174a2e42608efd6e964343c287/cenc.mpd
-
-#EXTINF:-1 tvg-id="indiavsafghanistan0900tntsportshd" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="Cricket",India vs Afghanistan 09:00 (TNT SPORTS HD)
-https://xstm.250909.cc/live/SPORTSFLUX-PRD-76753-1/4a7a4af09781/1033.m3u8
-
-#EXTINF:-1 tvg-id="indiavsafghanistan0900willowhd" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="Cricket",India vs Afghanistan 09:00 (WILLOW HD)
-https://tmaxapp.site/willoweng.m3u8
-
 #EXTINF:-1 tvg-id="onefridayfights1330onefightfhd" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="Boxing",ONE Friday Fights 13:30 (One Fight FHD)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=308006101c8fd0262c0f529319b9c127:37683aadc75b1450efa82d62c647984d
@@ -186,86 +165,78 @@ https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/buf9inoetu/out/v1
 #KODIPROP:inputstream.adaptive.license_key=1f68713028d439ec03be07f56c1d6213:20093db6455160fffed4c394def3193d
 https://abgh3fbaaaaaaaambylpff72g6up6.ta.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/buf9inoetu/out/v1/31d30c91fc65458789b84209d3fa22e4/cenc.mpd
 
-#EXTINF:-1 tvg-id="netherlandsvssweden1800dsportsfhd" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="FIFA World Cup",Netherlands vs Sweden 18:00 (D Sports FHD)
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=03f12d6a3dbfd3a6fa7dd7f6417e0c11:ea07b87acdf2e45be824cde4a1cf3504
-https://otte.live.fly.ww.aiv-cdn.net/gru-nitro/live/clients/dash/enc/rgilyeubta/out/v1/09a67027b18f4fd78aaa3794a2aacfe8/cenc.mpd
-
-#EXTINF:-1 tvg-id="netherlandsvssweden1800telemundofhd" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="FIFA World Cup",Netherlands vs Sweden 18:00 (TELEMUNDO FHD)
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=ce7ab3022e753307997f58afe001bac4:72d631a66e635c60829a0fe7705516c1
-https://live-oneapp-prd-news.akamaized.net/Content/CMAF_OL2-CTR-4s-v2/Live/channel(kvea)/master.mpd
-
 #EXTINF:-1 tvg-id="netherlandsvssweden1800cazetvfhd" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="FIFA World Cup",Netherlands vs Sweden 18:00 (CAZE TV FHD)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=34475edab991ad5e92548aebd710410a:501b209cccd323ac00bf5ac15b406cb4
 https://otte.live.fly.ww.aiv-cdn.net/lhr-nitro/live/clients/dash/enc/3ynrpdanq2/out/v1/81fd4c26584044d2b1a1cc5b32fa9af0/cenc.mpd
+
+#EXTINF:-1 tvg-id="netherlandsvssweden1800dsportsfhd" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="FIFA World Cup",Netherlands vs Sweden 18:00 (D Sports FHD)
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=03f12d6a3dbfd3a6fa7dd7f6417e0c11:ea07b87acdf2e45be824cde4a1cf3504
+https://otte.live.fly.ww.aiv-cdn.net/gru-nitro/live/clients/dash/enc/rgilyeubta/out/v1/09a67027b18f4fd78aaa3794a2aacfe8/cenc.mpd
 
 #EXTINF:-1 tvg-id="netherlandsvssweden1800tipikfrfhd" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="FIFA World Cup",Netherlands vs Sweden 18:00 (TIPIK FR FHD)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=adca25b8779e4168a0cd710f59f61ccf:be5383ed3cd8079f4ffe78ad067f476a
 https://c9851ec-rbm-hilv-fsly.cdn.redbee.live/L26/6b640fa2/a765d074.isml/dash/.mpd
 
-#EXTINF:-1 tvg-id="netherlandsvssweden1800sporzadutchfhd" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="FIFA World Cup",Netherlands vs Sweden 18:00 (Sporza DUTCH FHD)
+#EXTINF:-1 tvg-id="netherlandsvssweden1800tvppolishfhd" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="FIFA World Cup",Netherlands vs Sweden 18:00 (TVP POLISH FHD)
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=0:0
+https://estreams.tv.nej.cz/dash/CH_TVP_SPORT_Portable.ism/playlist.mpd
+
+#EXTINF:-1 tvg-id="netherlandsvssweden1800ctsportscz" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="FIFA World Cup",Netherlands vs Sweden 18:00 (CT SPORTS CZ)
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=11223344556677889900112233445566:4b80724d0ef86bcb2c21f7999d67739d
+https://dash2.antik.sk/stream/nvidia_ct_sport/playlist_cenc.mpd
+
+#EXTINF:-1 tvg-id="netherlandsvssweden1800sporzadutchsd" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="FIFA World Cup",Netherlands vs Sweden 18:00 (Sporza DUTCH SD)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=893bc63340876605f52886a42e0ccce5:d6c46d2d691056fbd091bf1f01b21a91
 https://live.vrtcdn.be/groupd/live/0761024f-37fe-4254-bc37-e95d7c62b2d1/live.isml/.mpd
 
-#EXTINF:-1 tvg-id="netherlandsvssweden1800telemundospanish" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="FIFA World Cup",Netherlands vs Sweden 18:00 (TELEMUNDO SPANISH)
+#EXTINF:-1 tvg-id="netherlandsvssweden1800telemundoalt" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="FIFA World Cup",Netherlands vs Sweden 18:00 (TELEMUNDO  ALT )
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=7d6bb9f86e133e4cb33440b493b6b672:584ad285dcb9e7d42cf3e93f1cc3fe11
-https://live-oneapp-prd-news.akamaized.net/Content/CMAF_OL2-CTR-4s/Live/channel(WSNS)/master.mpd
-
-#EXTINF:-1 tvg-id="netherlandsvssweden1800beinmaxfhd" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="FIFA World Cup",Netherlands vs Sweden 18:00 (beIN MAX FHD)
-https://www.mdrstore.shop/s2_bn_max_1_fhd/tracks-v1a1/mono.m3u8
+#KODIPROP:inputstream.adaptive.license_key=ce7ab3022e753307997f58afe001bac4:72d631a66e635c60829a0fe7705516c1
+https://live-oneapp-prd-news.akamaized.net/Content/CMAF_OL2-CTR-4s-v2/Live/channel(kvea)/master.mpd
 
 #EXTINF:-1 tvg-id="netherlandsvssweden1800daznspanish" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="FIFA World Cup",Netherlands vs Sweden 18:00 (DAZN SPANISH)
 https://1nyaler.streamhostingcdn.top/stream/94/index.m3u8
 
-#EXTINF:-1 tvg-id="netherlandsvssweden1800fussball4kger" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="FIFA World Cup",Netherlands vs Sweden 18:00 (FUSSBALL 4K  GER )
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=1f09d5788fbbb03a053d03cc731f31a9:d493d5a70c793362324638f61d1726ac
-https://svc45.main.sl.t-online.de/bpk-tv/KID01037_FUSSBALLTV1_uhd/DASH/index.mpd
+#EXTINF:-1 tvg-id="netherlandsvssweden1800tycsportshd" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="FIFA World Cup",Netherlands vs Sweden 18:00 (TYC SPORTS HD)
+https://1nyaler.streamhostingcdn.top/stream/84/index.m3u8
 
-#EXTINF:-1 tvg-id="netherlandsvssweden1800trtsports2k" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="FIFA World Cup",Netherlands vs Sweden 18:00 (TRT SPORTS 2K)
-https://tv-trt1-esdai.medya.trt.com.tr/master.m3u8
-
-#EXTINF:-1 tvg-id="netherlandsvssweden1800unitedsportshin" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="FIFA World Cup",Netherlands vs Sweden 18:00 (United Sports  HIN )
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=55ca7b96946703b0e70d4b5a0c0a36fe:c442558af3961253a42a16c0b6f552d7
-https://sundirectgo-live.pc.cdn.bitgravity.com/svchd18/dth.mpd
-
-#EXTINF:-1 tvg-id="netherlandsvssweden1800beinsportshd" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="FIFA World Cup",Netherlands vs Sweden 18:00 (beIN SPORTS HD)
+#EXTINF:-1 tvg-id="netherlandsvssweden1800beinmaxhd" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="FIFA World Cup",Netherlands vs Sweden 18:00 (beIN MAX HD)
 https://raw.githubusercontent.com/ON2026/1smas/refs/heads/main/mx1app2.m3u8
-
-#EXTINF:-1 tvg-id="netherlandsvssweden1800matchfootballfhd" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="FIFA World Cup",Netherlands vs Sweden 18:00 (Match Football FHD)
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=9145a6e0f778e61866f573d4944dd533:d02173d40515fea5c83944f21d0f3114
-https://video.beeline.tv/live/d/channel319.isml/manifest-stb.mpd
 
 #EXTINF:-1 tvg-id="netherlandsvssweden1800jojsportsfhd" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="FIFA World Cup",Netherlands vs Sweden 18:00 (JOJ SPORTS FHD)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=11223344556677889900112233445566:4b80724d0ef86bcb2c21f7999d67739d
 https://dash2.antik.sk/stream/nvidia_joj_sport/playlist_cenc.mpd
 
-#EXTINF:-1 tvg-id="netherlandsvssweden1800tvppolishfhd" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="FIFA World Cup",Netherlands vs Sweden 18:00 (TVP POLISH FHD)
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=0:0
-https://estreams.tv.nej.cz/dash/CH_TVP_SPORT_Portable.ism/playlist.mpd
-
-#EXTINF:-1 tvg-id="netherlandsvssweden1800somoytvhd" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="FIFA World Cup",Netherlands vs Sweden 18:00 (Somoy TV HD)
+#EXTINF:-1 tvg-id="netherlandsvssweden1800somoytvhd" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="FIFA World Cup",Netherlands vs Sweden 18:00 (SOMOY TV HD)
 https://live.thebosstv.com:30443/dwlive/Somoy-TV/chunks.m3u8
+
+#EXTINF:-1 tvg-id="netherlandsvssweden1800trtsports2k" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="FIFA World Cup",Netherlands vs Sweden 18:00 (TRT SPORTS 2K)
+https://tv-trt1-esdai.medya.trt.com.tr/master.m3u8
+
+#EXTINF:-1 tvg-id="netherlandsvssweden1800fussball4kger" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="FIFA World Cup",Netherlands vs Sweden 18:00 (FUSSBALL 4K  GER )
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=1f09d5788fbbb03a053d03cc731f31a9:d493d5a70c793362324638f61d1726ac
+https://svc45.main.sl.t-online.de/bpk-tv/KID01037_FUSSBALLTV1_uhd/DASH/index.mpd
+
+#EXTINF:-1 tvg-id="netherlandsvssweden1800fussballtvfhd" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="FIFA World Cup",Netherlands vs Sweden 18:00 (FUSSBALL TV FHD)
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=1cb20afcd9d979c833cfd208c7d3eeb2:fef0c15b4a523370892edd5e4133c269
+https://svc45.main.sl.t-online.de/bpk-tv/KID01037_FUSSBALLTV1_hd/DASH/index.mpd
+
+#EXTINF:-1 tvg-id="netherlandsvssweden1800telemundofhd" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="FIFA World Cup",Netherlands vs Sweden 18:00 (TELEMUNDO FHD)
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=ce7ab3022e753307997f58afe001bac4:72d631a66e635c60829a0fe7705516c1
+https://live-oneapp-prd-news.akamaized.net/Content/CMAF_OL2-CTR-4s-v2/Live/channel(kvea)/master.mpd
 
 #EXTINF:-1 tvg-id="netherlandsvssweden1800sportzxlive" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="FIFA World Cup",Netherlands vs Sweden 18:00 (SportzX Live)
 https://instreams.pro/EU/HDWC1/tracks-v1a1/mono.m3u8
-
-#EXTINF:-1 tvg-id="netherlandsvssweden1800sdservercn" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="FIFA World Cup",Netherlands vs Sweden 18:00 (SD SERVER  CN )
-https://live.wxinxi.com/live/25816724_sb2maw7iluj1ghr92sk5siud28tpimx0.m3u8
-
-#EXTINF:-1 tvg-id="netherlandsvssweden1800orfgermanfhd" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="FIFA World Cup",Netherlands vs Sweden 18:00 (ORF GERMAN FHD)
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=429bcf031bbf3146a67f3f583e4c4355:d1b92aba5a38a518c8b8a1fd2bca4398
-https://simplitv-live.mdn.ors.at/live/eds/orf_1_hd-1/dash4h/orf_1_hd-1.mpd
 
 #EXTINF:-1 tvg-id="germanyvscotedivoire2100foxsportsfhd" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="FIFA World Cup",Germany vs Cote d Ivoire 21:00 (FOX SPORTS FHD)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
