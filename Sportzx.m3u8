@@ -110,16 +110,19 @@ https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/tll6uwepxa/out/v1
 
 #EXTINF:-1 tvg-id="englandvsnewzealand1100willowfhd" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="Cricket",England vs New Zealand 11:00 (WILLOW FHD)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=f46a493ad01c1b237b996f78e96d35c3:271e7552eb45e1ad20b17ad7f0fb2f3e
-https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/7bdy4bcpnx/out/v1/7a73933264244221b1ce3545dfebabc3/cenc.mpd
+#KODIPROP:inputstream.adaptive.license_key=389acb5887a904ab230db8f3a1d13a06:ab6c8517643db359b1e66b05e0596feb
+https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/g4tq64xnon/out/v1/6cf2e7d1249844be9e012f214919bd63/cenc.mpd
 
 #EXTINF:-1 tvg-id="englandvsnewzealand1100willowalt" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="Cricket",England vs New Zealand 11:00 (WILLOW ALT)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=66e98dedb7c76f19ea06a5e9f50766a5:b947bb6b7ecb1e994335fff94c29eb3e
-https://a201aivottlinear-a.akamaihd.net/OTTB/iad-nitro/live/clients/dash/enc/tmb2rgzvpz/out/v1/6f88c3a0b0f04ce9b6c82e4499427edb/cenc.mpd
+#KODIPROP:inputstream.adaptive.license_key=389acb5887a904ab230db8f3a1d13a06:ab6c8517643db359b1e66b05e0596feb
+https://abkyrm4aaaaaaaamfyfksth3wr44v.ta.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/g4tq64xnon/out/v1/6cf2e7d1249844be9e012f214919bd63/cenc.mpd
 
 #EXTINF:-1 tvg-id="englandvsnewzealand1100skymainevent" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="Cricket",England vs New Zealand 11:00 (SKY MAIN EVENT)
 https://tmaxapp.site/skymainevent.m3u8
+
+#EXTINF:-1 tvg-id="englandvsnewzealand1100sonyliv" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="Cricket",England vs New Zealand 11:00 (SonyLiv)
+https://sonymtmnew-akamaized.pages.dev/hls/live/20000296/England_2006/ENG/master.m3u8
 
 #EXTINF:-1 tvg-id="englandvsnewzealand1100lowserver" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="Cricket",England vs New Zealand 11:00 (LOW SERVER)
 http://193.47.62.41/hls/EEEEDDD.m3u8
@@ -1336,22 +1339,28 @@ https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/65ldy4ejuu/out/v1
 #KODIPROP:inputstream.adaptive.license_key=09453ce820d65fbc675de3185f9e454c:98cff9600995fa381c76fdacf3c7edae
 https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/awxnrqkbo5/out/v1/716529a4091947b0877e6cb80dbd6ccb/cenc.mpd
 
-#EXTINF:-1 tvg-id="seattleorcasvswashingtonfreedom0130willowfhd" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="Major League Cricket",Seattle Orcas vs Washington Freedom 01:30 (WILLOW FHD)
+#EXTINF:-1 tvg-id="australiawvsnetherlandsw1030willowfhd" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="Cricket",Australia W vs Netherlands W 10:30 (WILLOW FHD)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=84904b9e8f527b72dd1566f8f2e00160:cda148bac3de81fe928d814a3d957477
-https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/rhukhaxuw2/out/v1/df964fc528f04e98a83831bbcb88bb16/cenc.mpd
+#KODIPROP:inputstream.adaptive.license_key=36d3c540acc063a248ef7fc725a1b828:ae593b3c9f1c55cf4a819d2409051273
+https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/jzdcmsg42z/out/v1/04ed24f3421745a9ba1838971d36316f/cenc.mpd
 
-#EXTINF:-1 tvg-id="seattleorcasvswashingtonfreedom0130skymainevent" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="Major League Cricket",Seattle Orcas vs Washington Freedom 01:30 (SKY MAIN EVENT)
-https://tmaxapp.site/skymainevent.m3u8
+#EXTINF:-1 tvg-id="australiawvsnetherlandsw1030primevideo" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="Cricket",Australia W vs Netherlands W 10:30 (PRIME VIDEO)
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=ee0c99be51120d109657df5229b48b01:6f0cc18e09de8ec73414bb2209d6c63b
+https://abfjk4haaaaaaaamkitc5445rybm6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/87d0tehlad/out/v1/403835568f5b4e3ca2d201cc88b594ee/cenc.mpd
 
-#EXTINF:-1 tvg-id="seattleorcasvswashingtonfreedom0130willowhd" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="Major League Cricket",Seattle Orcas vs Washington Freedom 01:30 (WILLOW HD)
-https://tmaxapp.site/willoweng.m3u8
+#EXTINF:-1 tvg-id="australiawvsnetherlandsw1030willowalt" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="Cricket",Australia W vs Netherlands W 10:30 (WILLOW ALT)
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=36d3c540acc063a248ef7fc725a1b828:ae593b3c9f1c55cf4a819d2409051273
+https://abkyrm4aaaaaaaamfyfksth3wr44v.ta.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/jzdcmsg42z/out/v1/04ed24f3421745a9ba1838971d36316f/cenc.mpd
 
-#EXTINF:-1 tvg-id="seattleorcasvswashingtonfreedom0130willowsd" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="Major League Cricket",Seattle Orcas vs Washington Freedom 01:30 (WILLOW SD)
-https://tmaxapp.site/willoweng.m3u8
+#EXTINF:-1 tvg-id="australiawvsnetherlandsw1030skysportnz" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="Cricket",Australia W vs Netherlands W 10:30 (SKY SPORT NZ)
+https://tmaxapp.site/skynz5.m3u8
 
-#EXTINF:-1 tvg-id="seattleorcasvswashingtonfreedom0130skysportnz" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="Major League Cricket",Seattle Orcas vs Washington Freedom 01:30 (SKY SPORT NZ)
-https://tmaxapp.site/skynz9.m3u8
+#EXTINF:-1 tvg-id="australiawvsnetherlandsw1030willowhd" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="Cricket",Australia W vs Netherlands W 10:30 (WILLOW HD)
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=290e09c837da78d5cd961978d390515c:b748836c71e6a4ca68ef5b5652db6247
+https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/tll6uwepxa/out/v1/a7f67cbb33df46539312956427343886/cenc.mpd
 
 #EXTINF:-1 tvg-id="pakistanwvsbangladeshw1430willowhd" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="Cricket",Pakistan W vs Bangladesh W 14:30 (WILLOW HD)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
