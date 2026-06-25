@@ -93,22 +93,22 @@ https://android-database1.firebase-api.com/AccessLog2/108085_HD/apache.m3u8
 #KODIPROP:inputstream.adaptive.license_key=58551b13211b37d5b325d67e5c6cabef:3b4c3f8b4236fc57d66cdb54a606fe41
 https://g001-sle-us-cmaf-prd-ak.pcdn03.cssott.com/Content/CMAF_OS1-CTR-4s-v2/Live/channel(12010340-12010340-4445585a62764)/master_2hr.mpd
 
-#EXTINF:-1 tvg-id="englandwvswestindiesw1830willowfhd" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="Cricket",England W vs West Indies W 18:30 (WILLOW FHD)
+#EXTINF:-1 tvg-id="indiawvsbangladeshw1430willowfhd" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="Cricket",India W vs Bangladesh W 14:30 (WILLOW FHD)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=b35978c7b6988c16a493e67cb35e3ed7:78cb4762e924126a02e0d19a3c7d5203
 https://abfjk4haaaaaaaamkitc5445rybm6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/zxv9btuhk4/out/v1/18a0b7d0d0054b728bc322e5ab14058a/cenc.mpd
 
-#EXTINF:-1 tvg-id="englandwvswestindiesw1830willowalt" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="Cricket",England W vs West Indies W 18:30 (WILLOW ALT)
+#EXTINF:-1 tvg-id="indiawvsbangladeshw1430willowalt" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="Cricket",India W vs Bangladesh W 14:30 (WILLOW ALT)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=b35978c7b6988c16a493e67cb35e3ed7:78cb4762e924126a02e0d19a3c7d5203
 https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/zxv9btuhk4/out/v1/18a0b7d0d0054b728bc322e5ab14058a/cenc.mpd
 
-#EXTINF:-1 tvg-id="englandwvswestindiesw1830willowhd" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="Cricket",England W vs West Indies W 18:30 (WILLOW HD)
+#EXTINF:-1 tvg-id="indiawvsbangladeshw1430willowhd" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="Cricket",India W vs Bangladesh W 14:30 (WILLOW HD)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=290e09c837da78d5cd961978d390515c:b748836c71e6a4ca68ef5b5652db6247
 https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/tll6uwepxa/out/v1/a7f67cbb33df46539312956427343886/cenc.mpd
 
-#EXTINF:-1 tvg-id="englandwvswestindiesw1830skysportnz" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="Cricket",England W vs West Indies W 18:30 (SKY SPORT NZ)
+#EXTINF:-1 tvg-id="indiawvsbangladeshw1430skysportnz" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="Cricket",India W vs Bangladesh W 14:30 (SKY SPORT NZ)
 https://tmaxapp.site/skynz3.m3u8
 
 #EXTINF:-1 tvg-id="englandvsnewzealand1100willowfhd" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="Cricket",England vs New Zealand 11:00 (WILLOW FHD)
@@ -224,7 +224,7 @@ https://live-oneapp-prd-news.akamaized.net/Content/CMAF_OL2-CTR-4s/Live/channel(
 https://lb.xyzcloud3.xyz/fox4k/index.m3u8
 
 #EXTINF:-1 tvg-id="scotlandvsbrazil2300fox4klive" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="FIFA World Cup",Scotland vs Brazil 23:00 (FOX 4K LIVE)
-https://inproviszon.st/fox4k-usa.m3u8
+https://hundredmilesperhour.uk/fox4k-usa.m3u8
 
 #EXTINF:-1 tvg-id="scotlandvsbrazil2300telemundo4k" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="FIFA World Cup",Scotland vs Brazil 23:00 (TELEMUNDO 4K)
 https://lb.xyzcloud3.xyz/tele4k/index.m3u8
@@ -436,6 +436,16 @@ https://otte-qw.live.pv-cdn.net/gru-nitro/live/clients/dash/enc/ajfoeddkbz/out/v
 #KODIPROP:inputstream.adaptive.license_key=1efe4add8fdf327c5f8d2a1c195e5c71:4f50e6f011e60ca01ee561f27187e78f
 https://cun-live1-ott.izzigo.tv/out/u/dash/NOG1/TELEMUNDO-ARIZONA-USA-TCS-HD/default.mpd
 
+#EXTINF:-1 tvg-id="czechiavsmexico0200azteca7fhd" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="FIFA World Cup",Czechia vs Mexico 02:00 (AZTECA7 FHD)
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=2cde091f1e4675c82d65498bd6ba0e65:29f2aeb97a908466177c56fc28fe083f
+https://zap-live-ott.izzigo.tv/out/u/dash/CDMX/AZTECA-7-HD/default.mpd
+
+#EXTINF:-1 tvg-id="czechiavsmexico0200canal5fhd" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="FIFA World Cup",Czechia vs Mexico 02:00 (CANAL5 FHD)
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=d695093ea3e66d75a4d213a3e2cbf360:01be3f645e89a067d2786c295f68dde4
+https://otte-azion.live.pv-cdn.net/syd-nitro/live/clients/dash/enc/ntkdl68eob/out/v1/bd5dfb7676994383881bc6e71877d29d/cenc.mpd
+
 #EXTINF:-1 tvg-id="czechiavsmexico0200tvpsportshd" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="FIFA World Cup",Czechia vs Mexico 02:00 (TVP SPORTS HD)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=0:0
@@ -461,223 +471,171 @@ https://otte-qw.live.pv-cdn.net/pdx-nitro/live/clients/dash/enc/x0srg3jjpz/out/v
 #KODIPROP:inputstream.adaptive.license_key=34475edab991ad5e92548aebd710410a:501b209cccd323ac00bf5ac15b406cb4
 https://otte-qw.live.pv-cdn.net/fra-nitro/live/clients/dash/enc/3ynrpdanq2/out/v1/81fd4c26584044d2b1a1cc5b32fa9af0/cenc.mpd
 
-#EXTINF:-1 tvg-id="czechiavsmexico0200tsnsportshd" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="FIFA World Cup",Czechia vs Mexico 02:00 (TSN SPORTS HD)
-https://obeliskadefat.s3.us-west-2.amazonaws.com/btsport.m3u8
+#EXTINF:-1 tvg-id="czechiavsmexico0200foxonehd" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="FIFA World Cup",Czechia vs Mexico 02:00 (FOX ONE HD)
+https://lb.xyzcloud3.xyz/FOX/index.m3u8
 
-#EXTINF:-1 tvg-id="czechiavsmexico0200dsportsfhd" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="FIFA World Cup",Czechia vs Mexico 02:00 (D Sports FHD)
+#EXTINF:-1 tvg-id="czechiavsmexico0200tsnsportsfhd" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="FIFA World Cup",Czechia vs Mexico 02:00 (TSN SPORTS FHD)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=f8b207c10f3f76aeba32a360ec52b9e4:afad49d20eb39670e93e371c1d669921
-https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/3gg2jnixjn/out/v1/e1840e01f3f14563b66bbb944d5cc54c/cenc.mpd
+#KODIPROP:inputstream.adaptive.license_key=14eeabf30c14b7fbf3008c03099ce011:17d2ac8dbc5429bd70af3433aa12158d
+https://abgzkulaaaaaaaamfvra5ujrl4pd7.ta.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/w0rehjjrwe/out/v1/69a2a7041395406b970598f61680e7cf/cenc.mpd
 
-#EXTINF:-1 tvg-id="czechiavsmexico0200tudnvixfhd" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="FIFA World Cup",Czechia vs Mexico 02:00 (TUDN ViX FHD)
+#EXTINF:-1 tvg-id="czechiavsmexico0200foxonefhd" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="FIFA World Cup",Czechia vs Mexico 02:00 (FOX ONE FHD)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=d695093ea3e66d75a4d213a3e2cbf360:01be3f645e89a067d2786c295f68dde4
-https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/ntkdl68eob/out/v1/bd5dfb7676994383881bc6e71877d29d/cenc.mpd
-
-#EXTINF:-1 tvg-id="czechiavsmexico0200telemundofhd" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="FIFA World Cup",Czechia vs Mexico 02:00 (TELEMUNDO FHD)
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=1efe4add8fdf327c5f8d2a1c195e5c71:4f50e6f011e60ca01ee561f27187e78f
-https://cun-live1-ott.izzigo.tv/out/u/dash/NOG1/TELEMUNDO-ARIZONA-USA-TCS-HD/default.mpd
-
-#EXTINF:-1 tvg-id="czechiavsmexico0200rtbsportsfhd" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="FIFA World Cup",Czechia vs Mexico 02:00 (RTB SPORTS FHD)
-https://d1211whpimeups.cloudfront.net/smil:rtb2/playlist.m3u8
+#KODIPROP:inputstream.adaptive.license_key=f6564ec2aee819046328a0e153be574d:ff46a8a1031eb27ef22576a077c98ab7
+https://abgzkulaaaaaaaamfvra5ujrl4pd7.ta.bia-cf.live.pv-cdn.net/gru-nitro/live/dash/enc/ajfoeddkbz/out/v1/b78800b9b2304879b15843f455836829/cenc.mpd
 
 #EXTINF:-1 tvg-id="czechiavsmexico0200tsnsportsalt" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="FIFA World Cup",Czechia vs Mexico 02:00 (TSN SPORTS  ALT )
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=14eeabf30c14b7fbf3008c03099ce011:17d2ac8dbc5429bd70af3433aa12158d
 https://abgh3fbaaaaaaaambylpff72g6up6.ta.bia-cf.live.pv-cdn.net/iad-nitro/live/dash/enc/w0rehjjrwe/out/v1/69a2a7041395406b970598f61680e7cf/cenc.mpd
 
-#EXTINF:-1 tvg-id="czechiavsmexico0200foxonefhdalt" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="FIFA World Cup",Czechia vs Mexico 02:00 (FOX ONE FHD  ALT )
+#EXTINF:-1 tvg-id="czechiavsmexico0200telemundousa" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="FIFA World Cup",Czechia vs Mexico 02:00 (TELEMUNDO  USA )
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=5466ebd70704bdeb657f0abf3c5ca4ef:bdd79b72d8e48ed483aa623cc38a8a16
-https://abgh3fbaaaaaaaambylpff72g6up6.ta.bia-cf.live.pv-cdn.net/iad-nitro/live/dash/enc/fsu3wl2rwb/out/v1/be61206c04e643349d53fb22301f3b50/cenc.mpd
-
-#EXTINF:-1 tvg-id="czechiavsmexico0200cazetvfhd" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="FIFA World Cup",Czechia vs Mexico 02:00 (CAZE TV FHD)
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=34475edab991ad5e92548aebd710410a:501b209cccd323ac00bf5ac15b406cb4
-https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/jo3rmhhp2r/out/v1/50656942ce4e40a1be824c9d83578fe9/cenc.mpd
-
-#EXTINF:-1 tvg-id="czechiavsmexico0200sportvbrfhd" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="FIFA World Cup",Czechia vs Mexico 02:00 (SporTV BR FHD)
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=cb5eaea6d91fc8a702f154cefd69c976:fd4b69623da596aac100e5722d8a1ca0
-https://otte-qw.live.pv-cdn.net/pdx-nitro/live/clients/dash/enc/tvezxbddeg/out/v1/3aa321e477504937a439b602e078eb18/cenc.mpd
+#KODIPROP:inputstream.adaptive.license_key=7d6bb9f86e133e4cb33440b493b6b672:584ad285dcb9e7d42cf3e93f1cc3fe11
+https://live-oneapp-prd-news.akamaized.net/Content/CMAF_OL2-CTR-4s/Live/channel(WSNS)/master.mpd
 
 #EXTINF:-1 tvg-id="czechiavsmexico0200foxone4k" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="FIFA World Cup",Czechia vs Mexico 02:00 (FOX ONE 4K)
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=1f68713028d439ec03be07f56c1d6213:20093db6455160fffed4c394def3193d
-https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/enc/g17oisjirj/out/v1/31d30c91fc65458789b84209d3fa22e4/cenc.mpd
+https://lb.xyzcloud3.xyz/fox4k/index.m3u8
 
-#EXTINF:-1 tvg-id="czechiavsmexico0200foxone4kalt" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="FIFA World Cup",Czechia vs Mexico 02:00 (FOX ONE 4K  ALT )
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=1f68713028d439ec03be07f56c1d6213:20093db6455160fffed4c394def3193d
-https://abgh3fbaaaaaaaambylpff72g6up6.ta.bia-cf.live.pv-cdn.net/iad-nitro/live/dash/enc/g17oisjirj/out/v1/31d30c91fc65458789b84209d3fa22e4/cenc.mpd
+#EXTINF:-1 tvg-id="czechiavsmexico0200fox4klive" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="FIFA World Cup",Czechia vs Mexico 02:00 (FOX 4K LIVE)
+https://hundredmilesperhour.uk/fox4k-usa.m3u8
 
-#EXTINF:-1 tvg-id="czechiavsmexico0200fussball24kger" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="FIFA World Cup",Czechia vs Mexico 02:00 (FUSSBALL2 4K  GER )
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=1b98a0f2de7784c6e132942385a089f3:546eae09a8d81c498dfd08532dcd68a5
-https://svc45.main.sl.t-online.de/bpk-tv/KID01064_FUSSBALLTV2_uhd/DASH/index.mpd
+#EXTINF:-1 tvg-id="czechiavsmexico0200tsnsports4k" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="FIFA World Cup",Czechia vs Mexico 02:00 (TSN SPORTS 4K)
+https://lb.xyzcloud3.xyz/tsn4k/index.m3u8
+
+#EXTINF:-1 tvg-id="czechiavsmexico0200telemundo4k" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="FIFA World Cup",Czechia vs Mexico 02:00 (TELEMUNDO 4K)
+https://lb.xyzcloud3.xyz/tele4k/index.m3u8
 
 #EXTINF:-1 tvg-id="czechiavsmexico0200fussballtv4k" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="FIFA World Cup",Czechia vs Mexico 02:00 (FUSSBALL TV 4K)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=4f558eae1b005126b2ac6e9eb1a7849e:17aea325d91b5e66f06a8c574f2f0b03
 https://da-50f11b292a028381000001120000000000000009.id.vx.tentcdn.eu/wp/at-live-7.tentcdn.eu/bpk-tv/WM_TV_1_UHD/default/index.mpd
 
-#EXTINF:-1 tvg-id="czechiavsmexico0200trtsports2k" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="FIFA World Cup",Czechia vs Mexico 02:00 (TRT SPORTS 2K)
-https://rxne77juptdeyke3tytvgqwyh.medya.trt.com.tr/master.m3u8
+#EXTINF:-1 tvg-id="czechiavsmexico0200fussballtv24k" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="FIFA World Cup",Czechia vs Mexico 02:00 (FUSSBALL TV2 4K)
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=ccdf9f3d9bbf5c508adf04f81918a285:66cf0524fcc2eb0c7dab8bbbf8829827
+https://da-50f11b292a028381000001120000000000000009.id.vx.tentcdn.eu/wp/at-live-7.tentcdn.eu/bpk-tv/WM_TV_2_UHD/default/index.mpd
 
 #EXTINF:-1 tvg-id="czechiavsmexico0200irib4k" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="FIFA World Cup",Czechia vs Mexico 02:00 (IRIB 4K)
 https://ncdn.telewebion.ir/faratar/live/playlist.m3u8
 
-#EXTINF:-1 tvg-id="czechiavsmexico0200tipikfrfhd" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="FIFA World Cup",Czechia vs Mexico 02:00 (TIPIK FR FHD)
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=adca25b8779e4168a0cd710f59f61ccf:be5383ed3cd8079f4ffe78ad067f476a
-https://c9851ec-rbm-hilv-fsly.cdn.redbee.live/L26/6b640fa2/a765d074.isml/dash/.mpd
+#EXTINF:-1 tvg-id="czechiavsmexico0200arabiclivehd" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="FIFA World Cup",Czechia vs Mexico 02:00 (ARABIC LIVE HD)
+https://lb.xyzcloud3.xyz/tod1/index.m3u8
 
-#EXTINF:-1 tvg-id="czechiavsmexico0200tvppolishfhd" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="FIFA World Cup",Czechia vs Mexico 02:00 (TVP POLISH FHD)
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=0:0
-https://estreams.tv.nej.cz/dash/CH_TVP_SPORT_Portable.ism/playlist.mpd
-
-#EXTINF:-1 tvg-id="czechiavsmexico0200sporzadutch" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="FIFA World Cup",Czechia vs Mexico 02:00 (Sporza DUTCH)
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=7c0a14fc7dc3c641af8cb6506431a628:f318ff7c01cca20c4a5b3d91074ca460
-https://live.vrtcdn.be/groupd/live/0761024f-37fe-4254-bc37-e95d7c62b2d1/playout.isml/.mpd
+#EXTINF:-1 tvg-id="czechiavsmexico0200iscreenbdfhd" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="FIFA World Cup",Czechia vs Mexico 02:00 (ISCREEN BD FHD)
+https://pastebin.com/raw/AFnPnGzQ?e=.m3u8
 
 #EXTINF:-1 tvg-id="czechiavsmexico0200matchfootballfhd" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="FIFA World Cup",Czechia vs Mexico 02:00 (Match Football FHD)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=9145a6e0f778e61866f573d4944dd533:d02173d40515fea5c83944f21d0f3114
 https://video.beeline.tv/live/d/channel319.isml/manifest-stb.mpd
 
-#EXTINF:-1 tvg-id="czechiavsmexico0200iscreenbdfhd" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="FIFA World Cup",Czechia vs Mexico 02:00 (ISCREEN BD FHD)
-https://pastebin.com/raw/AFnPnGzQ?e=.m3u8
-
-#EXTINF:-1 tvg-id="czechiavsmexico0200telemundoalt" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="FIFA World Cup",Czechia vs Mexico 02:00 (TELEMUNDO  ALT )
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=ce7ab3022e753307997f58afe001bac4:72d631a66e635c60829a0fe7705516c1
-https://live-oneapp-prd-news.akamaized.net/Content/CMAF_OL2-CTR-4s-v2/Live/channel(kvea)/master.mpd
-
-#EXTINF:-1 tvg-id="czechiavsmexico0200arabiclive" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="FIFA World Cup",Czechia vs Mexico 02:00 (ARABIC LIVE)
-https://oottoo.online/max1--g/tracks-v1a1/mono.m3u8
-
 #EXTINF:-1 tvg-id="czechiavsmexico0200daznspanish" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="FIFA World Cup",Czechia vs Mexico 02:00 (DAZN SPANISH)
 https://1nyaler.streamhostingcdn.top/stream/94/index.m3u8
-
-#EXTINF:-1 tvg-id="czechiavsmexico0200tycsportshd" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="FIFA World Cup",Czechia vs Mexico 02:00 (TYC SPORTS HD)
-https://1nyaler.streamhostingcdn.top/stream/84/index.m3u8
-
-#EXTINF:-1 tvg-id="czechiavsmexico0200beinmaxhd" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="FIFA World Cup",Czechia vs Mexico 02:00 (beIN MAX HD)
-https://raw.githubusercontent.com/ON2026/1smas/refs/heads/main/mx1app2.m3u8
-
-#EXTINF:-1 tvg-id="czechiavsmexico0200somoytvhd" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="FIFA World Cup",Czechia vs Mexico 02:00 (SOMOY TV HD)
-https://live.thebosstv.com:30443/dwlive/Somoy-TV/chunks.m3u8
 
 #EXTINF:-1 tvg-id="czechiavsmexico0200fussball4kger" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="FIFA World Cup",Czechia vs Mexico 02:00 (FUSSBALL 4K  GER )
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=1f09d5788fbbb03a053d03cc731f31a9:d493d5a70c793362324638f61d1726ac
 https://svc45.main.sl.t-online.de/bpk-tv/KID01037_FUSSBALLTV1_uhd/DASH/index.mpd
 
+#EXTINF:-1 tvg-id="czechiavsmexico0200fussball24kger" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="FIFA World Cup",Czechia vs Mexico 02:00 (FUSSBALL2 4K  GER )
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=1b98a0f2de7784c6e132942385a089f3:546eae09a8d81c498dfd08532dcd68a5
+https://svc45.main.sl.t-online.de/bpk-tv/KID01064_FUSSBALLTV2_uhd/DASH/index.mpd
+
 #EXTINF:-1 tvg-id="czechiavsmexico0200fussballtvfhd" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="FIFA World Cup",Czechia vs Mexico 02:00 (FUSSBALL TV FHD)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=1cb20afcd9d979c833cfd208c7d3eeb2:fef0c15b4a523370892edd5e4133c269
 https://svc45.main.sl.t-online.de/bpk-tv/KID01037_FUSSBALLTV1_hd/DASH/index.mpd
+
+#EXTINF:-1 tvg-id="czechiavsmexico0200fussball2tvfhd" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="FIFA World Cup",Czechia vs Mexico 02:00 (FUSSBALL2 TV FHD)
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=1889c6c8cdf57aa3bc90bb976ca6cbdc:48ef3649d9076965b70e79e58b0028ef
+https://svc45.main.sl.t-online.de/bpk-tv/KID01064_FUSSBALLTV2_hd/DASH/index.mpd
 
 #EXTINF:-1 tvg-id="czechiavsmexico0200telemundousa" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="FIFA World Cup",Czechia vs Mexico 02:00 (TELEMUNDO  USA )
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=ce7ab3022e753307997f58afe001bac4:72d631a66e635c60829a0fe7705516c1
 https://live-oneapp-prd-news.akamaized.net/Content/CMAF_OL2-CTR-4s-v2/Live/channel(kvea)/master.mpd
 
-#EXTINF:-1 tvg-id="czechiavsmexico0200sportzxlive" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="FIFA World Cup",Czechia vs Mexico 02:00 (SportzX Live)
-https://instreams.pro/EU/HDWC1/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="czechiavsmexico0200tycsportshd" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="FIFA World Cup",Czechia vs Mexico 02:00 (TYC SPORTS HD)
+https://1nyaler.streamhostingcdn.top/stream/84/index.m3u8
 
-#EXTINF:-1 tvg-id="czechiavsmexico0200m6francesd" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="FIFA World Cup",Czechia vs Mexico 02:00 (M6 FRANCE SD)
+#EXTINF:-1 tvg-id="southafricavssouthkorea0200foxsportshd" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="FIFA World Cup",South Africa vs South Korea 02:00 (FOX SPORTS HD)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=433ffba670963e70857859a9dff4be04:51ede3a821229fe81e71282c8eff80e3
-https://origin-m6web.live.6cloud.fr/out/v1/6play/6play-m6/cmaf_cenc00/dash-short-hd.mpd
+#KODIPROP:inputstream.adaptive.license_key=d7d78ea2021a29541136bd5dc8352fe7:6425ac4c0cdf906fe0cce5cf40dc8933
+https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/cizlveblk4/out/v1/e5c36c41621e4384b80427d87199433a/cenc.mpd
 
-#EXTINF:-1 tvg-id="czechiavsmexico0200azteca7fhd" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="FIFA World Cup",Czechia vs Mexico 02:00 (AZTECA7 FHD)
+#EXTINF:-1 tvg-id="southafricavssouthkorea0200tipikfrfhd" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="FIFA World Cup",South Africa vs South Korea 02:00 (TIPIK FR FHD)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=2cde091f1e4675c82d65498bd6ba0e65:29f2aeb97a908466177c56fc28fe083f
-https://zap-live-ott.izzigo.tv/out/u/dash/CDMX/AZTECA-7-HD/default.mpd
-
-#EXTINF:-1 tvg-id="southafricavssouthkorea0200rtesportsfhd" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="FIFA World Cup",South Africa vs South Korea 02:00 (RTE SPORTS FHD)
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=d816287e21496989eae1312925a423c5:00da00f13180e7e6cd5ce87d1c974e8d
-https://dai.google.com/linear/dash/pa/event/oPeAYQs9T9yTHS98aR1EjQ/stream/f96c00e2-8d18-475e-a5a5-3faa64d7819a:BRU/manifest.mpd
+#KODIPROP:inputstream.adaptive.license_key=adca25b8779e4168a0cd710f59f61ccf:be5383ed3cd8079f4ffe78ad067f476a
+https://c9851ec-rbm-hilv-fsly.cdn.redbee.live/L26/6b640fa2/a765d074.isml/dash/.mpd
 
 #EXTINF:-1 tvg-id="southafricavssouthkorea0200tsnsportshd" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="FIFA World Cup",South Africa vs South Korea 02:00 (TSN SPORTS HD)
-https://storage.googleapis.com/msnuke4/mainnet/manifest.m3u8
-
-#EXTINF:-1 tvg-id="southafricavssouthkorea0200rtbgolivefhd" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="FIFA World Cup",South Africa vs South Korea 02:00 (RTB GOLIVE FHD)
-https://d1211whpimeups.cloudfront.net/smil:rtbgo/playlist.m3u8
-
-#EXTINF:-1 tvg-id="southafricavssouthkorea0200foxsportsfhd" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="FIFA World Cup",South Africa vs South Korea 02:00 (FOX SPORTS FHD)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=5466ebd70704bdeb657f0abf3c5ca4ef:bdd79b72d8e48ed483aa623cc38a8a16
-https://abemmfvaaaaaaaamgfhlmyisv75m7.ta.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/fsu3wl2rwb/out/v1/be61206c04e643349d53fb22301f3b50/cenc.mpd
+#KODIPROP:inputstream.adaptive.license_key=85b277daf5aae05833fe43a68f587968:d52d7e9bc0bcd98787efd547ac91eca0
+https://otte-qw.live.pv-cdn.net/pdx-nitro/live/clients/dash/enc/cjglydxghe/out/v1/8977baf175da4b94873194613dd3fe55/cenc.mpd
 
-#EXTINF:-1 tvg-id="southafricavssouthkorea0200tsnsportsfhd" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="FIFA World Cup",South Africa vs South Korea 02:00 (TSN SPORTS FHD)
+#EXTINF:-1 tvg-id="southafricavssouthkorea0200tvpsportsfhd" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="FIFA World Cup",South Africa vs South Korea 02:00 (TVP SPORTS FHD)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=14eeabf30c14b7fbf3008c03099ce011:17d2ac8dbc5429bd70af3433aa12158d
-https://abemmfvaaaaaaaamgfhlmyisv75m7.ta.bia-cf.live.pv-cdn.net/iad-nitro/live/dash/enc/w0rehjjrwe/out/v1/69a2a7041395406b970598f61680e7cf/cenc.mpd
+#KODIPROP:inputstream.adaptive.license_key=95620bdd974041409d4674ab629e22d4:c6c226ca1689f528a6f91e86da618f64
+https://estreams.tv.nej.cz/dash/CH_TVP_SPORT_Portable.ism/playlist.mpd
 
-#EXTINF:-1 tvg-id="southafricavssouthkorea0200itvsportsfhd" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="FIFA World Cup",South Africa vs South Korea 02:00 (ITV SPORTS FHD)
+#EXTINF:-1 tvg-id="southafricavssouthkorea0200tvcg2fhd" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="FIFA World Cup",South Africa vs South Korea 02:00 (TVCG 2 FHD)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=30089c52924f037b225b82c616fee2a5:f55dc8b66ed4fc6753d6035ae7e17144
-https://abemmfvaaaaaaaamgfhlmyisv75m7.ta.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/0eiyyz8qzm/out/v1/dd17af8835fe4bd087d1a4e359b635d7/cenc.mpd
+#KODIPROP:inputstream.adaptive.license_key=abf270b7b6b95ff48c65e3409f8aa3fd:0dbca83580a794c289f4448f427988a4
+https://bpkcdn.telekom.me/bpk-tv/rtcg_2/default/index.mpd
 
 #EXTINF:-1 tvg-id="southafricavssouthkorea0200dsportsfhd" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="FIFA World Cup",South Africa vs South Korea 02:00 (D Sports FHD)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=f8b207c10f3f76aeba32a360ec52b9e4:afad49d20eb39670e93e371c1d669921
-https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/3gg2jnixjn/out/v1/e1840e01f3f14563b66bbb944d5cc54c/cenc.mpd
-
-#EXTINF:-1 tvg-id="southafricavssouthkorea0200telemundofhd" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="FIFA World Cup",South Africa vs South Korea 02:00 (TELEMUNDO FHD)
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=1efe4add8fdf327c5f8d2a1c195e5c71:4f50e6f011e60ca01ee561f27187e78f
-https://cun-live1-ott.izzigo.tv/out/u/dash/NOG1/TELEMUNDO-ARIZONA-USA-TCS-HD/default.mpd
-
-#EXTINF:-1 tvg-id="southafricavssouthkorea0200trtsports2k" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="FIFA World Cup",South Africa vs South Korea 02:00 (TRT SPORTS 2K)
-https://rxne77juptdeyke3tytvgqwyh.medya.trt.com.tr/master.m3u8
-
-#EXTINF:-1 tvg-id="southafricavssouthkorea0200tsnsportsalt" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="FIFA World Cup",South Africa vs South Korea 02:00 (TSN SPORTS  ALT )
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=14eeabf30c14b7fbf3008c03099ce011:17d2ac8dbc5429bd70af3433aa12158d
-https://abgh3fbaaaaaaaambylpff72g6up6.ta.bia-cf.live.pv-cdn.net/iad-nitro/live/dash/enc/w0rehjjrwe/out/v1/69a2a7041395406b970598f61680e7cf/cenc.mpd
-
-#EXTINF:-1 tvg-id="southafricavssouthkorea0200foxonefhdalt" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="FIFA World Cup",South Africa vs South Korea 02:00 (FOX ONE FHD  ALT )
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=5466ebd70704bdeb657f0abf3c5ca4ef:bdd79b72d8e48ed483aa623cc38a8a16
-https://abgh3fbaaaaaaaambylpff72g6up6.ta.bia-cf.live.pv-cdn.net/iad-nitro/live/dash/enc/fsu3wl2rwb/out/v1/be61206c04e643349d53fb22301f3b50/cenc.mpd
-
-#EXTINF:-1 tvg-id="southafricavssouthkorea0200itvsportsalt" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="FIFA World Cup",South Africa vs South Korea 02:00 (ITV SPORTS  ALT )
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=30089c52924f037b225b82c616fee2a5:f55dc8b66ed4fc6753d6035ae7e17144
-https://abgh3fbaaaaaaaambylpff72g6up6.ta.bia-cf.live.pv-cdn.net/iad-nitro/live/dash/enc/0eiyyz8qzm/out/v1/dd17af8835fe4bd087d1a4e359b635d7/cenc.mpd
+#KODIPROP:inputstream.adaptive.license_key=03f12d6a3dbfd3a6fa7dd7f6417e0c11:ea07b87acdf2e45be824cde4a1cf3504
+https://otte-qw.live.pv-cdn.net/pdx-nitro/live/clients/dash/enc/rgilyeubta/out/v1/09a67027b18f4fd78aaa3794a2aacfe8/cenc.mpd
 
 #EXTINF:-1 tvg-id="southafricavssouthkorea0200cazetvfhd" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="FIFA World Cup",South Africa vs South Korea 02:00 (CAZE TV FHD)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=ac7abaa9c9481aacfbdac64fc3ec3312:c0c504a2ed2e70b879a650b8770a38c6
-https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/vzeco5ty0v/out/v1/44c6b8f31a2544e3b2a9bb41ed5e241e/cenc.mpd
+https://otte-qw.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/vzeco5ty0v/out/v1/44c6b8f31a2544e3b2a9bb41ed5e241e/cenc.mpd
 
-#EXTINF:-1 tvg-id="southafricavssouthkorea0200sportvbrfhd" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="FIFA World Cup",South Africa vs South Korea 02:00 (SporTV BR FHD)
+#EXTINF:-1 tvg-id="southafricavssouthkorea0200beinmaxfhd" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="FIFA World Cup",South Africa vs South Korea 02:00 (beIN MAX FHD)
+https://hundredmilesperhour.uk/beinsportsmax2-sa.m3u8
+
+#EXTINF:-1 tvg-id="southafricavssouthkorea0200foxsportshd" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="FIFA World Cup",South Africa vs South Korea 02:00 (FOX SPORTS HD)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=cb5eaea6d91fc8a702f154cefd69c976:fd4b69623da596aac100e5722d8a1ca0
-https://otte-qw.live.pv-cdn.net/pdx-nitro/live/clients/dash/enc/tvezxbddeg/out/v1/3aa321e477504937a439b602e078eb18/cenc.mpd
+#KODIPROP:inputstream.adaptive.license_key=5466ebd70704bdeb657f0abf3c5ca4ef:bdd79b72d8e48ed483aa623cc38a8a16
+https://abgzkulaaaaaaaamfvra5ujrl4pd7.ta.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/fsu3wl2rwb/out/v1/be61206c04e643349d53fb22301f3b50/cenc.mpd
 
-#EXTINF:-1 tvg-id="southafricavssouthkorea0200arabicliveaq" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="FIFA World Cup",South Africa vs South Korea 02:00 (ARABIC LIVE - AQ)
-https://euc11.playlist.ttvnw.net/v1/playlist/CrcHR3pFKWXvKMtrSwh1ABRdt4ndv3pRovHu8QBBe7ZgYNg8BgMroqvH4Ta0o2MYKXPbhKXjXfmDXQOV_0zg81wJmhto4LxBwaNEY3Ty3jdB47FHqKEiOsVrABtT43fvW5eJTlT2nUJFUXemdeI85GS55iz9AMGvMVxndjJY_kQ7epyzvZTiyHpKz4RqZJ1FTRovzSi1zKtNtsH7qpx43A_gHH2w1r52ShimGIW2Ly6jw-86S4ayTO38UrS8ww7vKVvSLWhFr3Wo9SwjdFEqnJpVb6A2nUrabJKgw8V3EOQvKK0qe1vZOsQdsoTjTpicZrw0eIf9PSjPu9Ks3jRX156aTNGbepqNZnNMEb1JLzMcscQVcmP2_Yn7EGVonHf_fEX_4bIkeigmB2MOrCjAk_CXJ9y3ElZW7mOk7SvQ1-BT_2yun2jdYZvAcZylZ2nmExsD8PaNeL7rSB97CdAj-xRXQqcU1ZbeDO-YVDsHJne_AdlvDMfMBQbRUdA48FqyaozMDEv9nxV_b1unAtfouPnUOQvEwwTY9-Z1pVRo3Wx_tHsInBi_V0rZirqbw4xbJm3VIKALCE3tLklk27IyrKlrLimrCoWA-SsbYlQX4hTTKqPp92efihI7EAdJaNBpAiVMQfp1OZrAYJbnY-jwRNHw3CQHu-tY9mI1Ez5B8G-vjTEpr34RyiSOPITosQiH1j8d4kHCUqwpA0PangC9B03Z_kMyl3eD-8Slp8namzlHaZsDdxyA7Z-AzeGOBf4O04blzL4I2H_fTJwmBjlO7OjakxOrwvB4RBBmykmhI2Ty63Cd7O6aQ5VykqYWiMPdVVJzFTbOswmY7UsSe1v-0EFjOwPSKlu9R6GXT8AmPxhl0-YjyXWvifULg2CnR9HI37N-f31ZGyR_e44W3FecfL8a1bY5kA7fA_UkEkMoEOQNWCAw3thwR2vMsTnNIIhj4otGqYllk16AY5lVDpIJdFRBdpxNDkNo3Ap_2B2EEIKfcbH6_RhRw5lTXfK8gNJngoe3ElPK3N5SuRXSVAmdHmf7TknVaM1azkau8WJhVhZsygAQudtDKTBf3FrM75iU9tKWNDOvqyGdypSR3xmdicV2hOGfJRjYTsoF9vARfLjvg3RrdRDBppun3Dmn1SMJKjS9t3nsNM8emVc_QEtae8efCSeMLamiXgWTq0bGsndK0XoXu9M_WxgEzrqg3GA15GZXFkWsTm3_4vVw0jC-jVBlUZaoxob9170iW3RWz1kYOSx96W_YsSHWGgzouDy3SykRp661bdUgASoJZXUtd2VzdC0yMLgP.m3u8
+#EXTINF:-1 tvg-id="southafricavssouthkorea0200tsnsportsfhd" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="FIFA World Cup",South Africa vs South Korea 02:00 (TSN Sports FHD)
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=85b277daf5aae05833fe43a68f587968:d52d7e9bc0bcd98787efd547ac91eca0
+https://abgzkulaaaaaaaamfvra5ujrl4pd7.ta.bia-cf.live.pv-cdn.net/gru-nitro/live/clients/dash/enc/cjglydxghe/out/v1/8977baf175da4b94873194613dd3fe55/cenc.mpd
 
-#EXTINF:-1 tvg-id="southafricavssouthkorea0200beinmaxhd" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="FIFA World Cup",South Africa vs South Korea 02:00 (beIN MAX HD)
-https://oottoo.online/max2--g/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="southafricavssouthkorea0200foxsportsalt" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="FIFA World Cup",South Africa vs South Korea 02:00 (FOX SPORTS  ALT )
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=5466ebd70704bdeb657f0abf3c5ca4ef:bdd79b72d8e48ed483aa623cc38a8a16
+https://abgh3fbaaaaaaaambylpff72g6up6.ta.bia-cf.live.pv-cdn.net/iad-nitro/live/dash/enc/fsu3wl2rwb/out/v1/be61206c04e643349d53fb22301f3b50/cenc.mpd
 
-#EXTINF:-1 tvg-id="southafricavssouthkorea0200rtbsportsfhd" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="FIFA World Cup",South Africa vs South Korea 02:00 (RTB SPORTS FHD)
-https://d1211whpimeups.cloudfront.net/smil:rtb2/playlist.m3u8
+#EXTINF:-1 tvg-id="southafricavssouthkorea0200tsnsportsalt" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="FIFA World Cup",South Africa vs South Korea 02:00 (TSN SPORTS  ALT )
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=85b277daf5aae05833fe43a68f587968:d52d7e9bc0bcd98787efd547ac91eca0
+https://abgh3fbaaaaaaaambylpff72g6up6.ta.bia-cf.live.pv-cdn.net/iad-nitro/live/dash/enc/cjglydxghe/out/v1/8977baf175da4b94873194613dd3fe55/cenc.mpd
+
+#EXTINF:-1 tvg-id="southafricavssouthkorea0200nbcuniversousa" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="FIFA World Cup",South Africa vs South Korea 02:00 (NBC UNIVERSO  USA )
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=96b67fa09140329a89b7a1ead134eda3:c618d32c56cdc6cad8330eb98507ca3f
+https://live-oneapp-prd-news.akamaized.net/Content/CMAF_OL2-CTR-4s/Live/channel(universo-east)/master.mpd
+
+#EXTINF:-1 tvg-id="southafricavssouthkorea0200foxsports4k" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="FIFA World Cup",South Africa vs South Korea 02:00 (FOX SPORTS 4K)
+https://lb.xyzcloud3.xyz/fs14k/index.m3u8
+
+#EXTINF:-1 tvg-id="southafricavssouthkorea0200nbcuniverso4k" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="FIFA World Cup",South Africa vs South Korea 02:00 (NBC UNIVERSO 4K)
+https://lb.xyzcloud3.xyz/tele4k2/index.m3u8
 
 #EXTINF:-1 tvg-id="southafricavssouthkorea0200fussballtv4k" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="FIFA World Cup",South Africa vs South Korea 02:00 (FUSSBALL TV 4K)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=4f558eae1b005126b2ac6e9eb1a7849e:17aea325d91b5e66f06a8c574f2f0b03
 https://da-50f11b292a028381000001120000000000000009.id.vx.tentcdn.eu/wp/at-live-7.tentcdn.eu/bpk-tv/WM_TV_1_UHD/default/index.mpd
 
-#EXTINF:-1 tvg-id="southafricavssouthkorea0200fussball24k" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="FIFA World Cup",South Africa vs South Korea 02:00 (FUSSBALL 2 4K)
+#EXTINF:-1 tvg-id="southafricavssouthkorea0200fussballtv24k" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="FIFA World Cup",South Africa vs South Korea 02:00 (FUSSBALL TV2 4K)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=ccdf9f3d9bbf5c508adf04f81918a285:66cf0524fcc2eb0c7dab8bbbf8829827
 https://da-50f11b292a028381000001120000000000000009.id.vx.tentcdn.eu/wp/at-live-7.tentcdn.eu/bpk-tv/WM_TV_2_UHD/default/index.mpd
@@ -685,25 +643,8 @@ https://da-50f11b292a028381000001120000000000000009.id.vx.tentcdn.eu/wp/at-live-
 #EXTINF:-1 tvg-id="southafricavssouthkorea0200irib4k" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="FIFA World Cup",South Africa vs South Korea 02:00 (IRIB 4K)
 https://ncdn.telewebion.ir/faratar/live/playlist.m3u8
 
-#EXTINF:-1 tvg-id="southafricavssouthkorea0200tipikfrfhd" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="FIFA World Cup",South Africa vs South Korea 02:00 (TIPIK FR FHD)
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=adca25b8779e4168a0cd710f59f61ccf:be5383ed3cd8079f4ffe78ad067f476a
-https://c9851ec-rbm-hilv-fsly.cdn.redbee.live/L26/6b640fa2/a765d074.isml/dash/.mpd
-
-#EXTINF:-1 tvg-id="southafricavssouthkorea0200tvpsportsfhd" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="FIFA World Cup",South Africa vs South Korea 02:00 (TVP SPORTS FHD)
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=0:0
-https://estreams.tv.nej.cz/dash/CH_TVP_SPORT_Portable.ism/playlist.mpd
-
-#EXTINF:-1 tvg-id="southafricavssouthkorea0200sporzadutchfhd" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="FIFA World Cup",South Africa vs South Korea 02:00 (Sporza DUTCH FHD)
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=7c0a14fc7dc3c641af8cb6506431a628:f318ff7c01cca20c4a5b3d91074ca460
-https://live.vrtcdn.be/groupd/live/0761024f-37fe-4254-bc37-e95d7c62b2d1/playout.isml/.mpd
-
-#EXTINF:-1 tvg-id="southafricavssouthkorea0200jojsportsfhd" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="FIFA World Cup",South Africa vs South Korea 02:00 (JOJ SPORTS FHD)
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=11223344556677889900112233445566:4b80724d0ef86bcb2c21f7999d67739d
-https://dash2.antik.sk/stream/nvidia_joj_sport/playlist_cenc.mpd
+#EXTINF:-1 tvg-id="southafricavssouthkorea0200daznspanish" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="FIFA World Cup",South Africa vs South Korea 02:00 (DAZN SPANISH)
+https://1nyaler.streamhostingcdn.top/stream/94/index.m3u8
 
 #EXTINF:-1 tvg-id="southafricavssouthkorea0200matchfootballfhd" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="FIFA World Cup",South Africa vs South Korea 02:00 (Match Football FHD)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -713,50 +654,25 @@ https://video.beeline.tv/live/d/channel319.isml/manifest-stb.mpd
 #EXTINF:-1 tvg-id="southafricavssouthkorea0200iscreenbdfhd" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="FIFA World Cup",South Africa vs South Korea 02:00 (ISCREEN BD FHD)
 https://pastebin.com/raw/AFnPnGzQ?e=.m3u8
 
-#EXTINF:-1 tvg-id="southafricavssouthkorea0200telemundoalt" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="FIFA World Cup",South Africa vs South Korea 02:00 (TELEMUNDO  ALT )
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=ce7ab3022e753307997f58afe001bac4:72d631a66e635c60829a0fe7705516c1
-https://live-oneapp-prd-news.akamaized.net/Content/CMAF_OL2-CTR-4s-v2/Live/channel(kvea)/master.mpd
-
-#EXTINF:-1 tvg-id="southafricavssouthkorea0200arabiclivehd" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="FIFA World Cup",South Africa vs South Korea 02:00 (ARABIC LIVE HD)
-https://43cup.s3.us-east-2.amazonaws.com/max4/master.m3u8
-
-#EXTINF:-1 tvg-id="southafricavssouthkorea0200daznspanish" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="FIFA World Cup",South Africa vs South Korea 02:00 (DAZN SPANISH)
-https://1nyaler.streamhostingcdn.top/stream/94/index.m3u8
-
-#EXTINF:-1 tvg-id="southafricavssouthkorea0200beinmaxhd" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="FIFA World Cup",South Africa vs South Korea 02:00 (beIN MAX HD)
-https://raw.githubusercontent.com/ON2026/1smas/refs/heads/main/mx2app2.m3u8
-
-#EXTINF:-1 tvg-id="southafricavssouthkorea0200somoytvhd" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="FIFA World Cup",South Africa vs South Korea 02:00 (Somoy TV HD)
-https://live.thebosstv.com:30443/dwlive/Somoy-TV/chunks.m3u8
-
-#EXTINF:-1 tvg-id="southafricavssouthkorea0200zdfgermanhd" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="FIFA World Cup",South Africa vs South Korea 02:00 (ZDF GERMAN HD)
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=c1a0ac1044a433d0856ccdc08f245084:7f0e8800a6d63d7915ac181bb88ce813
-https://simplitv-live.mdn.ors.at/live/eds/zdf_hd/dash4h/zdf_hd.mpd
-
-#EXTINF:-1 tvg-id="southafricavssouthkorea0200orfgermanhd" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="FIFA World Cup",South Africa vs South Korea 02:00 (ORF GERMAN HD)
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=429bcf031bbf3146a67f3f583e4c4355:d1b92aba5a38a518c8b8a1fd2bca4398
-https://simplitv-live.mdn.ors.at/live/eds/orf_1_hd-1/dash4h/orf_1_hd-1.mpd
-
 #EXTINF:-1 tvg-id="southafricavssouthkorea0200fussball4kger" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="FIFA World Cup",South Africa vs South Korea 02:00 (FUSSBALL 4K  GER )
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=1f09d5788fbbb03a053d03cc731f31a9:d493d5a70c793362324638f61d1726ac
 https://svc45.main.sl.t-online.de/bpk-tv/KID01037_FUSSBALLTV1_uhd/DASH/index.mpd
+
+#EXTINF:-1 tvg-id="southafricavssouthkorea0200fussball24kger" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="FIFA World Cup",South Africa vs South Korea 02:00 (FUSSBALL2 4K  GER )
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=1b98a0f2de7784c6e132942385a089f3:546eae09a8d81c498dfd08532dcd68a5
+https://svc45.main.sl.t-online.de/bpk-tv/KID01064_FUSSBALLTV2_uhd/DASH/index.mpd
 
 #EXTINF:-1 tvg-id="southafricavssouthkorea0200fussballtvfhd" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="FIFA World Cup",South Africa vs South Korea 02:00 (FUSSBALL TV FHD)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=1cb20afcd9d979c833cfd208c7d3eeb2:fef0c15b4a523370892edd5e4133c269
 https://svc45.main.sl.t-online.de/bpk-tv/KID01037_FUSSBALLTV1_hd/DASH/index.mpd
 
-#EXTINF:-1 tvg-id="southafricavssouthkorea0200telemundousa" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="FIFA World Cup",South Africa vs South Korea 02:00 (TELEMUNDO  USA )
+#EXTINF:-1 tvg-id="southafricavssouthkorea0200fussball2tvfhd" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="FIFA World Cup",South Africa vs South Korea 02:00 (FUSSBALL2 TV FHD)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=7d6bb9f86e133e4cb33440b493b6b672:584ad285dcb9e7d42cf3e93f1cc3fe11
-https://live-oneapp-prd-news.akamaized.net/Content/CMAF_OL2-CTR-4s/Live/channel(WSNS)/master.mpd
-
-#EXTINF:-1 tvg-id="southafricavssouthkorea0200sportzxlive" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="FIFA World Cup",South Africa vs South Korea 02:00 (SportzX Live)
-https://instreams.pro/EU/HDWC1/tracks-v1a1/mono.m3u8
+#KODIPROP:inputstream.adaptive.license_key=1889c6c8cdf57aa3bc90bb976ca6cbdc:48ef3649d9076965b70e79e58b0028ef
+https://svc45.main.sl.t-online.de/bpk-tv/KID01064_FUSSBALLTV2_hd/DASH/index.mpd
 
 #EXTINF:-1 tvg-id="ecuadorvsgermany2100cazetvfhd" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="FIFA World Cup",Ecuador vs Germany 21:00 (CAZE TV FHD)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -1058,329 +974,587 @@ https://live-oneapp-prd-news.akamaized.net/Content/CMAF_OL2-CTR-4s/Live/channel(
 #EXTINF:-1 tvg-id="curacaovscotedivoire2100sportzxlive" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="FIFA World Cup",Curacao vs Cote d Ivoire 21:00 (SportzX Live)
 https://instreams.pro/EU/HDWC1/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 tvg-id="switzerlandvscanada2000itvsportsfhd" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="FIFA World Cup",Switzerland vs Canada 20:00 (ITV SPORTS FHD)
+#EXTINF:-1 tvg-id="japanvssweden0000rtesportsfhd" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="FIFA World Cup",Japan vs Sweden 00:00 (RTE SPORTS FHD)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=30089c52924f037b225b82c616fee2a5:f55dc8b66ed4fc6753d6035ae7e17144
-https://otte-qw.live.pv-cdn.net/pdx-nitro/live/clients/dash/enc/0eiyyz8qzm/out/v1/dd17af8835fe4bd087d1a4e359b635d7/cenc.mpd
+#KODIPROP:inputstream.adaptive.license_key=d816287e21496989eae1312925a423c5:00da00f13180e7e6cd5ce87d1c974e8d
+https://dai.google.com/linear/dash/pa/event/oPeAYQs9T9yTHS98aR1EjQ/stream/3f37ced4-1871-4308-b5d3-70e50c23d9c0:GRQ/manifest.mpd
 
-#EXTINF:-1 tvg-id="switzerlandvscanada2000ctvsportsfhd" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="FIFA World Cup",Switzerland vs Canada 20:00 (CTV SPORTS FHD)
+#EXTINF:-1 tvg-id="japanvssweden0000ctvsportsfhd" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="FIFA World Cup",Japan vs Sweden 00:00 (CTV SPORTS FHD)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=d185684e2330de5bea436daa094a5e86:014f0116154f5bf0050e03a6b0a23157
-https://otte.cache.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/72sjo8hygl/out/v1/3079be34d72a4985852d299a02406a0c/cenc.mpd
+https://otte-qw.live.pv-cdn.net/pdx-nitro/live/clients/dash/enc/72sjo8hygl/out/v1/3079be34d72a4985852d299a02406a0c/cenc.mpd
 
-#EXTINF:-1 tvg-id="switzerlandvscanada2000telemundofhd" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="FIFA World Cup",Switzerland vs Canada 20:00 (TELEMUNDO FHD)
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=1efe4add8fdf327c5f8d2a1c195e5c71:4f50e6f011e60ca01ee561f27187e78f
-https://cun-live1-ott.izzigo.tv/out/u/dash/NOG1/TELEMUNDO-ARIZONA-USA-TCS-HD/default.mpd
+#EXTINF:-1 tvg-id="japanvssweden0000sportzxfhdlive" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="FIFA World Cup",Japan vs Sweden 00:00 (SportzX FHD LIVE)
+https://hugh.cdn.rumble.cloud/live/vf1v23qp/slot-18/lae9-zlj8_1080p/chunklist.m3u8
 
-#EXTINF:-1 tvg-id="switzerlandvscanada2000tipikfrfhd" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="FIFA World Cup",Switzerland vs Canada 20:00 (TIPIK FR FHD)
+#EXTINF:-1 tvg-id="japanvssweden0000tipikfrfhd" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="FIFA World Cup",Japan vs Sweden 00:00 (TIPIK FR FHD)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=adca25b8779e4168a0cd710f59f61ccf:be5383ed3cd8079f4ffe78ad067f476a
 https://c9851ec-rbm-hilv-fsly.cdn.redbee.live/L26/6b640fa2/a765d074.isml/dash/.mpd
 
-#EXTINF:-1 tvg-id="switzerlandvscanada2000vixmundialfhd" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="FIFA World Cup",Switzerland vs Canada 20:00 (ViX MUNDIAL FHD)
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=052aba8b4944541841db862526bbe6b6:b785276874581a60b8e95b668b7c0d2b
-https://cun-live1-ott.izzigo.tv/11/out/u/dash/VIX-MUNDIAL-90-HD/default.mpd
-
-#EXTINF:-1 tvg-id="switzerlandvscanada2000m6francefhd" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="FIFA World Cup",Switzerland vs Canada 20:00 (M6 FRANCE FHD)
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=1c285ebc98483383b938f2aac331410c:10accd30d969402cf0bb0fb99ad09283
-https://edge-fastly-m6web.live.6cloud.fr/out/v1/6play/6play-m6/cmaf_cenc00/dash-short-hd.mpd
-
-#EXTINF:-1 tvg-id="switzerlandvscanada2000tvpsportshd" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="FIFA World Cup",Switzerland vs Canada 20:00 (TVP SPORTS HD)
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=0:0
-https://estreams.tv.nej.cz/dash/CH_TVP1_Portable.ism/playlist.mpd
-
-#EXTINF:-1 tvg-id="switzerlandvscanada2000foxonehd" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="FIFA World Cup",Switzerland vs Canada 20:00 (FOX ONE HD)
-https://xyzcloud3.xyz/FOX/index.m3u8
-
-#EXTINF:-1 tvg-id="switzerlandvscanada2000tsnsportshd" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="FIFA World Cup",Switzerland vs Canada 20:00 (TSN SPORTS HD)
-https://underlow.s3.us-east-1.amazonaws.com/svg/eve1.m3u8
-
-#EXTINF:-1 tvg-id="switzerlandvscanada2000dsportsfhd" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="FIFA World Cup",Switzerland vs Canada 20:00 (DSports FHD)
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=4f4c3a9912ea752e88f4497864a1bc8b:278128004fe8c6ffb2cd2a0c154a241a
-https://otte-qw.live.pv-cdn.net/pdx-nitro/live/clients/dash/enc/x0srg3jjpz/out/v1/f779c49314394d61886d63f58d9d52e4/cenc.mpd
-
-#EXTINF:-1 tvg-id="switzerlandvscanada2000cazetvfhd" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="FIFA World Cup",Switzerland vs Canada 20:00 (CAZE TV FHD)
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=ac7abaa9c9481aacfbdac64fc3ec3312:c0c504a2ed2e70b879a650b8770a38c6
-https://otte-qw.live.pv-cdn.net/pdx-nitro/live/clients/dash/enc/vzeco5ty0v/out/v1/44c6b8f31a2544e3b2a9bb41ed5e241e/cenc.mpd
-
-#EXTINF:-1 tvg-id="switzerlandvscanada2000iscreenbdfhd" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="FIFA World Cup",Switzerland vs Canada 20:00 (ISCREEN BD FHD)
-https://pastebin.com/raw/AFnPnGzQ?e=.m3u8
-
-#EXTINF:-1 tvg-id="switzerlandvscanada2000sportzxhdlive" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="FIFA World Cup",Switzerland vs Canada 20:00 (SportzX HD LIVE)
-https://w7knm.s3.eu-north-1.amazonaws.com/maklen/tifi1_1.m3u8
-
-#EXTINF:-1 tvg-id="switzerlandvscanada2000tsnsportsfhd" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="FIFA World Cup",Switzerland vs Canada 20:00 (TSN SPORTS FHD)
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=14eeabf30c14b7fbf3008c03099ce011:17d2ac8dbc5429bd70af3433aa12158d
-https://abgzkulaaaaaaaamfvra5ujrl4pd7.ta.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/w0rehjjrwe/out/v1/69a2a7041395406b970598f61680e7cf/cenc.mpd
-
-#EXTINF:-1 tvg-id="switzerlandvscanada2000foxonefhd" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="FIFA World Cup",Switzerland vs Canada 20:00 (FOX ONE FHD)
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=f6564ec2aee819046328a0e153be574d:ff46a8a1031eb27ef22576a077c98ab7
-https://abgzkulaaaaaaaamfvra5ujrl4pd7.ta.bia-cf.live.pv-cdn.net/gru-nitro/live/dash/enc/ajfoeddkbz/out/v1/b78800b9b2304879b15843f455836829/cenc.mpd
-
-#EXTINF:-1 tvg-id="switzerlandvscanada2000foxone4kalt" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="FIFA World Cup",Switzerland vs Canada 20:00 (FOX ONE 4K  ALT )
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=1f68713028d439ec03be07f56c1d6213:20093db6455160fffed4c394def3193d
-https://abemgapaaaaaaaamjqcglddgof6nb.ta.bia-cf.live.pv-cdn.net/pdx-nitro/live/dash/enc/qmjlikytt2/out/v1/fc40f22f10374517a2784e1d97cb23f4/cenc.mpd
-
-#EXTINF:-1 tvg-id="switzerlandvscanada2000tsnsportsalt" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="FIFA World Cup",Switzerland vs Canada 20:00 (TSN SPORTS  ALT )
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=14eeabf30c14b7fbf3008c03099ce011:17d2ac8dbc5429bd70af3433aa12158d
-https://abgh3fbaaaaaaaambylpff72g6up6.ta.bia-cf.live.pv-cdn.net/iad-nitro/live/dash/enc/w0rehjjrwe/out/v1/69a2a7041395406b970598f61680e7cf/cenc.mpd
-
-#EXTINF:-1 tvg-id="switzerlandvscanada2000foxsportsalt" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="FIFA World Cup",Switzerland vs Canada 20:00 (FOX SPORTS  ALT )
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=f6564ec2aee819046328a0e153be574d:ff46a8a1031eb27ef22576a077c98ab7
-https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/ajfoeddkbz/out/v1/b78800b9b2304879b15843f455836829/cenc.mpd
-
-#EXTINF:-1 tvg-id="switzerlandvscanada2000itv1fhdalt" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="FIFA World Cup",Switzerland vs Canada 20:00 (ITV 1 FHD  ALT )
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=30089c52924f037b225b82c616fee2a5:f55dc8b66ed4fc6753d6035ae7e17144
-https://abemgapaaaaaaaamjqcglddgof6nb.ta.bia-cf.live.pv-cdn.net/pdx-nitro/live/dash/enc/0eiyyz8qzm/out/v1/dd17af8835fe4bd087d1a4e359b635d7/cenc.mpd
-
-#EXTINF:-1 tvg-id="switzerlandvscanada2000telemundousa" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="FIFA World Cup",Switzerland vs Canada 20:00 (TELEMUNDO  USA )
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=7d6bb9f86e133e4cb33440b493b6b672:584ad285dcb9e7d42cf3e93f1cc3fe11
-https://live-oneapp-prd-news.akamaized.net/Content/CMAF_OL2-CTR-4s/Live/channel(WSNS)/master.mpd
-
-#EXTINF:-1 tvg-id="switzerlandvscanada2000foxone4k" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="FIFA World Cup",Switzerland vs Canada 20:00 (FOX ONE 4K)
-https://lb.xyzcloud3.xyz/fox4k/index.m3u8
-
-#EXTINF:-1 tvg-id="switzerlandvscanada2000telemundo4k" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="FIFA World Cup",Switzerland vs Canada 20:00 (TELEMUNDO 4K)
-https://lb.xyzcloud3.xyz/tele4k/index.m3u8
-
-#EXTINF:-1 tvg-id="switzerlandvscanada2000tsnsports4k" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="FIFA World Cup",Switzerland vs Canada 20:00 (TSN SPORTS 4K)
-https://xyzcloud3.xyz/tsn4k/index.m3u8
-
-#EXTINF:-1 tvg-id="switzerlandvscanada2000fussballtv4k" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="FIFA World Cup",Switzerland vs Canada 20:00 (FUSSBALL TV 4K)
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=4f558eae1b005126b2ac6e9eb1a7849e:17aea325d91b5e66f06a8c574f2f0b03
-https://da-50f11b292a028381000001120000000000000009.id.vx.tentcdn.eu/wp/at-live-7.tentcdn.eu/bpk-tv/WM_TV_1_UHD/default/index.mpd
-
-#EXTINF:-1 tvg-id="switzerlandvscanada2000fussballtv24k" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="FIFA World Cup",Switzerland vs Canada 20:00 (FUSSBALL TV2 4K)
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=ccdf9f3d9bbf5c508adf04f81918a285:66cf0524fcc2eb0c7dab8bbbf8829827
-https://da-50f11b292a028381000001120000000000000009.id.vx.tentcdn.eu/wp/at-live-7.tentcdn.eu/bpk-tv/WM_TV_2_UHD/default/index.mpd
-
-#EXTINF:-1 tvg-id="switzerlandvscanada2000irib4k" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="FIFA World Cup",Switzerland vs Canada 20:00 (IRIB 4K)
-https://ncdn.telewebion.ir/faratar/live/playlist.m3u8
-
-#EXTINF:-1 tvg-id="switzerlandvscanada2000arabiclivefhd" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="FIFA World Cup",Switzerland vs Canada 20:00 (ARABIC LIVE FHD)
-https://edge22.776740.ir.cdn.ir/hls2/sport.m3u8
-
-#EXTINF:-1 tvg-id="switzerlandvscanada2000tycsportshd" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="FIFA World Cup",Switzerland vs Canada 20:00 (TYC SPORTS HD)
-https://1nyaler.streamhostingcdn.top/stream/84/index.m3u8
-
-#EXTINF:-1 tvg-id="switzerlandvscanada2000sportzxlive" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="FIFA World Cup",Switzerland vs Canada 20:00 (SportzX Live)
-https://instreams.pro/EU/HDWC1/tracks-v1a1/mono.m3u8
-
-#EXTINF:-1 tvg-id="switzerlandvscanada2000tvpsportsfhd" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="FIFA World Cup",Switzerland vs Canada 20:00 (TVP SPORTS FHD)
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=0:0
-https://estreams.tv.nej.cz/dash/CH_TVP_SPORT_Portable.ism/playlist.mpd
-
-#EXTINF:-1 tvg-id="switzerlandvscanada2000sporzadutchfhd" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="FIFA World Cup",Switzerland vs Canada 20:00 (Sporza DUTCH FHD)
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=7c0a14fc7dc3c641af8cb6506431a628:f318ff7c01cca20c4a5b3d91074ca460
-https://live.vrtcdn.be/groupd/live/0761024f-37fe-4254-bc37-e95d7c62b2d1/playout.isml/.mpd
-
-#EXTINF:-1 tvg-id="switzerlandvscanada2000ctsportscz" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="FIFA World Cup",Switzerland vs Canada 20:00 (CT SPORTS CZ)
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=11223344556677889900112233445566:4b80724d0ef86bcb2c21f7999d67739d
-https://dash2.antik.sk/stream/nvidia_ct_sport/playlist_cenc.mpd
-
-#EXTINF:-1 tvg-id="switzerlandvscanada2000matchfootballfhd" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="FIFA World Cup",Switzerland vs Canada 20:00 (Match Football FHD)
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=9145a6e0f778e61866f573d4944dd533:d02173d40515fea5c83944f21d0f3114
-https://video.beeline.tv/live/d/channel319.isml/manifest-stb.mpd
-
-#EXTINF:-1 tvg-id="switzerlandvscanada2000daznspanish" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="FIFA World Cup",Switzerland vs Canada 20:00 (DAZN SPANISH)
-https://1nyaler.streamhostingcdn.top/stream/94/index.m3u8
-
-#EXTINF:-1 tvg-id="switzerlandvscanada2000somoytvhd" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="FIFA World Cup",Switzerland vs Canada 20:00 (SOMOY TV HD)
-https://live.thebosstv.com:30443/dwlive/Somoy-TV/chunks.m3u8
-
-#EXTINF:-1 tvg-id="switzerlandvscanada2000jojsportsfhd" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="FIFA World Cup",Switzerland vs Canada 20:00 (JOJ SPORTS FHD)
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=11223344556677889900112233445566:4b80724d0ef86bcb2c21f7999d67739d
-https://dash2.antik.sk/stream/nvidia_joj_sport/playlist_cenc.mpd
-
-#EXTINF:-1 tvg-id="switzerlandvscanada2000telemundoalt" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="FIFA World Cup",Switzerland vs Canada 20:00 (TELEMUNDO  ALT )
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=ce7ab3022e753307997f58afe001bac4:72d631a66e635c60829a0fe7705516c1
-https://live-oneapp-prd-news.akamaized.net/Content/CMAF_OL2-CTR-4s-v2/Live/channel(kvea)/master.mpd
-
-#EXTINF:-1 tvg-id="switzerlandvscanada2000fussball4kger" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="FIFA World Cup",Switzerland vs Canada 20:00 (FUSSBALL 4K  GER )
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=1f09d5788fbbb03a053d03cc731f31a9:d493d5a70c793362324638f61d1726ac
-https://svc45.main.sl.t-online.de/bpk-tv/KID01037_FUSSBALLTV1_uhd/DASH/index.mpd
-
-#EXTINF:-1 tvg-id="switzerlandvscanada2000fussball24kger" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="FIFA World Cup",Switzerland vs Canada 20:00 (FUSSBALL2 4K  GER )
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=1b98a0f2de7784c6e132942385a089f3:546eae09a8d81c498dfd08532dcd68a5
-https://svc45.main.sl.t-online.de/bpk-tv/KID01064_FUSSBALLTV2_uhd/DASH/index.mpd
-
-#EXTINF:-1 tvg-id="switzerlandvscanada2000fussballtvfhd" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="FIFA World Cup",Switzerland vs Canada 20:00 (FUSSBALL TV FHD)
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=1cb20afcd9d979c833cfd208c7d3eeb2:fef0c15b4a523370892edd5e4133c269
-https://svc45.main.sl.t-online.de/bpk-tv/KID01037_FUSSBALLTV1_hd/DASH/index.mpd
-
-#EXTINF:-1 tvg-id="switzerlandvscanada2000fussball2tvfhd" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="FIFA World Cup",Switzerland vs Canada 20:00 (FUSSBALL2 TV FHD)
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=1889c6c8cdf57aa3bc90bb976ca6cbdc:48ef3649d9076965b70e79e58b0028ef
-https://svc45.main.sl.t-online.de/bpk-tv/KID01064_FUSSBALLTV2_hd/DASH/index.mpd
-
-#EXTINF:-1 tvg-id="bosniavsqatar2000itvsportsfhd" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="FIFA World Cup",Bosnia vs Qatar 20:00 (ITV SPORTS FHD)
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=ea178e28af00ed57e7101255f977c222:f29602a280f41950d1935f0c6816dc12
-https://otte-qw.live.pv-cdn.net/pdx-nitro/live/clients/dash/enc/ffwqzsa0zr/out/v1/752ac25588ff4607b45f3876a8e89223/cenc.mpd
-
-#EXTINF:-1 tvg-id="bosniavsqatar2000tsnsportsfhd" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="FIFA World Cup",Bosnia vs Qatar 20:00 (TSN SPORTS FHD)
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=85b277daf5aae05833fe43a68f587968:d52d7e9bc0bcd98787efd547ac91eca0
-https://otte-qw.live.pv-cdn.net/pdx-nitro/live/clients/dash/enc/cjglydxghe/out/v1/8977baf175da4b94873194613dd3fe55/cenc.mpd
-
-#EXTINF:-1 tvg-id="bosniavsqatar2000vixmundialfhd" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="FIFA World Cup",Bosnia vs Qatar 20:00 (ViX MUNDIAL FHD)
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=36a78e9664836d8d1b882c7772ef2119:4911f93d4a347873b3c2f187793dffb0
-https://cun-live1-ott.izzigo.tv/11/out/u/dash/VIX-MUNDIAL-91-HD/default.mpd
-
-#EXTINF:-1 tvg-id="bosniavsqatar2000ctsportscz" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="FIFA World Cup",Bosnia vs Qatar 20:00 (CT SPORTS CZ)
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=11223344556677889900112233445566:4b80724d0ef86bcb2c21f7999d67739d
-https://dash2.antik.sk/stream/nvidia_ct_sport/playlist_cenc.mpd
-
-#EXTINF:-1 tvg-id="bosniavsqatar2000tvpsportsfhd" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="FIFA World Cup",Bosnia vs Qatar 20:00 (TVP SPORTS FHD)
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=0:0
-https://estreams.tv.nej.cz/dash/CH_TVP_SPORT_Portable.ism/playlist.mpd
-
-#EXTINF:-1 tvg-id="bosniavsqatar2000foxsportshd" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="FIFA World Cup",Bosnia vs Qatar 20:00 (FOX SPORTS HD)
-https://xyzcloud3.xyz/FS1/index.m3u8
-
-#EXTINF:-1 tvg-id="bosniavsqatar2000tvcgfhd" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="FIFA World Cup",Bosnia vs Qatar 20:00 (TVCG FHD)
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=8101e6cf94565203b66aa396a09bc030:114f9135bc4b8d1a5cac22a6008c517a
-https://bpkcdn.telekom.me/bpk-tv/rtcg_1/default/index.mpd
-
-#EXTINF:-1 tvg-id="bosniavsqatar2000tsnsportshd" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="FIFA World Cup",Bosnia vs Qatar 20:00 (TSN SPORTS HD)
-https://w7knm.s3.eu-north-1.amazonaws.com/maklen/tifi2_1.m3u8
-
-#EXTINF:-1 tvg-id="bosniavsqatar2000dsportsfhd" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="FIFA World Cup",Bosnia vs Qatar 20:00 (D Sports FHD)
+#EXTINF:-1 tvg-id="japanvssweden0000dsportsfhd" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="FIFA World Cup",Japan vs Sweden 00:00 (DSports FHD)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=03f12d6a3dbfd3a6fa7dd7f6417e0c11:ea07b87acdf2e45be824cde4a1cf3504
 https://otte-qw.live.pv-cdn.net/pdx-nitro/live/clients/dash/enc/rgilyeubta/out/v1/09a67027b18f4fd78aaa3794a2aacfe8/cenc.mpd
 
-#EXTINF:-1 tvg-id="bosniavsqatar2000cazetvfhd" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="FIFA World Cup",Bosnia vs Qatar 20:00 (CAZE TV FHD)
+#EXTINF:-1 tvg-id="japanvssweden0000cazetvfhd" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="FIFA World Cup",Japan vs Sweden 00:00 (CAZE TV FHD)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=ac7abaa9c9481aacfbdac64fc3ec3312:c0c504a2ed2e70b879a650b8770a38c6
-https://otte-qw.live.pv-cdn.net/pdx-nitro/live/clients/dash/enc/vzeco5ty0v/out/v1/44c6b8f31a2544e3b2a9bb41ed5e241e/cenc.mpd
+#KODIPROP:inputstream.adaptive.license_key=34475edab991ad5e92548aebd710410a:501b209cccd323ac00bf5ac15b406cb4
+https://a121aivottepl-a.akamaihd.net/gru-nitro/live/clients/dash/enc/jo3rmhhp2r/out/v1/50656942ce4e40a1be824c9d83578fe9/cenc.mpd
 
-#EXTINF:-1 tvg-id="bosniavsqatar2000foxsportshd" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="FIFA World Cup",Bosnia vs Qatar 20:00 (FOX SPORTS HD)
+#EXTINF:-1 tvg-id="japanvssweden0000qazsportsfhd" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="FIFA World Cup",Japan vs Sweden 00:00 (QAZ SPORTS FHD)
+https://fo01-bkm.beetv.kz/bpk-tv/000003038/tve/index.m3u8
+
+#EXTINF:-1 tvg-id="japanvssweden0000tvpsportsfhd" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="FIFA World Cup",Japan vs Sweden 00:00 (TVP SPORTS FHD)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=5466ebd70704bdeb657f0abf3c5ca4ef:bdd79b72d8e48ed483aa623cc38a8a16
-https://abgzkulaaaaaaaamfvra5ujrl4pd7.ta.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/fsu3wl2rwb/out/v1/be61206c04e643349d53fb22301f3b50/cenc.mpd
+#KODIPROP:inputstream.adaptive.license_key=0:0
+https://estreams.tv.nej.cz/dash/CH_TVP_SPORT_Portable.ism/playlist.mpd
 
-#EXTINF:-1 tvg-id="bosniavsqatar2000tsnsportsfhd" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="FIFA World Cup",Bosnia vs Qatar 20:00 (TSN Sports FHD)
+#EXTINF:-1 tvg-id="japanvssweden0000tsnsportsfhd" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="FIFA World Cup",Japan vs Sweden 00:00 (TSN SPORTS FHD)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=85b277daf5aae05833fe43a68f587968:d52d7e9bc0bcd98787efd547ac91eca0
-https://abgzkulaaaaaaaamfvra5ujrl4pd7.ta.bia-cf.live.pv-cdn.net/gru-nitro/live/clients/dash/enc/cjglydxghe/out/v1/8977baf175da4b94873194613dd3fe55/cenc.mpd
+#KODIPROP:inputstream.adaptive.license_key=14eeabf30c14b7fbf3008c03099ce011:17d2ac8dbc5429bd70af3433aa12158d
+https://abemmfvaaaaaaaamgfhlmyisv75m7.ta.bia-cf.live.pv-cdn.net/iad-nitro/live/dash/enc/w0rehjjrwe/out/v1/69a2a7041395406b970598f61680e7cf/cenc.mpd
 
-#EXTINF:-1 tvg-id="bosniavsqatar2000foxsportsalt" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="FIFA World Cup",Bosnia vs Qatar 20:00 (FOX SPORTS  ALT )
+#EXTINF:-1 tvg-id="japanvssweden0000foxonefhd" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="FIFA World Cup",Japan vs Sweden 00:00 (FOX ONE FHD)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=5466ebd70704bdeb657f0abf3c5ca4ef:bdd79b72d8e48ed483aa623cc38a8a16
-https://abgh3fbaaaaaaaambylpff72g6up6.ta.bia-cf.live.pv-cdn.net/iad-nitro/live/dash/enc/fsu3wl2rwb/out/v1/be61206c04e643349d53fb22301f3b50/cenc.mpd
+#KODIPROP:inputstream.adaptive.license_key=f6564ec2aee819046328a0e153be574d:ff46a8a1031eb27ef22576a077c98ab7
+https://abemgapaaaaaaaamjqcglddgof6nb.ta.bia-cf.live.pv-cdn.net/pdx-nitro/live/dash/enc/ajfoeddkbz/out/v1/b78800b9b2304879b15843f455836829/cenc.mpd
 
-#EXTINF:-1 tvg-id="bosniavsqatar2000tsnsportsalt" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="FIFA World Cup",Bosnia vs Qatar 20:00 (TSN SPORTS  ALT )
+#EXTINF:-1 tvg-id="japanvssweden0000foxone4k" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="FIFA World Cup",Japan vs Sweden 00:00 (FOX ONE 4K)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=85b277daf5aae05833fe43a68f587968:d52d7e9bc0bcd98787efd547ac91eca0
-https://abgh3fbaaaaaaaambylpff72g6up6.ta.bia-cf.live.pv-cdn.net/iad-nitro/live/dash/enc/cjglydxghe/out/v1/8977baf175da4b94873194613dd3fe55/cenc.mpd
+#KODIPROP:inputstream.adaptive.license_key=1f68713028d439ec03be07f56c1d6213:20093db6455160fffed4c394def3193d
+https://abemgapaaaaaaaamjqcglddgof6nb.ta.bia-cf.live.pv-cdn.net/pdx-nitro/live/dash/enc/qmjlikytt2/out/v1/fc40f22f10374517a2784e1d97cb23f4/cenc.mpd
 
-#EXTINF:-1 tvg-id="bosniavsqatar2000itv1fhdalt" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="FIFA World Cup",Bosnia vs Qatar 20:00 (ITV 1 FHD  ALT )
+#EXTINF:-1 tvg-id="japanvssweden0000foxonealt" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="FIFA World Cup",Japan vs Sweden 00:00 (FOX ONE  ALT )
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=ea178e28af00ed57e7101255f977c222:f29602a280f41950d1935f0c6816dc12
-https://abemgapaaaaaaaamjqcglddgof6nb.ta.bia-cf.live.pv-cdn.net/pdx-nitro/live/dash/enc/ffwqzsa0zr/out/v1/752ac25588ff4607b45f3876a8e89223/cenc.mpd
+#KODIPROP:inputstream.adaptive.license_key=f6564ec2aee819046328a0e153be574d:ff46a8a1031eb27ef22576a077c98ab7
+https://abgh3fbaaaaaaaambylpff72g6up6.ta.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/ajfoeddkbz/out/v1/b78800b9b2304879b15843f455836829/cenc.mpd
 
-#EXTINF:-1 tvg-id="bosniavsqatar2000nbcuniversoalt" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="FIFA World Cup",Bosnia vs Qatar 20:00 (NBC UNIVERSO  ALT )
+#EXTINF:-1 tvg-id="japanvssweden0000tsnsportsalt" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="FIFA World Cup",Japan vs Sweden 00:00 (TSN SPORTS  ALT )
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=96b67fa09140329a89b7a1ead134eda3:c618d32c56cdc6cad8330eb98507ca3f
-https://live-oneapp-prd-news.akamaized.net/Content/CMAF_OL2-CTR-4s/Live/channel(universo-east)/master.mpd
+#KODIPROP:inputstream.adaptive.license_key=14eeabf30c14b7fbf3008c03099ce011:17d2ac8dbc5429bd70af3433aa12158d
+https://abgh3fbaaaaaaaambylpff72g6up6.ta.bia-cf.live.pv-cdn.net/iad-nitro/live/dash/enc/w0rehjjrwe/out/v1/69a2a7041395406b970598f61680e7cf/cenc.mpd
 
-#EXTINF:-1 tvg-id="bosniavsqatar2000foxsports4k" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="FIFA World Cup",Bosnia vs Qatar 20:00 (FOX SPORTS 4K)
-https://xyzcloud3.xyz/fs14k/index.m3u8
+#EXTINF:-1 tvg-id="japanvssweden0000foxone4kalt" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="FIFA World Cup",Japan vs Sweden 00:00 (FOX ONE 4K  ALT )
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=1f68713028d439ec03be07f56c1d6213:20093db6455160fffed4c394def3193d
+https://abgh3fbaaaaaaaambylpff72g6up6.ta.bia-cf.live.pv-cdn.net/iad-nitro/live/dash/enc/qmjlikytt2/out/v1/fc40f22f10374517a2784e1d97cb23f4/cenc.mpd
 
-#EXTINF:-1 tvg-id="bosniavsqatar2000nbcuniverso4k" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="FIFA World Cup",Bosnia vs Qatar 20:00 (NBC UNIVERSO 4K)
-https://xyzcloud3.xyz/tele4k2/index.m3u8
-
-#EXTINF:-1 tvg-id="bosniavsqatar2000fussballtv4k" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="FIFA World Cup",Bosnia vs Qatar 20:00 (FUSSBALL TV 4K)
+#EXTINF:-1 tvg-id="japanvssweden0000fussballtv4k" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="FIFA World Cup",Japan vs Sweden 00:00 (FUSSBALL TV 4K)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=4f558eae1b005126b2ac6e9eb1a7849e:17aea325d91b5e66f06a8c574f2f0b03
 https://da-50f11b292a028381000001120000000000000009.id.vx.tentcdn.eu/wp/at-live-7.tentcdn.eu/bpk-tv/WM_TV_1_UHD/default/index.mpd
 
-#EXTINF:-1 tvg-id="bosniavsqatar2000fussballtv24k" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="FIFA World Cup",Bosnia vs Qatar 20:00 (FUSSBALL TV2 4K)
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=ccdf9f3d9bbf5c508adf04f81918a285:66cf0524fcc2eb0c7dab8bbbf8829827
-https://da-50f11b292a028381000001120000000000000009.id.vx.tentcdn.eu/wp/at-live-7.tentcdn.eu/bpk-tv/WM_TV_2_UHD/default/index.mpd
-
-#EXTINF:-1 tvg-id="bosniavsqatar2000irib4k" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="FIFA World Cup",Bosnia vs Qatar 20:00 (IRIB 4K)
+#EXTINF:-1 tvg-id="japanvssweden0000irib4k" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="FIFA World Cup",Japan vs Sweden 00:00 (IRIB 4K)
 https://ncdn.telewebion.ir/faratar/live/playlist.m3u8
 
-#EXTINF:-1 tvg-id="bosniavsqatar2000arabiclivefhd" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="FIFA World Cup",Bosnia vs Qatar 20:00 (ARABIC LIVE FHD)
-https://customer-xnyp0i3qki5poety.cloudflarestream.com/a43fd284ab5508f8fc396c19d552c945/manifest/video.m3u8
+#EXTINF:-1 tvg-id="japanvssweden0000sporzadutchfhd" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="FIFA World Cup",Japan vs Sweden 00:00 (Sporza DUTCH FHD)
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=7c0a14fc7dc3c641af8cb6506431a628:f318ff7c01cca20c4a5b3d91074ca460
+https://live.vrtcdn.be/groupd/live/0761024f-37fe-4254-bc37-e95d7c62b2d1/playout.isml/.mpd
 
-#EXTINF:-1 tvg-id="bosniavsqatar2000sportzxlive" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="FIFA World Cup",Bosnia vs Qatar 20:00 (SportzX Live)
-https://instreams.pro/EU/HDWC3/tracks-v1a1/mono.m3u8
-
-#EXTINF:-1 tvg-id="bosniavsqatar2000matchfootballfhd" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="FIFA World Cup",Bosnia vs Qatar 20:00 (Match Football FHD)
+#EXTINF:-1 tvg-id="japanvssweden0000matchtvru" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="FIFA World Cup",Japan vs Sweden 00:00 (MATCH TV RU)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=9145a6e0f778e61866f573d4944dd533:d02173d40515fea5c83944f21d0f3114
 https://video.beeline.tv/live/d/channel319.isml/manifest-stb.mpd
 
-#EXTINF:-1 tvg-id="bosniavsqatar2000daznspanish" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="FIFA World Cup",Bosnia vs Qatar 20:00 (DAZN SPANISH)
+#EXTINF:-1 tvg-id="japanvssweden0000jojsportsfhd" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="FIFA World Cup",Japan vs Sweden 00:00 (JOJ SPORTS FHD)
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=11223344556677889900112233445566:4b80724d0ef86bcb2c21f7999d67739d
+https://dash2.antik.sk/stream/nvidia_joj_sport/playlist_cenc.mpd
+
+#EXTINF:-1 tvg-id="japanvssweden0000m6francesd" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="FIFA World Cup",Japan vs Sweden 00:00 (M6 FRANCE SD)
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=433ffba670963e70857859a9dff4be04:51ede3a821229fe81e71282c8eff80e3
+https://origin-m6web.live.6cloud.fr/out/v1/6play/6play-m6/cmaf_cenc00/dash-short-hd.mpd
+
+#EXTINF:-1 tvg-id="japanvssweden0000arabiclivehd" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="FIFA World Cup",Japan vs Sweden 00:00 (ARABIC LIVE HD)
+https://karim-xnbu-eu-20260623.s3.eu-central-1.amazonaws.com/live/ch1/ch1.m3u8
+
+#EXTINF:-1 tvg-id="japanvssweden0000tycsportshd" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="FIFA World Cup",Japan vs Sweden 00:00 (TYC SPORTS HD)
+https://1nyaler.streamhostingcdn.top/stream/84/index.m3u8
+
+#EXTINF:-1 tvg-id="japanvssweden0000daznspanish" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="FIFA World Cup",Japan vs Sweden 00:00 (DAZN SPANISH)
 https://1nyaler.streamhostingcdn.top/stream/94/index.m3u8
 
-#EXTINF:-1 tvg-id="bosniavsqatar2000arabiclivehd" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="FIFA World Cup",Bosnia vs Qatar 20:00 (ARABIC LIVE HD)
-https://ex.creatas.site/poolos1.m3u8
-
-#EXTINF:-1 tvg-id="bosniavsqatar2000iscreenbdfhd" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="FIFA World Cup",Bosnia vs Qatar 20:00 (ISCREEN BD FHD)
+#EXTINF:-1 tvg-id="japanvssweden0000iscreenbdfhd" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="FIFA World Cup",Japan vs Sweden 00:00 (ISCREEN BD FHD)
 https://livecdn.rockstreamer.com/main/Iscreen_fifa_main/main/in4_1080p/chunks.m3u8
 
-#EXTINF:-1 tvg-id="bosniavsqatar2000somoytvhd" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="FIFA World Cup",Bosnia vs Qatar 20:00 (SOMOY TV HD)
+#EXTINF:-1 tvg-id="japanvssweden0000somoytvhd" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="FIFA World Cup",Japan vs Sweden 00:00 (SOMOY TV HD)
 https://live.thebosstv.com:30443/dwlive/Somoy-TV/chunks.m3u8
 
-#EXTINF:-1 tvg-id="bosniavsqatar2000fussball4kger" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="FIFA World Cup",Bosnia vs Qatar 20:00 (FUSSBALL 4K  GER )
+#EXTINF:-1 tvg-id="japanvssweden0000fussball4kger" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="FIFA World Cup",Japan vs Sweden 00:00 (FUSSBALL 4K  GER )
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=1f09d5788fbbb03a053d03cc731f31a9:d493d5a70c793362324638f61d1726ac
 https://svc45.main.sl.t-online.de/bpk-tv/KID01037_FUSSBALLTV1_uhd/DASH/index.mpd
 
-#EXTINF:-1 tvg-id="bosniavsqatar2000fussball24kger" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="FIFA World Cup",Bosnia vs Qatar 20:00 (FUSSBALL2 4K  GER )
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=1b98a0f2de7784c6e132942385a089f3:546eae09a8d81c498dfd08532dcd68a5
-https://svc45.main.sl.t-online.de/bpk-tv/KID01064_FUSSBALLTV2_uhd/DASH/index.mpd
-
-#EXTINF:-1 tvg-id="bosniavsqatar2000fussballtvfhd" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="FIFA World Cup",Bosnia vs Qatar 20:00 (FUSSBALL TV FHD)
+#EXTINF:-1 tvg-id="japanvssweden0000fussballtvger" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="FIFA World Cup",Japan vs Sweden 00:00 (FUSSBALL TV  GER )
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=1cb20afcd9d979c833cfd208c7d3eeb2:fef0c15b4a523370892edd5e4133c269
 https://svc45.main.sl.t-online.de/bpk-tv/KID01037_FUSSBALLTV1_hd/DASH/index.mpd
 
-#EXTINF:-1 tvg-id="bosniavsqatar2000fussball2tvfhd" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="FIFA World Cup",Bosnia vs Qatar 20:00 (FUSSBALL2 TV FHD)
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=1889c6c8cdf57aa3bc90bb976ca6cbdc:48ef3649d9076965b70e79e58b0028ef
-https://svc45.main.sl.t-online.de/bpk-tv/KID01064_FUSSBALLTV2_hd/DASH/index.mpd
-
-#EXTINF:-1 tvg-id="bosniavsqatar2000telemundousa" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="FIFA World Cup",Bosnia vs Qatar 20:00 (TELEMUNDO  USA )
+#EXTINF:-1 tvg-id="japanvssweden0000telemundousa" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="FIFA World Cup",Japan vs Sweden 00:00 (TELEMUNDO  USA )
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=7d6bb9f86e133e4cb33440b493b6b672:584ad285dcb9e7d42cf3e93f1cc3fe11
 https://live-oneapp-prd-news.akamaized.net/Content/CMAF_OL2-CTR-4s/Live/channel(WSNS)/master.mpd
 
-#EXTINF:-1 tvg-id="bosniavsqatar2000sporzadutchfhd" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="FIFA World Cup",Bosnia vs Qatar 20:00 (Sporza DUTCH FHD)
+#EXTINF:-1 tvg-id="japanvssweden0000telemundoalt" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="FIFA World Cup",Japan vs Sweden 00:00 (TELEMUNDO  ALT )
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=ce7ab3022e753307997f58afe001bac4:72d631a66e635c60829a0fe7705516c1
+https://live-oneapp-prd-news.akamaized.net/Content/CMAF_OL2-CTR-4s-v2/Live/channel(kvea)/master.mpd
+
+#EXTINF:-1 tvg-id="japanvssweden0000sportzxlive" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="FIFA World Cup",Japan vs Sweden 00:00 (SportzX Live)
+https://instreams.pro/EU/HDWC1/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-id="tunisiavsnetherlands0000itvsportsfhd" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="FIFA World Cup",Tunisia vs Netherlands 00:00 (ITV SPORTS FHD)
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=30089c52924f037b225b82c616fee2a5:f55dc8b66ed4fc6753d6035ae7e17144
+https://otte-qw.live.pv-cdn.net/pdx-nitro/live/clients/dash/enc/0eiyyz8qzm/out/v1/dd17af8835fe4bd087d1a4e359b635d7/cenc.mpd
+
+#EXTINF:-1 tvg-id="tunisiavsnetherlands0000telemundofhd" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="FIFA World Cup",Tunisia vs Netherlands 00:00 (TELEMUNDO FHD)
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=1efe4add8fdf327c5f8d2a1c195e5c71:4f50e6f011e60ca01ee561f27187e78f
+https://cun-live1-ott.izzigo.tv/out/u/dash/NOG1/TELEMUNDO-ARIZONA-USA-TCS-HD/default.mpd
+
+#EXTINF:-1 tvg-id="tunisiavsnetherlands0000qazsportsfhd" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="FIFA World Cup",Tunisia vs Netherlands 00:00 (QAZ SPORTS FHD)
+https://fo01-bkm.beetv.kz/bpk-tv/000003038/tve/index.m3u8
+
+#EXTINF:-1 tvg-id="tunisiavsnetherlands0000tipikfrfhd" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="FIFA World Cup",Tunisia vs Netherlands 00:00 (TIPIK FR FHD)
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=adca25b8779e4168a0cd710f59f61ccf:be5383ed3cd8079f4ffe78ad067f476a
+https://c9851ec-rbm-hilv-fsly.cdn.redbee.live/L26/6b640fa2/a765d074.isml/dash/.mpd
+
+#EXTINF:-1 tvg-id="tunisiavsnetherlands0000dsportsfhd" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="FIFA World Cup",Tunisia vs Netherlands 00:00 (DSports FHD)
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=4f4c3a9912ea752e88f4497864a1bc8b:278128004fe8c6ffb2cd2a0c154a241a
+https://otte-qw.live.pv-cdn.net/pdx-nitro/live/clients/dash/enc/x0srg3jjpz/out/v1/f779c49314394d61886d63f58d9d52e4/cenc.mpd
+
+#EXTINF:-1 tvg-id="tunisiavsnetherlands0000cazetvfhd" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="FIFA World Cup",Tunisia vs Netherlands 00:00 (CAZE TV FHD)
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=ac7abaa9c9481aacfbdac64fc3ec3312:c0c504a2ed2e70b879a650b8770a38c6
+https://otte-qw.live.pv-cdn.net/pdx-nitro/live/clients/dash/enc/vzeco5ty0v/out/v1/44c6b8f31a2544e3b2a9bb41ed5e241e/cenc.mpd
+
+#EXTINF:-1 tvg-id="tunisiavsnetherlands0000iscreenbdixbd" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="FIFA World Cup",Tunisia vs Netherlands 00:00 (ISCREEN BDIX (BD))
+https://pastebin.com/raw/AFnPnGzQ?e=.m3u8
+
+#EXTINF:-1 tvg-id="tunisiavsnetherlands0000tvpsportsfhd" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="FIFA World Cup",Tunisia vs Netherlands 00:00 (TVP SPORTS FHD)
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=0:0
+https://estreams.tv.nej.cz/dash/CH_TVP_SPORT_Portable.ism/playlist.mpd
+
+#EXTINF:-1 tvg-id="tunisiavsnetherlands0000foxhdlive" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="FIFA World Cup",Tunisia vs Netherlands 00:00 (FOX HD LIVE)
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=d7d78ea2021a29541136bd5dc8352fe7:6425ac4c0cdf906fe0cce5cf40dc8933
+https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/cizlveblk4/out/v1/e5c36c41621e4384b80427d87199433a/cenc.mpd
+
+#EXTINF:-1 tvg-id="tunisiavsnetherlands0000tsnfhdlive" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="FIFA World Cup",Tunisia vs Netherlands 00:00 (TSN FHD LIVE)
+https://naremanums.s3.eu-west-1.amazonaws.com/btsport.m3u8
+
+#EXTINF:-1 tvg-id="tunisiavsnetherlands0000tsn4k" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="FIFA World Cup",Tunisia vs Netherlands 00:00 (TSN 4K)
+https://xyzcloud3.xyz/tsn4k/index.m3u8
+
+#EXTINF:-1 tvg-id="tunisiavsnetherlands0000foxsports4k" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="FIFA World Cup",Tunisia vs Netherlands 00:00 (FOX SPORTS 4K)
+https://boombaclat0000-56789.heytheredelilah.xyz/001/FS14K/playlist.m3u8
+
+#EXTINF:-1 tvg-id="tunisiavsnetherlands0000fussballtv4k" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="FIFA World Cup",Tunisia vs Netherlands 00:00 (FUSSBALL TV 4K)
+https://inproviszon.st/fusballtv1uhd-de.m3u8
+
+#EXTINF:-1 tvg-id="tunisiavsnetherlands0000tsnsportsfhd" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="FIFA World Cup",Tunisia vs Netherlands 00:00 (TSN SPORTS FHD)
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=14eeabf30c14b7fbf3008c03099ce011:17d2ac8dbc5429bd70af3433aa12158d
+https://abemmfvaaaaaaaamgfhlmyisv75m7.ta.bia-cf.live.pv-cdn.net/iad-nitro/live/dash/enc/w0rehjjrwe/out/v1/69a2a7041395406b970598f61680e7cf/cenc.mpd
+
+#EXTINF:-1 tvg-id="tunisiavsnetherlands0000foxsportshd" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="FIFA World Cup",Tunisia vs Netherlands 00:00 (FOX SPORTS HD)
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=5466ebd70704bdeb657f0abf3c5ca4ef:bdd79b72d8e48ed483aa623cc38a8a16
+https://abemmfvaaaaaaaamgfhlmyisv75m7.ta.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/fsu3wl2rwb/out/v1/be61206c04e643349d53fb22301f3b50/cenc.mpd
+
+#EXTINF:-1 tvg-id="tunisiavsnetherlands0000tsnsportsalt" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="FIFA World Cup",Tunisia vs Netherlands 00:00 (TSN SPORTS  ALT )
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=14eeabf30c14b7fbf3008c03099ce011:17d2ac8dbc5429bd70af3433aa12158d
+https://abgh3fbaaaaaaaambylpff72g6up6.ta.bia-cf.live.pv-cdn.net/iad-nitro/live/dash/enc/w0rehjjrwe/out/v1/69a2a7041395406b970598f61680e7cf/cenc.mpd
+
+#EXTINF:-1 tvg-id="tunisiavsnetherlands0000foxsportsalt" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="FIFA World Cup",Tunisia vs Netherlands 00:00 (FOX SPORTS  ALT )
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=5466ebd70704bdeb657f0abf3c5ca4ef:bdd79b72d8e48ed483aa623cc38a8a16
+https://abgh3fbaaaaaaaambylpff72g6up6.ta.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/fsu3wl2rwb/out/v1/be61206c04e643349d53fb22301f3b50/cenc.mpd
+
+#EXTINF:-1 tvg-id="tunisiavsnetherlands0000itv1fhdalt" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="FIFA World Cup",Tunisia vs Netherlands 00:00 (ITV 1 FHD  ALT )
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=30089c52924f037b225b82c616fee2a5:f55dc8b66ed4fc6753d6035ae7e17144
+https://abemgapaaaaaaaamjqcglddgof6nb.ta.bia-cf.live.pv-cdn.net/pdx-nitro/live/dash/enc/0eiyyz8qzm/out/v1/dd17af8835fe4bd087d1a4e359b635d7/cenc.mpd
+
+#EXTINF:-1 tvg-id="tunisiavsnetherlands0000fussballtv4k" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="FIFA World Cup",Tunisia vs Netherlands 00:00 (FUSSBALL TV 4K)
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=4f558eae1b005126b2ac6e9eb1a7849e:17aea325d91b5e66f06a8c574f2f0b03
+https://da-50f11b292a028381000001120000000000000009.id.vx.tentcdn.eu/wp/at-live-7.tentcdn.eu/bpk-tv/WM_TV_1_UHD/default/index.mpd
+
+#EXTINF:-1 tvg-id="tunisiavsnetherlands0000irib4k" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="FIFA World Cup",Tunisia vs Netherlands 00:00 (IRIB 4K)
+https://ncdn.telewebion.ir/faratar/live/playlist.m3u8
+
+#EXTINF:-1 tvg-id="tunisiavsnetherlands0000sporzadutchfhd" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="FIFA World Cup",Tunisia vs Netherlands 00:00 (Sporza DUTCH FHD)
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=7c0a14fc7dc3c641af8cb6506431a628:f318ff7c01cca20c4a5b3d91074ca460
+https://live.vrtcdn.be/groupd/live/0761024f-37fe-4254-bc37-e95d7c62b2d1/playout.isml/.mpd
+
+#EXTINF:-1 tvg-id="tunisiavsnetherlands0000matchfootballfhd" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="FIFA World Cup",Tunisia vs Netherlands 00:00 (Match Football FHD)
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=9145a6e0f778e61866f573d4944dd533:d02173d40515fea5c83944f21d0f3114
+https://video.beeline.tv/live/d/channel319.isml/manifest-stb.mpd
+
+#EXTINF:-1 tvg-id="tunisiavsnetherlands0000beinmaxhd" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="FIFA World Cup",Tunisia vs Netherlands 00:00 (beIN MAX HD)
+https://edge22.776740.ir.cdn.ir/hls2/sport.m3u8
+
+#EXTINF:-1 tvg-id="tunisiavsnetherlands0000arabiclivehd" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="FIFA World Cup",Tunisia vs Netherlands 00:00 (ARABIC LIVE HD)
+https://karim-xnbu-eu-20260623.s3.eu-central-1.amazonaws.com/live/ch1/ch1.m3u8
+
+#EXTINF:-1 tvg-id="tunisiavsnetherlands0000daznspanish" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="FIFA World Cup",Tunisia vs Netherlands 00:00 (DAZN SPANISH)
+https://1nyaler.streamhostingcdn.top/stream/94/index.m3u8
+
+#EXTINF:-1 tvg-id="tunisiavsnetherlands0000somoytvhd" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="FIFA World Cup",Tunisia vs Netherlands 00:00 (SOMOY TV HD)
+https://live.thebosstv.com:30443/dwlive/Somoy-TV/chunks.m3u8
+
+#EXTINF:-1 tvg-id="tunisiavsnetherlands0000fussball4kger" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="FIFA World Cup",Tunisia vs Netherlands 00:00 (FUSSBALL 4K  GER )
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=1f09d5788fbbb03a053d03cc731f31a9:d493d5a70c793362324638f61d1726ac
+https://svc45.main.sl.t-online.de/bpk-tv/KID01037_FUSSBALLTV1_uhd/DASH/index.mpd
+
+#EXTINF:-1 tvg-id="tunisiavsnetherlands0000fussballtvfhd" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="FIFA World Cup",Tunisia vs Netherlands 00:00 (FUSSBALL TV FHD)
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=1cb20afcd9d979c833cfd208c7d3eeb2:fef0c15b4a523370892edd5e4133c269
+https://svc45.main.sl.t-online.de/bpk-tv/KID01037_FUSSBALLTV1_hd/DASH/index.mpd
+
+#EXTINF:-1 tvg-id="tunisiavsnetherlands0000telemundousa" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="FIFA World Cup",Tunisia vs Netherlands 00:00 (TELEMUNDO  USA )
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=7d6bb9f86e133e4cb33440b493b6b672:584ad285dcb9e7d42cf3e93f1cc3fe11
+https://live-oneapp-prd-news.akamaized.net/Content/CMAF_OL2-CTR-4s/Live/channel(WSNS)/master.mpd
+
+#EXTINF:-1 tvg-id="tunisiavsnetherlands0000sportzxlive" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="FIFA World Cup",Tunisia vs Netherlands 00:00 (SportzX Live)
+https://instreams.pro/EU/HDWC1/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-id="paraguayvsaustralia0300itvsportsfhd" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="FIFA World Cup",Paraguay vs Australia 03:00 (ITV SPORTS FHD)
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=30089c52924f037b225b82c616fee2a5:f55dc8b66ed4fc6753d6035ae7e17144
+https://otte-qw.live.pv-cdn.net/pdx-nitro/live/clients/dash/enc/0eiyyz8qzm/out/v1/dd17af8835fe4bd087d1a4e359b635d7/cenc.mpd
+
+#EXTINF:-1 tvg-id="paraguayvsaustralia0300ctvsportsfhd" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="FIFA World Cup",Paraguay vs Australia 03:00 (CTV SPORTS FHD)
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=d185684e2330de5bea436daa094a5e86:014f0116154f5bf0050e03a6b0a23157
+https://otte.cache.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/72sjo8hygl/out/v1/3079be34d72a4985852d299a02406a0c/cenc.mpd
+
+#EXTINF:-1 tvg-id="paraguayvsaustralia0300telemundofhd" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="FIFA World Cup",Paraguay vs Australia 03:00 (TELEMUNDO FHD)
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=1efe4add8fdf327c5f8d2a1c195e5c71:4f50e6f011e60ca01ee561f27187e78f
+https://cun-live1-ott.izzigo.tv/out/u/dash/NOG1/TELEMUNDO-ARIZONA-USA-TCS-HD/default.mpd
+
+#EXTINF:-1 tvg-id="paraguayvsaustralia0300tipikfrfhd" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="FIFA World Cup",Paraguay vs Australia 03:00 (TIPIK FR FHD)
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=adca25b8779e4168a0cd710f59f61ccf:be5383ed3cd8079f4ffe78ad067f476a
+https://c9851ec-rbm-hilv-fsly.cdn.redbee.live/L26/6b640fa2/a765d074.isml/dash/.mpd
+
+#EXTINF:-1 tvg-id="paraguayvsaustralia0300vixmundialfhd" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="FIFA World Cup",Paraguay vs Australia 03:00 (ViX MUNDIAL FHD)
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=052aba8b4944541841db862526bbe6b6:b785276874581a60b8e95b668b7c0d2b
+https://cun-live1-ott.izzigo.tv/11/out/u/dash/VIX-MUNDIAL-90-HD/default.mpd
+
+#EXTINF:-1 tvg-id="paraguayvsaustralia0300m6francefhd" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="FIFA World Cup",Paraguay vs Australia 03:00 (M6 FRANCE FHD)
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=1c285ebc98483383b938f2aac331410c:10accd30d969402cf0bb0fb99ad09283
+https://edge-fastly-m6web.live.6cloud.fr/out/v1/6play/6play-m6/cmaf_cenc00/dash-short-hd.mpd
+
+#EXTINF:-1 tvg-id="paraguayvsaustralia0300tvpsportshd" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="FIFA World Cup",Paraguay vs Australia 03:00 (TVP SPORTS HD)
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=0:0
+https://estreams.tv.nej.cz/dash/CH_TVP1_Portable.ism/playlist.mpd
+
+#EXTINF:-1 tvg-id="paraguayvsaustralia0300foxonehd" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="FIFA World Cup",Paraguay vs Australia 03:00 (FOX ONE HD)
+https://xyzcloud3.xyz/FOX/index.m3u8
+
+#EXTINF:-1 tvg-id="paraguayvsaustralia0300tsnsportshd" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="FIFA World Cup",Paraguay vs Australia 03:00 (TSN SPORTS HD)
+https://underlow.s3.us-east-1.amazonaws.com/svg/eve1.m3u8
+
+#EXTINF:-1 tvg-id="paraguayvsaustralia0300dsportsfhd" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="FIFA World Cup",Paraguay vs Australia 03:00 (DSports FHD)
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=4f4c3a9912ea752e88f4497864a1bc8b:278128004fe8c6ffb2cd2a0c154a241a
+https://otte-qw.live.pv-cdn.net/pdx-nitro/live/clients/dash/enc/x0srg3jjpz/out/v1/f779c49314394d61886d63f58d9d52e4/cenc.mpd
+
+#EXTINF:-1 tvg-id="paraguayvsaustralia0300cazetvfhd" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="FIFA World Cup",Paraguay vs Australia 03:00 (CAZE TV FHD)
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=ac7abaa9c9481aacfbdac64fc3ec3312:c0c504a2ed2e70b879a650b8770a38c6
+https://otte-qw.live.pv-cdn.net/pdx-nitro/live/clients/dash/enc/vzeco5ty0v/out/v1/44c6b8f31a2544e3b2a9bb41ed5e241e/cenc.mpd
+
+#EXTINF:-1 tvg-id="paraguayvsaustralia0300iscreenbdfhd" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="FIFA World Cup",Paraguay vs Australia 03:00 (ISCREEN BD FHD)
+https://pastebin.com/raw/AFnPnGzQ?e=.m3u8
+
+#EXTINF:-1 tvg-id="paraguayvsaustralia0300sportzxhdlive" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="FIFA World Cup",Paraguay vs Australia 03:00 (SportzX HD LIVE)
+https://w7knm.s3.eu-north-1.amazonaws.com/maklen/tifi1_1.m3u8
+
+#EXTINF:-1 tvg-id="paraguayvsaustralia0300tsnsportsfhd" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="FIFA World Cup",Paraguay vs Australia 03:00 (TSN SPORTS FHD)
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=14eeabf30c14b7fbf3008c03099ce011:17d2ac8dbc5429bd70af3433aa12158d
+https://abgzkulaaaaaaaamfvra5ujrl4pd7.ta.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/w0rehjjrwe/out/v1/69a2a7041395406b970598f61680e7cf/cenc.mpd
+
+#EXTINF:-1 tvg-id="paraguayvsaustralia0300foxonefhd" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="FIFA World Cup",Paraguay vs Australia 03:00 (FOX ONE FHD)
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=f6564ec2aee819046328a0e153be574d:ff46a8a1031eb27ef22576a077c98ab7
+https://abgzkulaaaaaaaamfvra5ujrl4pd7.ta.bia-cf.live.pv-cdn.net/gru-nitro/live/dash/enc/ajfoeddkbz/out/v1/b78800b9b2304879b15843f455836829/cenc.mpd
+
+#EXTINF:-1 tvg-id="paraguayvsaustralia0300foxone4kalt" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="FIFA World Cup",Paraguay vs Australia 03:00 (FOX ONE 4K  ALT )
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=1f68713028d439ec03be07f56c1d6213:20093db6455160fffed4c394def3193d
+https://abemgapaaaaaaaamjqcglddgof6nb.ta.bia-cf.live.pv-cdn.net/pdx-nitro/live/dash/enc/qmjlikytt2/out/v1/fc40f22f10374517a2784e1d97cb23f4/cenc.mpd
+
+#EXTINF:-1 tvg-id="paraguayvsaustralia0300tsnsportsalt" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="FIFA World Cup",Paraguay vs Australia 03:00 (TSN SPORTS  ALT )
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=14eeabf30c14b7fbf3008c03099ce011:17d2ac8dbc5429bd70af3433aa12158d
+https://abgh3fbaaaaaaaambylpff72g6up6.ta.bia-cf.live.pv-cdn.net/iad-nitro/live/dash/enc/w0rehjjrwe/out/v1/69a2a7041395406b970598f61680e7cf/cenc.mpd
+
+#EXTINF:-1 tvg-id="paraguayvsaustralia0300foxsportsalt" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="FIFA World Cup",Paraguay vs Australia 03:00 (FOX SPORTS  ALT )
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=f6564ec2aee819046328a0e153be574d:ff46a8a1031eb27ef22576a077c98ab7
+https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/ajfoeddkbz/out/v1/b78800b9b2304879b15843f455836829/cenc.mpd
+
+#EXTINF:-1 tvg-id="paraguayvsaustralia0300itv1fhdalt" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="FIFA World Cup",Paraguay vs Australia 03:00 (ITV 1 FHD  ALT )
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=30089c52924f037b225b82c616fee2a5:f55dc8b66ed4fc6753d6035ae7e17144
+https://abemgapaaaaaaaamjqcglddgof6nb.ta.bia-cf.live.pv-cdn.net/pdx-nitro/live/dash/enc/0eiyyz8qzm/out/v1/dd17af8835fe4bd087d1a4e359b635d7/cenc.mpd
+
+#EXTINF:-1 tvg-id="paraguayvsaustralia0300telemundousa" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="FIFA World Cup",Paraguay vs Australia 03:00 (TELEMUNDO  USA )
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=7d6bb9f86e133e4cb33440b493b6b672:584ad285dcb9e7d42cf3e93f1cc3fe11
+https://live-oneapp-prd-news.akamaized.net/Content/CMAF_OL2-CTR-4s/Live/channel(WSNS)/master.mpd
+
+#EXTINF:-1 tvg-id="paraguayvsaustralia0300foxone4k" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="FIFA World Cup",Paraguay vs Australia 03:00 (FOX ONE 4K)
+https://lb.xyzcloud3.xyz/fox4k/index.m3u8
+
+#EXTINF:-1 tvg-id="paraguayvsaustralia0300telemundo4k" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="FIFA World Cup",Paraguay vs Australia 03:00 (TELEMUNDO 4K)
+https://lb.xyzcloud3.xyz/tele4k/index.m3u8
+
+#EXTINF:-1 tvg-id="paraguayvsaustralia0300tsnsports4k" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="FIFA World Cup",Paraguay vs Australia 03:00 (TSN SPORTS 4K)
+https://xyzcloud3.xyz/tsn4k/index.m3u8
+
+#EXTINF:-1 tvg-id="paraguayvsaustralia0300fussballtv4k" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="FIFA World Cup",Paraguay vs Australia 03:00 (FUSSBALL TV 4K)
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=4f558eae1b005126b2ac6e9eb1a7849e:17aea325d91b5e66f06a8c574f2f0b03
+https://da-50f11b292a028381000001120000000000000009.id.vx.tentcdn.eu/wp/at-live-7.tentcdn.eu/bpk-tv/WM_TV_1_UHD/default/index.mpd
+
+#EXTINF:-1 tvg-id="paraguayvsaustralia0300fussballtv24k" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="FIFA World Cup",Paraguay vs Australia 03:00 (FUSSBALL TV2 4K)
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=ccdf9f3d9bbf5c508adf04f81918a285:66cf0524fcc2eb0c7dab8bbbf8829827
+https://da-50f11b292a028381000001120000000000000009.id.vx.tentcdn.eu/wp/at-live-7.tentcdn.eu/bpk-tv/WM_TV_2_UHD/default/index.mpd
+
+#EXTINF:-1 tvg-id="paraguayvsaustralia0300irib4k" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="FIFA World Cup",Paraguay vs Australia 03:00 (IRIB 4K)
+https://ncdn.telewebion.ir/faratar/live/playlist.m3u8
+
+#EXTINF:-1 tvg-id="paraguayvsaustralia0300arabiclivefhd" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="FIFA World Cup",Paraguay vs Australia 03:00 (ARABIC LIVE FHD)
+https://edge22.776740.ir.cdn.ir/hls2/sport.m3u8
+
+#EXTINF:-1 tvg-id="paraguayvsaustralia0300tycsportshd" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="FIFA World Cup",Paraguay vs Australia 03:00 (TYC SPORTS HD)
+https://1nyaler.streamhostingcdn.top/stream/84/index.m3u8
+
+#EXTINF:-1 tvg-id="paraguayvsaustralia0300sportzxlive" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="FIFA World Cup",Paraguay vs Australia 03:00 (SportzX Live)
+https://instreams.pro/EU/HDWC1/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-id="paraguayvsaustralia0300tvpsportsfhd" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="FIFA World Cup",Paraguay vs Australia 03:00 (TVP SPORTS FHD)
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=0:0
+https://estreams.tv.nej.cz/dash/CH_TVP_SPORT_Portable.ism/playlist.mpd
+
+#EXTINF:-1 tvg-id="paraguayvsaustralia0300sporzadutchfhd" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="FIFA World Cup",Paraguay vs Australia 03:00 (Sporza DUTCH FHD)
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=7c0a14fc7dc3c641af8cb6506431a628:f318ff7c01cca20c4a5b3d91074ca460
+https://live.vrtcdn.be/groupd/live/0761024f-37fe-4254-bc37-e95d7c62b2d1/playout.isml/.mpd
+
+#EXTINF:-1 tvg-id="paraguayvsaustralia0300ctsportscz" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="FIFA World Cup",Paraguay vs Australia 03:00 (CT SPORTS CZ)
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=11223344556677889900112233445566:4b80724d0ef86bcb2c21f7999d67739d
+https://dash2.antik.sk/stream/nvidia_ct_sport/playlist_cenc.mpd
+
+#EXTINF:-1 tvg-id="paraguayvsaustralia0300matchfootballfhd" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="FIFA World Cup",Paraguay vs Australia 03:00 (Match Football FHD)
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=9145a6e0f778e61866f573d4944dd533:d02173d40515fea5c83944f21d0f3114
+https://video.beeline.tv/live/d/channel319.isml/manifest-stb.mpd
+
+#EXTINF:-1 tvg-id="paraguayvsaustralia0300daznspanish" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="FIFA World Cup",Paraguay vs Australia 03:00 (DAZN SPANISH)
+https://1nyaler.streamhostingcdn.top/stream/94/index.m3u8
+
+#EXTINF:-1 tvg-id="paraguayvsaustralia0300somoytvhd" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="FIFA World Cup",Paraguay vs Australia 03:00 (SOMOY TV HD)
+https://live.thebosstv.com:30443/dwlive/Somoy-TV/chunks.m3u8
+
+#EXTINF:-1 tvg-id="paraguayvsaustralia0300jojsportsfhd" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="FIFA World Cup",Paraguay vs Australia 03:00 (JOJ SPORTS FHD)
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=11223344556677889900112233445566:4b80724d0ef86bcb2c21f7999d67739d
+https://dash2.antik.sk/stream/nvidia_joj_sport/playlist_cenc.mpd
+
+#EXTINF:-1 tvg-id="paraguayvsaustralia0300telemundoalt" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="FIFA World Cup",Paraguay vs Australia 03:00 (TELEMUNDO  ALT )
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=ce7ab3022e753307997f58afe001bac4:72d631a66e635c60829a0fe7705516c1
+https://live-oneapp-prd-news.akamaized.net/Content/CMAF_OL2-CTR-4s-v2/Live/channel(kvea)/master.mpd
+
+#EXTINF:-1 tvg-id="paraguayvsaustralia0300fussball4kger" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="FIFA World Cup",Paraguay vs Australia 03:00 (FUSSBALL 4K  GER )
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=1f09d5788fbbb03a053d03cc731f31a9:d493d5a70c793362324638f61d1726ac
+https://svc45.main.sl.t-online.de/bpk-tv/KID01037_FUSSBALLTV1_uhd/DASH/index.mpd
+
+#EXTINF:-1 tvg-id="paraguayvsaustralia0300fussball24kger" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="FIFA World Cup",Paraguay vs Australia 03:00 (FUSSBALL2 4K  GER )
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=1b98a0f2de7784c6e132942385a089f3:546eae09a8d81c498dfd08532dcd68a5
+https://svc45.main.sl.t-online.de/bpk-tv/KID01064_FUSSBALLTV2_uhd/DASH/index.mpd
+
+#EXTINF:-1 tvg-id="paraguayvsaustralia0300fussballtvfhd" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="FIFA World Cup",Paraguay vs Australia 03:00 (FUSSBALL TV FHD)
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=1cb20afcd9d979c833cfd208c7d3eeb2:fef0c15b4a523370892edd5e4133c269
+https://svc45.main.sl.t-online.de/bpk-tv/KID01037_FUSSBALLTV1_hd/DASH/index.mpd
+
+#EXTINF:-1 tvg-id="paraguayvsaustralia0300fussball2tvfhd" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="FIFA World Cup",Paraguay vs Australia 03:00 (FUSSBALL2 TV FHD)
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=1889c6c8cdf57aa3bc90bb976ca6cbdc:48ef3649d9076965b70e79e58b0028ef
+https://svc45.main.sl.t-online.de/bpk-tv/KID01064_FUSSBALLTV2_hd/DASH/index.mpd
+
+#EXTINF:-1 tvg-id="turkiyevsusa0300itvsportsfhd" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="FIFA World Cup",Turkiye vs USA 03:00 (ITV SPORTS FHD)
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=ea178e28af00ed57e7101255f977c222:f29602a280f41950d1935f0c6816dc12
+https://otte-qw.live.pv-cdn.net/pdx-nitro/live/clients/dash/enc/ffwqzsa0zr/out/v1/752ac25588ff4607b45f3876a8e89223/cenc.mpd
+
+#EXTINF:-1 tvg-id="turkiyevsusa0300tsnsportsfhd" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="FIFA World Cup",Turkiye vs USA 03:00 (TSN SPORTS FHD)
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=85b277daf5aae05833fe43a68f587968:d52d7e9bc0bcd98787efd547ac91eca0
+https://otte-qw.live.pv-cdn.net/pdx-nitro/live/clients/dash/enc/cjglydxghe/out/v1/8977baf175da4b94873194613dd3fe55/cenc.mpd
+
+#EXTINF:-1 tvg-id="turkiyevsusa0300vixmundialfhd" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="FIFA World Cup",Turkiye vs USA 03:00 (ViX MUNDIAL FHD)
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=36a78e9664836d8d1b882c7772ef2119:4911f93d4a347873b3c2f187793dffb0
+https://cun-live1-ott.izzigo.tv/11/out/u/dash/VIX-MUNDIAL-91-HD/default.mpd
+
+#EXTINF:-1 tvg-id="turkiyevsusa0300ctsportscz" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="FIFA World Cup",Turkiye vs USA 03:00 (CT SPORTS CZ)
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=11223344556677889900112233445566:4b80724d0ef86bcb2c21f7999d67739d
+https://dash2.antik.sk/stream/nvidia_ct_sport/playlist_cenc.mpd
+
+#EXTINF:-1 tvg-id="turkiyevsusa0300tvpsportsfhd" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="FIFA World Cup",Turkiye vs USA 03:00 (TVP SPORTS FHD)
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=0:0
+https://estreams.tv.nej.cz/dash/CH_TVP_SPORT_Portable.ism/playlist.mpd
+
+#EXTINF:-1 tvg-id="turkiyevsusa0300foxsportshd" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="FIFA World Cup",Turkiye vs USA 03:00 (FOX SPORTS HD)
+https://xyzcloud3.xyz/FS1/index.m3u8
+
+#EXTINF:-1 tvg-id="turkiyevsusa0300tvcgfhd" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="FIFA World Cup",Turkiye vs USA 03:00 (TVCG FHD)
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=8101e6cf94565203b66aa396a09bc030:114f9135bc4b8d1a5cac22a6008c517a
+https://bpkcdn.telekom.me/bpk-tv/rtcg_1/default/index.mpd
+
+#EXTINF:-1 tvg-id="turkiyevsusa0300tsnsportshd" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="FIFA World Cup",Turkiye vs USA 03:00 (TSN SPORTS HD)
+https://w7knm.s3.eu-north-1.amazonaws.com/maklen/tifi2_1.m3u8
+
+#EXTINF:-1 tvg-id="turkiyevsusa0300dsportsfhd" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="FIFA World Cup",Turkiye vs USA 03:00 (D Sports FHD)
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=03f12d6a3dbfd3a6fa7dd7f6417e0c11:ea07b87acdf2e45be824cde4a1cf3504
+https://otte-qw.live.pv-cdn.net/pdx-nitro/live/clients/dash/enc/rgilyeubta/out/v1/09a67027b18f4fd78aaa3794a2aacfe8/cenc.mpd
+
+#EXTINF:-1 tvg-id="turkiyevsusa0300cazetvfhd" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="FIFA World Cup",Turkiye vs USA 03:00 (CAZE TV FHD)
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=ac7abaa9c9481aacfbdac64fc3ec3312:c0c504a2ed2e70b879a650b8770a38c6
+https://otte-qw.live.pv-cdn.net/pdx-nitro/live/clients/dash/enc/vzeco5ty0v/out/v1/44c6b8f31a2544e3b2a9bb41ed5e241e/cenc.mpd
+
+#EXTINF:-1 tvg-id="turkiyevsusa0300foxsportshd" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="FIFA World Cup",Turkiye vs USA 03:00 (FOX SPORTS HD)
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=5466ebd70704bdeb657f0abf3c5ca4ef:bdd79b72d8e48ed483aa623cc38a8a16
+https://abgzkulaaaaaaaamfvra5ujrl4pd7.ta.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/fsu3wl2rwb/out/v1/be61206c04e643349d53fb22301f3b50/cenc.mpd
+
+#EXTINF:-1 tvg-id="turkiyevsusa0300tsnsportsfhd" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="FIFA World Cup",Turkiye vs USA 03:00 (TSN Sports FHD)
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=85b277daf5aae05833fe43a68f587968:d52d7e9bc0bcd98787efd547ac91eca0
+https://abgzkulaaaaaaaamfvra5ujrl4pd7.ta.bia-cf.live.pv-cdn.net/gru-nitro/live/clients/dash/enc/cjglydxghe/out/v1/8977baf175da4b94873194613dd3fe55/cenc.mpd
+
+#EXTINF:-1 tvg-id="turkiyevsusa0300foxsportsalt" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="FIFA World Cup",Turkiye vs USA 03:00 (FOX SPORTS  ALT )
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=5466ebd70704bdeb657f0abf3c5ca4ef:bdd79b72d8e48ed483aa623cc38a8a16
+https://abgh3fbaaaaaaaambylpff72g6up6.ta.bia-cf.live.pv-cdn.net/iad-nitro/live/dash/enc/fsu3wl2rwb/out/v1/be61206c04e643349d53fb22301f3b50/cenc.mpd
+
+#EXTINF:-1 tvg-id="turkiyevsusa0300tsnsportsalt" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="FIFA World Cup",Turkiye vs USA 03:00 (TSN SPORTS  ALT )
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=85b277daf5aae05833fe43a68f587968:d52d7e9bc0bcd98787efd547ac91eca0
+https://abgh3fbaaaaaaaambylpff72g6up6.ta.bia-cf.live.pv-cdn.net/iad-nitro/live/dash/enc/cjglydxghe/out/v1/8977baf175da4b94873194613dd3fe55/cenc.mpd
+
+#EXTINF:-1 tvg-id="turkiyevsusa0300itv1fhdalt" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="FIFA World Cup",Turkiye vs USA 03:00 (ITV 1 FHD  ALT )
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=ea178e28af00ed57e7101255f977c222:f29602a280f41950d1935f0c6816dc12
+https://abemgapaaaaaaaamjqcglddgof6nb.ta.bia-cf.live.pv-cdn.net/pdx-nitro/live/dash/enc/ffwqzsa0zr/out/v1/752ac25588ff4607b45f3876a8e89223/cenc.mpd
+
+#EXTINF:-1 tvg-id="turkiyevsusa0300nbcuniversoalt" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="FIFA World Cup",Turkiye vs USA 03:00 (NBC UNIVERSO  ALT )
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=96b67fa09140329a89b7a1ead134eda3:c618d32c56cdc6cad8330eb98507ca3f
+https://live-oneapp-prd-news.akamaized.net/Content/CMAF_OL2-CTR-4s/Live/channel(universo-east)/master.mpd
+
+#EXTINF:-1 tvg-id="turkiyevsusa0300foxsports4k" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="FIFA World Cup",Turkiye vs USA 03:00 (FOX SPORTS 4K)
+https://xyzcloud3.xyz/fs14k/index.m3u8
+
+#EXTINF:-1 tvg-id="turkiyevsusa0300nbcuniverso4k" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="FIFA World Cup",Turkiye vs USA 03:00 (NBC UNIVERSO 4K)
+https://xyzcloud3.xyz/tele4k2/index.m3u8
+
+#EXTINF:-1 tvg-id="turkiyevsusa0300fussballtv4k" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="FIFA World Cup",Turkiye vs USA 03:00 (FUSSBALL TV 4K)
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=4f558eae1b005126b2ac6e9eb1a7849e:17aea325d91b5e66f06a8c574f2f0b03
+https://da-50f11b292a028381000001120000000000000009.id.vx.tentcdn.eu/wp/at-live-7.tentcdn.eu/bpk-tv/WM_TV_1_UHD/default/index.mpd
+
+#EXTINF:-1 tvg-id="turkiyevsusa0300fussballtv24k" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="FIFA World Cup",Turkiye vs USA 03:00 (FUSSBALL TV2 4K)
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=ccdf9f3d9bbf5c508adf04f81918a285:66cf0524fcc2eb0c7dab8bbbf8829827
+https://da-50f11b292a028381000001120000000000000009.id.vx.tentcdn.eu/wp/at-live-7.tentcdn.eu/bpk-tv/WM_TV_2_UHD/default/index.mpd
+
+#EXTINF:-1 tvg-id="turkiyevsusa0300irib4k" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="FIFA World Cup",Turkiye vs USA 03:00 (IRIB 4K)
+https://ncdn.telewebion.ir/faratar/live/playlist.m3u8
+
+#EXTINF:-1 tvg-id="turkiyevsusa0300arabiclivefhd" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="FIFA World Cup",Turkiye vs USA 03:00 (ARABIC LIVE FHD)
+https://customer-xnyp0i3qki5poety.cloudflarestream.com/a43fd284ab5508f8fc396c19d552c945/manifest/video.m3u8
+
+#EXTINF:-1 tvg-id="turkiyevsusa0300sportzxlive" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="FIFA World Cup",Turkiye vs USA 03:00 (SportzX Live)
+https://instreams.pro/EU/HDWC3/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-id="turkiyevsusa0300matchfootballfhd" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="FIFA World Cup",Turkiye vs USA 03:00 (Match Football FHD)
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=9145a6e0f778e61866f573d4944dd533:d02173d40515fea5c83944f21d0f3114
+https://video.beeline.tv/live/d/channel319.isml/manifest-stb.mpd
+
+#EXTINF:-1 tvg-id="turkiyevsusa0300daznspanish" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="FIFA World Cup",Turkiye vs USA 03:00 (DAZN SPANISH)
+https://1nyaler.streamhostingcdn.top/stream/94/index.m3u8
+
+#EXTINF:-1 tvg-id="turkiyevsusa0300arabiclivehd" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="FIFA World Cup",Turkiye vs USA 03:00 (ARABIC LIVE HD)
+https://ex.creatas.site/poolos1.m3u8
+
+#EXTINF:-1 tvg-id="turkiyevsusa0300iscreenbdfhd" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="FIFA World Cup",Turkiye vs USA 03:00 (ISCREEN BD FHD)
+https://livecdn.rockstreamer.com/main/Iscreen_fifa_main/main/in4_1080p/chunks.m3u8
+
+#EXTINF:-1 tvg-id="turkiyevsusa0300somoytvhd" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="FIFA World Cup",Turkiye vs USA 03:00 (SOMOY TV HD)
+https://live.thebosstv.com:30443/dwlive/Somoy-TV/chunks.m3u8
+
+#EXTINF:-1 tvg-id="turkiyevsusa0300fussball4kger" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="FIFA World Cup",Turkiye vs USA 03:00 (FUSSBALL 4K  GER )
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=1f09d5788fbbb03a053d03cc731f31a9:d493d5a70c793362324638f61d1726ac
+https://svc45.main.sl.t-online.de/bpk-tv/KID01037_FUSSBALLTV1_uhd/DASH/index.mpd
+
+#EXTINF:-1 tvg-id="turkiyevsusa0300fussball24kger" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="FIFA World Cup",Turkiye vs USA 03:00 (FUSSBALL2 4K  GER )
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=1b98a0f2de7784c6e132942385a089f3:546eae09a8d81c498dfd08532dcd68a5
+https://svc45.main.sl.t-online.de/bpk-tv/KID01064_FUSSBALLTV2_uhd/DASH/index.mpd
+
+#EXTINF:-1 tvg-id="turkiyevsusa0300fussballtvfhd" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="FIFA World Cup",Turkiye vs USA 03:00 (FUSSBALL TV FHD)
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=1cb20afcd9d979c833cfd208c7d3eeb2:fef0c15b4a523370892edd5e4133c269
+https://svc45.main.sl.t-online.de/bpk-tv/KID01037_FUSSBALLTV1_hd/DASH/index.mpd
+
+#EXTINF:-1 tvg-id="turkiyevsusa0300fussball2tvfhd" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="FIFA World Cup",Turkiye vs USA 03:00 (FUSSBALL2 TV FHD)
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=1889c6c8cdf57aa3bc90bb976ca6cbdc:48ef3649d9076965b70e79e58b0028ef
+https://svc45.main.sl.t-online.de/bpk-tv/KID01064_FUSSBALLTV2_hd/DASH/index.mpd
+
+#EXTINF:-1 tvg-id="turkiyevsusa0300telemundousa" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="FIFA World Cup",Turkiye vs USA 03:00 (TELEMUNDO  USA )
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=7d6bb9f86e133e4cb33440b493b6b672:584ad285dcb9e7d42cf3e93f1cc3fe11
+https://live-oneapp-prd-news.akamaized.net/Content/CMAF_OL2-CTR-4s/Live/channel(WSNS)/master.mpd
+
+#EXTINF:-1 tvg-id="turkiyevsusa0300sporzadutchfhd" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="FIFA World Cup",Turkiye vs USA 03:00 (Sporza DUTCH FHD)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=7c0a14fc7dc3c641af8cb6506431a628:f318ff7c01cca20c4a5b3d91074ca460
 https://live.vrtcdn.be/groupd/live/0761024f-37fe-4254-bc37-e95d7c62b2d1/playout.isml/.mpd
