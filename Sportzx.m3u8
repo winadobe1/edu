@@ -175,11 +175,6 @@ https://android-database1.firebase-api.com/AccessLog2/108085_HD/apache.m3u8
 #KODIPROP:inputstream.adaptive.license_key=58551b13211b37d5b325d67e5c6cabef:3b4c3f8b4236fc57d66cdb54a606fe41
 https://g001-sle-us-cmaf-prd-ak.pcdn03.cssott.com/Content/CMAF_OS1-CTR-4s-v2/Live/channel(12010340-12010340-4445585a62764)/master_2hr.mpd
 
-#EXTINF:-1 tvg-id="sanantoniospurs0100nbafinalsfhd" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="NBA",San Antonio Spurs 01:00 (NBA FINALS FHD)
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=230ef7c88f9593b724d480ad69f4364e:53abde9522ef55d393b80bcb6c3a8899
-https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/dvi20dldek/out/v1/fedc067b45174f419d08e03ed70ebfc3/cenc.mpd
-
 #EXTINF:-1 tvg-id="sanantoniospurs0100hdserver" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="NBA",San Antonio Spurs 01:00 (HD SERVER)
 https://instreams.pro/US/NBA1/tracks-v1a1/mono.m3u8
 
