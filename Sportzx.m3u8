@@ -1,10 +1,20 @@
 #EXTM3U
 #EXT-X-VERSION:3
 
+#EXTINF:-1 tvg-id="formula11230skysportsfhd" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="F1",Formula 1 12:30 (SKY SPORTS FHD)
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=e4b8a499e49c9b01428957e7ad5f1f70:b732e701f7430995c55bddd46c22ad35
+https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/eydwn9gauv/out/v1/c1364545813240c69f1ee7f19f4c8022/cenc.mpd
+
 #EXTINF:-1 tvg-id="formula11230fancodefhd" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="F1",Formula 1 12:30 (FANCODE FHD)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=7e9239c1982d984a002df3ed049d0756:1b8a17598129a3618535c8fb05f103fe
 https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/fdb3pubmek/out/v1/aefca6420f944a9482e117f315de535f/cenc.mpd
+
+#EXTINF:-1 tvg-id="formula11230appletvfhd" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="F1",Formula 1 12:30 (APPLE TV  FHD)
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=d0403e43d30f01318493f9b268a569b6:eb7685f8492f29dc403a901cc585bf70
+https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/tevjza8kdk/out/v1/e352f4bb82fc4e87b05e2f5dbffd6bd9/cenc.mpd
 
 #EXTINF:-1 tvg-id="formula11230appletvfhd" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="F1",Formula 1 12:30 (APPLE TV FHD)
 https://hugh.cdn.rumble.cloud/live/qt9k24wa/slot-45/9rr2-ntiy/chunklist.m3u8
