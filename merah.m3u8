@@ -446,7 +446,7 @@ https://d3b0v7fggu5zwm.cloudfront.net/out/v1/bde0a6d8d3fd4d77ae5093ad2e6699dc/in
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 11.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=39c4dc6704cf4ceea2fd4863b88d8a7d:4e9d7954c2ff46759289da4fc9f018ea
-https://fta2-cdn-flr.visionplus.id/out/v1/89a6e4261cd7470f83e5869e90440cff/index.mpd
+https://d2tjypxxy769fn.cloudfront.net/out/v1/89a6e4261cd7470f83e5869e90440cff/index.mpd
 #EXTINF:-1 tvg-id="Sportstars2.id" tvg-name="Sportstars 2 HD" tvg-logo="https://i.imgur.com/A1hlnLA.png" group-title="Saluran Olahraga", SPORTSTARS 2
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 11.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
@@ -455,9 +455,9 @@ https://fta2-cdn-flr.visionplus.id/out/v1/89a6e4261cd7470f83e5869e90440cff/index
 https://d3b0v7fggu5zwm.cloudfront.net/out/v1/d2c68a3dfb644808b416bd90dcc92d5f/index.mpd
 #EXTINF:-1 tvg-id="SportStars3.id" tvg-name="Sportstars" tvg-logo="https://i.imgur.com/dIcTZj3.png" group-title="Saluran Olahraga", SPORTSTARS 3
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_type=clearkey
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 11.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
-#KODIPROP:inputstream.adaptive.license_key=https://pepek.semar.my.id/sportstars3.html
+#KODIPROP:inputstream.adaptive.license_key=ac900f4053fa420095fb84f491f7a331:59748725964ff275e524af73792c8ad4
 https://d2xz2v5wuvgur6.cloudfront.net/out/v1/6f5596513af749c19d0bcdac013dda3c/index.mpd
 #EXTINF:-1 tvg-id="MNCSports4.id" tvg-url="https://bit.ly/IndonesiaEpg" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a4/Sportstars_4.png" group-title="Saluran Olahraga", SPORTSTARS 4
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 11.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
@@ -553,60 +553,9 @@ https://sports.inisemar.my.id/get.php?id=rmtv.m3u8&auth=rmtvsemar25
 #https://sports.inisemar.my.id/get.php?id=dazn1fr.m3u8&auth=dazn1frsemar25
 #EXTINF:-1  tvg-logo="https://cdn.mos.cms.futurecdn.net/4NknJoCWxe5LRGBRKSrBgR-1200-80.jpg" group-title="Saluran Olahraga",DAZN IT
 #https://sports.inisemar.my.id/get.php?id=dazn1it.m3u8&auth=dazn1itsemar25
-#EXTINF:-1  tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRHjjVp92SN7TK92qk2hrLwALpYgd7O7j_WmA&s" group-title="Saluran Olahraga",TRT SPOR
-#https://sports.inisemar.my.id/get.php?id=trt.m3u8&auth=trtsemar25
-#EXTINF:-1  tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQC92aiEjXb96sbonqNm8NMr8JEXK-47k0uYw&s" group-title="Saluran Olahraga", FUBO SPORTS 1
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=dc69b6159a0f9f0a4e03b3ff91cbacd5:d0dcbcd7723bc40df0bf34c9c092d51f
-https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/3b7qwiqzk3/out/v1/9f14895badca43e6a716db021dcd0c31/cenc.mpd
-#EXTINF:-1  tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQC92aiEjXb96sbonqNm8NMr8JEXK-47k0uYw&s" group-title="Saluran Olahraga", FUBO SPORTS 2
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=3dcfbec0e7146928baa55210bf2cb62f:bc85f74f815d9be5ae1dd6defaa05135
-https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/uiffe4jhf0/out/v1/3534efafca8c4815adbb4d2e9a1fe003/cenc.mpd
-#EXTINF:-1 tvg-id="espn" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ESPN_wordmark.svg/330px-ESPN_wordmark.svg.png" group-title="Saluran Olahraga",ESPN
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=52358519f886446d82834a803b36f796:58b6ac8e07d354b178255e03b9d0f819
-https://mega.z5cable.com/bpk-tv/espn_hd/default/index.mpd
-#EXTINF:-1 tvg-id="espn2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/ESPN2_logo.svg/330px-ESPN2_logo.svg.png" group-title="Saluran Olahraga",ESPN 2
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=52358519f886446d82834a803b36f796:58b6ac8e07d354b178255e03b9d0f819
-https://mega.z5cable.com/bpk-tv/espn_2_hd/default/index.mpd
-#EXTINF:-1 tvg-id="espn3" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/ESPN3_logo.svg/330px-ESPN3_logo.svg.png" group-title="Saluran Olahraga",ESPN 3
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=0c39778fe8fb4f9f8574016b3d4ae2ed:232b1f450f2e37f47fdd5b678a8a546d
-https://mega.z5cable.com/bpk-tv/espn_3_hd/default/index.mpd
-#EXTINF:-1 group-title="Saluran Olahraga" tvg-logo="https://s3.amazonaws.com/assetsv2.nyra.com/filer_public_thumbnails/filer_public/15/bc/15bc193e-022b-49d8-8a84-15766f2f9d91/filer_publicuploadswysiwygfs1_810x430.jpg__1200x1200_q85_ALIAS-md_subsampling-2.jpg", Fox Sports 1
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=5466ebd70704bdeb657f0abf3c5ca4ef:bdd79b72d8e48ed483aa623cc38a8a16
-https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/tmpzbbdj9y/out/v1/962736723a534ba294e7592fef49827b/cenc.mpd
-#EXTINF:-1 tvg-logo="https://iili.io/KYJC4V9.png" group-title="Saluran Olahraga",Fox Sports 2
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=09453ce820d65fbc675de3185f9e454c:98cff9600995fa381c76fdacf3c7edae
-https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/awxnrqkbo5/out/v1/716529a4091947b0877e6cb80dbd6ccb/cenc.mpd
-#EXTINF:-1 group-title="Saluran Olahraga" tvg-logo="https://static.wikia.nocookie.net/mrrobot/images/0/0b/Usa_network_logo.jpg/revision/latest/scale-to-width-down/250?cb=20150724205307", USA Network
-https://sports.inisemar.my.id/get.php?id=usan.m3u8&auth=usansemar25
 #EXTINF:-1 tvg-logo="https://ewscripps.brightspotcdn.com/dims4/default/0c68c60/2147483647/strip/true/crop/1280x720+0+0/resize/1280x720!/quality/90/?url=https%3A%2F%2Fewscripps.brightspotcdn.com%2F1f%2F15%2Fac76e4834c5093ec08fe90679f21%2Fnbcsportsthisone.jpg" group-title="Saluran Olahraga",NBC Sports
 https://sports.inisemar.my.id/get.php?id=nbcs.m3u8&auth=nbcssemar25
-#EXTINF:-1 group-title="Saluran Olahraga" tvg-logo="https://static.wikia.nocookie.net/logosfake/images/b/b1/HubSports_1.png/revision/latest?cb=20190619114530", Hub Sports 1
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=42a10a01419642de97ee025db907fccd:04173eabe97faf32a1697878f5bdb156
-#https://jembutkuda.beww.pl/HubSports1/output/manifest.mpd
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQTF9XSf-aFB6N4zk_eVSe-InCaDWXiIhHHsZCqUfpmJkGPY-ac7D7QzZE&s=10" group-title="Saluran Olahraga", FUBO SPORTS 1
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=dc69b6159a0f9f0a4e03b3ff91cbacd5:d0dcbcd7723bc40df0bf34c9c092d51f
-https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/3b7qwiqzk3/out/v1/9f14895badca43e6a716db021dcd0c31/cenc.mpd
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQTF9XSf-aFB6N4zk_eVSe-InCaDWXiIhHHsZCqUfpmJkGPY-ac7D7QzZE&s=10" group-title="Saluran Olahraga", FUBO SPORTS 2
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=3dcfbec0e7146928baa55210bf2cb62f:bc85f74f815d9be5ae1dd6defaa05135
-https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/uiffe4jhf0/out/v1/3534efafca8c4815adbb4d2e9a1fe003/cenc.mpd
-#EXTINF:-1 tvg-id="WWENetwork.us" tvg-name="WWE NETWORK" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT139iQkDNQjFO3WI3sl5_FoODnFwFSOkcy_OOUM1LFaalcGOFuSowq8wDM&s=10" group-title="Saluran Olahraga", WWE NETWORK
+3sl5_FoODnFwFSOkcy_OOUM1LFaalcGOFuSowq8wDM&s=10" group-title="Saluran Olahraga", WWE NETWORK
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=00208c93f4358213b52220898b962385:8ae6063167228e350dd132d4a1573102
 #https://cfrt.stream.peacocktv.com/Content/CMAF_CTR-4s/Live/channel(vc106wh3yw)/master.mpd
@@ -956,30 +905,6 @@ http://6395online.com:8080/live/Iptv6988/0905692638/391474.m3u8
 #https://seprai.jasoncreak8.workers.dev/play?id=19412&type=dash
 #EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/Ni_3C1wqWcw/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLBgHvDp4ZaeFW3kEst-I00hiwB2iQ" Group-title="Live Event", Live FIVB Men U21 Pool 2
 #EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/Ni_3C1wqWcw/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLBgHvDp4ZaeFW3kEst-I00hiwB2iQ" Group-title="Live Event", Live FIVB Men U21 Pool 3
-#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/G5SuhBoZu0tcK3E9dpnriXRVJyo=/960x576/filters:quality(75)/vidio-web-prod-headline/uploads/headline/mobile_image/11123/bwf-2025-5e38f5.jpg" group-title="Live Event", Live BWF Court 1
-#EXTVLCOPT:http-user-agent=VidioPlayer/7.17.9
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=af26846e31d8c142395297699771ff8f:b0d970b7ba24bd76dcab99b0fe75f4e4
-https://v1dx.inisemar.my.id/cobaduarr.mpd?id=18249&type=dash&access=MTAxLjI1NS4yMDkuMTY1
-#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/G5SuhBoZu0tcK3E9dpnriXRVJyo=/960x576/filters:quality(75)/vidio-web-prod-headline/uploads/headline/mobile_image/11123/bwf-2025-5e38f5.jpg" group-title="Live Event", Live BWF Court 2
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#EXTVLCOPT:http-user-agent=VidioPlayer/7.17.9
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=d9c150a27811b47ea9c35d8a9f140a05:64bb5d595133a70ef7a04c3b4c449728
-https://v1dx.inisemar.my.id/cobaduarr.mpd?id=18250&type=dash&access=MTAxLjI1NS4yMDkuMTY1
-#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/G5SuhBoZu0tcK3E9dpnriXRVJyo=/960x576/filters:quality(75)/vidio-web-prod-headline/uploads/headline/mobile_image/11123/bwf-2025-5e38f5.jpg" group-title="Live Event", Live BWF Court 3
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#EXTVLCOPT:http-user-agent=VidioPlayer/7.17.9
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=c11d52e2c176d22abf86c23b4b0b9170:76197676008839a3b784d773a2542b98
-https://v1dx.inisemar.my.id/cobaduarr.mpd?id=18252&type=dash&access=MTAxLjI1NS4yMDkuMTY1
-#EXTINF:-1 group-logo="" group-title="Live Event" tvg-logo="https://thumbor.prod.vidiocdn.com/G5SuhBoZu0tcK3E9dpnriXRVJyo=/960x576/filters:quality(75)/vidio-web-prod-headline/uploads/headline/mobile_image/11123/bwf-2025-5e38f5.jpg" ch-number="1", Live BWF Court 4
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#EXTVLCOPT:http-user-agent=VidioPlayer/7.17.9
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=7abf8c6b6ad702c484b59959c11ab575:33a8a0828e996d4918edb8957798e1d7
-https://v1dx.inisemar.my.id/cobaduarr.mpd?id=18253&type=dash&access=MTAxLjI1NS4yMDkuMTY1
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTOvqApHkBREX1I0Y2prGNvkSKLja_HGHDioS0d5tkN60YU6HltNXlyAdu-&s=10" group-title="Live Event",Live MLS USA 1
 #https://sports.inisemar.my.id/get.php?id=mls1.m3u8&auth=mls1semar25&url=up
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTOvqApHkBREX1I0Y2prGNvkSKLja_HGHDioS0d5tkN60YU6HltNXlyAdu-&s=10" group-title="Live Event",Live MLS USA 2
@@ -1001,13 +926,25 @@ https://v1dx.inisemar.my.id/cobaduarr.mpd?id=18253&type=dash&access=MTAxLjI1NS4y
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://sports.inisemar.my.id/ckwc.cpp
-https://sports.inisemar.my.id/bbbbb.kt?id=wc2&auth=wc2semar25&ts=1783182600&access=MTAxLjI1NS4yMDkuMTY1
-#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/g4v6UKDmeQIegZcuUUBkD5hQSJE=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5160494/f59c83.jpg" group-title="Live Event", Indonesia vs Malaysia - Timnas U-17 Matchday 19:29 04 Juli 2026
+https://sports.inisemar.my.id/bbbbb.kt?id=wc2&auth=wc2semar25&ts=1783182600&access=MTc1LjEwNi4xNS4xODY=
+#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/g4v6UKDmeQIegZcuUUBkD5hQSJE=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5160494/f59c83.jpg" group-title="Live Event", Indonesia vs Malaysia - Timnas U-17 Matchday 19:28 04 Juli 2026
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 15; P1 Build/AP4A.25010.002; wv-atv) Google/0.4.7-dev AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/83.0.4103.106 Mobile Safari/537.36
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://vididi.semar.my.id/mbledos.php?drum=6mY052GLaZoIXKgqxl1-AjfX_bVjorebdo3ynwWNQmNZp2PM0zhVkH4nQFSWXfTUHJ11Em3cRvwskN6FCfmRV168y0OQtNg4SroouJjW5AZIPcz6oYiMW7kqrBN3PcQp
-https://vididi.semar.my.id/mbledos.mpd?pepek=Tb6iEqGkv1h0dnFT6tVbrZFhvzYkGgLQ_AcotjNU_NzdXCQEXzla0Z3_Nkcs1eveFjDmN9JNAeiqh8R0DJMkmXl6qy-QxbfyPIUi-LY5fqZ5vP94Vek3mO9PbhLT3rFM&ts=1783167540&access=MTAxLjI1NS4yMDkuMTY1
+#KODIPROP:inputstream.adaptive.license_key=https://vididi.semar.my.id/mbledos.php?drum=FF22KGN6sGamiJ7XhMA-9XTgXeOqlv12GCO6W3LJQwChHHQTiqZGemhB69y5blw22WH7x4LTpZx94e0KyrizlnS4kHZTgD5siJ0nSU1LvmijJ0UeHcg7VSWLmL_u0t5q
+https://vididi.semar.my.id/mbledos.mpd?pepek=fserpzIJKo4KQxDlaMa9d26pbr0sKbyCNQjg7OOJTfXRMdALC17HkQp-xlCMrYyhBlku25oYwWJgxznY4WR-KXmbHQAUjLvOjcMgyHVZImWsJkVeftU3gt08rKnl8sV_&ts=1783167480&access=MTc1LjEwNi4xNS4xODY=
+#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/0nOpDKASuQXUok-kAA-Z6RZ5OCQ=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/18249/yonex-canada-open-2026-semifinals-court-1-8d4d5a.jpg" group-title="Live Event", Presley Smith/Jennie Gai (USA) vs Liu Kuang Heng/Hsu Yin-Hui (TPE) - Mixed Doubles Semifinals 22:00 04 Juli 2026
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 15; P1 Build/AP4A.25010.002; wv-atv) Google/0.4.7-dev AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/83.0.4103.106 Mobile Safari/537.36
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=af26846e31d8c142395297699771ff8f:b0d970b7ba24bd76dcab99b0fe75f4e4
+https://vididi.semar.my.id/19354.mpd?pepek=mIRX07kmEm5-x5AuSK4_ITT7Ep2HOj8eV6boY-UxhpJJhgF5Ib1ST4GtdbC1l2YmDyzXY5MFkOFGPgdihj3P4BU9oMXw-PkPxWvGHUY7GIzeS-OGp_4WG1Gtsg-XtYG_&ts=1783176600&access=MTc1LjEwNi4xNS4xODY=
+#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/riecmnCxdTNyRqsV-C7jrdeyxqA=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/18250/yonex-canada-open-2026-semifinals-court-2-38aec6.jpg" group-title="Live Event", Takuto Goto/Tsubasa Yoshida (JPN) vs Hiroki Okamura/Kyohei Yamashita (JPN) - Men's Doubles Semifinals 23:30 04 Juli 2026
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 15; P1 Build/AP4A.25010.002; wv-atv) Google/0.4.7-dev AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/83.0.4103.106 Mobile Safari/537.36
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=d9c150a27811b47ea9c35d8a9f140a05:64bb5d595133a70ef7a04c3b4c449728
+https://vididi.semar.my.id/19354.mpd?pepek=rCAPbcBGrAW1WCaA0K__QrAB3otHbhEml2OtmeVeKTue0EKHD0T6_iqwMxvhHUHD_RQ-H7CSZZhm3b2Y8qeIjuFTzcrlXAnyHdxoybUY2iyYGGeUepCvjl2Xu08fBcJz&ts=1783182000&access=MTc1LjEwNi4xNS4xODY=
 
 #EXTINF:-1 tvg-logo="" group-title="1.Playlist ini gratis 100%",0. Kalo beli berarti kena tipu
 #https://cdn.semar.my.id/
@@ -1456,7 +1393,7 @@ https://d3b0v7fggu5zwm.cloudfront.net/out/v1/bde0a6d8d3fd4d77ae5093ad2e6699dc/in
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 11.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=39c4dc6704cf4ceea2fd4863b88d8a7d:4e9d7954c2ff46759289da4fc9f018ea
-https://fta2-cdn-flr.visionplus.id/out/v1/89a6e4261cd7470f83e5869e90440cff/index.mpd
+https://d2tjypxxy769fn.cloudfront.net/out/v1/89a6e4261cd7470f83e5869e90440cff/index.mpd
 #EXTINF:-1 tvg-id="Sportstars2.id" tvg-name="Sportstars 2 HD" tvg-logo="https://i.imgur.com/A1hlnLA.png" group-title="Saluran Olahraga", SPORTSTARS 2
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 11.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
@@ -1465,9 +1402,9 @@ https://fta2-cdn-flr.visionplus.id/out/v1/89a6e4261cd7470f83e5869e90440cff/index
 https://d3b0v7fggu5zwm.cloudfront.net/out/v1/d2c68a3dfb644808b416bd90dcc92d5f/index.mpd
 #EXTINF:-1 tvg-id="SportStars3.id" tvg-name="Sportstars" tvg-logo="https://i.imgur.com/dIcTZj3.png" group-title="Saluran Olahraga", SPORTSTARS 3
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_type=clearkey
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 11.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
-#KODIPROP:inputstream.adaptive.license_key=https://pepek.semar.my.id/sportstars3.html
+#KODIPROP:inputstream.adaptive.license_key=ac900f4053fa420095fb84f491f7a331:59748725964ff275e524af73792c8ad4
 https://d2xz2v5wuvgur6.cloudfront.net/out/v1/6f5596513af749c19d0bcdac013dda3c/index.mpd
 #EXTINF:-1 tvg-id="MNCSports4.id" tvg-url="https://bit.ly/IndonesiaEpg" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a4/Sportstars_4.png" group-title="Saluran Olahraga", SPORTSTARS 4
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 11.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
@@ -1563,60 +1500,9 @@ https://sports.inisemar.my.id/get.php?id=rmtv.m3u8&auth=rmtvsemar25
 #https://sports.inisemar.my.id/get.php?id=dazn1fr.m3u8&auth=dazn1frsemar25
 #EXTINF:-1  tvg-logo="https://cdn.mos.cms.futurecdn.net/4NknJoCWxe5LRGBRKSrBgR-1200-80.jpg" group-title="Saluran Olahraga",DAZN IT
 #https://sports.inisemar.my.id/get.php?id=dazn1it.m3u8&auth=dazn1itsemar25
-#EXTINF:-1  tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRHjjVp92SN7TK92qk2hrLwALpYgd7O7j_WmA&s" group-title="Saluran Olahraga",TRT SPOR
-#https://sports.inisemar.my.id/get.php?id=trt.m3u8&auth=trtsemar25
-#EXTINF:-1  tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQC92aiEjXb96sbonqNm8NMr8JEXK-47k0uYw&s" group-title="Saluran Olahraga", FUBO SPORTS 1
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=dc69b6159a0f9f0a4e03b3ff91cbacd5:d0dcbcd7723bc40df0bf34c9c092d51f
-https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/3b7qwiqzk3/out/v1/9f14895badca43e6a716db021dcd0c31/cenc.mpd
-#EXTINF:-1  tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQC92aiEjXb96sbonqNm8NMr8JEXK-47k0uYw&s" group-title="Saluran Olahraga", FUBO SPORTS 2
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=3dcfbec0e7146928baa55210bf2cb62f:bc85f74f815d9be5ae1dd6defaa05135
-https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/uiffe4jhf0/out/v1/3534efafca8c4815adbb4d2e9a1fe003/cenc.mpd
-#EXTINF:-1 tvg-id="espn" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ESPN_wordmark.svg/330px-ESPN_wordmark.svg.png" group-title="Saluran Olahraga",ESPN
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=52358519f886446d82834a803b36f796:58b6ac8e07d354b178255e03b9d0f819
-https://mega.z5cable.com/bpk-tv/espn_hd/default/index.mpd
-#EXTINF:-1 tvg-id="espn2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/ESPN2_logo.svg/330px-ESPN2_logo.svg.png" group-title="Saluran Olahraga",ESPN 2
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=52358519f886446d82834a803b36f796:58b6ac8e07d354b178255e03b9d0f819
-https://mega.z5cable.com/bpk-tv/espn_2_hd/default/index.mpd
-#EXTINF:-1 tvg-id="espn3" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/ESPN3_logo.svg/330px-ESPN3_logo.svg.png" group-title="Saluran Olahraga",ESPN 3
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=0c39778fe8fb4f9f8574016b3d4ae2ed:232b1f450f2e37f47fdd5b678a8a546d
-https://mega.z5cable.com/bpk-tv/espn_3_hd/default/index.mpd
-#EXTINF:-1 group-title="Saluran Olahraga" tvg-logo="https://s3.amazonaws.com/assetsv2.nyra.com/filer_public_thumbnails/filer_public/15/bc/15bc193e-022b-49d8-8a84-15766f2f9d91/filer_publicuploadswysiwygfs1_810x430.jpg__1200x1200_q85_ALIAS-md_subsampling-2.jpg", Fox Sports 1
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=5466ebd70704bdeb657f0abf3c5ca4ef:bdd79b72d8e48ed483aa623cc38a8a16
-https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/tmpzbbdj9y/out/v1/962736723a534ba294e7592fef49827b/cenc.mpd
-#EXTINF:-1 tvg-logo="https://iili.io/KYJC4V9.png" group-title="Saluran Olahraga",Fox Sports 2
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=09453ce820d65fbc675de3185f9e454c:98cff9600995fa381c76fdacf3c7edae
-https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/awxnrqkbo5/out/v1/716529a4091947b0877e6cb80dbd6ccb/cenc.mpd
-#EXTINF:-1 group-title="Saluran Olahraga" tvg-logo="https://static.wikia.nocookie.net/mrrobot/images/0/0b/Usa_network_logo.jpg/revision/latest/scale-to-width-down/250?cb=20150724205307", USA Network
-https://sports.inisemar.my.id/get.php?id=usan.m3u8&auth=usansemar25
 #EXTINF:-1 tvg-logo="https://ewscripps.brightspotcdn.com/dims4/default/0c68c60/2147483647/strip/true/crop/1280x720+0+0/resize/1280x720!/quality/90/?url=https%3A%2F%2Fewscripps.brightspotcdn.com%2F1f%2F15%2Fac76e4834c5093ec08fe90679f21%2Fnbcsportsthisone.jpg" group-title="Saluran Olahraga",NBC Sports
 https://sports.inisemar.my.id/get.php?id=nbcs.m3u8&auth=nbcssemar25
-#EXTINF:-1 group-title="Saluran Olahraga" tvg-logo="https://static.wikia.nocookie.net/logosfake/images/b/b1/HubSports_1.png/revision/latest?cb=20190619114530", Hub Sports 1
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=42a10a01419642de97ee025db907fccd:04173eabe97faf32a1697878f5bdb156
-#https://jembutkuda.beww.pl/HubSports1/output/manifest.mpd
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQTF9XSf-aFB6N4zk_eVSe-InCaDWXiIhHHsZCqUfpmJkGPY-ac7D7QzZE&s=10" group-title="Saluran Olahraga", FUBO SPORTS 1
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=dc69b6159a0f9f0a4e03b3ff91cbacd5:d0dcbcd7723bc40df0bf34c9c092d51f
-https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/3b7qwiqzk3/out/v1/9f14895badca43e6a716db021dcd0c31/cenc.mpd
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQTF9XSf-aFB6N4zk_eVSe-InCaDWXiIhHHsZCqUfpmJkGPY-ac7D7QzZE&s=10" group-title="Saluran Olahraga", FUBO SPORTS 2
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=3dcfbec0e7146928baa55210bf2cb62f:bc85f74f815d9be5ae1dd6defaa05135
-https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/uiffe4jhf0/out/v1/3534efafca8c4815adbb4d2e9a1fe003/cenc.mpd
-#EXTINF:-1 tvg-id="WWENetwork.us" tvg-name="WWE NETWORK" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT139iQkDNQjFO3WI3sl5_FoODnFwFSOkcy_OOUM1LFaalcGOFuSowq8wDM&s=10" group-title="Saluran Olahraga", WWE NETWORK
+3sl5_FoODnFwFSOkcy_OOUM1LFaalcGOFuSowq8wDM&s=10" group-title="Saluran Olahraga", WWE NETWORK
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=00208c93f4358213b52220898b962385:8ae6063167228e350dd132d4a1573102
 #https://cfrt.stream.peacocktv.com/Content/CMAF_CTR-4s/Live/channel(vc106wh3yw)/master.mpd
@@ -1966,30 +1852,6 @@ http://6395online.com:8080/live/Iptv6988/0905692638/391474.m3u8
 #https://seprai.jasoncreak8.workers.dev/play?id=19412&type=dash
 #EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/Ni_3C1wqWcw/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLBgHvDp4ZaeFW3kEst-I00hiwB2iQ" Group-title="Live Event", Live FIVB Men U21 Pool 2
 #EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/Ni_3C1wqWcw/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLBgHvDp4ZaeFW3kEst-I00hiwB2iQ" Group-title="Live Event", Live FIVB Men U21 Pool 3
-#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/G5SuhBoZu0tcK3E9dpnriXRVJyo=/960x576/filters:quality(75)/vidio-web-prod-headline/uploads/headline/mobile_image/11123/bwf-2025-5e38f5.jpg" group-title="Live Event", Live BWF Court 1
-#EXTVLCOPT:http-user-agent=VidioPlayer/7.17.9
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=af26846e31d8c142395297699771ff8f:b0d970b7ba24bd76dcab99b0fe75f4e4
-https://v1dx.inisemar.my.id/cobaduarr.mpd?id=18249&type=dash&access=MTE2LjEyLjQ3LjIxOA==
-#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/G5SuhBoZu0tcK3E9dpnriXRVJyo=/960x576/filters:quality(75)/vidio-web-prod-headline/uploads/headline/mobile_image/11123/bwf-2025-5e38f5.jpg" group-title="Live Event", Live BWF Court 2
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#EXTVLCOPT:http-user-agent=VidioPlayer/7.17.9
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=d9c150a27811b47ea9c35d8a9f140a05:64bb5d595133a70ef7a04c3b4c449728
-https://v1dx.inisemar.my.id/cobaduarr.mpd?id=18250&type=dash&access=MTE2LjEyLjQ3LjIxOA==
-#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/G5SuhBoZu0tcK3E9dpnriXRVJyo=/960x576/filters:quality(75)/vidio-web-prod-headline/uploads/headline/mobile_image/11123/bwf-2025-5e38f5.jpg" group-title="Live Event", Live BWF Court 3
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#EXTVLCOPT:http-user-agent=VidioPlayer/7.17.9
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=c11d52e2c176d22abf86c23b4b0b9170:76197676008839a3b784d773a2542b98
-https://v1dx.inisemar.my.id/cobaduarr.mpd?id=18252&type=dash&access=MTE2LjEyLjQ3LjIxOA==
-#EXTINF:-1 group-logo="" group-title="Live Event" tvg-logo="https://thumbor.prod.vidiocdn.com/G5SuhBoZu0tcK3E9dpnriXRVJyo=/960x576/filters:quality(75)/vidio-web-prod-headline/uploads/headline/mobile_image/11123/bwf-2025-5e38f5.jpg" ch-number="1", Live BWF Court 4
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#EXTVLCOPT:http-user-agent=VidioPlayer/7.17.9
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=7abf8c6b6ad702c484b59959c11ab575:33a8a0828e996d4918edb8957798e1d7
-https://v1dx.inisemar.my.id/cobaduarr.mpd?id=18253&type=dash&access=MTE2LjEyLjQ3LjIxOA==
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTOvqApHkBREX1I0Y2prGNvkSKLja_HGHDioS0d5tkN60YU6HltNXlyAdu-&s=10" group-title="Live Event",Live MLS USA 1
 #https://sports.inisemar.my.id/get.php?id=mls1.m3u8&auth=mls1semar25&url=up
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTOvqApHkBREX1I0Y2prGNvkSKLja_HGHDioS0d5tkN60YU6HltNXlyAdu-&s=10" group-title="Live Event",Live MLS USA 2
@@ -2011,10 +1873,22 @@ https://v1dx.inisemar.my.id/cobaduarr.mpd?id=18253&type=dash&access=MTE2LjEyLjQ3
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://sports.inisemar.my.id/ckwc.cpp
-https://sports.inisemar.my.id/bbbbb.kt?id=wc2&auth=wc2semar25&ts=1783182600&access=MTE2LjEyLjQ3LjIxOA==
-#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/g4v6UKDmeQIegZcuUUBkD5hQSJE=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5160494/f59c83.jpg" group-title="Live Event", Indonesia vs Malaysia - Timnas U-17 Matchday 19:29 04 Juli 2026
+https://sports.inisemar.my.id/bbbbb.kt?id=wc2&auth=wc2semar25&ts=1783182600&access=MjcuNTAuMjkuMjI2
+#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/g4v6UKDmeQIegZcuUUBkD5hQSJE=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5160494/f59c83.jpg" group-title="Live Event", Indonesia vs Malaysia - Timnas U-17 Matchday 19:28 04 Juli 2026
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 15; P1 Build/AP4A.25010.002; wv-atv) Google/0.4.7-dev AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/83.0.4103.106 Mobile Safari/537.36
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://vididi.semar.my.id/mbledos.php?drum=6mY052GLaZoIXKgqxl1-AjfX_bVjorebdo3ynwWNQmNZp2PM0zhVkH4nQFSWXfTUHJ11Em3cRvwskN6FCfmRV168y0OQtNg4SroouJjW5AZIPcz6oYiMW7kqrBN3PcQp
-https://vididi.semar.my.id/mbledos.mpd?pepek=Tb6iEqGkv1h0dnFT6tVbrZFhvzYkGgLQ_AcotjNU_NzdXCQEXzla0Z3_Nkcs1eveFjDmN9JNAeiqh8R0DJMkmXl6qy-QxbfyPIUi-LY5fqZ5vP94Vek3mO9PbhLT3rFM&ts=1783167540&access=MTE2LjEyLjQ3LjIxOA==
+#KODIPROP:inputstream.adaptive.license_key=https://vididi.semar.my.id/mbledos.php?drum=FF22KGN6sGamiJ7XhMA-9XTgXeOqlv12GCO6W3LJQwChHHQTiqZGemhB69y5blw22WH7x4LTpZx94e0KyrizlnS4kHZTgD5siJ0nSU1LvmijJ0UeHcg7VSWLmL_u0t5q
+https://vididi.semar.my.id/mbledos.mpd?pepek=fserpzIJKo4KQxDlaMa9d26pbr0sKbyCNQjg7OOJTfXRMdALC17HkQp-xlCMrYyhBlku25oYwWJgxznY4WR-KXmbHQAUjLvOjcMgyHVZImWsJkVeftU3gt08rKnl8sV_&ts=1783167480&access=MjcuNTAuMjkuMjI2
+#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/0nOpDKASuQXUok-kAA-Z6RZ5OCQ=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/18249/yonex-canada-open-2026-semifinals-court-1-8d4d5a.jpg" group-title="Live Event", Presley Smith/Jennie Gai (USA) vs Liu Kuang Heng/Hsu Yin-Hui (TPE) - Mixed Doubles Semifinals 22:00 04 Juli 2026
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 15; P1 Build/AP4A.25010.002; wv-atv) Google/0.4.7-dev AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/83.0.4103.106 Mobile Safari/537.36
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=af26846e31d8c142395297699771ff8f:b0d970b7ba24bd76dcab99b0fe75f4e4
+https://vididi.semar.my.id/19354.mpd?pepek=mIRX07kmEm5-x5AuSK4_ITT7Ep2HOj8eV6boY-UxhpJJhgF5Ib1ST4GtdbC1l2YmDyzXY5MFkOFGPgdihj3P4BU9oMXw-PkPxWvGHUY7GIzeS-OGp_4WG1Gtsg-XtYG_&ts=1783176600&access=MjcuNTAuMjkuMjI2
+#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/riecmnCxdTNyRqsV-C7jrdeyxqA=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/18250/yonex-canada-open-2026-semifinals-court-2-38aec6.jpg" group-title="Live Event", Takuto Goto/Tsubasa Yoshida (JPN) vs Hiroki Okamura/Kyohei Yamashita (JPN) - Men's Doubles Semifinals 23:30 04 Juli 2026
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 15; P1 Build/AP4A.25010.002; wv-atv) Google/0.4.7-dev AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/83.0.4103.106 Mobile Safari/537.36
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=d9c150a27811b47ea9c35d8a9f140a05:64bb5d595133a70ef7a04c3b4c449728
+https://vididi.semar.my.id/19354.mpd?pepek=rCAPbcBGrAW1WCaA0K__QrAB3otHbhEml2OtmeVeKTue0EKHD0T6_iqwMxvhHUHD_RQ-H7CSZZhm3b2Y8qeIjuFTzcrlXAnyHdxoybUY2iyYGGeUepCvjl2Xu08fBcJz&ts=1783182000&access=MjcuNTAuMjkuMjI2
