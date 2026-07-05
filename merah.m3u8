@@ -162,9 +162,6 @@ https://vididi.semar.my.id/terraluna/19046.mpd
 #EXTVLCOPT:http-user-agent=TVRIKLIK/7.0 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
 https://ott-balancer.tvri.go.id/live/eds/Nasional/hls/Nasional.m3u8
 http://khano.nng.cloudns.us/live/m3u8/id/3f58825fe229a9f.m3u8
-#EXTINF:-1  tvg-name="TVRI World" tvg-id="TVRI.id" tvg-logo="https://ik.imagekit.io/goodid/gnfi/uploads/articles/large-opening-tvri-world-6981f018fc32d02858d280ae62d718d7.jpg?tr=w-730,h-486,fo-center" group-title="Saluran Nasional",TVRI World
-#EXTVLCOPT:http-user-agent=TVRIKLIK/7.0 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
-http://cdn.nng.cloudns.us/live/m3u8/id/3f58825fe229a8i.m3u8
 #EXTINF:-1  tvg-name="TVRI World" tvg-id="TVRI.id" tvg-logo="https://football-tribe.com/indonesia/wp-content/uploads/sites/10/2019/01/TVRI-Sport-HD.png" group-title="Saluran Nasional",TVRI Sport
 #EXTVLCOPT:http-user-agent=TVRIKLIK/7.0 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
 http://157.15.187.3:25092/hls/49/49.m3u8
@@ -920,50 +917,19 @@ http://6395online.com:8080/live/Iptv6988/0905692638/391474.m3u8
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=91b9592c819246c68b3b08a1fe08ba22:fa0d80dfd865b34077bae44cd4a0c5e6
 #https://tglmp04.akamaized.net/sssssout/v1/400fc0702dee453bb33ebcc29466e58a/manifest.mpd
-#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/0nOpDKASuQXUok-kAA-Z6RZ5OCQ=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/18249/yonex-canada-open-2026-semifinals-court-1-8d4d5a.jpg" group-title="Live Event", Presley Smith/Jennie Gai (USA) vs Liu Kuang Heng/Hsu Yin-Hui (TPE) - Mixed Doubles Semifinals 22:00 04 Juli 2026
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 15; P1 Build/AP4A.25010.002; wv-atv) Google/0.4.7-dev AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/83.0.4103.106 Mobile Safari/537.36
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=af26846e31d8c142395297699771ff8f:b0d970b7ba24bd76dcab99b0fe75f4e4
-https://vididi.semar.my.id/19354.mpd?pepek=mIRX07kmEm5-x5AuSK4_ITT7Ep2HOj8eV6boY-UxhpJJhgF5Ib1ST4GtdbC1l2YmDyzXY5MFkOFGPgdihj3P4BU9oMXw-PkPxWvGHUY7GIzeS-OGp_4WG1Gtsg-XtYG_&ts=1783176600&access=MTAzLjE4Ljc3LjE0
-#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/riecmnCxdTNyRqsV-C7jrdeyxqA=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/18250/yonex-canada-open-2026-semifinals-court-2-38aec6.jpg" group-title="Live Event", Takuto Goto/Tsubasa Yoshida (JPN) vs Hiroki Okamura/Kyohei Yamashita (JPN) - Men's Doubles Semifinals 23:30 04 Juli 2026
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 15; P1 Build/AP4A.25010.002; wv-atv) Google/0.4.7-dev AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/83.0.4103.106 Mobile Safari/537.36
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=d9c150a27811b47ea9c35d8a9f140a05:64bb5d595133a70ef7a04c3b4c449728
-https://vididi.semar.my.id/19354.mpd?pepek=rCAPbcBGrAW1WCaA0K__QrAB3otHbhEml2OtmeVeKTue0EKHD0T6_iqwMxvhHUHD_RQ-H7CSZZhm3b2Y8qeIjuFTzcrlXAnyHdxoybUY2iyYGGeUepCvjl2Xu08fBcJz&ts=1783182000&access=MTAzLjE4Ljc3LjE0
-#EXTINF:-1 tvg-logo="http://klotok.semar.my.id/fola/genlogo.php?v=polos&home=https%3A%2F%2Fcms-static.folaplay.com%2Ficon%2F8678.jpg&away=https%3A%2F%2Fcms-static.folaplay.com%2Ficon%2F7998.jpg" group-title="Live Event",Paraguay vs France - Piala Dunia FIFA 2026 04:00 05 July 2026
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-#KODIPROP:inputstream.adaptive.stream_headers=X-Requested-With=SemarHttpRequest
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://sports.inisemar.my.id/ckwc.cpp
-https://sports.inisemar.my.id/bbbbb.kt?id=wc2&auth=wc2semar25&ts=1783197000&access=MTAzLjE4Ljc3LjE0
 #EXTINF:-1 tvg-logo="http://klotok.semar.my.id/fola/genlogo.php?v=polos&home=https%3A%2F%2Fcms-static.folaplay.com%2Ficon%2F8630.jpg&away=https%3A%2F%2Fcms-static.folaplay.com%2Ficon%2F7970.jpg" group-title="Live Event",Brazil vs Norway - Piala Dunia FIFA 2026 03:00 06 July 2026
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 #KODIPROP:inputstream.adaptive.stream_headers=X-Requested-With=SemarHttpRequest
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://sports.inisemar.my.id/ckwc.cpp
-https://sports.inisemar.my.id/bbbbb.kt?id=wc2&auth=wc2semar25&ts=1783279800&access=MTAzLjE4Ljc3LjE0
-#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/D9LEoDuNsGTsMZc1PbbvVznd3NI=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5185594/c22677.jpg" group-title="Live Event", Michelle Li (CAN) vs Riko Gunji (JPN) - Women's Singles Semifinals 03:30 05 Juli 2026
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 15; P1 Build/AP4A.25010.002; wv-atv) Google/0.4.7-dev AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/83.0.4103.106 Mobile Safari/537.36
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=af26846e31d8c142395297699771ff8f:b0d970b7ba24bd76dcab99b0fe75f4e4
-https://vididi.semar.my.id/19354.mpd?pepek=TYHWsYqcXCJEggY_cyKSUbV6KFtETNxqpvQnSHr1l75hveAoL5mIqSlzOiLcR9FKp61m_FP8t-5saOFtDrB6IjvBj3hSyV7Z8pOGn-f7YYG7RunAhHh9KfXs2gvoGzpO&ts=1783196400&access=MTAzLjE4Ljc3LjE0
-#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/riecmnCxdTNyRqsV-C7jrdeyxqA=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/18250/yonex-canada-open-2026-semifinals-court-2-38aec6.jpg" group-title="Live Event", Kaho Osawa/Mai Tanabe (JPN) vs Lauren Lam/Allison Quynh Lee (USA) - Women's Doubles Semifinals 04:30 05 Juli 2026
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 15; P1 Build/AP4A.25010.002; wv-atv) Google/0.4.7-dev AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/83.0.4103.106 Mobile Safari/537.36
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=d9c150a27811b47ea9c35d8a9f140a05:64bb5d595133a70ef7a04c3b4c449728
-https://vididi.semar.my.id/19354.mpd?pepek=vSGOl7HSDc78u9emkw2x0ciToJuZLczWX5zFddE75G6KNGUGnOhJ23OHC99b6Hwjfy19spA5W77S0VvEJygOR_xnhGGC6EPvsQExz0hz_XQUf5ABt8XiyK1hAgrUzAd6&ts=1783200000&access=MTAzLjE4Ljc3LjE0
+https://sports.inisemar.my.id/bbbbb.kt?id=wc2&auth=wc2semar25&ts=1783279800&access=MTAzLjIxNy4yMTcuMzU=
 #EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/9pwD9j3HeHhEkVc8l6humPp3XN4=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5185619/866d37.jpg" group-title="Live Event", Thailand vs Indonesia - AVC Girls' U18 Volleyball Championship 19:00 05 Juli 2026
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 15; P1 Build/AP4A.25010.002; wv-atv) Google/0.4.7-dev AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/83.0.4103.106 Mobile Safari/537.36
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://vididi.semar.my.id/mbledos.php?drum=W21jc-PZ2QPLuy1PrPeVHZDUKWQI-tgCo4yU0Yvh6OvZe0ajNeuY53yRdI8ToB0G4SXZ5LtJVirZTx0Z4lPoQKqgFoU6geiX0Umeec4vobSsHK1chKLLBW6CAwqrKr7Z
-https://vididi.semar.my.id/mbledos.mpd?pepek=SibsLMfgmAllX7xqbFOSeNwMj72z93zkk7q9M6Vw4P57yvRCw4D2Jnoy5yI20-fFd_f_-LC4ABb_Ok_Ef4cLyRtBVrKtg268MagnbOprQr8-yPhiBhI5TGJP6HMf1xaw&ts=1783252200&access=MTAzLjE4Ljc3LjE0
+#KODIPROP:inputstream.adaptive.license_key=https://vididi.semar.my.id/mbledos.php?drum=8h6buqlnHEKUOdOo5qRfLNjsg_itDC96OLSnp84CaTfWm4QjZ3jCzJ4U52woto3JxcGWeeduvibp3_4sNQGqU2_VAnGJuZu7t-6FeKu5-3iuYudktfPvoxiMdo3Y22Kc
+https://vididi.semar.my.id/mbledos.mpd?pepek=reYXfbWYGM3y1pn5-I9CoVlMRJh2nVDEOGgbBT22bpAAJznvKrnhqnnTPDFMve7jA-4D5ZLB-WfKTZffnCGrmk-GvNn4YLPFiLafBoNds4Go7zhp-G3C7JfpKgVVuDVM&ts=1783252200&access=MTAzLjIxNy4yMTcuMzU=
 
 #EXTINF:-1 tvg-logo="" group-title="1.Playlist ini gratis 100%",0. Kalo beli berarti kena tipu
 #https://cdn.semar.my.id/
@@ -1128,9 +1094,6 @@ https://vididi.semar.my.id/terraluna/19046.mpd
 #EXTVLCOPT:http-user-agent=TVRIKLIK/7.0 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
 https://ott-balancer.tvri.go.id/live/eds/Nasional/hls/Nasional.m3u8
 http://khano.nng.cloudns.us/live/m3u8/id/3f58825fe229a9f.m3u8
-#EXTINF:-1  tvg-name="TVRI World" tvg-id="TVRI.id" tvg-logo="https://ik.imagekit.io/goodid/gnfi/uploads/articles/large-opening-tvri-world-6981f018fc32d02858d280ae62d718d7.jpg?tr=w-730,h-486,fo-center" group-title="Saluran Nasional",TVRI World
-#EXTVLCOPT:http-user-agent=TVRIKLIK/7.0 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
-http://cdn.nng.cloudns.us/live/m3u8/id/3f58825fe229a8i.m3u8
 #EXTINF:-1  tvg-name="TVRI World" tvg-id="TVRI.id" tvg-logo="https://football-tribe.com/indonesia/wp-content/uploads/sites/10/2019/01/TVRI-Sport-HD.png" group-title="Saluran Nasional",TVRI Sport
 #EXTVLCOPT:http-user-agent=TVRIKLIK/7.0 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
 http://157.15.187.3:25092/hls/49/49.m3u8
@@ -1886,47 +1849,16 @@ http://6395online.com:8080/live/Iptv6988/0905692638/391474.m3u8
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=91b9592c819246c68b3b08a1fe08ba22:fa0d80dfd865b34077bae44cd4a0c5e6
 #https://tglmp04.akamaized.net/sssssout/v1/400fc0702dee453bb33ebcc29466e58a/manifest.mpd
-#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/0nOpDKASuQXUok-kAA-Z6RZ5OCQ=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/18249/yonex-canada-open-2026-semifinals-court-1-8d4d5a.jpg" group-title="Live Event", Presley Smith/Jennie Gai (USA) vs Liu Kuang Heng/Hsu Yin-Hui (TPE) - Mixed Doubles Semifinals 22:00 04 Juli 2026
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 15; P1 Build/AP4A.25010.002; wv-atv) Google/0.4.7-dev AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/83.0.4103.106 Mobile Safari/537.36
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=af26846e31d8c142395297699771ff8f:b0d970b7ba24bd76dcab99b0fe75f4e4
-https://vididi.semar.my.id/19354.mpd?pepek=mIRX07kmEm5-x5AuSK4_ITT7Ep2HOj8eV6boY-UxhpJJhgF5Ib1ST4GtdbC1l2YmDyzXY5MFkOFGPgdihj3P4BU9oMXw-PkPxWvGHUY7GIzeS-OGp_4WG1Gtsg-XtYG_&ts=1783176600&access=MTc1LjE1OC40MC4yMjQ=
-#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/riecmnCxdTNyRqsV-C7jrdeyxqA=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/18250/yonex-canada-open-2026-semifinals-court-2-38aec6.jpg" group-title="Live Event", Takuto Goto/Tsubasa Yoshida (JPN) vs Hiroki Okamura/Kyohei Yamashita (JPN) - Men's Doubles Semifinals 23:30 04 Juli 2026
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 15; P1 Build/AP4A.25010.002; wv-atv) Google/0.4.7-dev AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/83.0.4103.106 Mobile Safari/537.36
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=d9c150a27811b47ea9c35d8a9f140a05:64bb5d595133a70ef7a04c3b4c449728
-https://vididi.semar.my.id/19354.mpd?pepek=rCAPbcBGrAW1WCaA0K__QrAB3otHbhEml2OtmeVeKTue0EKHD0T6_iqwMxvhHUHD_RQ-H7CSZZhm3b2Y8qeIjuFTzcrlXAnyHdxoybUY2iyYGGeUepCvjl2Xu08fBcJz&ts=1783182000&access=MTc1LjE1OC40MC4yMjQ=
-#EXTINF:-1 tvg-logo="http://klotok.semar.my.id/fola/genlogo.php?v=polos&home=https%3A%2F%2Fcms-static.folaplay.com%2Ficon%2F8678.jpg&away=https%3A%2F%2Fcms-static.folaplay.com%2Ficon%2F7998.jpg" group-title="Live Event",Paraguay vs France - Piala Dunia FIFA 2026 04:00 05 July 2026
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-#KODIPROP:inputstream.adaptive.stream_headers=X-Requested-With=SemarHttpRequest
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://sports.inisemar.my.id/ckwc.cpp
-https://sports.inisemar.my.id/bbbbb.kt?id=wc2&auth=wc2semar25&ts=1783197000&access=MTc1LjE1OC40MC4yMjQ=
 #EXTINF:-1 tvg-logo="http://klotok.semar.my.id/fola/genlogo.php?v=polos&home=https%3A%2F%2Fcms-static.folaplay.com%2Ficon%2F8630.jpg&away=https%3A%2F%2Fcms-static.folaplay.com%2Ficon%2F7970.jpg" group-title="Live Event",Brazil vs Norway - Piala Dunia FIFA 2026 03:00 06 July 2026
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 #KODIPROP:inputstream.adaptive.stream_headers=X-Requested-With=SemarHttpRequest
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://sports.inisemar.my.id/ckwc.cpp
-https://sports.inisemar.my.id/bbbbb.kt?id=wc2&auth=wc2semar25&ts=1783279800&access=MTc1LjE1OC40MC4yMjQ=
-#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/D9LEoDuNsGTsMZc1PbbvVznd3NI=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5185594/c22677.jpg" group-title="Live Event", Michelle Li (CAN) vs Riko Gunji (JPN) - Women's Singles Semifinals 03:30 05 Juli 2026
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 15; P1 Build/AP4A.25010.002; wv-atv) Google/0.4.7-dev AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/83.0.4103.106 Mobile Safari/537.36
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=af26846e31d8c142395297699771ff8f:b0d970b7ba24bd76dcab99b0fe75f4e4
-https://vididi.semar.my.id/19354.mpd?pepek=TYHWsYqcXCJEggY_cyKSUbV6KFtETNxqpvQnSHr1l75hveAoL5mIqSlzOiLcR9FKp61m_FP8t-5saOFtDrB6IjvBj3hSyV7Z8pOGn-f7YYG7RunAhHh9KfXs2gvoGzpO&ts=1783196400&access=MTc1LjE1OC40MC4yMjQ=
-#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/riecmnCxdTNyRqsV-C7jrdeyxqA=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/18250/yonex-canada-open-2026-semifinals-court-2-38aec6.jpg" group-title="Live Event", Kaho Osawa/Mai Tanabe (JPN) vs Lauren Lam/Allison Quynh Lee (USA) - Women's Doubles Semifinals 04:30 05 Juli 2026
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 15; P1 Build/AP4A.25010.002; wv-atv) Google/0.4.7-dev AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/83.0.4103.106 Mobile Safari/537.36
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=d9c150a27811b47ea9c35d8a9f140a05:64bb5d595133a70ef7a04c3b4c449728
-https://vididi.semar.my.id/19354.mpd?pepek=vSGOl7HSDc78u9emkw2x0ciToJuZLczWX5zFddE75G6KNGUGnOhJ23OHC99b6Hwjfy19spA5W77S0VvEJygOR_xnhGGC6EPvsQExz0hz_XQUf5ABt8XiyK1hAgrUzAd6&ts=1783200000&access=MTc1LjE1OC40MC4yMjQ=
+https://sports.inisemar.my.id/bbbbb.kt?id=wc2&auth=wc2semar25&ts=1783279800&access=MTAzLjI0Ny4yMS45Mw==
 #EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/9pwD9j3HeHhEkVc8l6humPp3XN4=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5185619/866d37.jpg" group-title="Live Event", Thailand vs Indonesia - AVC Girls' U18 Volleyball Championship 19:00 05 Juli 2026
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 15; P1 Build/AP4A.25010.002; wv-atv) Google/0.4.7-dev AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/83.0.4103.106 Mobile Safari/537.36
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://vididi.semar.my.id/mbledos.php?drum=W21jc-PZ2QPLuy1PrPeVHZDUKWQI-tgCo4yU0Yvh6OvZe0ajNeuY53yRdI8ToB0G4SXZ5LtJVirZTx0Z4lPoQKqgFoU6geiX0Umeec4vobSsHK1chKLLBW6CAwqrKr7Z
-https://vididi.semar.my.id/mbledos.mpd?pepek=SibsLMfgmAllX7xqbFOSeNwMj72z93zkk7q9M6Vw4P57yvRCw4D2Jnoy5yI20-fFd_f_-LC4ABb_Ok_Ef4cLyRtBVrKtg268MagnbOprQr8-yPhiBhI5TGJP6HMf1xaw&ts=1783252200&access=MTc1LjE1OC40MC4yMjQ=
+#KODIPROP:inputstream.adaptive.license_key=https://vididi.semar.my.id/mbledos.php?drum=8h6buqlnHEKUOdOo5qRfLNjsg_itDC96OLSnp84CaTfWm4QjZ3jCzJ4U52woto3JxcGWeeduvibp3_4sNQGqU2_VAnGJuZu7t-6FeKu5-3iuYudktfPvoxiMdo3Y22Kc
+https://vididi.semar.my.id/mbledos.mpd?pepek=reYXfbWYGM3y1pn5-I9CoVlMRJh2nVDEOGgbBT22bpAAJznvKrnhqnnTPDFMve7jA-4D5ZLB-WfKTZffnCGrmk-GvNn4YLPFiLafBoNds4Go7zhp-G3C7JfpKgVVuDVM&ts=1783252200&access=MTAzLjI0Ny4yMS45Mw==
