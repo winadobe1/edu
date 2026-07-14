@@ -143,8 +143,6 @@ https://d3b0v7fggu5zwm.cloudfront.net/out/v1/77641c37b4834a9db823ec5137774973/in
 #EXTINF:-1  tvg-name="Nusantara TV" tvg-id="Nusantara.TV.id" tvg-logo="https://www.nusantaratv.com/2024/06/siaran-1719414787-06-2024.jpg" group-title="Saluran Nasional",Nusantara TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36
 https://nusantaratv.siar.us/nusantaratv/live/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://media.licdn.com/dms/image/v2/C561BAQGOnIN_fYUMfg/company-background_10000/company-background_10000/0/1639496853603/ugtv_cover?e=2147483647&v=beta&t=3jn5psRKJioPcFh9LwQKxn1mg_ibHzFQt47CdzX3kiI" group-title="Saluran Nasional", UGTV
-https://cdn.gunadarma.ac.id/streams/ugtv/ingestugtv.m3u8
 #EXTINF:-1  tvg-name="BTV" tvg-id="BTV.id" tvg-logo="https://i.imgur.com/T070Wbh.png" group-title="Saluran Nasional",BTV
 http://khano.nng.cloudns.us/live/m3u8/id/270f72deeb5843h.m3u8
 #EXTINF:-1  tvg-name="TVOne" tvg-id="tvOne.my.id" tvg-logo="https://i.imgur.com/tq4taTY.png" group-title="Saluran Nasional",TVOne
@@ -917,190 +915,130 @@ http://6395online.com:8080/live/Iptv6988/0905692638/391474.m3u8
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=91b9592c819246c68b3b08a1fe08ba22:fa0d80dfd865b34077bae44cd4a0c5e6
 #https://tglmp04.akamaized.net/sssssout/v1/400fc0702dee453bb33ebcc29466e58a/manifest.mpd
-#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/EIX0-7bX2hec7O4ez8VZ7y7k_L0=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5195566/0ec5fd.jpg" group-title="Live Event", Lorenzo Sonego vs Joel Schwaerzler - Round 1 15:30 13 Juli 2026
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 15; P1 Build/AP4A.25010.002; wv-atv) Google/0.4.7-dev AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/83.0.4103.106 Mobile Safari/537.36
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://vididi.semar.my.id/mbledos.php?drum=oqnNfbvuPY2k8zJS2C9AZkYhDogh2oSQKMFJuQDiRwB2RRRWf5ca997LIP7sH4ERKWEcPoMC0F_2hGZA0-BDZkugsVkotm93YcMvW1un_8H1ONWjCxszQ7bM3hq0t4J0
-https://vididi.semar.my.id/mbledos.mpd?pepek=PQPqYRQBzkQc6CAOqZVYsXoa584dUDQj28n8FW1Jsmnv18QaF9aFc7tiWQV0VKaIkGv32PWWfRfblUbnq8L7iG6wdJgWb92jjTqmcgI0JQQnLVl7ldwNjt4OQ4Q8CDhu&ts=1783930800&access=MzYuOTIuNjEuNzU=
-#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/cHrcQ02gwH9mtoemz2GL7O1DMOs=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5195567/351f4c.jpg" group-title="Live Event", Kilian Feldbausch vs Miomir Kecmanovic - Round 1 17:30 13 Juli 2026
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 15; P1 Build/AP4A.25010.002; wv-atv) Google/0.4.7-dev AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/83.0.4103.106 Mobile Safari/537.36
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://vididi.semar.my.id/mbledos.php?drum=cuqxqSjmQVacrXSRhqoRhSsaGs6s_W-NPh_zACFSzKa-0dC9q5Y-uOzIEOFTtq-WTX4NGthxN2XaxYTqMez4XgSKe4x3idvkYy_UGQSMnSk66_uIQIG1Xdp5DIJ3lPOd
-https://vididi.semar.my.id/mbledos.mpd?pepek=o8li0AGcVVnr5H2DnpewHJ_dNt8dEUjlNfAdcTpC1ObT-sg_3wXmQd-CpUZhwTTjqCPmJJv3_I5SDSJSwIeuLIR0EYhs7mPtuJWtSUpSAJuy7x9z0bdYIB9EolXXylqD&ts=1783938000&access=MzYuOTIuNjEuNzU=
 #EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/wbcKQIkINJ06eVYE8iJne9LUxJY=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5195570/e4c32b.jpg" group-title="Live Event", Thomas Faurel vs Miguel Damas - Qualifying Final 18:30 13 Juli 2026
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 15; P1 Build/AP4A.25010.002; wv-atv) Google/0.4.7-dev AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/83.0.4103.106 Mobile Safari/537.36
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://vididi.semar.my.id/mbledos.php?drum=ipohT8ZAyS3aY8gT4Gkvu82w2186Pj_PYucftEyEqDjfyYEgfii8Rgvr34k0oQjhmsWBQnduYBEFNXO4aeL08ciMB8Dqf7U25SawyVqNAPffAZNjNqosMaM4AGvHMqrt
-https://vididi.semar.my.id/mbledos.mpd?pepek=Y6KEvDJMdDl2JZkM4BWbfuwvjegzytJPzs_zf8C3iUJAENZnz1-lYQCzSDYa51YTS-v6l-e85FIwQ-M-4OYwITkQyRBl9t6yGlaNB9bNFtpIX8SwK7hWEH1u-GzMlNtY&ts=1783941600&access=MzYuOTIuNjEuNzU=
-#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/LNQMiR9kWptOPPhAGdBpVkIpaBU=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5195568/262941.jpg" group-title="Live Event", Marcelo Demoliner/Robert Galloway vs Jerome Kym/Stan Wawrinka - Round 1 20:00 13 Juli 2026
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 15; P1 Build/AP4A.25010.002; wv-atv) Google/0.4.7-dev AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/83.0.4103.106 Mobile Safari/537.36
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://vididi.semar.my.id/mbledos.php?drum=TKJliRPZI3H7vDpm7oT1QIzilKUY3wlNfKp0p3fQl5Re2K4pULWENGUovjR3SG6icuKz3wgrBxXAPOwEr765Fl6ebpNTnbb1j3au2io5eppBgSotHQWwnGeeczwjTnjq
-https://vididi.semar.my.id/mbledos.mpd?pepek=Sqq1wyh-CR2Oroz-03A9Y5yUtdHxR9b1qvf8LitKzEw0rgFE-RheAmAtaWW8azxdYlmRSLluCz_y0pkyJmXm76Ay-unwIzb8wl-JUwHT6Hqo33BIZg3Xx5OwO0iIyRNt&ts=1783947000&access=MzYuOTIuNjEuNzU=
-#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/ryTzPRdKyOq8gmkWa_0q8fsq5-Y=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5195571/3146e6.jpg" group-title="Live Event", Jesper De Jong vs Vilius Gaubas - Round 1 20:30 13 Juli 2026
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 15; P1 Build/AP4A.25010.002; wv-atv) Google/0.4.7-dev AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/83.0.4103.106 Mobile Safari/537.36
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://vididi.semar.my.id/mbledos.php?drum=zX54kerj8BRbioAvAR2nhhZy4vXvFFuE-3rpTG3I-wCnQ9TQzH23JNAHrK1rFenaIXXJGNAz6fRpZfruvY52rUMEtv0mU-5L9P2FSKTsGqNRhYCu0x16gn1N7IgjXXyW
-https://vididi.semar.my.id/mbledos.mpd?pepek=ozdhYHDs6Y8V-rscFb7MmdwxuloTozW6SWGzVa6QJt_nKJEfYstFTzAiM9xMy8JE_G9gYUH7opsyD3YEOEmaQuzej_q06xs7NngjM-qdtsmPZ51j4KeR3Ix0mZXodXxJ&ts=1783948800&access=MzYuOTIuNjEuNzU=
-#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/qqzw8jnrIWmq1lKS_9H58ilppmA=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5195572/4d09b0.jpg" group-title="Live Event", Damir Dzumhur vs Henrique Rocha - Round 1 21:00 13 Juli 2026
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 15; P1 Build/AP4A.25010.002; wv-atv) Google/0.4.7-dev AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/83.0.4103.106 Mobile Safari/537.36
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://vididi.semar.my.id/mbledos.php?drum=G4xPeHrQYmUkZkYUTBxdFB-3C0e6kA73ZPcAyeLMoU-BFiFYEaDaiWSnmdJatDf-M20Yf12OeTXtPLjA40-dmCFmDd260iGkLck2OKx9EHaEIf-zN3_cg3XUNy0DDTFL
-https://vididi.semar.my.id/mbledos.mpd?pepek=c92rHnGpnI_Ecmq5gftpHEhGkmJtxJn_UiG3q7aID51uJWkEl_m6t1aRlYnG-ydWb0DAYlBaSq5x0ss5uXGydmMC591V3LPBk3utP-j2DIHY1AR9OHimZ3Vch1HNEoSA&ts=1783950600&access=MzYuOTIuNjEuNzU=
-#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/MHZNiGsc3l24eKO8weh11E2NM5Q=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5195569/2cabfd.jpg" group-title="Live Event", Dominic Stricker vs Jaume Munar - Round 1 22:30 13 Juli 2026
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 15; P1 Build/AP4A.25010.002; wv-atv) Google/0.4.7-dev AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/83.0.4103.106 Mobile Safari/537.36
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://vididi.semar.my.id/mbledos.php?drum=wYzjEQV-TmSX70x75IJ2REe3kKFj9tMGkvx6Zy1ihVBPvkF3NhMj-4oeyeMe3rkw8fkY7V7hiBM3fgA7RmRjc4jWu7cQU84T_pYpmYHpT3_IS27PzMeX3Dh9J5H3p8fG
-https://vididi.semar.my.id/mbledos.mpd?pepek=0mnJ20fdh2VMhcJBME5Av_oFymFgN5xaTSro8X48y3qsiJGnUOfRkNVNREpMYvydedbsXfOgjBsahjbdcTHhBUTH8VABmowQVnKTAqsIzAg-SViiEvbebqAmIaqwZjOF&ts=1783956000&access=MzYuOTIuNjEuNzU=
-#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/X6FIPEzUVHavutgNzbuF1-UO0HY=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5195573/92c39d.jpg" group-title="Live Event", Dusan Lajovic vs Luca van Assche - Round 1 23:00 13 Juli 2026
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 15; P1 Build/AP4A.25010.002; wv-atv) Google/0.4.7-dev AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/83.0.4103.106 Mobile Safari/537.36
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://vididi.semar.my.id/mbledos.php?drum=zElTzIYAaiC-DNC9nbwh5CXrV7WvsXQ-N47mBKmvi0AwwMaUaciXii87pVXYMlExuCUAoJNjJbuaUs6GreZPaoHTwBrWPQUjqGfv_Bw-SztHjVfn234Sv8G77jQbbD1D
-https://vididi.semar.my.id/mbledos.mpd?pepek=DS6uutLFEYrTJm52PMAzFStpJm0m-cuItcuRLc3MQ3Ju020VZeQyFiowaavn_X2wQ26prokcoaJLafGrCHvzy5-F07Zd2nqcV6VvPLGd2xDf2-7cpb2Cq_jOhtA2ljDK&ts=1783957800&access=MzYuOTIuNjEuNzU=
-#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/qtazkAHjte5LL2Ur2IanAEY4syw=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5195574/023a10.jpg" group-title="Live Event", Vit Kopriva vs Dino Prizmic - Round 1 02:00 14 Juli 2026
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 15; P1 Build/AP4A.25010.002; wv-atv) Google/0.4.7-dev AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/83.0.4103.106 Mobile Safari/537.36
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://vididi.semar.my.id/mbledos.php?drum=Tm5MEm5YghsuTr3NRXfRnsLg39WE39xV53wpvE7DN5PLLtPfmKrzK0UhVxKF3-uawml5U-DyMt6RxbyYCeZc6CPtsQR6mpk6B_baIQTp4wnDYCOXidFIuRGklu329FkR
-https://vididi.semar.my.id/mbledos.mpd?pepek=HLwPdqcp7FbeuQ3e-L8oSQlWidPMS3ZRETLLGjWrBFJX9Fz5TxKR3YA-xNVK0bA79hLr5s5KmnVdQD7Gg6VOgszkj552L93KIE50Zgac7kaxttmr3HIu12xeMueRN_Pk&ts=1783968600&access=MzYuOTIuNjEuNzU=
-#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/Z1d91-nF3r4I_Ih6Kzv0LSt7TeQ=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5195933/cd426a.jpg" group-title="Live Event", Jonatan Christie (INA) vs Panitchaphon Teeraratsakul (THA) - Men's Singles Round of 32 12:30 14 Juli 2026
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 15; P1 Build/AP4A.25010.002; wv-atv) Google/0.4.7-dev AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/83.0.4103.106 Mobile Safari/537.36
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=c11d52e2c176d22abf86c23b4b0b9170:76197676008839a3b784d773a2542b98
-https://vididi.semar.my.id/19354.mpd?pepek=SflZTEXBFZvYEq7jKlzXmow-C_z6faATd24uGdM6O69J141YeoEfTHYKbxdbf2GHphUPjevJrCrzL3ETdSeyZgj7Nq0lEPc3wyTnPjaegUUHy4FubKJ7ZO6d79cE_uR-&ts=1784006400&access=MzYuOTIuNjEuNzU=
-#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/kTKzb52O26tSJ6ZPwNOj71RiMdI=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5195931/bcee1c.jpg" group-title="Live Event", Chang Ching Hui/Yang Ching Tun (TPE) vs Febriana Dwipuji Kusuma/Meilysa Trias Puspitasari (INA) - Women's Doubles Round of 32 14:30 14 Juli 2026
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 15; P1 Build/AP4A.25010.002; wv-atv) Google/0.4.7-dev AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/83.0.4103.106 Mobile Safari/537.36
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=c11d52e2c176d22abf86c23b4b0b9170:76197676008839a3b784d773a2542b98
-https://vididi.semar.my.id/19354.mpd?pepek=I-s9AQoZq3BaQBfEL8ptM1ajYsBk9E6NyeJX_pzYXZNJPyVZzP6gkgtGkPj6GumR0ec65Kb1Z8vVMkw8WIm-b9XLO2U69mZV8j-CqGxedLbYBy9kc_W6dcOtuONKeFXB&ts=1784013600&access=MzYuOTIuNjEuNzU=
-#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/Cdmu57MhPUn8C8FGY1xEAbqtqUk=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5196632/053a49.jpg" group-title="Live Event", Juan Manuel Cerundolo vs Zdenek Kolar - Round 1 15:30 14 Juli 2026
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 15; P1 Build/AP4A.25010.002; wv-atv) Google/0.4.7-dev AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/83.0.4103.106 Mobile Safari/537.36
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://vididi.semar.my.id/mbledos.php?drum=kwy1AgJlv92KC7dKvmcaMbJk022DgU9rr2g0Ocn-D1NdEJsbD51OegHI5Y8S-ZB1CaALDBicMMv0tftZPIEl-t2bBNChUyRCnXTh6ZKZSu76yaC0DAcg_5PC7LEWKvcY
-https://vididi.semar.my.id/mbledos.mpd?pepek=ImUJpCrhNf1Es6mbJ8gfHznncak3m1r4HKfbaVaduaBlLTKjotz6B33Vw8ICQHFn-NlcfiZMFoqPnCw2EDfUlmj-BUV9PYZz8XR4oIRe1AuZ1PvCmb0THote1kDNeNRS&ts=1784017200&access=MzYuOTIuNjEuNzU=
-#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/IP4KxsExgy1Bqap_zxvs-u-3dHk=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5196637/43e77c.jpg" group-title="Live Event", Nicolai Budkov Kjaer vs Andrea Pellegrino - Round 1 16:00 14 Juli 2026
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 15; P1 Build/AP4A.25010.002; wv-atv) Google/0.4.7-dev AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/83.0.4103.106 Mobile Safari/537.36
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://vididi.semar.my.id/mbledos.php?drum=lZeFXLDJ-hFhhxShAVt0b-JY328bvRUtxnohPuM8ZXYN6QfOXZ5ZfPyye7eWN6UCOONjaybVATEJ-BT06RRplqiLvr-1IhWFD3y0PRcdZqkckk09ozx_RzbJD0zMRg5a
-https://vididi.semar.my.id/mbledos.mpd?pepek=nUSng-zyBU11MASgbKjEVQBe8yKNgm-trB3PXqH8xJXpEsEWLo8w-dSevy9MzCRGobMyrANbJ--uX5WWL-ZiuVXJrCi3KtXdWxpDtOJhLtdaZ46wBhJzH35sp3Ue6RUp&ts=1784019000&access=MzYuOTIuNjEuNzU=
-#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/sJKO5Rp7L3Hc2ozhCxnk-e6Neew=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5196633/7b94a9.jpg" group-title="Live Event", Jerome Kym vs Dylan Dietrich - Round 1 18:30 14 Juli 2026
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 15; P1 Build/AP4A.25010.002; wv-atv) Google/0.4.7-dev AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/83.0.4103.106 Mobile Safari/537.36
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://vididi.semar.my.id/mbledos.php?drum=VrfErbPfTp6ia50jFn2_WblmbYdvrnWty-QtT64iiLuCuqDEcschOaz_P9-TcxjDOqwmXrsou3F5cD_u96FQc4dSgEDQcfyXkeXeC6MuTbPXy76gwh92XL8cLiYGFgow
-https://vididi.semar.my.id/mbledos.mpd?pepek=_SmPPc2A7-JXvNDadE6l75OXb91gR2UoLNoi-uuOpTdBdD4abMMjYRvrx59zXnfrT4WV1VbQyzxT5R4cCIKYvqMvJDLENYF10X3zJskIpv2unE9BxLLcJy44b2LgDvki&ts=1784028000&access=MzYuOTIuNjEuNzU=
-#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/yKgL9qNtrtBWtFWT02YBFNMU7UE=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5195910/1fd0b7.jpg" group-title="Live Event", Alwi Farhan (INA) vs Kenta Nishimoto (JPN) - Men's Singles Round of 32 18:30 14 Juli 2026
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 15; P1 Build/AP4A.25010.002; wv-atv) Google/0.4.7-dev AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/83.0.4103.106 Mobile Safari/537.36
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=af26846e31d8c142395297699771ff8f:b0d970b7ba24bd76dcab99b0fe75f4e4
-https://vididi.semar.my.id/19354.mpd?pepek=_26ttjWTq-pWhWBukidN9qQzEHj4wcKS0Pk5XTC4Q--q789nnduW7-NDW5p4UobhcdE51a6zo8-iBjJB1mGb9VkCB3INB0_JcGyKGbQTBV0imDUVCU0vtDreBs_Jca9N&ts=1784028000&access=MzYuOTIuNjEuNzU=
-#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/hc6waRABf_qWTdte4rftKFTgQ10=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5196638/c5af60.jpg" group-title="Live Event", Dalibor Svrcina vs Grigor Dimitrov - Round 1 19:00 14 Juli 2026
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 15; P1 Build/AP4A.25010.002; wv-atv) Google/0.4.7-dev AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/83.0.4103.106 Mobile Safari/537.36
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://vididi.semar.my.id/mbledos.php?drum=mgBUlI3bIDYvOQBMwUh8hJbpMhktLaQS0ZyNdC7B55Il-wvIpCUE-FOwtnbjet-gsblDMDrY1MqwzGyl21fjkDCeMTsanKKoPYW9QuSWW4k17DYLZ6WhhKg_YyOSt4Ub
-https://vididi.semar.my.id/mbledos.mpd?pepek=ZHvIf1TW3D06HbdJwYk-r8DaMEu3_rFsHBpyXt29bUngPI42CJeN-YVBci130ONSSdWjG2fKOI1eTj1PRPLA2vuzMOewTCBCjqAKp9GGew3n2j32vfmuOiteXIz_EqKi&ts=1784029800&access=MzYuOTIuNjEuNzU=
-#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/nT7AEWJB9macrOgkUN11VdwaXJU=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5196629/90679c.jpg" group-title="Live Event", Matej Dodig vs Pablo Carreno Busta - Round 1 21:00 14 Juli 2026
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 15; P1 Build/AP4A.25010.002; wv-atv) Google/0.4.7-dev AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/83.0.4103.106 Mobile Safari/537.36
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://vididi.semar.my.id/mbledos.php?drum=GKM-GoJ4c-BOn6ljOKXkxF0eFWFOpnNtfhXk7oSNS8jXW2KzAkNI1qULhw5uiphMhkA6Vq4pKA1m2SNgC9gQClKbh7RrGSDYvoTTAtSQDj4yZiDOTOJHY3Cr5gdhS12c
-https://vididi.semar.my.id/mbledos.mpd?pepek=1k1TBdP2dqFFdKT8XQdQ7bxBteCLK66ysdwgwpp19NUBqGdJ6ef5xiLhUxmXWfXCE4Yhu0t6U7e3UJTXGbptC5-t350wBjB-TJ1eMifx2ptN6nXksiO8oJufUlwbi-5S&ts=1784037000&access=MzYuOTIuNjEuNzU=
-#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/7hgoGhpZjnpdx-HsP3g2-9j5fwg=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5196634/fe2444.jpg" group-title="Live Event", Stefanos Tsitsipas vs Ignacio Buse - Round 1 21:30 14 Juli 2026
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 15; P1 Build/AP4A.25010.002; wv-atv) Google/0.4.7-dev AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/83.0.4103.106 Mobile Safari/537.36
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://vididi.semar.my.id/mbledos.php?drum=POp8PsER7ejIjFXhvi1C9kOJoM3WTqkSQTKND_j_AspfKmcttPzN-EjtFVM1VwYZHhsZ8Pe7VGMxKfzqMtP-cpVYWsKa9woJZKCw6yubvjgRPWsMFBlcmYJiUTq026cL
-https://vididi.semar.my.id/mbledos.mpd?pepek=kNy-Qvkt87Ut3yJm38csqc6CNZ2FKIJ2B7CamyhYhRFUOnGYC66SYKG2k-iqvtm6EkziM0e-Msj7zytXr6ktYLl5FWXCLgpnbknS8EA54g672G8XT6uEByJnecOcb5z1&ts=1784038800&access=MzYuOTIuNjEuNzU=
-#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/8Y6udtzcg94a9YAlSwtm4I5dPTs=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5196639/c17cf1.jpg" group-title="Live Event", Nuno Borges vs Moise Kouame - Round 1 22:00 14 Juli 2026
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 15; P1 Build/AP4A.25010.002; wv-atv) Google/0.4.7-dev AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/83.0.4103.106 Mobile Safari/537.36
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://vididi.semar.my.id/mbledos.php?drum=ncSEDAIrcPt5xuwb-MBVoPFt6J_PZqlzeqzifpzJHFqi8xuu3C3ieg-EayjcRePdE4lEPe3Vt6r4qT5JIrQfCk5SElsFSp4mCFOAeAXy63eksgGz8Cr4oa-NhxUP-akh
-https://vididi.semar.my.id/mbledos.mpd?pepek=p0x-8Gm62FVOPwE9TvB1QTM8xzgi1ImDjfSFsVDPG4aObxvv-G6gD6p-v9qRQNtwQRf85uLVb-O8YIvGQpWdRxaoEUYwK6zs9e19sb4_cVRM6fgN2eTxCy4eV_9jqHGA&ts=1784040600&access=MzYuOTIuNjEuNzU=
-#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/0NSxEbCH4t1UdricxRoBqjvGqoo=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5196630/a74bab.jpg" group-title="Live Event", Marco Cecchinato vs Roman Andres Burruchaga - Round 1 00:00 15 Juli 2026
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 15; P1 Build/AP4A.25010.002; wv-atv) Google/0.4.7-dev AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/83.0.4103.106 Mobile Safari/537.36
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://vididi.semar.my.id/mbledos.php?drum=tCrAErx-RPyQ8ylVCZf-r1U-c4PLUIx1KsP-TgEK1JrJaqrIzckCCnvr_cYR_5txnySBSs0rpXexEtKYI1MxSs9PjRUpLLJY1n4Ndx9QBZKRhEJF67ceNkZXQJqHS515
-https://vididi.semar.my.id/mbledos.mpd?pepek=T9NL92arjG__VHZw022o8KEqWknSP4hQ5a6wNAD-H6i2AKs-ioxWwIuXbSYXQ5-53bJ-YluYQ66Fs8w8gcBGH4rAgibNpRjpKokKC4QUu6o3G5GBA3sOgeyAfd0bd_WC&ts=1784047800&access=MzYuOTIuNjEuNzU=
-#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/dcSyb5avfj0CKccrAez4EhR64ug=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5196635/fed4c0.jpg" group-title="Live Event", Jaime Faria vs Stan Wawrinka - Round 1 00:30 15 Juli 2026
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 15; P1 Build/AP4A.25010.002; wv-atv) Google/0.4.7-dev AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/83.0.4103.106 Mobile Safari/537.36
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://vididi.semar.my.id/mbledos.php?drum=yrYWg_p252KVGtfBEGg8XDA35A5b5ypEVxMp381mA6_qPXNXBOL2nuHhDTfoDQKThPUjnJC5TIxUMclsXfUS5-ejmu14mOmLHafWEbTxu9dbZ3TSA8Gua5eiDVKdMuTb
-https://vididi.semar.my.id/mbledos.mpd?pepek=cni9cb9QfrtG3PntaymyPHEbgLsXz26hvkD4LT-qhkm-1liohSDF7bxeYgKY3freSP298M2gLOIhP_7TN0irOv3LFdUKcJoIKUS3Dl9FyxhRRcIlNb3o8awfSklI0oiF&ts=1784049600&access=MzYuOTIuNjEuNzU=
-#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/PsUbkwjBbhse8tynk9FcW6YWWx0=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5196640/57d04b.jpg" group-title="Live Event", Max Dahlin vs Sebastian Baez - Round 1 01:00 15 Juli 2026
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 15; P1 Build/AP4A.25010.002; wv-atv) Google/0.4.7-dev AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/83.0.4103.106 Mobile Safari/537.36
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://vididi.semar.my.id/mbledos.php?drum=JMhDL4Nt6hVBoOVbJtutblrj8GZMT2cVUXfua0N2xAdOZJECCCMj00SXacaBUKpuhYo-87pcLJwGfO9upLPZ5kNT4hyvnKzS-ht_3udEhS4opEnPmQocvDcswIAY_JXd
-https://vididi.semar.my.id/mbledos.mpd?pepek=hT_4_FXjDWByPbfrmVLjpfrUFSMEfFmkF0uc9H64aV03nsCdAPPBgpM_gjuvxraD7bo432ncxkjOwa7JTU9Pb6Qj40EuGrsT5Lzxq_f3WAhRq-4EIoZkQXxPD0IO9_Db&ts=1784051400&access=MzYuOTIuNjEuNzU=
-#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/gdTginxdDa6Z4izfEC6_wMKpvOw=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5196631/4a567e.jpg" group-title="Live Event", Titouan Droguet vs Alexander Blockx - Round 1 03:00 15 Juli 2026
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 15; P1 Build/AP4A.25010.002; wv-atv) Google/0.4.7-dev AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/83.0.4103.106 Mobile Safari/537.36
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://vididi.semar.my.id/mbledos.php?drum=8sWG_hbZa1ew-jkIeum-XZpnUrpvQwEwuLXmwGIevVVTitkvG6vZ7wNixY-hdU50C9Bu9mZ1mDbnEJryOrHob2Mwrm0wI1bgM4F5j2yOT5bnY6I5zNILyNIKPBlYQGO5
-https://vididi.semar.my.id/mbledos.mpd?pepek=C6Utl6HEFT0E1dXWZTR6HyY7Cr7UfwoeVwmdMjb6q5Q7RUBRy--ljco_9fb407S1sratLK5hmt0sS4-RAFlN_7W-VluJotuEMU3MA2D8gy4H0vE5pvgnBQZvG8RqM9Ox&ts=1784058600&access=MzYuOTIuNjEuNzU=
-#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/dcSyb5avfj0CKccrAez4EhR64ug=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5196635/fed4c0.jpg" group-title="Live Event", Jaime Faria vs Stan Wawrinka - Round 1 22:40 14 Juli 2026
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 15; P1 Build/AP4A.25010.002; wv-atv) Google/0.4.7-dev AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/83.0.4103.106 Mobile Safari/537.36
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://vididi.semar.my.id/mbledos.php?drum=4dCv_DIpfZmTg2OfbhBVTfALnj0Is0GGmJiomSumS6n5H_VVoPpQOHcxgIwY-luNYAIjtmWL2KC1zh-kFm_okwn3INw51aMO1PiGEnf1o8c7c5u-SUEKxU3gPyVZF2ln
-https://vididi.semar.my.id/mbledos.mpd?pepek=6c-BVWXfth1ms5Tx0_Qh8gxIIQMsvMci5Ggw_-T96kdh2kVPYWNdiHznkX9iGwXq63rbrSx2RErMazJngK3dSqNrn3Eo4UGk61MMDKCQrlkGmcQ1tlZ4_XA7l08Rxfsn&ts=1784043000&access=MzYuOTIuNjEuNzU=
-#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/gdTginxdDa6Z4izfEC6_wMKpvOw=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5196631/4a567e.jpg" group-title="Live Event", Titouan Droguet vs Alexander Blockx - Round 1 02:55 15 Juli 2026
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 15; P1 Build/AP4A.25010.002; wv-atv) Google/0.4.7-dev AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/83.0.4103.106 Mobile Safari/537.36
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://vididi.semar.my.id/mbledos.php?drum=rb3zcc5wKbkmVLFp21GkCNkdlX4ECowE2oMtU3-B7T3XQeCAMyHF4y5DKBJ4QqY-2tMBplsOzldhBiTAuvij0iC4c3M-3oP-iZdH55hLRV974-I72VrmEZDKOUPhbqCw
-https://vididi.semar.my.id/mbledos.mpd?pepek=hg8dWewOtZtjXgSA84zgEJhdOpcwe9BT75IdgnQLjSkk2i3J9rsHaLB0sr-tvfJnszk-tUb02zcuaZ-93tVBfNwkMvLQjvDQurPvaLtQSkC7BVfceIYL6JRsgopuig_A&ts=1784058300&access=MzYuOTIuNjEuNzU=
-#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/dcSyb5avfj0CKccrAez4EhR64ug=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5196635/fed4c0.jpg" group-title="Live Event", Jaime Faria vs Stan Wawrinka - Round 1 22:40 14 Juli 2026
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 15; P1 Build/AP4A.25010.002; wv-atv) Google/0.4.7-dev AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/83.0.4103.106 Mobile Safari/537.36
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://vididi.semar.my.id/mbledos.php?drum=xFhc9jNXQjX-aoei1ynWGEoT2KaR36mQNzYOJ71d432NF0OWUTon-3WgxGnunFQ1-JlzSYZxxy93Vd51ifKa80RnBjBX2RhY2xw2iy43C_9DyTSVdhK-UKzPM6l5Vgyg
-https://vididi.semar.my.id/mbledos.mpd?pepek=3yxotCW5YIpoCR_kf2wE0k6OAy2oFucH50A-2arAzudKN4Qfpq4bgq0O0CPhBZs9j0A8O1ETqJco5t0BPyMyt7J4_HtvWPDNpNM_3DmL_wqNM_Cl7L2e75js4DHd_LSp&ts=1784043000&access=MzYuOTIuNjEuNzU=
-#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/gdTginxdDa6Z4izfEC6_wMKpvOw=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5196631/4a567e.jpg" group-title="Live Event", Titouan Droguet vs Alexander Blockx - Round 1 02:55 15 Juli 2026
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 15; P1 Build/AP4A.25010.002; wv-atv) Google/0.4.7-dev AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/83.0.4103.106 Mobile Safari/537.36
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://vididi.semar.my.id/mbledos.php?drum=kQPTT5vS8nbQiiIzxCfdUe5yAHJ66JyJybElT_9AcA0RgP4zIW75CkwqYTOVvpQhwvNMmxoVY1tFHePLiai5DOwpm0fuLagqgQhrxjELBQceJ0J30YgHXrRBZtNVkxEX
-https://vididi.semar.my.id/mbledos.mpd?pepek=pOwgbOx0zzR6OX9aKHGB3IsGSV8dodCAHu4yB4vRZ6cFkA19YXxPqDAVIgUj49Xi_rF55MsHG7dbacrP_KLxE3u3Naq07yBEJ1jju4sOsbC6_ukSQ3IiRy5pBQjbtYrA&ts=1784058300&access=MzYuOTIuNjEuNzU=
-#EXTINF:-1 tvg-logo="http://klotok.semar.my.id/fola/genlogo.php?v=polos&home=https%3A%2F%2Fcms-static.folaplay.com%2Ficon%2F7998.jpg&away=https%3A%2F%2Fcms-static.folaplay.com%2Ficon%2F7967.jpg" group-title="Live Event",France vs Spain - Piala Dunia FIFA 2026 02:00 15 July 2026
+https://vididi.semar.my.id/mbledos.mpd?pepek=Y6KEvDJMdDl2JZkM4BWbfuwvjegzytJPzs_zf8C3iUJAENZnz1-lYQCzSDYa51YTS-v6l-e85FIwQ-M-4OYwITkQyRBl9t6yGlaNB9bNFtpIX8SwK7hWEH1u-GzMlNtY&ts=1783941600&access=MTAxLjI1NS42OS4yNQ==
+#EXTINF:-1 tvg-logo="http://klotok.semar.my.id/fola/genlogo.php?v=polos&home=https%3A%2F%2Fcms-static.folaplay.com%2Ficon%2F7981.jpg&away=https%3A%2F%2Fcms-static.folaplay.com%2Ficon%2F8625.jpg" group-title="Live Event",England vs Argentina - Piala Dunia FIFA 2026 02:00 16 July 2026
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 #KODIPROP:inputstream.adaptive.stream_headers=X-Requested-With=SemarHttpRequest
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://sports.inisemar.my.id/ckwc.cpp
-https://sports.inisemar.my.id/bbbbb.kt?id=wc2&auth=wc2semar25&ts=1784053800&access=MzYuOTIuNjEuNzU=
-#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/dcSyb5avfj0CKccrAez4EhR64ug=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5196635/fed4c0.jpg" group-title="Live Event", Jaime Faria vs Stan Wawrinka - Round 1 22:40 14 Juli 2026
+https://sports.inisemar.my.id/bbbbb.kt?id=wc2&auth=wc2semar25&ts=1784140200&access=MTAxLjI1NS42OS4yNQ==
+#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/mJlclBBtBXkTtoM9JxiSFQEsQGI=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/18249/daihatsu-japan-open-2026-round-of-32-court-1-c50cd3.jpg" group-title="Live Event", Hiroki Midorikawa/Misaki Matsutomo (JPN) vs Jiang Zhen Bang/Wei Ya Xin (CHN) - Mixed Doubles Round of 32 07:00 15 Juli 2026
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 15; P1 Build/AP4A.25010.002; wv-atv) Google/0.4.7-dev AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/83.0.4103.106 Mobile Safari/537.36
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=af26846e31d8c142395297699771ff8f:b0d970b7ba24bd76dcab99b0fe75f4e4
+https://vididi.semar.my.id/19354.mpd?pepek=FFOHzWZL9IGnVnzDuAI3SQVJF9NPyI01Zta143Aui6YIjHS6d8Rh2J0apnPEG4McxLg_vOZqRmGgXyG5mY2fsLQQPar1dLzbchJntOJ-W5dn9FHYKdaXHMIqmL3Vdcuf&ts=1784073000&access=MTAxLjI1NS42OS4yNQ==
+#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/27cBdk5HQSVQVXYD4qZNeS_0EsE=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/18250/daihatsu-japan-open-2026-round-of-32-court-2-b170e2.jpg" group-title="Live Event", Chen Zhi Yi/Francesca Corbett (USA) vs Goh Soon Huat/Lai Shevon Jemie (MAS) - Mixed Doubles Round of 32 07:10 15 Juli 2026
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 15; P1 Build/AP4A.25010.002; wv-atv) Google/0.4.7-dev AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/83.0.4103.106 Mobile Safari/537.36
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=d9c150a27811b47ea9c35d8a9f140a05:64bb5d595133a70ef7a04c3b4c449728
+https://vididi.semar.my.id/19354.mpd?pepek=IY1gdMMEilhHmiYXorVkLF0O8Lb1goFGb6lNoS0KXKVLNfU9qLniK3TcWFPM2GMcBKNuv5JnId6E7NOstRhf6BOt20WvKd0_9UNLHyeXG6lgsr7BQaAjegFPZG6zMqK0&ts=1784073600&access=MTAxLjI1NS42OS4yNQ==
+#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/reXw47LHV7qZlaqqo7rUhyT1msA=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/18252/daihatsu-japan-open-2026-round-of-32-court-3-f29bbc.jpg" group-title="Live Event", Yushi Tanaka (JPN) vs Li Shi Feng (CHN) - Men's Singles Round of 32 07:10 15 Juli 2026
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 15; P1 Build/AP4A.25010.002; wv-atv) Google/0.4.7-dev AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/83.0.4103.106 Mobile Safari/537.36
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=c11d52e2c176d22abf86c23b4b0b9170:76197676008839a3b784d773a2542b98
+https://vididi.semar.my.id/19354.mpd?pepek=0aCtYc22KjylvMN1fT4MmT601x44qn9OOBVzzsOyIK98bK3czuz2wN0mVMkXHhQPNbVxoDr5EkC4yxD2Hn_45i5VkuhREuYfbYMBglfW3tSOZ9Imz5DMeHY9ObvZRRfl&ts=1784073600&access=MTAxLjI1NS42OS4yNQ==
+#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/mw0RoOFXvDQ2iUa6soJIX36GLg4=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5196872/6cadab.jpg" group-title="Live Event", Amri Syahnawi/Nita Violina Marwah (INA) vs Thom Gicquel/Delphine Delrue (FRA) - Mixed Doubles Round of 32 09:40 15 Juli 2026
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 15; P1 Build/AP4A.25010.002; wv-atv) Google/0.4.7-dev AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/83.0.4103.106 Mobile Safari/537.36
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=c11d52e2c176d22abf86c23b4b0b9170:76197676008839a3b784d773a2542b98
+https://vididi.semar.my.id/19354.mpd?pepek=ZQXg2LPB0XdY4ztbj-V2q9Wm-Ho56_4gRaaif3xk3-dlRKqyHcyBR90MAdiwjcY_M1U5zh0lo-X2ZQoVeguhkxZCjtHYcALbmWVp6v53n_6m3RYpnfR5c6xI1vgYfSen&ts=1784082600&access=MTAxLjI1NS42OS4yNQ==
+#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/VpcWPHyxE-ijaHCCy37iU7C3y9g=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5195940/7b4143.jpg" group-title="Live Event", Men: Canada vs Argentina - Volleyball Nations League 09:45 15 Juli 2026
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 15; P1 Build/AP4A.25010.002; wv-atv) Google/0.4.7-dev AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/83.0.4103.106 Mobile Safari/537.36
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://vididi.semar.my.id/mbledos.php?drum=yrHgcNhRjkfi2hK_ial2bbd4wqHNLrfYAdIy9Fj_AaXUs_Vr46lj1_uU6M5YRnElMX3s08HaOPi39gl6Hf1um_ZVfClwZIh28LSlB-Ae3t9ct2heEGKLU7_O5pysNdhp
-https://vididi.semar.my.id/mbledos.mpd?pepek=dHi-dzRSIX2OEUejbfOcWdoaiFPhLMdJ0BUp2N9js6TDKlaE4X7AGsuaJM6h9hhPbSzzlGxv7Z3he6iqERzlKExxnCSn0gH7eyxWuDNXrAtJczMN0if2vHCaPrbnujjd&ts=1784043000&access=MzYuOTIuNjEuNzU=
-#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/OBin6c-050sIMrW1mXU-wa8Cnqw=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5195845/b9b6a5.jpg" group-title="Live Event", ETO Gyor vs Vikingur Reykjavik - UEFA Champions League First Qualifying Round 23:55 14 Juli 2026
+#KODIPROP:inputstream.adaptive.license_key=https://vididi.semar.my.id/mbledos.php?drum=mldllPOTKeNAL-ol2NU1fshPioQm2tbi-wZJdVidMvl8CAEWl0M0DrotSlFv36_r8AnxV8NRMpZWhu5Hv8voLP6uU9sjopOE-fxdzm5ZDq9WQbkf5U_m6s0Q-oZSdzuL
+https://vididi.semar.my.id/mbledos.mpd?pepek=b3AKhmkCK25P1CjKzT_8e-2qB84YkhbkPooDcCHT4ZFzDCRfE73Cj5FJGMmeZit59XyjtHpCfS0WUaqC-Tj3Jed_JYYvCKtVAd9o7t8rWLtB9nCnYYNnakT2kdsdN7uX&ts=1784082900&access=MTAxLjI1NS42OS4yNQ==
+#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/pppwiyi-egoq4-5Y0B3rRrchwx4=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5196848/4e5164.jpg" group-title="Live Event", Chiu Hsiang Chieh/Wang Chi-Lin (TPE) vs Sabar Karyaman Gutama/Moh Reza Pahlevi Isfahani (INA) - Men's Doubles Round of 32 11:10 15 Juli 2026
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 15; P1 Build/AP4A.25010.002; wv-atv) Google/0.4.7-dev AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/83.0.4103.106 Mobile Safari/537.36
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=af26846e31d8c142395297699771ff8f:b0d970b7ba24bd76dcab99b0fe75f4e4
+https://vididi.semar.my.id/19354.mpd?pepek=whytGzjzWKvLtbLuAUAGXxRNIwPSXgdAQLs3cGYQBiPhdiDMPO3j4GQ2uKqBqqXUIlos5IO5i0bUxikl_v23b3_SJP9Yc-YKxoq70aWsM-41f-zgcw1kP_4NiAY8U6Ob&ts=1784088000&access=MTAxLjI1NS42OS4yNQ==
+#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/s0yrhzLSVGc34fkRVDiPHHI7d2s=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5195941/f51841.jpg" group-title="Live Event", Men: Belgium vs Cuba - Volleyball Nations League 13:15 15 Juli 2026
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 15; P1 Build/AP4A.25010.002; wv-atv) Google/0.4.7-dev AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/83.0.4103.106 Mobile Safari/537.36
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://vididi.semar.my.id/mbledos.php?drum=cmea8DJ-h98ZOrTqGjVTqK3QauxcYUNWT2vT1OKDP1Rl4XbAZvZbm2xjXrZ48Pfbu9pzMKv3ExEb8Xxy2jGS2drwscBgFaqGwz0-bYZqkD6poBl-xcjxujGA7jrSx605
-https://vididi.semar.my.id/mbledos.mpd?pepek=VXJGNcbtWt13T_geO4qvzfDli3wUpF6OhOzHoaENLELqt-CnjlanMNevW3tGnLUCNLBJm-Ut_D5Ku0xKi_0mgAC6Wu4K132Nl5ZbSkiROhSwTjzgYao8VVc5ovWY45rk&ts=1784047500&access=MzYuOTIuNjEuNzU=
-#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/gdTginxdDa6Z4izfEC6_wMKpvOw=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5196631/4a567e.jpg" group-title="Live Event", Titouan Droguet vs Alexander Blockx - Round 1 02:55 15 Juli 2026
+#KODIPROP:inputstream.adaptive.license_key=https://vididi.semar.my.id/mbledos.php?drum=TlQBFZF-GHKPg3ob_NTvEZLNIMeFR5wJrYrp3a8kDmZ_LXfSp8yLPG-KKftLKHY4SOIzQolMJIBnPIdVLE97WQ7_kSkKKLMb_FYHGUmqBO_TMXyvn0V5QRTzp0e2EyWw
+https://vididi.semar.my.id/mbledos.mpd?pepek=a_tOyht5O83zSb8Az6L5DJ3VhjdOGAobuN26Vy9wlHjZp6D_LL0PzBX8jRDMRptJK7GDlT3KGgs2QQIiLk7XEMzf7g8y_7Sf1HxV9gbIwNpskKenNCB4kNzhdRZK0eAz&ts=1784095500&access=MTAxLjI1NS42OS4yNQ==
+#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/KEwn4FY-rYD2e_04N94e5n-tyrg=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5196864/64e2ca.jpg" group-title="Live Event", Moh. Zaki Ubaidillah (INA) vs Rasmus Gemke (DEN) - Men's Singles Round of 32 13:50 15 Juli 2026
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 15; P1 Build/AP4A.25010.002; wv-atv) Google/0.4.7-dev AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/83.0.4103.106 Mobile Safari/537.36
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=d9c150a27811b47ea9c35d8a9f140a05:64bb5d595133a70ef7a04c3b4c449728
+https://vididi.semar.my.id/19354.mpd?pepek=y6EfU9LhYxjoLg48FrFynqr7DuxoKnt4Ux96QqBe9eRNMktwvn8tLC5BsxYlXU4mX5KYL6-EYaFc3uUZhC3Ooy1sWaUeHAICOOTyMoDsKB3lKj2DUW7jUPf9X10YOn7S&ts=1784097600&access=MTAxLjI1NS42OS4yNQ==
+#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/2ZfzPBOideJwwwIgbQZEducsgvA=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5196877/c3cb05.jpg" group-title="Live Event", Beiwen Zhang (USA) vs Putri Kusuma Wardani (INA) - Women's Singles Round of 32 13:50 15 Juli 2026
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 15; P1 Build/AP4A.25010.002; wv-atv) Google/0.4.7-dev AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/83.0.4103.106 Mobile Safari/537.36
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=c11d52e2c176d22abf86c23b4b0b9170:76197676008839a3b784d773a2542b98
+https://vididi.semar.my.id/19354.mpd?pepek=mqZDWEVR-3N-7zwn3E5bkvg2FAcUz7jwFg0ixXhAEVhn4h9s4Z6XzcK_B6DOhPbQbp4j1OLIZA3W-WnCHQPldN1C9Q6F9Y-BofTNmMfHSbNWQPPt6o4Z7tL5xZIRNHH_&ts=1784097600&access=MTAxLjI1NS42OS4yNQ==
+#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/6tlMTznJTeVlGe2twzqS8Tvz90s=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5196852/b48cbe.jpg" group-title="Live Event", Rachel Allessya Rose/Febi Setianingrum (INA) vs Jia Yi Fan/Zhang Shu Xian (CHN) - Women's Doubles Round of 32 14:30 15 Juli 2026
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 15; P1 Build/AP4A.25010.002; wv-atv) Google/0.4.7-dev AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/83.0.4103.106 Mobile Safari/537.36
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=af26846e31d8c142395297699771ff8f:b0d970b7ba24bd76dcab99b0fe75f4e4
+https://vididi.semar.my.id/19354.mpd?pepek=MCk6NgWXhD8wScO9EBCXgG3mN-kBiTW8dngAiklz9XRxuJZcU-DJ-gu1H1I7L6XS1vNyRkpOkUamndq5DsB_Fk4F6YW5uL6DU5SAs6DrvVFYlBfrWEdkOg6Mj0YgHnk5&ts=1784100000&access=MTAxLjI1NS42OS4yNQ==
+#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/BUJdBO7S5NuPYtQQCMjGUN3XSBU=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5196878/bb46b4.jpg" group-title="Live Event", Rui Hirokami/Sayaka Hobara (JPN) vs Amallia Cahaya Pratiwi/Siti Fadia Silva Ramadhanti (INA) - Women's Doubles Round of 32 14:40 15 Juli 2026
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 15; P1 Build/AP4A.25010.002; wv-atv) Google/0.4.7-dev AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/83.0.4103.106 Mobile Safari/537.36
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=c11d52e2c176d22abf86c23b4b0b9170:76197676008839a3b784d773a2542b98
+https://vididi.semar.my.id/19354.mpd?pepek=qTGeNmpKnnxGgUnwHmVHsGTk4qhGnHjSyJSasZKQiKaAylVDGBZh1-qNuwdw0jjpKs-7WtuyPxbjdz6EEWAlPbduUk7QEAZ5fo6upvo7boiQFHD4ziKKywXFNecWrcC9&ts=1784100600&access=MTAxLjI1NS42OS4yNQ==
+#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/ZS4zBmX7VDEt58PzgBfOMgzEznU=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5196853/fe95d6.jpg" group-title="Live Event", Raymond Indra/Nikolaus Joaquin (INA) vs Haruki Kawabe/Kenta Matsukawa (JPN) - Men's Doubles Round of 32 15:20 15 Juli 2026
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 15; P1 Build/AP4A.25010.002; wv-atv) Google/0.4.7-dev AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/83.0.4103.106 Mobile Safari/537.36
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=af26846e31d8c142395297699771ff8f:b0d970b7ba24bd76dcab99b0fe75f4e4
+https://vididi.semar.my.id/19354.mpd?pepek=8zNeb_z-JVlgNsCwJAjvzriVB-jMDmSKTRzdG6-6FW8WTMxEXzGLzZ2eEppW55ncVVSWFQI5W9NhCIq1zCtKP5sxofQj6K5Z94a43HZ2q7uHf6xvwH6b1pdGzHkEnR7f&ts=1784103000&access=MTAxLjI1NS42OS4yNQ==
+#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/ZPl8jeiJ-q4B32HmwNtsMxxVCDc=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5196855/ce940b.jpg" group-title="Live Event", Christo Popov/Toma Junior Popov (FRA) vs Fajar Alfian/Muhammad Shohibul Fikri (INA) - Men's Doubles Round of 32 17:00 15 Juli 2026
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 15; P1 Build/AP4A.25010.002; wv-atv) Google/0.4.7-dev AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/83.0.4103.106 Mobile Safari/537.36
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=af26846e31d8c142395297699771ff8f:b0d970b7ba24bd76dcab99b0fe75f4e4
+https://vididi.semar.my.id/19354.mpd?pepek=31_3tWsf3ANzn81d5HDVO-wm9jEe0QL_dZfYHK6UwVBfU-MC4QB7TthPLiEA5yKfw3cpehc6J1NeAZ_B9TP8SCuCzR7w3Vk5SqnllYFzshdNosYp8S0g_uy61M1D0ObI&ts=1784109000&access=MTAxLjI1NS42OS4yNQ==
+#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/c9OuxTWS2q1DsYkRM_rRFpQsUiI=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5195942/abb539.jpg" group-title="Live Event", Men: Japan vs Italy - Volleyball Nations League 17:05 15 Juli 2026
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 15; P1 Build/AP4A.25010.002; wv-atv) Google/0.4.7-dev AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/83.0.4103.106 Mobile Safari/537.36
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://vididi.semar.my.id/mbledos.php?drum=TF3s17LKyA_yUAm9sAiZVGSDKPx616CKixRGk_g89JZil3SYcqv2jUWlOOUCK4s5KkBNixQUivVijDd06AHW7sXn_rtIPV_pMM4EuGVnHbM9TRrI3oZw88Etxix0NOsK
-https://vididi.semar.my.id/mbledos.mpd?pepek=3KqaxOkwBMuC93ayVge-2AXXEQ9j_Hgk8r54qpIRzc8Nfqmnia_vlWgeCulSByhAi5ftuSXXbjYLr4-Me3srFRgpnNXsxwxBGOg83Puqt0Sh9umUpdpSivcRbbev7Bjd&ts=1784058300&access=MzYuOTIuNjEuNzU=
+#KODIPROP:inputstream.adaptive.license_key=https://vididi.semar.my.id/mbledos.php?drum=nwaBS-JFU7LWO6MIja70dOsGpsU_X5reMJquV3wXa35EwLnquCAd1adpLSkxbxAlm8CYVm2GCGcX--26u9kvhbGHM0Mb75opSwBlInyUXGARNIiuTVsm92jVexqL7t3k
+https://vididi.semar.my.id/mbledos.mpd?pepek=hR0CduJfejlGoISuwazrrv3zZ2w0AyoIoaY0igO5Zyi7W18esv7WJ47xnoTcl0KFw0WsigvnMWa11yQH0-AbSsZZ0biISOY3voW5VL9HCpliYhu_D2yxaR9-R7wIEqKZ&ts=1784109300&access=MTAxLjI1NS42OS4yNQ==
+#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/adSYmIerLxm5UzBVQSiVe-VAzIs=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5195943/3e34f1.jpg" group-title="Live Event", Men: Germany vs Slovenia - Volleyball Nations League 17:45 15 Juli 2026
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 15; P1 Build/AP4A.25010.002; wv-atv) Google/0.4.7-dev AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/83.0.4103.106 Mobile Safari/537.36
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://vididi.semar.my.id/mbledos.php?drum=zphU6YKSD-_e04SMPr3oWmBV7UnBFYLKw_gJdPLV02FI2NhOXy-26oWrpHXypc9aW66Ld7stCLV2-PZOgfFznGXkVAfmMIF-DRfl_1z0a_vjn2rRrqODKr0fZZ4-VhLN
+https://vididi.semar.my.id/mbledos.mpd?pepek=3CUWxtNdegXYZjAP0igqzpgYh-3IiH-JLEoY4E37AfkaOIMgPQIVoSAWkBeiFKJPET0iniVk3VlQt4__WHc8f94FA5mGJgU8gCEw3EXgO4iiZ5yJBRE_zp8Xrz8ZKEBg&ts=1784111700&access=MTAxLjI1NS42OS4yNQ==
+#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/Kfp5yHCsDHOYUCDr2yEOR5HWlWc=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5195944/6bcf3a.jpg" group-title="Live Event", Men: Ukraine vs Iran - Volleyball Nations League 21:15 15 Juli 2026
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 15; P1 Build/AP4A.25010.002; wv-atv) Google/0.4.7-dev AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/83.0.4103.106 Mobile Safari/537.36
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://vididi.semar.my.id/mbledos.php?drum=ImLABSwTG1WNMZFCEV0ny4xA1CGAFSg2P5agW5nP_MFLfu1r1EFyOPoOd8Wt0HhrsXqmV7ysKRKI7nC6nQEExla4NNTKaM1vQnB5g0-9aTbzgUT4ZyVISjzs7dc6BNqK
+https://vididi.semar.my.id/mbledos.mpd?pepek=eQrOm1SDfM1Qk4pxRu_Qp7IRWrSHv8nQk0BPeSdsBElhjKrNQAetY585rnstbVyilql2j1oezHFs5rQcVewZMt9LPWsYmtbr4T7Ze_h3xdluoLjgB-RHTvtqNiihCI5W&ts=1784124300&access=MTAxLjI1NS42OS4yNQ==
+#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/Bn98oI43aY88RHZMa_sujALt20s=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5196708/4efe4f.jpg" group-title="Live Event", Men: Bulgaria vs Poland - Volleyball Nations League 23:45 15 Juli 2026
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 15; P1 Build/AP4A.25010.002; wv-atv) Google/0.4.7-dev AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/83.0.4103.106 Mobile Safari/537.36
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://vididi.semar.my.id/mbledos.php?drum=xzJiwJm4WvMb3_huFU9Vvd-gYdaZt2-PmLeU6a6mdVda6XNLX-jnBk3tiPOsqz6HkmetAkcxt-U8N3agh14L9GUjg4dQJ8TzYWdWftAv9N0EPaXaoCUPd773vJCYynH_
+https://vididi.semar.my.id/mbledos.mpd?pepek=5DC6X8MzLcGS8KgnkAsJhLhyX6QZns-udZpt4RZRDnuMVJB5nMqb5vuRWwYHoY2NZVXnOL-6TNTatOIg2zFWO2nip4e_PQOpbocF4Wwjlke2HVal-qYBHycPaz6U8y8-&ts=1784133300&access=MTAxLjI1NS42OS4yNQ==
+#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/p7GMyNcwSxpISS82YLqbwqQl2FA=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5196711/02b2c0.jpg" group-title="Live Event", Men: Serbia vs Turkey - Volleyball Nations League 00:45 16 Juli 2026
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 15; P1 Build/AP4A.25010.002; wv-atv) Google/0.4.7-dev AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/83.0.4103.106 Mobile Safari/537.36
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://vididi.semar.my.id/mbledos.php?drum=m7cswTyFyYRNoDkvSdqziTqTE9eTtSZejI9uEjMN4HyLbWKIJhExwj5y0jzh4cZEMvGSVMXXq71JbaFNKZ-gqj9TCk3poZTSoIfNZ1tOV2xeuGpZVeVDapSge9L7Hz0k
+https://vididi.semar.my.id/mbledos.mpd?pepek=L92XUrYFrizeJQ786hDwDKjtl4YH4LYDwTnT71fqUCF2irWl1MMYT75nSKlhFdjn6Q9Wu615v9juJxrGSgwJEVa5G0zJuqhGhT4I1Pe__7iNsD-m_n8noFXu96OGJP5j&ts=1784136900&access=MTAxLjI1NS42OS4yNQ==
+#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/hKMF5NEnI1nQFWhtdvxCTDmKOgE=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5196709/35c7bb.jpg" group-title="Live Event", Men: France vs Brazil - Volleyball Nations League 03:45 16 Juli 2026
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 15; P1 Build/AP4A.25010.002; wv-atv) Google/0.4.7-dev AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/83.0.4103.106 Mobile Safari/537.36
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://vididi.semar.my.id/mbledos.php?drum=2OuHhUlWtBDXpYP1wjwPb6GZIBKSmDMsd3CJjWZ8HPNPLt0YJ3fxV_vcFKWNVs84D4ew5Q1ya6o5_Qvpzk-Ay4Ey3EIEh3QTU2A05t3Sg5nmLOS4XTVPU0MhZaWLDCj5
+https://vididi.semar.my.id/mbledos.mpd?pepek=nr4z7Yi-tuRs3uH-7LRfYlNWkvtspyYFbe-GPd5Zy73gmIwoo7wUMm01CXQU3HkoXmwFBuKO8QgdlqoSPG6Nvv0WEmKVDzBzlRlct_QMd1Csj8_evyDQjwWFEProL8K6&ts=1784147700&access=MTAxLjI1NS42OS4yNQ==
