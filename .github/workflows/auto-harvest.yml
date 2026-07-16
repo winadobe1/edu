@@ -23,10 +23,6 @@ jobs:
       - name: 📦 Install dependencies
         run: npm install
 
-      - name: ⛏️ Harvest Merah
-        run: node scripts/extract_merah.js
-        continue-on-error: true
-
       - name: ⛏️ Harvest Sky Italia
         run: node scripts/get-sky.js
         continue-on-error: true
@@ -41,10 +37,6 @@ jobs:
 
       - name: ⛏️ Harvest Last Minute Sport
         run: node scripts/get-sport-lastminute.js
-        continue-on-error: true
-
-      - name: ⛏️ Harvest Enak
-        run: node scripts/extract_enak.js
         continue-on-error: true
 
       - name: ⛏️ Harvest XYZ
