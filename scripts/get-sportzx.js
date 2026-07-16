@@ -205,6 +205,35 @@ class SportzxClient {
         return null;
     }
 
+    _getCleanGroupTitle(catTitle, channelTitle) {
+        const title = (channelTitle || "").toLowerCase();
+        if (title.includes("nova sport")) return "Nova Sports";
+        if (title.includes("setanta")) return "Setanta Sports";
+        if (title.includes("sky sport")) return "Sky Sports";
+        if (title.includes("bein")) return "beIN Sports";
+        if (title.includes("dazn")) return "DAZN";
+        if (title.includes("eleven sport")) return "Eleven Sports";
+        if (title.includes("supersport") || title.includes("astro supersport")) return "SuperSport";
+        if (title.includes("sony sport") || title.includes("ten sports") || title.includes("ten cricket")) return "Sony Sports";
+        if (title.includes("arena sport")) return "Arena Sport";
+        if (title.includes("cosmote")) return "Cosmote Sport";
+        if (title.includes("spotv")) return "SpoTV";
+        if (title.includes("fox sport") || title.includes("fox deportes")) return "FOX Sports";
+        if (title.includes("match football") || title.includes("match !")) return "Match TV";
+        if (title.includes("premier sport") || title.includes("premierer")) return "Premier Sports";
+        if (title.includes("wwe") || title.includes("ufc") || title.includes("ringside")) return "Combat Sports";
+        if (title.includes("fancode") || title.includes("cricbuzz") || title.includes("willow")) return "Cricket";
+        if (title.includes("nfl") || title.includes("nba") || title.includes("mlb")) return "US Sports";
+        if (title.includes("ssc")) return "SSC Sports";
+        
+        const fakeCategories = ["zee5", "fc - ind", "bangla", "kolkata", "kids", "music", "information", "toffee", "tataplay in", "sonyliv ind", "sonyliv events", "sun nxt", "tv series", "chorki", "sonyliv bd", "star", "airtel tv", "toffee content", "epl bd ip", "plex all", "pluto tv", "stirr tv", "usa v2", "usa v3", "usa v4", "russian v2", "fancode bd", "fancode np", "fancode sl", "jio cinema", "jiohotstar"];
+        if (fakeCategories.includes((catTitle || "").toLowerCase())) {
+            return "Sports Channels";
+        }
+
+        return catTitle || "Sports Channels";
+    }
+
     async getChannels() {
         const apiUrl = await this._getApiUrl();
         if (!apiUrl) {
@@ -239,7 +268,7 @@ class SportzxClient {
 
                     channelsList.push({
                         is_event: false,
-                        group_title: cat.title || "Sportzx Channels",
+                        group_title: this._getCleanGroupTitle(cat.title, ch.title),
                         channel_title: ch.title || "Untitled Channel",
                         logo: ch.logo || "",
                         stream_url: streamUrl,
