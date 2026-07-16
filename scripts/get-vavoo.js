@@ -5,7 +5,7 @@ const https = require('https');
 // CONFIG
 // ==============================
 const OUTPUT_M3U = "vavoo.m3u8";
-const VAVOO_CHANNELS_URL = "https://vavoo.to/channels";
+const VAVOO_CHANNELS_URL = "https://vavoo.to/live";
 
 // ==============================
 // UTILS
