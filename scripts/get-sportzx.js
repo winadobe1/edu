@@ -72,7 +72,27 @@ class SportzxClient {
 
             return pt.toString('utf-8', 0, pt.length).replace(/\uFFFD/g, '');
         } catch (e) {
-            console.error(`Decryption error: ${e.message}`);
+            // Fallback: Try static keys from sportzx_client.js (NKEY/JKEY)
+            let b64_padded = b64Data.replace(/-/g, '+').replace(/_/g, '/');
+            b64_padded += '=='.substring(0, (4 - b64_padded.length % 4) % 4);
+            const buf = Buffer.from(b64_padded, 'base64');
+
+            if (buf.length >= 4 && buf.readUInt32BE(0) === 0xdeadbeef) return "";
+
+            const fallbackKeys = [
+                { key: Buffer.from('6ayJ7jo@ao#pxVc%'), iv: Buffer.from('HsjJTCA7jJztpL2w') },
+                { key: Buffer.from('HmIcX6iHMHfI0zji'), iv: Buffer.from('MZ63rk5cIGYEy0GY') }
+            ];
+
+            for (const {key, iv} of fallbackKeys) {
+                try {
+                    const decipher = crypto.createDecipheriv('aes-128-cbc', key, iv);
+                    decipher.setAutoPadding(true);
+                    const decrypted = Buffer.concat([decipher.update(buf), decipher.final()]);
+                    return decrypted.toString('utf8');
+                } catch (err) {}
+            }
+            console.error(`Decryption error on all keys: ${e.message}`);
             return "";
         }
     }
@@ -123,8 +143,8 @@ class SportzxClient {
             const data = await r.json();
             authToken = data.authToken.token;
         } catch (e) {
-            console.error(`Firebase Install error: ${e.message}`);
-            return null;
+            console.error(`Firebase Install error: ${e.message} - Falling back to default URL`);
+            return "https://cdn-stream.top";
         }
 
         const configUrl = "https://firebaseremoteconfig.googleapis.com/v1/projects/446339309956/namespaces/firebase:fetch";
@@ -161,11 +181,28 @@ class SportzxClient {
             });
             if (!r.ok) throw new Error(`HTTP ${r.status}`);
             const data = await r.json();
-            return data.entries ? data.entries.api_url : null;
+            return data.entries ? data.entries.api_url : "https://cdn-stream.top";
         } catch (e) {
-            console.error(`Remote Config error: ${e.message}`);
-            return null;
+            console.error(`Remote Config error: ${e.message} - Falling back to default URL`);
+            return "https://cdn-stream.top";
         }
+    }
+
+    _extractClearKey(api) {
+        if (!api) return null;
+        if (api.trim().startsWith('{')) {
+            try {
+                const j = JSON.parse(api);
+                if (j.keys && j.keys.length > 0) {
+                    const b64tohex = (str) => Buffer.from(str.replace(/-/g, '+').replace(/_/g, '/'), 'base64').toString('hex');
+                    return { kid: b64tohex(j.keys[0].kid), key: b64tohex(j.keys[0].k) };
+                }
+            } catch(e) {}
+        } else if (api.includes(':')) {
+            const [kid, key] = api.split(':');
+            return { kid: kid.trim(), key: key.trim() };
+        }
+        return null;
     }
 
     async getChannels() {
@@ -177,7 +214,44 @@ class SportzxClient {
 
         const channelsList = [];
         const apiBase = apiUrl.replace(/\/$/, "");
-        
+
+        // 1. Fetch Categories & Normal 24/7 Channels
+        console.log("Fetching categories (cats.json)...");
+        const catsUrl = `${apiBase}/cats.json`;
+        let categories = await this._fetchAndDecrypt(catsUrl);
+        if (Array.isArray(categories)) {
+            for (const cat of categories) {
+                if (!cat || !cat.id) continue;
+                if (this.excludedCategories.includes((cat.title || "").toLowerCase())) continue;
+
+                console.log(` -> Fetching channels for category: ${cat.title} (${cat.id})...`);
+                const chUrl = `${apiBase}/channels/${cat.id}.json`;
+                const channels = await this._fetchAndDecrypt(chUrl);
+                if (!Array.isArray(channels)) continue;
+
+                for (const ch of channels) {
+                    if (!ch || typeof ch !== 'object') continue;
+                    const link = ch.link || "";
+                    if (!link) continue;
+
+                    const streamUrl = link.split("|")[0].trim();
+                    const clearkey = this._extractClearKey(ch.api);
+
+                    channelsList.push({
+                        is_event: false,
+                        group_title: cat.title || "Sportzx Channels",
+                        channel_title: ch.title || "Untitled Channel",
+                        logo: ch.logo || "",
+                        stream_url: streamUrl,
+                        clearkey: clearkey,
+                        id: ch.id || ""
+                    });
+                }
+            }
+        }
+
+        // 2. Fetch Live Events (events.json)
+        console.log("Fetching live events (events.json)...");
         const eventsUrl = `${apiBase}/events.json`;
         let events = await this._fetchAndDecrypt(eventsUrl);
         if (!Array.isArray(events)) events = [];
@@ -197,6 +271,10 @@ class SportzxClient {
 
             const startTime = (event.eventInfo && event.eventInfo.startTime) ? event.eventInfo.startTime : "";
             const eventTimeFull = startTime ? startTime.substring(0, 16).replace(/\//g, "-") : "";
+            const eventBanner = (event.eventInfo && event.eventInfo.eventBanner) ? event.eventInfo.eventBanner : "";
+
+            // Grouping: "Live: {Category}" instead of unique group per match title
+            const eventGroup = event.cat ? `Live: ${event.cat.charAt(0).toUpperCase() + event.cat.slice(1)}` : "Live Events";
 
             for (const ch of channels) {
                 if (!ch || typeof ch !== 'object') continue;
@@ -205,24 +283,19 @@ class SportzxClient {
                 if (!link) continue;
 
                 const streamUrl = link.split("|")[0].trim();
-                let keyid = null;
-                let key = null;
-                const apiVal = ch.api;
-                if (apiVal && apiVal.includes(":")) {
-                    [keyid, key] = apiVal.split(/:(.+)/);
-                }
+                const clearkey = this._extractClearKey(ch.api);
 
                 channelsList.push({
+                    is_event: true,
+                    group_title: eventGroup,
                     event_title: event.title || "Untitled Event",
                     event_id: eid,
                     event_cat: event.cat || "",
-                    event_name: (event.eventInfo && event.eventInfo.eventName) ? event.eventInfo.eventName : "",
                     event_time: eventTimeFull,
                     channel_title: ch.title,
+                    logo: eventBanner || ch.logo || "",
                     stream_url: streamUrl,
-                    keyid: keyid,
-                    key: key,
-                    api: apiVal,
+                    clearkey: clearkey
                 });
             }
         }
@@ -252,44 +325,47 @@ class SportzxClient {
         let included = 0;
 
         for (const ch of channels) {
-            if (!ch.stream_url || (!ch.stream_url.toLowerCase().endsWith(".mpd") && !ch.stream_url.toLowerCase().endsWith(".m3u8"))) {
+            if (!ch.stream_url || (!ch.stream_url.toLowerCase().includes(".mpd") && !ch.stream_url.toLowerCase().includes(".m3u8"))) {
                 continue;
             }
 
             included++;
 
-            const evento = (ch.event_title || "Event").trim();
-
-            let orarioOriginale = "";
-            if (ch.event_time && ch.event_time.length >= 11) {
-                const parti = ch.event_time.split(" ");
-                if (parti.length >= 2) orarioOriginale = parti[1].substring(0, 5);
-            }
-
-            const orarioAumentato = this._increaseTimeByOneHour(orarioOriginale);
-            const orarioPart = orarioAumentato ? ` ${orarioAumentato}` : "";
-
-            let canale = "";
-            if (ch.channel_title && ch.channel_title.trim()) {
-                const titCanale = ch.channel_title.trim();
-                if (!evento.toLowerCase().includes(titCanale.toLowerCase())) {
-                    canale = ` (${titCanale})`;
+            let nomePulito = "";
+            if (ch.is_event) {
+                const evento = (ch.event_title || "Event").trim();
+                let orarioOriginale = "";
+                if (ch.event_time && ch.event_time.length >= 11) {
+                    const parti = ch.event_time.split(" ");
+                    if (parti.length >= 2) orarioOriginale = parti[1].substring(0, 5);
                 }
+                const orarioAumentato = this._increaseTimeByOneHour(orarioOriginale);
+                const orarioPart = orarioAumentato ? ` ${orarioAumentato}` : "";
+
+                let canale = "";
+                if (ch.channel_title && ch.channel_title.trim()) {
+                    const titCanale = ch.channel_title.trim();
+                    if (!evento.toLowerCase().includes(titCanale.toLowerCase())) {
+                        canale = ` (${titCanale})`;
+                    }
+                }
+                const nomeFinale = `${evento}${orarioPart}${canale}`.trim();
+                nomePulito = nomeFinale.replace(/[^\w\s\-:\(\),\.']/g, ' ').trim();
+            } else {
+                nomePulito = (ch.channel_title || "Channel").replace(/[^\w\s\-:\(\),\.']/g, ' ').trim();
             }
 
-            const nomeFinale = `${evento}${orarioPart}${canale}`.trim();
-            const nomePulito = nomeFinale.replace(/[^\w\s\-:\(\),\.']/g, ' ').trim();
-
-            const gruppo = ch.event_cat ? ch.event_cat.charAt(0).toUpperCase() + ch.event_cat.slice(1) : "Sportzx";
+            const gruppo = ch.group_title || "Sportzx";
+            const logo = ch.logo || genericLogo;
 
             const tvg = nomePulito.toLowerCase().replace(/[^a-z0-9]/g, '');
-            const tvgId = tvg ? tvg.substring(0, 50) : `sportzx-${ch.event_id.substring(0, 8)}`;
+            const tvgId = tvg ? tvg.substring(0, 50) : `sportzx-${included}`;
 
-            lines.push(`#EXTINF:-1 tvg-id="${tvgId}" tvg-logo="${genericLogo}" group-title="${gruppo}",${nomePulito}`);
+            lines.push(`#EXTINF:-1 tvg-id="${tvgId}" tvg-logo="${logo}" group-title="${gruppo}",${nomePulito}`);
 
-            if (ch.keyid && ch.key) {
+            if (ch.clearkey && ch.clearkey.kid && ch.clearkey.key) {
                 lines.push("#KODIPROP:inputstream.adaptive.license_type=clearkey");
-                lines.push(`#KODIPROP:inputstream.adaptive.license_key=${ch.keyid}:${ch.key}`);
+                lines.push(`#KODIPROP:inputstream.adaptive.license_key={"${ch.clearkey.kid}":"${ch.clearkey.key}"}`);
             }
 
             lines.push(ch.stream_url);
@@ -313,7 +389,7 @@ async function main() {
 
     console.log("Fetching channels...");
     const canali = await client.getChannels();
-    console.log(`Found ${canali.length} total channels`);
+    console.log(`Found ${canali.length} total channels/streams`);
 
     if (canali.length > 0) {
         console.log("Creating playlist Sportzx.m3u8 ...");
