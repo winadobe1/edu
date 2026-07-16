@@ -1275,8 +1275,17 @@ https://android-database1.firebase-api.com/AccessLog2/108085_HD/apache.m3u8
 #KODIPROP:inputstream.adaptive.license_key={"58551b13211b37d5b325d67e5c6cabef":"3b4c3f8b4236fc57d66cdb54a606fe41"}
 https://g001-sle-us-cmaf-prd-ak.pcdn03.cssott.com/Content/CMAF_OS1-CTR-4s-v2/Live/channel(12010340-12010340-4445585a62764)/master_2hr.mpd
 
+#EXTINF:-1 tvg-id="torontoraptors0200sportzxsd" tvg-logo="null" group-title="Live: NBA",Toronto Raptors 02:00 (SportzX SD)
+https://edgestream2.pro/hls/bvnsqdfvgha70.m3u8?
+
+#EXTINF:-1 tvg-id="denvernuggets0300sportzxlive" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="Live: NBA",Denver Nuggets 03:00 (SportzX Live)
+https://edgestream2.pro/hls/ztyarueaghj71.m3u8?
+
 #EXTINF:-1 tvg-id="coloradorockies0140sportzxlive" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="Live: MLB",Colorado Rockies 01:40 (SportzX LIVE)
 https://edgestream1.pro/hls/kjhfzua25.m3u8?
+
+#EXTINF:-1 tvg-id="mysticsvsportlandfire0000sportzxlive" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="Live: WNBA",Mystics vs Portland Fire 00:00 (SportzX Live)
+https://edgestream3.pro/hls/pllmazjkdzajh72.m3u8?
 
 #EXTINF:-1 tvg-id="westindiesvsnewzealand1930fancodefhd" tvg-logo="https://m.media-amazon.com/images/I/21K+HipHr6L.png" group-title="Live: Cricket",West Indies vs New Zealand 19:30 (FANCODE FHD)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -1753,6 +1762,34 @@ https://video.twimg.com/amplify_video/1919602814160125952/pl/t5p2RHLI21i-hXga.m3
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={"385ceb9714b75e0cef61254f80b31002":"18dce92a2891fee68d21ede5173230f8"}
 https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/cscevwljkq/out/v1/972185041b244140860b7d56398e9aaf/cenc.mpd
+
+#EXTINF:-1 tvg-id="philliesvsnewyorkmets0010tsnsportsfhd" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="Live: MLB",Phillies vs New York Mets 00:10 (TSN SPORTS FHD)
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"14eeabf30c14b7fbf3008c03099ce011":"17d2ac8dbc5429bd70af3433aa12158d"}
+https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/w0rehjjrwe/out/v1/69a2a7041395406b970598f61680e7cf/cenc.mpd
+
+#EXTINF:-1 tvg-id="philliesvsnewyorkmets0010sportzxlive" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="Live: MLB",Phillies vs New York Mets 00:10 (SportzX Live)
+https://edgestream1.pro/hls/dazhfiach15.m3u8?
+
+#EXTINF:-1 tvg-id="thundervsdallasmavericks2100sportzxlive" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="Live: NBA",Thunder vs Dallas Mavericks 21:00 (SportzX Live)
+https://edgestream1.pro/hls/mlkijfezag65.m3u8?
+
+#EXTINF:-1 tvg-id="rocketsvsbrooklynnets2130sportzxlive" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="Live: NBA",Rockets vs Brooklyn Nets 21:30 (SportzX Live)
+https://edgestream2.pro/hls/wfazgsqtrezu66.m3u8?
+
+#EXTINF:-1 tvg-id="chicagobullsvslakers2300sportzxlive" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="Live: NBA",Chicago Bulls vs Lakers 23:00 (SportzX Live)
+https://edgestream2.pro/hls/hfsdqtaxvb67.m3u8?
+
+#EXTINF:-1 tvg-id="knicksvswarriors0000tsnsports" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="Live: NBA",Knicks vs Warriors 00:00 (TSN SPORTS)
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"d3250252765347a0c2603c6cb4869f8c":"0c19319460da7e9ed816db46ce839b37"}
+https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/lsibpqruq1/out/v1/748887d614a84913ba8bcdf3c82823e6/cenc.mpd
+
+#EXTINF:-1 tvg-id="knicksvswarriors0000sportzxlive" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="Live: NBA",Knicks vs Warriors 00:00 (SportzX Live)
+https://edgestream1.pro/hls/zayrtezafgvdv68.m3u8?
+
+#EXTINF:-1 tvg-id="hawksvsmemphisgrizzlies0100sportzxlive" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="Live: NBA",Hawks vs Memphis Grizzlies 01:00 (SportzX Live)
+https://edgestream2.pro/hls/zeafwqvhfe69.m3u8?
 
 #EXTINF:-1 tvg-id="clubnecaxavsatlante0200foxdeportes" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="Live: Liga MX",Club Necaxa vs Atlante 02:00 (FOX DEPORTES)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
