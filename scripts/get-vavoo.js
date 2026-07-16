@@ -6,6 +6,12 @@ const https = require('https');
 // ==============================
 const OUTPUT_M3U = "vavoo.m3u8";
 const VAVOO_CATALOG_URL = "https://vavoo.to/mediahubmx-catalog.json";
+const VAVOO_RESOLVE_URL = "https://vavoo.to/mediahubmx-resolve.json";
+const CONCURRENCY = 40; // Resolving 40 channels concurrently untuk kecepatan tinggi
+
+// CLI flags
+const args = process.argv.slice(2);
+const noResolve = args.includes('--no-resolve'); // Gunakan --no-resolve jika hanya ingin ID katalog tanpa resolving
 
 // ==============================
 // UTILS
@@ -72,7 +78,6 @@ async function fetchVavooChannels() {
         }
     }
 
-    // Jika gagal mendapatkan grup, fallback ke query umum tanpa filter
     if (groups.length === 0) {
         groups = [null];
     } else {
@@ -122,7 +127,81 @@ async function fetchVavooChannels() {
 }
 
 // ==============================
-// M3U
+// STREAM RESOLVER (POST to resolve.json)
+// ==============================
+function resolveSingleChannel(id) {
+    return new Promise((resolve) => {
+        const payload = JSON.stringify({
+            "language": "de",
+            "region": "DE",
+            "url": `https://vavoo.to/vavoo-iptv/play/${id}`
+        });
+
+        const req = https.request(VAVOO_RESOLVE_URL, {
+            method: 'POST',
+            headers: {
+                "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
+                "Content-Type": "application/json; charset=utf-8",
+                "Content-Length": Buffer.byteLength(payload),
+                "Origin": "https://vavoo.to",
+                "Referer": "https://vavoo.to/watch"
+            }
+        }, (res) => {
+            let body = '';
+            res.on('data', chunk => body += chunk);
+            res.on('end', () => {
+                try {
+                    const j = JSON.parse(body);
+                    if (Array.isArray(j) && j[0] && j[0].url) {
+                        resolve(j[0].url);
+                    } else {
+                        resolve(null);
+                    }
+                } catch (e) {
+                    resolve(null);
+                }
+            });
+        });
+
+        req.on('error', () => resolve(null));
+        req.write(payload);
+        req.end();
+    });
+}
+
+async function resolveChannelsInBatches(channels) {
+    console.log(`\n=== Memulai proses Resolving Stream HLS untuk ${channels.length} channel (Concurrency: ${CONCURRENCY}) ===`);
+    let resolvedCount = 0;
+    const startTime = Date.now();
+
+    for (let i = 0; i < channels.length; i += CONCURRENCY) {
+        const batch = channels.slice(i, i + CONCURRENCY);
+        const tasks = batch.map(async (ch) => {
+            const id = ch.ids ? ch.ids.id : ch.id;
+            const realUrl = await resolveSingleChannel(id);
+            if (realUrl) {
+                ch.stream_url = realUrl;
+                resolvedCount++;
+            } else {
+                ch.stream_url = `https://vavoo.to/play/${id}/index.m3u8`;
+            }
+        });
+
+        await Promise.all(tasks);
+
+        if ((i + CONCURRENCY) % 1000 < CONCURRENCY || i + batch.length === channels.length) {
+            const progress = Math.min(channels.length, i + batch.length);
+            const elapsedSec = ((Date.now() - startTime) / 1000).toFixed(1);
+            console.log(`[Resolving Progress] ${progress}/${channels.length} channels (${resolvedCount} berhasil resolved, ${elapsedSec}s)`);
+        }
+    }
+
+    console.log(`=== Selesai Resolving: ${resolvedCount}/${channels.length} stream HLS asli berhasil didapatkan ===\n`);
+    return channels;
+}
+
+// ==============================
+// M3U GENERATION
 // ==============================
 function generateM3u(channels) {
     let m3u = "#EXTM3U\n\n";
@@ -136,10 +215,9 @@ function generateM3u(channels) {
         const group = cleanText(channel.group || channel.country) || "Uncategorized";
         const logo = channel.logo || "";
 
-        // Format stream URL yang diminta: https://vavoo.to/play/{id}/index.m3u8
-        const streamUrl = `https://vavoo.to/play/${id}/index.m3u8`;
+        // Jika berhasil diresolve, gunakan URL HLS asli (ngolpdkyoctjcddxshli469r.org), jika tidak gunakan fallback
+        const streamUrl = channel.stream_url || `https://vavoo.to/play/${id}/index.m3u8`;
 
-        // Metadata M3U
         const logoAttr = logo ? ` tvg-logo="${logo}"` : "";
         m3u += `#EXTINF:-1 tvg-id="${id}"${logoAttr} group-title="${group}",${name}\n`;
         m3u += `${streamUrl}\n\n`;
@@ -148,7 +226,7 @@ function generateM3u(channels) {
     }
 
     fs.writeFileSync(OUTPUT_M3U, m3u, 'utf-8');
-    console.log(`✅ File M3U berhasil dibuat: ${OUTPUT_M3U} dengan total ${count} channels unik.`);
+    console.log(`✅ File M3U berhasil dibuat: ${OUTPUT_M3U} dengan total ${count} channels.`);
 }
 
 // ==============================
@@ -157,8 +235,15 @@ function generateM3u(channels) {
 async function main() {
     try {
         console.log("Mulai mendownload seluruh channel dari server VAVOO...");
-        const channels = await fetchVavooChannels();
+        let channels = await fetchVavooChannels();
         console.log(`=== Selesai ekstraksi: Berhasil mengumpulkan ${channels.length} saluran unik dari seluruh dunia ===`);
+
+        if (!noResolve) {
+            channels = await resolveChannelsInBatches(channels);
+        } else {
+            console.log("[Info] Melewati proses resolving karena flag --no-resolve aktif.");
+        }
+
         generateM3u(channels);
     } catch(e) {
         console.error("❌ Terjadi kesalahan:", e.message);
