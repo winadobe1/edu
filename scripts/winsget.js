@@ -33,7 +33,7 @@ const PRO_ID       = 'sling';
 //  CLI args
 // ─────────────────────────────────────────
 const args = process.argv.slice(2);
-let outPath = 'xyzstreams_playlist.m3u';
+let outPath = 'xyzstreams.m3u8';
 
 // If user provides a non-flag argument, treat it as output path
 const outArg = args.find(a => !a.startsWith('--'));
