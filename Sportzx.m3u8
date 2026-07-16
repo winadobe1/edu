@@ -1192,34 +1192,6 @@ https://27lftgqlgzmy.windows-devs.top/AccessLog2/83_FHD/apache.m3u8
 #EXTINF:-1 tvg-id="wwe0100backupsd" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="Live: WWE",WWE 01:00 (BACKUP SD)
 https://27lftgqlgzmy.windows-devs.top/AccessLog2/108087_HD/apache.m3u8
 
-#EXTINF:-1 tvg-id="englandvsindia1300willowfhd" tvg-logo="null" group-title="Live: Cricket",England vs India 13:00 (WILLOW FHD)
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={"78e4283951bfc5fe2065a15ed15bf491":"7269b0331df2093fc091df0325e69b47"}
-https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/2hqonq2js6/out/v1/3204a1c65a534f6eb946841ead683f29/cenc.mpd
-
-#EXTINF:-1 tvg-id="englandvsindia1300tapmadfhd" tvg-logo="null" group-title="Live: Cricket",England vs India 13:00 (TAPMAD FHD)
-https://saseries.akamaized.net/hls/live/2110097/2356jkiL-tapmad/master.m3u8
-
-#EXTINF:-1 tvg-id="englandvsindia1300willowalt" tvg-logo="null" group-title="Live: Cricket",England vs India 13:00 (WILLOW ALT)
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={"78e4283951bfc5fe2065a15ed15bf491":"7269b0331df2093fc091df0325e69b47"}
-https://abfjk4haaaaaaaamkitc5445rybm6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/2hqonq2js6/out/v1/3204a1c65a534f6eb946841ead683f29/cenc.mpd
-
-#EXTINF:-1 tvg-id="englandvsindia1300lowserver" tvg-logo="null" group-title="Live: Cricket",England vs India 13:00 (LOW SERVER)
-http://193.47.62.48/hls/ZAZAZAQQ.m3u8
-
-#EXTINF:-1 tvg-id="englandvsindia1300foxcrickethd" tvg-logo="null" group-title="Live: Cricket",England vs India 13:00 (FOX CRICKET HD)
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/VCQ4ADX96VH4G8PY7URBWRQU/19146/index.m3u8
-
-#EXTINF:-1 tvg-id="englandvsindia1300sonyten1in" tvg-logo="null" group-title="Live: Cricket",England vs India 13:00 (SONY TEN 1 - IN)
-https://dishmt.slivcdn.com/hls/live/2011747/TEN1HD/master.m3u8?hdnea=exp=1784240536~acl=/*~id=80163195619765322207249310502926~hmac=37ad3fc0695bf46401a42532ae037a3f6fa53fd7e61b9d56619908448e3641cf
-
-#EXTINF:-1 tvg-id="englandvsindia1300sonyten3in" tvg-logo="null" group-title="Live: Cricket",England vs India 13:00 (SONY TEN 3 - IN)
-https://dishmt.slivcdn.com/hls/live/2020591/TEN3HD/master.m3u8?hdnea=exp=1784240536~acl=/*~id=80163195619765322207249310502926~hmac=37ad3fc0695bf46401a42532ae037a3f6fa53fd7e61b9d56619908448e3641cf
-
-#EXTINF:-1 tvg-id="englandvsindia1300sonyten4in" tvg-logo="null" group-title="Live: Cricket",England vs India 13:00 (SONY TEN 4 - IN)
-https://dishmt.slivcdn.com/hls/live/2020589-b/ten4hd/master.m3u8?hdnea=exp=1784240536~acl=/*~id=80163195619765322207249310502926~hmac=37ad3fc0695bf46401a42532ae037a3f6fa53fd7e61b9d56619908448e3641cf
-
 #EXTINF:-1 tvg-id="onefridayfights1330onefightfhd" tvg-logo="https://iili.io/BihxDjj.png" group-title="Live: Boxing",ONE Friday Fights 13:30 (One Fight FHD)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={"308006101c8fd0262c0f529319b9c127":"37683aadc75b1450efa82d62c647984d"}
