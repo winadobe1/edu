@@ -1298,59 +1298,74 @@ https://android-database1.firebase-api.com/AccessLog2/108085_HD/apache.m3u8
 https://g001-sle-us-cmaf-prd-ak.pcdn03.cssott.com/Content/CMAF_OS1-CTR-4s-v2/Live/channel(12010340-12010340-4445585a62764)/master_2hr.mpd
 
 #EXTINF:-1 tvg-id="indianapacers0200sportzxlive" tvg-logo="null" group-title="Live: NBA",Indiana Pacers 02:00 (SportzX Live)
-https://edgestream2.pro/hls/zeafwqvhfe69.m3u8?
+https://edgestream2.pro/hls/bvnsqdfvgha70.m3u8?
 
 #EXTINF:-1 tvg-id="phoenixsuns0330sportzxlive" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="Live: NBA",Phoenix Suns 03:30 (SportzX Live)
-https://edgestream1.pro/hls/bvnsqdfvgha70.m3u8?
+https://edgestream2.pro/hls/ztyarueaghj71.m3u8?
 
-#EXTINF:-1 tvg-id="tourdefrance1230eurosport1fhd" tvg-logo="https://iili.io/Cj06Rqv.png" group-title="Live: Tour de France",Tour de France 12:30 (EUROSPORT1 FHD)
+#EXTINF:-1 tvg-id="tourdefrance1220eurosport1fhd" tvg-logo="https://iili.io/Cj06Rqv.png" group-title="Live: Tour de France",Tour de France 12:20 (EUROSPORT1 FHD)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={"11223344556677889900112233445566":"4b80724d0ef86bcb2c21f7999d67739d"}
 https://dash2.antik.sk/stream/nvidia_eurosport1/playlist_cenc.mpd
 
-#EXTINF:-1 tvg-id="tourdefrance1230eurosport2fhd" tvg-logo="https://iili.io/Cj06Rqv.png" group-title="Live: Tour de France",Tour de France 12:30 (EUROSPORT2 FHD)
+#EXTINF:-1 tvg-id="tourdefrance1220eurosport2fhd" tvg-logo="https://iili.io/Cj06Rqv.png" group-title="Live: Tour de France",Tour de France 12:20 (EUROSPORT2 FHD)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={"11223344556677889900112233445566":"4b80724d0ef86bcb2c21f7999d67739d"}
 https://dash2.antik.sk/stream/nvidia_eurosport2/playlist_cenc.mpd
 
-#EXTINF:-1 tvg-id="tourdefrance1230eurosport1fhd" tvg-logo="https://iili.io/Cj06Rqv.png" group-title="Live: Tour de France",Tour de France 12:30 (EUROSPORT1 FHD)
+#EXTINF:-1 tvg-id="tourdefrance1220eurosport1fhd" tvg-logo="https://iili.io/Cj06Rqv.png" group-title="Live: Tour de France",Tour de France 12:20 (EUROSPORT1 FHD)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={"0f4751abc997473d9138d17b5944be04":"a0aefedd2376a54b8b50f9b7c2d50ac7"}
 https://cache01.zapitv.com/live/eds_c2/eurosport_1_hd/dash_live_ez/eurosport_1_hd.mpd
 
-#EXTINF:-1 tvg-id="tourdefrance1230eurosport2fhd" tvg-logo="https://iili.io/Cj06Rqv.png" group-title="Live: Tour de France",Tour de France 12:30 (EUROSPORT2 FHD)
+#EXTINF:-1 tvg-id="tourdefrance1220eurosport2fhd" tvg-logo="https://iili.io/Cj06Rqv.png" group-title="Live: Tour de France",Tour de France 12:20 (EUROSPORT2 FHD)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={"e369d9ab101d4b60ba13c0384f503528":"041e35e31381521b3398af5c6dd99414"}
 https://cache01.zapitv.com/live/eds_c2/eurosport_2_hd/dash_live_ez/eurosport_2_hd.mpd
 
 #EXTINF:-1 tvg-id="clevelandguardians0010sportzxlive" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="Live: MLB",Cleveland Guardians 00:10 (SportzX LIVE)
-https://edgestream3.pro/hls/kjhfzua25.m3u8?
+https://edgestream3.pro/hls/dzjhkfazbka26.m3u8?
+
+#EXTINF:-1 tvg-id="newyorkyankees0108foxdeportes" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="Live: MLB",New York Yankees 01:08 (FOX DEPORTES)
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"d1a163914db8ffad2c3e94f979896a0d":"9728800a3959aafdd5b0bcfbf3768811"}
+https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/vkpoljjpkj/out/v1/502bcf68b3514cd28a220e6f0a43816f/cenc.mpd
 
 #EXTINF:-1 tvg-id="newyorkyankees0108sportzxlive" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="Live: MLB",New York Yankees 01:08 (SportzX Live)
-https://edgestream2.pro/hls/dzjhkfazbka26.m3u8?
+https://edgestream3.pro/hls/jzabfazkbf27.m3u8?
 
 #EXTINF:-1 tvg-id="seattlemariners0108sportzxlive" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="Live: MLB",Seattle Mariners 01:08 (SportzX Live)
-https://edgestream2.pro/hls/jzabfazkbf27.m3u8?
+https://edgestream1.pro/hls/hefbafbakx28.m3u8?
 
 #EXTINF:-1 tvg-id="washingtonnationals0305sportzxlive" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="Live: MLB",Washington Nationals 03:05 (SportzX Live)
-https://edgestream3.pro/hls/hefbafbakx28.m3u8?
-
-#EXTINF:-1 tvg-id="detroittigers0307sportzxlive" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="Live: MLB",Detroit Tigers 03:07 (SportzX Live)
 https://edgestream2.pro/hls/hfzljfahzcax29.m3u8?
 
-#EXTINF:-1 tvg-id="indianafevervsliberty0100sportzxlive" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="Live: WNBA",Indiana Fever vs Liberty 01:00 (SportzX Live)
-https://edgestream2.pro/hls/pllmazjkdzajh72.m3u8?
+#EXTINF:-1 tvg-id="detroittigers0307sportzxlive" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="Live: MLB",Detroit Tigers 03:07 (SportzX Live)
+https://edgestream3.pro/hls/JHDAJBDnjdna30.m3u8?
 
-#EXTINF:-1 tvg-id="lynxvsportlandfire0100sportzxlive" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="Live: WNBA",Lynx vs Portland Fire 01:00 (SportzX Live)
-https://edgestream1.pro/hls/ztyarueaghj71.m3u8?
+#EXTINF:-1 tvg-id="cfl0030tsn1" tvg-logo="https://www.bellmedia.ca/lede/wp-content/uploads/2024/09/18581592_10155403529061055_8240563011649656197_n.jpg" group-title="Live: CFL",CFL 00:30 (TSN 1)
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"14eeabf30c14b7fbf3008c03099ce011":"17d2ac8dbc5429bd70af3433aa12158d"}
+https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/w0rehjjrwe/out/v1/69a2a7041395406b970598f61680e7cf/cenc.mpd
 
-#EXTINF:-1 tvg-id="valkyriesvswashingtonmystics0130tsnsportsfhd" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="Live: WNBA",Valkyries vs Washington Mystics 01:30 (TSN SPORTS FHD)
+#EXTINF:-1 tvg-id="cfl0030tsn4" tvg-logo="https://www.bellmedia.ca/lede/wp-content/uploads/2024/09/18581592_10155403529061055_8240563011649656197_n.jpg" group-title="Live: CFL",CFL 00:30 (TSN 4)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={"abc5b2883121012850ebda05b528c5ec":"e5250924f4b738905f7163a0134587a7"}
 https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/ihys8nw4wv/out/v1/fde190f369484bc6b6117cc16cd82a9f/cenc.mpd
 
+#EXTINF:-1 tvg-id="cfl0030tsn5" tvg-logo="https://www.bellmedia.ca/lede/wp-content/uploads/2024/09/18581592_10155403529061055_8240563011649656197_n.jpg" group-title="Live: CFL",CFL 00:30 (TSN 5)
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"385ceb9714b75e0cef61254f80b31002":"18dce92a2891fee68d21ede5173230f8"}
+https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/cscevwljkq/out/v1/972185041b244140860b7d56398e9aaf/cenc.mpd
+
+#EXTINF:-1 tvg-id="indianafevervsliberty0100sportzxlive" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="Live: WNBA",Indiana Fever vs Liberty 01:00 (SportzX Live)
+https://edgestream1.pro/hls/pllmazjkdzajh72.m3u8?
+
+#EXTINF:-1 tvg-id="lynxvsportlandfire0100sportzxlive" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="Live: WNBA",Lynx vs Portland Fire 01:00 (SportzX Live)
+https://edgestream3.pro/hls/fdgsqdfawa73.m3u8?
+
 #EXTINF:-1 tvg-id="valkyriesvswashingtonmystics0130sportzxlive" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="Live: WNBA",Valkyries vs Washington Mystics 01:30 (SportzX Live)
-https://edgestream1.pro/hls/fdgsqdfawa73.m3u8?
+https://edgestream1.pro/hls/yjtzafghvjza74.m3u8?
 
 #EXTINF:-1 tvg-id="westindiesvsnewzealand1500willowfhd" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="Live: Cricket",West Indies vs New Zealand 15:00 (WILLOW FHD)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -1846,49 +1861,49 @@ https://live-pv-ta.amazon.fastly-edge.com/iad-nitro/startover/clients/dash/manip
 https://live-pv-ta.amazon.fastly-edge.com/iad-nitro/startover/clients/dash/manipulated-manifest-iad-prod/enc/nsuvwbv5a0/out/v1/745ffbb961054110852973877632f4e9/f7dd18d6-fb4d-4a8a-80fb-0cea8594021e-cenc.mpd
 
 #EXTINF:-1 tvg-id="guardiansvspittsburghpirates1810sportzxlive" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="Live: MLB",Guardians vs Pittsburgh Pirates 18:10 (SportzX Live)
-https://edgestream3.pro/hls/dazhfiach15.m3u8?
+https://edgestream1.pro/hls/dazhfiach15.m3u8?
 
 #EXTINF:-1 tvg-id="chicagocubsvsminnesotatwins1920sportzxlive" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="Live: MLB",Chicago Cubs vs Minnesota Twins 19:20 (SportzX Live)
-https://edgestream3.pro/hls/16yuitzaerghbhc16.m3u8?
+https://edgestream2.pro/hls/16yuitzaerghbhc16.m3u8?
 
 #EXTINF:-1 tvg-id="bluejaysvswhitesox2007sportzxlive" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="Live: MLB",Blue Jays vs White Sox 20:07 (SportzX Live)
 https://edgestream3.pro/hls/ihfazugfyjcazich17.m3u8?
 
 #EXTINF:-1 tvg-id="rockiesvscincinnatireds2010sportzxlive" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="Live: MLB",Rockies vs Cincinnati Reds 20:10 (SportzX Live)
-https://edgestream1.pro/hls/Czajafjihafch18.m3u8?
+https://edgestream2.pro/hls/Czajafjihafch18.m3u8?
 
 #EXTINF:-1 tvg-id="philliesvsnewyorkmets2105sportzxlive" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="Live: MLB",Phillies vs New York Mets 21:05 (SportzX Live)
-https://edgestream1.pro/hls/bzagLHzach19.m3u8?
+https://edgestream2.pro/hls/bzagLHzach19.m3u8?
 
 #EXTINF:-1 tvg-id="diamondbacksvscardinals2110sportzxlive" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="Live: MLB",Diamondbacks vs Cardinals 21:10 (SportzX Live)
-https://edgestream2.pro/hls/jkzahzadach20.m3u8?
+https://edgestream1.pro/hls/jnzkdzjfanch23.m3u8?
 
 #EXTINF:-1 tvg-id="atlantabravesvstexasrangers2110sportzxlive" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="Live: MLB",Atlanta Braves vs Texas Rangers 21:10 (SportzX Live)
-https://edgestream2.pro/hls/ojzkajnach21.m3u8?
+https://edgestream3.pro/hls/jkzahzadach20.m3u8?
 
 #EXTINF:-1 tvg-id="redsoxvstampabayrays2110sportzxlive" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="Live: MLB",Red Sox vs Tampa Bay Rays 21:10 (SportzX Live)
-https://edgestream3.pro/hls/ijfnakfidch22.m3u8?
+https://edgestream1.pro/hls/fskjanach24.m3u8?
 
 #EXTINF:-1 tvg-id="royalsvssandiegopadres2110sportzxlive" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="Live: MLB",Royals vs San Diego Padres 21:10 (SportzX Live)
-https://edgestream2.pro/hls/fskjanach24.m3u8?
+https://edgestream3.pro/hls/ijfnakfidch22.m3u8?
 
 #EXTINF:-1 tvg-id="astrosvsbaltimoreorioles2110sportzxlive" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="Live: MLB",Astros vs Baltimore Orioles 21:10 (SportzX Live)
-https://edgestream2.pro/hls/jnzkdzjfanch23.m3u8?
+https://edgestream1.pro/hls/ojzkajnach21.m3u8?
 
 #EXTINF:-1 tvg-id="orlandomagicvsbostonceltics2130sportzxlive" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="Live: NBA",Orlando Magic vs Boston Celtics 21:30 (SportzX Live)
-https://edgestream3.pro/hls/mlkijfezag65.m3u8?
+https://edgestream1.pro/hls/mlkijfezag65.m3u8?
 
 #EXTINF:-1 tvg-id="bucksvsphiladelphia76ers2200sportzxlive" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="Live: NBA",Bucks vs Philadelphia 76ers 22:00 (SportzX Live)
 https://edgestream2.pro/hls/wfazgsqtrezu66.m3u8?
 
 #EXTINF:-1 tvg-id="wizardsvsatlantahawks0000sportzxlive" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="Live: NBA",Wizards vs Atlanta Hawks 00:00 (SportzX Live)
-https://edgestream1.pro/hls/hfsdqtaxvb67.m3u8?
-
-#EXTINF:-1 tvg-id="memphisgrizzliesvshoustonrockets2330sportzxlive" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="Live: NBA",Memphis Grizzlies vs Houston Rockets 23:30 (SportzX Live)
 https://edgestream2.pro/hls/zayrtezafgvdv68.m3u8?
 
+#EXTINF:-1 tvg-id="memphisgrizzliesvshoustonrockets2330sportzxlive" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="Live: NBA",Memphis Grizzlies vs Houston Rockets 23:30 (SportzX Live)
+https://edgestream1.pro/hls/hfsdqtaxvb67.m3u8?
+
 #EXTINF:-1 tvg-id="lakersvswarriors0130sportzxlive" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="Live: NBA",Lakers vs Warriors 01:30 (SportzX Live)
-https://video.twimg.com/amplify_video/1919602814160125952/pl/t5p2RHLI21i-hXga.m3u8?variant_version=1&tag=14
+https://edgestream1.pro/hls/zeafwqvhfe69.m3u8?
 
 #EXTINF:-1 tvg-id="manchesterunitedvswrexham1600mutv" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="Live: Club Friendly",Manchester United vs Wrexham 16:00 (MU TV)
 https://fastly.live.brightcove.com/6374054671112/eu-west-1/6058004203001/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJob3N0IjoiYXplMnp5LmVncmVzcy55ODN1ZWIiLCJhY2NvdW50X2lkIjoiNjA1ODAwNDIwMzAwMSIsImVobiI6ImZhc3RseS5saXZlLmJyaWdodGNvdmUuY29tIiwiaXNzIjoiYmxpdmUtcGxheWJhY2stc291cmNlLWFwaSIsInN1YiI6InBhdGhtYXB0b2tlbiIsImF1ZCI6WyI2MDU4MDA0MjAzMDAxIl0sImp0aSI6IjYzNzQwNTQ2NzExMTIifQ.3FmuTna3DAmY7xlhK5fk6LMrosrtrR5VsU2QOgYO5y4/playlist-hls.m3u8
@@ -1908,7 +1923,7 @@ https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/0eiyyz8qzm/out/v1
 https://tmaxapp.site/8wirwjs76erftg/skysport1nz.m3u8
 
 #EXTINF:-1 tvg-id="brewersvsmiamimarlins2110sportzxlive" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="Live: MLB",Brewers vs Miami Marlins 21:10 (SportzX Live)
-https://video.twimg.com/amplify_video/1919602814160125952/pl/t5p2RHLI21i-hXga.m3u8?variant_version=1&tag=14
+https://edgestream2.pro/hls/kjhfzua25.m3u8?
 
 #EXTINF:-1 tvg-id="australiavsitaly1110itvsportsfhd" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="Live: Rugby",Australia vs Italy 11:10 (ITV SPORTS FHD)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -1940,36 +1955,26 @@ https://live.vivo200.com/live/sd-1-4584528.m3u8?txSecret=c60212596bd784119f7687a
 #EXTINF:-1 tvg-id="afcajaxvsolympiacos1430sdserver" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="Live: Club Friendly",AFC Ajax vs Olympiacos 14:30 (SD SERVER)
 http://193.47.62.49/hls/YNNNQQQ.m3u8?
 
-#EXTINF:-1 tvg-id="celticvsmiddlesbrough1500sdserver" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="Live: Club Friendly",Celtic vs Middlesbrough 15:00 (SD SERVER)
-http://193.47.62.46/hls/IAAA.m3u8?
-
-#EXTINF:-1 tvg-id="lottevsrealbetis1430sportzxlive" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="Live: Club Friendly",Lotte vs Real Betis 14:30 (SportzX Live)
-https://live.vivo200.com/live/sd-1-4587780.m3u8?txSecret=1d6f9a6c324cb7b62cd7a4b5d810cd78&txTime=6A5B92D8
-
-#EXTINF:-1 tvg-id="lottevsrealbetis1430hdserver" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="Live: Club Friendly",Lotte vs Real Betis 14:30 (HD SERVER)
-https://hls.streamhub.media/hls/thesport-api-076cecf54325a5407fe3/master.m3u8
-
-#EXTINF:-1 tvg-id="lottevsrealbetis1430sdserver" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="Live: Club Friendly",Lotte vs Real Betis 14:30 (SD SERVER)
-http://193.47.62.49/hls/YNNNQQQQQQ.m3u8?
-
-#EXTINF:-1 tvg-id="hampshirevsnottinghamshire1430willowfhd" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="Live: T20 Blast",Hampshire vs Nottinghamshire 14:30 (WILLOW FHD)
+#EXTINF:-1 tvg-id="hampshirevsnottinghamshire1845willowfhd" tvg-logo="https://s21.q4cdn.com/819998841/files/doc_news/2024/May/Willow-logo-transparent-cb.png" group-title="Live: T20 Blast",Hampshire vs Nottinghamshire 18:45 (WILLOW - FHD)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={"a3a95de0732808b96c314479df1586b1":"0818f1d8c7c47fcbe543e2435ff44143"}
-https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/iwyh0vj3ac/out/v1/03c3c3439673443d972401e438d1a29a/cenc.mpd
+#KODIPROP:inputstream.adaptive.license_key={"c19c0062404ac30d42291fbfadba323e":"6086d22b65e8e988f4b6da3e34a3e2c3"}
+https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/9uwi1u8pp4/out/v1/e3442a4252344b0493129c4db959dc06/cenc.mpd
 
-#EXTINF:-1 tvg-id="hampshirevsnottinghamshire1430cricketfhd" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="Live: T20 Blast",Hampshire vs Nottinghamshire 14:30 (CRICKET FHD)
+#EXTINF:-1 tvg-id="hampshirevsnottinghamshire1845cricketfhd" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="Live: T20 Blast",Hampshire vs Nottinghamshire 18:45 (CRICKET FHD)
 https://bl.rutube.ru/livestream/7c13a51576b9ff2601f08f5d57dd5169/index.m3u8?s=uiXES2ePt7xTpQnbJxn7Dg&e=2074684474&scheme=https
 
-#EXTINF:-1 tvg-id="hampshirevsnottinghamshire1430tapmadfhd" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="Live: T20 Blast",Hampshire vs Nottinghamshire 14:30 (TAPMAD - FHD)
-https://saseries.akamaized.net/hls/live/2110097/UFC-20-3827e1/master.m3u8?
-
-#EXTINF:-1 tvg-id="hampshirevsnottinghamshire1430willowalt" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="Live: T20 Blast",Hampshire vs Nottinghamshire 14:30 (WILLOW - ALT)
+#EXTINF:-1 tvg-id="hampshirevsnottinghamshire1845willowalt" tvg-logo="https://s21.q4cdn.com/819998841/files/doc_news/2024/May/Willow-logo-transparent-cb.png" group-title="Live: T20 Blast",Hampshire vs Nottinghamshire 18:45 (WILLOW - ALT)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={"a3a95de0732808b96c314479df1586b1":"0818f1d8c7c47fcbe543e2435ff44143"}
-https://abfjk4haaaaaaaamkitc5445rybm6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/iwyh0vj3ac/out/v1/03c3c3439673443d972401e438d1a29a/cenc.mpd
+#KODIPROP:inputstream.adaptive.license_key={"c19c0062404ac30d42291fbfadba323e":"6086d22b65e8e988f4b6da3e34a3e2c3"}
+https://abfjk4haaaaaaaamkitc5445rybm6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/9uwi1u8pp4/out/v1/e3442a4252344b0493129c4db959dc06/cenc.mpd
 
-#EXTINF:-1 tvg-id="hampshirevsnottinghamshire1430sonyliv" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="Live: T20 Blast",Hampshire vs Nottinghamshire 14:30 (SonyLiv)
+#EXTINF:-1 tvg-id="hampshirevsnottinghamshire1845sonyliv" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="Live: T20 Blast",Hampshire vs Nottinghamshire 18:45 (SonyLiv)
 https://sonymtmnew-akamaized.pages.dev/hls/live/20000295/criclive1807/ENG/master.m3u8
 
-#EXTINF:-1 tvg-id="baumbergvsbayerleverkusen1430sdserver" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="Live: Club Friendly",Baumberg vs Bayer Leverkusen 14:30 (SD SERVER)
-http://193.47.62.49/hls/YNNNQQQQQ.m3u8?
+#EXTINF:-1 tvg-id="hampshirevsnottinghamshire1845tapmadfhd" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="Live: T20 Blast",Hampshire vs Nottinghamshire 18:45 (TAPMAD - FHD)
+https://saseries.akamaized.net/hls/live/2110097/UFC-20-3827e1/master.m3u8?
+
+#EXTINF:-1 tvg-id="calgaryvsmontreal2100tsnsports" tvg-logo="https://www.bellmedia.ca/lede/wp-content/uploads/2024/09/18581592_10155403529061055_8240563011649656197_n.jpg" group-title="Live: CFL",Calgary vs Montreal 21:00 (TSN SPORTS)
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"385ceb9714b75e0cef61254f80b31002":"18dce92a2891fee68d21ede5173230f8"}
+https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/cscevwljkq/out/v1/972185041b244140860b7d56398e9aaf/cenc.mpd
