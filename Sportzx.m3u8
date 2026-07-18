@@ -1371,15 +1371,15 @@ https://tmaxapp.site/8wirwjs76erftg/tntsports1.m3u8
 #EXTINF:-1 tvg-id="westindiesvsnewzealand1500lowserver" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="Live: Cricket",West Indies vs New Zealand 15:00 (LOW SERVER)
 http://193.47.62.53/hls/HYYYZQQQQQ.m3u8?
 
-#EXTINF:-1 tvg-id="lpl1030willowfhd" tvg-logo="https://s21.q4cdn.com/819998841/files/doc_news/2024/May/Willow-logo-transparent-cb.png" group-title="Live: Lanka Premier League",LPL 10:30 (WILLOW FHD)
+#EXTINF:-1 tvg-id="lpl1030willowfhd" tvg-logo="https://s21.q4cdn.com/819998841/files/doc_news/2024/May/Willow-logo-transparent-cb.png" group-title="Live: Lanka Premier League",LPL 10:30 (WILLOW - FHD)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={"543b86e80285d5c13b9ee30e1673964f":"cc6adf6600ef70ad3282c9c719832d04"}
-https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/0omm36jeyc/out/v1/1650c48dbdfc441586b9349a300d608e/cenc.mpd
+#KODIPROP:inputstream.adaptive.license_key={"75f854d2c277ce9e3735817f9c6c77ad":"9c4f93decc3c9a4065e8f4e09a3adecc"}
+https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/oqukmtmmv9/out/v1/c78af2d94a4e4442b3f007b9ee847721/cenc.mpd
 
-#EXTINF:-1 tvg-id="lpl1030willowalt" tvg-logo="https://s21.q4cdn.com/819998841/files/doc_news/2024/May/Willow-logo-transparent-cb.png" group-title="Live: Lanka Premier League",LPL 10:30 (WILLOW ALT)
+#EXTINF:-1 tvg-id="lpl1030willowalt" tvg-logo="https://s21.q4cdn.com/819998841/files/doc_news/2024/May/Willow-logo-transparent-cb.png" group-title="Live: Lanka Premier League",LPL 10:30 (WILLOW - ALT)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={"543b86e80285d5c13b9ee30e1673964f":"cc6adf6600ef70ad3282c9c719832d04"}
-https://abfjk4haaaaaaaamkitc5445rybm6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/0omm36jeyc/out/v1/1650c48dbdfc441586b9349a300d608e/cenc.mpd
+#KODIPROP:inputstream.adaptive.license_key={"75f854d2c277ce9e3735817f9c6c77ad":"9c4f93decc3c9a4065e8f4e09a3adecc"}
+https://abfjk4haaaaaaaamkitc5445rybm6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/oqukmtmmv9/out/v1/c78af2d94a4e4442b3f007b9ee847721/cenc.mpd
 
 #EXTINF:-1 tvg-id="francevsengland2200fifawcfhd" tvg-logo="https://img.sofascore.com/api/v1/unique-tournament/16/image" group-title="Live: FIFA World Cup",France vs England 22:00 (FIFA WC FHD)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
