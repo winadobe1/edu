@@ -59,6 +59,7 @@ function fetchLive(pathPath) {
       // Follow redirect if needed (for 301/308)
       if (res.statusCode >= 300 && res.statusCode < 400 && res.headers.location) {
         console.log(`[Fetch] Redirected to ${res.headers.location}`);
+        res.destroy(); // Destroy socket to prevent hanging
         let loc = res.headers.location;
         if (loc.startsWith('http')) {
            const u = new URL(loc);
@@ -102,11 +103,14 @@ function parseSlingLineupMap(html) {
     const getId = props.match(/\bid\s*:\s*'([^']+)'/);
     const getDisplayName = props.match(/\bdisplayName\s*:\s*'([^']+)'/);
     const getLogo = props.match(/\blogo\s*:\s*'([^']+)'/);
+    const getEmbedUrl = props.match(/\bembedUrl\s*:\s*'([^']+)'/);
+    
     if (!getId) continue;
     channels.push({
       id: getId[1],
       displayName: getDisplayName ? getDisplayName[1] : getId[1],
       logo: getLogo ? getLogo[1] : '',
+      embedUrl: getEmbedUrl ? getEmbedUrl[1] : null,
     });
   }
   return channels;
@@ -274,11 +278,37 @@ async function main() {
     lines.push('#-----------------------------------------');
     lines.push('# 24/7 CHANNELS');
     lines.push('#-----------------------------------------');
-    slingChannels.forEach(ch => {
-      // Without HAR, we always use the baseline URL template
-      const url = `${STREAM_BASE}?stream_id=${encodeURIComponent(ch.id)}&pro_id=${PRO_ID}&index.m3u8`;
+    for (const ch of slingChannels) {
+      let url = `${STREAM_BASE}?stream_id=${encodeURIComponent(ch.id)}&pro_id=${PRO_ID}&index.m3u8`;
+      
+      if (ch.embedUrl && !ch.embedUrl.includes('{TEMPLATE}')) {
+        console.log(`[Fetch] Resolving dynamic URL for ${ch.displayName} via ${ch.embedUrl}`);
+        const embedPath = ch.embedUrl.startsWith('/') ? ch.embedUrl : '/' + ch.embedUrl;
+        const embedHtml = await fetchLive(embedPath);
+        if (embedHtml.status === 200) {
+          const m3u8Match = embedHtml.body.match(/['"`](https?:\/\/[^'"`\s]+\.m3u8[^'"`\s]*)['"`]/);
+          if (m3u8Match) {
+            let foundUrl = m3u8Match[1];
+            if (foundUrl.includes('${')) {
+              // Sometimes the URL is a JS template literal, e.g. https://ftv.../${encodedStreamId}/${encodedProId}/master.m3u8
+              const params = new URL(ch.embedUrl, 'https://xyzstreams.st').searchParams;
+              const sid = params.get('streamid') || '';
+              const pid = params.get('proid') || '';
+              foundUrl = foundUrl.replace(/\$\{(?:encoded)?StreamId\}/i, sid)
+                                 .replace(/\$\{(?:encoded)?ProId\}/i, pid);
+            }
+            url = foundUrl;
+            console.log(`        -> Found dynamic URL: ${url}`);
+          } else {
+            console.log(`        -> No M3U8 found in embed, using fallback`);
+          }
+        } else {
+          console.log(`        -> Failed to fetch embed, using fallback`);
+        }
+      }
+      
       appendStream(ch.displayName, 'XYZ Channels', url, ch.logo);
-    });
+    }
   }
 
   // Dynamically Discovered Sports
@@ -317,6 +347,8 @@ async function main() {
   for (const [sport, streamsMap] of Object.entries(dynamicSportMaps)) {
     console.log(`   ${sport} Streams : ${Object.keys(streamsMap).length}`);
   }
+  
+  process.exit(0);
 }
 
 main().catch(err => {
