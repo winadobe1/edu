@@ -1,6 +1,6 @@
 #EXTM3U x-tvg-url=""
-# Generated from xyzstreams.st (Standalone Auto-Discovery) - 2026-07-17T21:40:32.839Z
-# Channels: 75 | Events: 4 | Discovered Sports: MLB, WNBA, NBA
+# Generated from xyzstreams.st (Standalone Auto-Discovery) - 2026-07-18T01:12:09.235Z
+# Channels: 75 | Events: 6 | Discovered Sports: MLB, WNBA, NBA
 
 #-----------------------------------------
 # 24/7 CHANNELS
@@ -779,23 +779,35 @@ https://player.xyzstreams.st/embed/lakers
 #-----------------------------------------
 # LIVE EVENTS (Homepage)
 #-----------------------------------------
-#EXTINF:-1 tvg-logo="https://r2.thesportsdb.com/images/media/event/thumb/428lty1706713329.jpg/medium" tvg-start="2026-07-16T23:30:00.000Z" tvg-stop="2026-07-17T02:00:00.000Z" group-title="Football",CF Montréal vs Toronto FC
+#EXTINF:-1 tvg-logo="https://r2.thesportsdb.com/images/media/event/thumb/wgrf3n1706713209.jpg/medium" tvg-start="2026-07-18T00:10:00.000Z" tvg-stop="2026-07-18T02:10:00.000Z" group-title="Football",Nashville SC vs Atlanta United
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://xyzstreams.st/
 #EXTVLCOPT:http-origin=https://xyzstreams.st
 https://xyzstreams.st/mls-1.html
 
-#EXTINF:-1 tvg-logo="https://r2.thesportsdb.com/images/media/event/thumb/fhqx581771753360.jpg/medium" tvg-start="2026-07-17T00:30:00.000Z" tvg-stop="2026-07-17T03:30:00.000Z" group-title="Football",St. Louis City vs Sporting KC
+#EXTINF:-1 tvg-logo="https://r2.thesportsdb.com/images/media/event/thumb/l3hoyw1655760165.jpg/medium" tvg-start="2026-07-18T01:00:00.000Z" tvg-stop="2026-07-18T03:00:00.000Z" group-title="Football",Atlético San Luis vs Cruz Azul
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://xyzstreams.st/
 #EXTVLCOPT:http-origin=https://xyzstreams.st
 https://xyzstreams.st/mls-2.html
 
-#EXTINF:-1 tvg-logo="https://r2.thesportsdb.com/images/media/event/thumb/aw6bdk1771753361.jpg/medium" tvg-start="2026-07-17T02:30:00.000Z" tvg-stop="2026-07-17T05:30:00.000Z" group-title="Football",Seattle Sounders FC vs Portland Timbers
+#EXTINF:-1 tvg-logo="https://r2.thesportsdb.com/images/media/event/thumb/j8rm7z1601923138.jpg/medium" tvg-start="2026-07-18T01:00:00.000Z" tvg-stop="2026-07-18T03:00:00.000Z" group-title="Football",León vs Atlas
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://xyzstreams.st/
 #EXTVLCOPT:http-origin=https://xyzstreams.st
 https://xyzstreams.st/mls-3.html
+
+#EXTINF:-1 tvg-logo="https://r2.thesportsdb.com/images/media/event/thumb/sj1clm1771753362.jpg/medium" tvg-start="2026-07-18T02:25:00.000Z" tvg-stop="2026-07-17T05:30:00.000Z" group-title="Football",LA Galaxy vs Los Angeles FC
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://xyzstreams.st/
+#EXTVLCOPT:http-origin=https://xyzstreams.st
+https://xyzstreams.st/mls-1.html
+
+#EXTINF:-1 tvg-logo="https://r2.thesportsdb.com/images/media/event/thumb/lsdaqi1610402614.jpg/medium" tvg-start="2026-07-18T02:25:00.000Z" tvg-stop="2026-07-17T05:30:00.000Z" group-title="Football",Juárez vs Puebla
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://xyzstreams.st/
+#EXTVLCOPT:http-origin=https://xyzstreams.st
+https://xyzstreams.st/mls-2.html
 
 #EXTINF:-1 tvg-logo="https://www.thesportsdb.com/images/media/event/thumb/uujwlw1784180543.jpg/medium" tvg-start="2026-07-18T21:00:00.000Z" tvg-stop="2026-07-19T00:00:00.000Z" group-title="Football",France vs England
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
