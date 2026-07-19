@@ -1224,25 +1224,6 @@ https://27lftgqlgzmy.windows-devs.top/AccessLog2/83_FHD/apache.m3u8
 #EXTINF:-1 tvg-id="wwe0100backupsd" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="Live: WWE",WWE 01:00 (BACKUP SD)
 https://27lftgqlgzmy.windows-devs.top/AccessLog2/108087_HD/apache.m3u8
 
-#EXTINF:-1 tvg-id="zimbabwevsbangladesh1130fancodefhd" tvg-logo="https://m.media-amazon.com/images/I/21K+HipHr6L.png" group-title="Live: Cricket",Zimbabwe vs Bangladesh 11:30 (FANCODE FHD)
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={"065051b99bf5cf8d9a3bde5cbde6aaf9":"214bd176832872339ce184338320f9a2"}
-https://a204aivottepl-a.akamaihd.net/sin-nitro/live/clients/dash/enc/h35gev6jft/out/v1/c64004e114c245a4ab84bb570275a4a9/cenc.mpd
-
-#EXTINF:-1 tvg-id="zimbabwevsbangladesh1130tapmadfhd" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="Live: Cricket",Zimbabwe vs Bangladesh 11:30 (TAPMAD FHD)
-https://saseries.akamaized.net/hls/live/2110097/UFC-20-3827e1/master.m3u8
-
-#EXTINF:-1 tvg-id="zimbabwevsbangladesh1130fancodesd" tvg-logo="https://m.media-amazon.com/images/I/21K+HipHr6L.png" group-title="Live: Cricket",Zimbabwe vs Bangladesh 11:30 (FANCODE SD)
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={"709c812e1b4174002605df1d17d34a4c":"0bbee6c9c20a0f065bf8369d54cbf83e"}
-https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash-sd/enc/qddnwqthpp/out/v1/6c25cddab58043a6ace0ac64d97983f0/cenc-sd.mpd
-
-#EXTINF:-1 tvg-id="zimbabwevsbangladesh1130fancodein" tvg-logo="https://m.media-amazon.com/images/I/21K+HipHr6L.png" group-title="Live: Cricket",Zimbabwe vs Bangladesh 11:30 (FANCODE - IN)
-https://in-mc-fblive.fancode.com/mumbai/143402_english_hls_f613f0001e43912_1ta-di_h264/index.m3u8
-
-#EXTINF:-1 tvg-id="zimbabwevsbangladesh1130fancodebd" tvg-logo="https://m.media-amazon.com/images/I/21K+HipHr6L.png" group-title="Live: Cricket",Zimbabwe vs Bangladesh 11:30 (FANCODE - BD)
-https://raw.githubusercontent.com/srhady/Fancode-bd/main/raw_link/zimbabwe_vs_bangladesh_143404_english.m3u8
-
 #EXTINF:-1 tvg-id="englandvsindia1100willowaq" tvg-logo="null" group-title="Live: Cricket",England vs India 11:00 (WILLOW - AQ)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={"5be2590ab12743d21a1d377d8b5e7900":"ff08faff3b5d2c874b62ec09e2db888c"}
@@ -1329,49 +1310,65 @@ https://android-database1.firebase-api.com/AccessLog2/108085_HD/apache.m3u8
 #KODIPROP:inputstream.adaptive.license_key={"58551b13211b37d5b325d67e5c6cabef":"3b4c3f8b4236fc57d66cdb54a606fe41"}
 https://g001-sle-us-cmaf-prd-ak.pcdn03.cssott.com/Content/CMAF_OS1-CTR-4s-v2/Live/channel(12010340-12010340-4445585a62764)/master_2hr.mpd
 
-#EXTINF:-1 tvg-id="tourdefrance1220eurosport1fhd" tvg-logo="https://iili.io/Cj06Rqv.png" group-title="Live: Tour de France",Tour de France 12:20 (EUROSPORT1 FHD)
+#EXTINF:-1 tvg-id="torontoraptors2330sportzxlive" tvg-logo="null" group-title="Live: NBA",Toronto Raptors 23:30 (SportzX Live)
+https://edgestream2.pro/hls/wfazgsqtrezu66.m3u8?
+
+#EXTINF:-1 tvg-id="memphisgrizzlies0200sportzxlive" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="Live: NBA",Memphis Grizzlies 02:00 (SportzX Live)
+https://edgestream2.pro/hls/hfsdqtaxvb67.m3u8?
+
+#EXTINF:-1 tvg-id="tourdefrance1200eurosport1fhd" tvg-logo="https://iili.io/Cj06Rqv.png" group-title="Live: Tour de France",Tour de France 12:00 (EUROSPORT1 FHD)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={"11223344556677889900112233445566":"4b80724d0ef86bcb2c21f7999d67739d"}
 https://dash2.antik.sk/stream/nvidia_eurosport1/playlist_cenc.mpd
 
-#EXTINF:-1 tvg-id="tourdefrance1220eurosport2fhd" tvg-logo="https://iili.io/Cj06Rqv.png" group-title="Live: Tour de France",Tour de France 12:20 (EUROSPORT2 FHD)
+#EXTINF:-1 tvg-id="tourdefrance1200eurosport2fhd" tvg-logo="https://iili.io/Cj06Rqv.png" group-title="Live: Tour de France",Tour de France 12:00 (EUROSPORT2 FHD)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={"11223344556677889900112233445566":"4b80724d0ef86bcb2c21f7999d67739d"}
 https://dash2.antik.sk/stream/nvidia_eurosport2/playlist_cenc.mpd
 
-#EXTINF:-1 tvg-id="tourdefrance1220eurosport1fhd" tvg-logo="https://iili.io/Cj06Rqv.png" group-title="Live: Tour de France",Tour de France 12:20 (EUROSPORT1 FHD)
+#EXTINF:-1 tvg-id="tourdefrance1200eurosport1fhd" tvg-logo="https://iili.io/Cj06Rqv.png" group-title="Live: Tour de France",Tour de France 12:00 (EUROSPORT1 FHD)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={"0f4751abc997473d9138d17b5944be04":"a0aefedd2376a54b8b50f9b7c2d50ac7"}
 https://cache01.zapitv.com/live/eds_c2/eurosport_1_hd/dash_live_ez/eurosport_1_hd.mpd
 
-#EXTINF:-1 tvg-id="tourdefrance1220eurosport2fhd" tvg-logo="https://iili.io/Cj06Rqv.png" group-title="Live: Tour de France",Tour de France 12:20 (EUROSPORT2 FHD)
+#EXTINF:-1 tvg-id="tourdefrance1200eurosport2fhd" tvg-logo="https://iili.io/Cj06Rqv.png" group-title="Live: Tour de France",Tour de France 12:00 (EUROSPORT2 FHD)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={"e369d9ab101d4b60ba13c0384f503528":"041e35e31381521b3398af5c6dd99414"}
 https://cache01.zapitv.com/live/eds_c2/eurosport_2_hd/dash_live_ez/eurosport_2_hd.mpd
 
-#EXTINF:-1 tvg-id="cfl0000tsn1" tvg-logo="https://www.bellmedia.ca/lede/wp-content/uploads/2024/09/18581592_10155403529061055_8240563011649656197_n.jpg" group-title="Live: CFL",CFL 00:00 (TSN 1)
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={"14eeabf30c14b7fbf3008c03099ce011":"17d2ac8dbc5429bd70af3433aa12158d"}
-https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/w0rehjjrwe/out/v1/69a2a7041395406b970598f61680e7cf/cenc.mpd
+#EXTINF:-1 tvg-id="washingtonnationals2105sportzxlive" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="Live: MLB",Washington Nationals 21:05 (SportzX LIVE)
+https://edgestream3.pro/hls/dzjhkfazbka26.m3u8?
 
-#EXTINF:-1 tvg-id="cfl0000tsn4" tvg-logo="https://www.bellmedia.ca/lede/wp-content/uploads/2024/09/18581592_10155403529061055_8240563011649656197_n.jpg" group-title="Live: CFL",CFL 00:00 (TSN 4)
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={"abc5b2883121012850ebda05b528c5ec":"e5250924f4b738905f7163a0134587a7"}
-https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/ihys8nw4wv/out/v1/fde190f369484bc6b6117cc16cd82a9f/cenc.mpd
+#EXTINF:-1 tvg-id="detroittigers2107sportzxlive" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="Live: MLB",Detroit Tigers 21:07 (SportzX Live)
+https://edgestream2.pro/hls/jzabfazkbf27.m3u8?
 
-#EXTINF:-1 tvg-id="cfl0000tsn5" tvg-logo="https://www.bellmedia.ca/lede/wp-content/uploads/2024/09/18581592_10155403529061055_8240563011649656197_n.jpg" group-title="Live: CFL",CFL 00:00 (TSN 5)
+#EXTINF:-1 tvg-id="arizonadiamondbacks2110sportzxlive" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="Live: MLB",Arizona Diamondbacks 21:10 (SportzX Live)
+https://edgestream2.pro/hls/hfzljfahzcax29.m3u8?
+
+#EXTINF:-1 tvg-id="seattlemariners2110sportzxlive" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="Live: MLB",Seattle Mariners 21:10 (SportzX Live)
+https://edgestream3.pro/hls/hefbafbakx28.m3u8?
+
+#EXTINF:-1 tvg-id="newyorkyankees0020tsnsports" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="Live: MLB",New York Yankees 00:20 (TSN SPORTS)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={"385ceb9714b75e0cef61254f80b31002":"18dce92a2891fee68d21ede5173230f8"}
 https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/cscevwljkq/out/v1/972185041b244140860b7d56398e9aaf/cenc.mpd
 
+#EXTINF:-1 tvg-id="newyorkyankees0020sportzxlive" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="Live: MLB",New York Yankees 00:20 (SportzX Live)
+https://edgestream3.pro/hls/JHDAJBDnjdna30.m3u8?
+
+#EXTINF:-1 tvg-id="cfl0000tsnsports" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="Live: CFL",CFL 00:00 (TSN SPORTS)
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"14eeabf30c14b7fbf3008c03099ce011":"17d2ac8dbc5429bd70af3433aa12158d"}
+https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/w0rehjjrwe/out/v1/69a2a7041395406b970598f61680e7cf/cenc.mpd
+
 #EXTINF:-1 tvg-id="dallaswingsvssparks1800sportzxlive" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="Live: WNBA",Dallas Wings vs Sparks 18:00 (SportzX Live)
-https://edgestream1.pro/hls/pllmazjkdzajh72.m3u8?
+https://edgestream1.pro/hls/bvnsqdfvgha70.m3u8?
 
 #EXTINF:-1 tvg-id="dreamvschicagosky2100sportzxlive" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="Live: WNBA",Dream vs Chicago Sky 21:00 (SportzX Live)
-https://edgestream3.pro/hls/fdgsqdfawa73.m3u8?
+https://edgestream2.pro/hls/ztyarueaghj71.m3u8?
 
 #EXTINF:-1 tvg-id="mercuryvsconnecticutsun0000sportzxlive" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="Live: WNBA",Mercury vs Connecticut Sun 00:00 (SportzX Live)
-https://edgestream1.pro/hls/yjtzafghvjza74.m3u8?
+https://edgestream3.pro/hls/pllmazjkdzajh72.m3u8?
 
 #EXTINF:-1 tvg-id="westindiesvsnewzealand1500willowfhd" tvg-logo="https://s21.q4cdn.com/819998841/files/doc_news/2024/May/Willow-logo-transparent-cb.png" group-title="Live: Cricket",West Indies vs New Zealand 15:00 (WILLOW FHD)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -1412,84 +1409,120 @@ https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/u3ilketteh/out/v1
 #KODIPROP:inputstream.adaptive.license_key={"c1781b18ef9a3a4455c4ada2bce6c670":"c03d707bc916b280b457013dac5b2954"}
 https://abfjk4haaaaaaaamkitc5445rybm6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/u3ilketteh/out/v1/1ea199d6caf04e81b0ecf7f589cd3c9f/cenc.mpd
 
+#EXTINF:-1 tvg-id="spainvsargentina2000kan11fhd" tvg-logo="null" group-title="Live: FIFA World Cup",Spain vs Argentina 20:00 (KAN 11 FHD)
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"23fad97468a1338f973d192646df2d19":"27fd56ffd7d70ec6aa9252e713c21190"}
+https://n-121-7.il.cdn-redge.media/livedash/oil/freetv/live/kan11/live.livx?manifest.mpd
+
 #EXTINF:-1 tvg-id="spainvsargentina2000foxoneaq" tvg-logo="null" group-title="Live: FIFA World Cup",Spain vs Argentina 20:00 (FOX ONE - AQ)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={"f6564ec2aee819046328a0e153be574d":"ff46a8a1031eb27ef22576a077c98ab7"}
-https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/enc/ajfoeddkbz/out/v1/b78800b9b2304879b15843f455836829/cenc.mpd
+https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/ajfoeddkbz/out/v1/b78800b9b2304879b15843f455836829/cenc.mpd
 
-#EXTINF:-1 tvg-id="spainvsargentina2000wctvfhd" tvg-logo="null" group-title="Live: FIFA World Cup",Spain vs Argentina 20:00 (WC TV FHD)
+#EXTINF:-1 tvg-id="spainvsargentina2000globospbr" tvg-logo="null" group-title="Live: FIFA World Cup",Spain vs Argentina 20:00 (GLOBOSP BR)
+https://live-ancdn-04.video.globo.com/j/eyJhbGciOiJSUzUxMiIsImtpZCI6IjEiLCJ0eXAiOiJKV1QifQ.eyJjb3VudHJ5X2NvZGUiOiJCRCIsImRvbWFpbiI6ImxpdmUtYW5jZG4tMDQudmlkZW8uZ2xvYm8uY29tIiwiZXhwIjoxNzg0NDk4NDMwLCJpYXQiOjE3ODQ0NzY4MzAsImlzcyI6InBsYXliYWNrLWFwaS1wcm9kLWdjcCIsIm93bmVyIjoiY2MzMjNjOTktZTM2Ny00NmM2LWEwYjMtZTUxMGJlZTdkMTEzIiwicGF0aCI6Ii9saXZlL2YoaT0yKS9nbG9iby1iaC9wbGF5bGlzdC5tM3U4In0.yCrjy4N-5MdJjhLVuy7mHUCxB5T2fSjo72dbzPAVStB1mGls1Zp6I_wDkYdkYerWfzDR6TzNo5ELSqudGDg0LlLGwq1jWv3nkpr9-f0L7hEkhrr5T51X3ya36nuT0Xtn9Tn5XpjuNXVDYw999eWmfOrzuCV_DU1cXPcbavmKU2Aao2cpDP8RkrU2ZgXk-8BLl6YCLRorYJ-FGH9kxLeNei-WCBpMjeTPEgi26faMDJMhgIvvENDXnoiOVFylurOoZWr21sxg7OlEaxcfBMEOF8ZPKpVymFP_ZvfnYMqzIga7FBvkIoIxp05qiE4QHv5XdE8GPrHU3dj0odwRLFcQZg/live/f(i=2)/globo-bh/playlist.m3u8
+
+#EXTINF:-1 tvg-id="spainvsargentina2000unifytvfhd" tvg-logo="null" group-title="Live: FIFA World Cup",Spain vs Argentina 20:00 (UNIFY TV FHD)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={"17bb9e12c9d844bb9d032a5399d61cc5":"08c136b87678210bbac2224550f85c9e"}
-https://qp-pldt-live-bpk-ucd-prod.akamaized.net/bpk-tv/fifa_ppv1/default/index.mpd
+#KODIPROP:inputstream.adaptive.license_key={"10e2114398744f3880cc96653568da55":"d6d40441f9fbebea03ec64c4aea7211f"}
+https://anak-fifuck.donasi-dulu-colong-kemudian.workers.dev/Content/DASH/Live/channel(fifa1)/master.mpd?hdntl=st=1784480346~exp=1784570346~acl=/Content/DASH/Live/channel(fifa1)/*~id=feeywxgMAObNR5wIftrBt2PkP0I4nspAy0b2-z_bEQ8S~hmac=d5a4dad519e21881367b63417ca801a5007c3d726bbbe15b14825b65787c2c89
 
-#EXTINF:-1 tvg-id="spainvsargentina2000toffeelive" tvg-logo="null" group-title="Live: FIFA World Cup",Spain vs Argentina 20:00 (TOFFEE LIVE)
-https://prod-cdn01-live.toffeelive.com/live/FIFA-2026-2/sst/0/master_1000.m3u8?hdntl=Expires=1783909257~_GO=Generated~URLPrefix=aHR0cHM6Ly9wcm9kLWNkbjAxLWxpdmUudG9mZmVlbGl2ZS5jb20~Data=eyJzdWJzY3JpYmVyX2lkIjoiNGY5ODk5ZDQtZDQyNS00ZmVlLTg4ZjYtMjJjYTVkMDgyYjdkIn0~Signature=AWIR_5HkH7xxsF67loOLJx_cyw8VqA_DaMsuFaftoiWxwtV3LZ1gnwCGJYGkIkdyXqUgvbvgrTZkkXaGXUqTI-xCwmkF
+#EXTINF:-1 tvg-id="spainvsargentina2000sportzxlive" tvg-logo="null" group-title="Live: FIFA World Cup",Spain vs Argentina 20:00 (SportzX Live)
+https://tfxp1gr3uomttgr31hp3tfahdrmmcpf5gkce.100ycdn.com/live1.streambylivepulse.com/live/channel1/playlist.m3u8
 
-#EXTINF:-1 tvg-id="spainvsargentina2000spxfhdlive" tvg-logo="null" group-title="Live: FIFA World Cup",Spain vs Argentina 20:00 (SPX FHD LIVE)
-https://stream.mux.com/021OlUfuGmqdUhz00L021SzSqC2Jpfs56e5.m3u8?token=eyJhbGciOiJSUzI1NiJ9.eyJzdWIiOiIwMjFPbFVmdUdtcWRVaHowMEwwMjFTelNxQzJKcGZzNTZlNSIsImV4cCI6MTc4Mzg3MTMzOCwia2lkIjoiYmxCQUs4ZEhDZmkyM3F2bGJWckNRaW9aYnNya1ZzNlAiLCJhdWQiOiJ2In0.UHC03YPm3SAgtgmirVdLeLA1Vn-lPfzjtuQ6B6lZH6tKz0LBJ9j99JZowceCwYxXguyjwdz3xcgx_4CF0XeWL6Jnrm8OfWbYL-W7LMz3wp4LpKGN64LT_Jkx1vlDQJRaKrMAmtWwMjSK_s_7wLC39UauGCbDg8tdLfaVl87qO4iMasjFmChuxS6naMapT8YzE1bGHxkOoImvoqzj6YHsZhVTeNZdprsC9hQd56EiZe3ZodAZu6_8R5MHS5-1-CKTRlSrDrvG-zy9U8z72cPwoaqnW2WpPE7gNxDImGsOGLCMOhu3HiXxhsComtbjrrSfnQE80vlSFjxAPivAJT9ZKw
+#EXTINF:-1 tvg-id="spainvsargentina2000iscreenbdfhd" tvg-logo="null" group-title="Live: FIFA World Cup",Spain vs Argentina 20:00 (ISCREEN BD FHD)
+https://lkjhgf-zxcvbnmq.rockstreamer.com/v1/019ed91616121ea540a8171c8e801f/019f7a7fea1b1ea557843549782f9b/main.m3u8
 
-#EXTINF:-1 tvg-id="spainvsargentina2000telemundohd" tvg-logo="null" group-title="Live: FIFA World Cup",Spain vs Argentina 20:00 (TELEMUNDO HD)
-https://edgestream3.pro/hls/b0h5fNwDKH.m3u8?
+#EXTINF:-1 tvg-id="spainvsargentina2000beinmaxhd" tvg-logo="null" group-title="Live: FIFA World Cup",Spain vs Argentina 20:00 (beIN MAX HD)
+https://3.simokora.com/my-hls/h9asfma10d5/source/index.m3u8
 
-#EXTINF:-1 tvg-id="spainvsargentina2000fastserverfr" tvg-logo="null" group-title="Live: FIFA World Cup",Spain vs Argentina 20:00 (FAST SERVER FR)
-https://pulltx.jdnzrgm.com/live/hd-en-6MvYMRTGw9LWq4XQG6.m3u8?txSecret=d6adcc5d849b146e8977cb42c83c4f39&txTime=6A530B28
+#EXTINF:-1 tvg-id="spainvsargentina2000telemundofhd" tvg-logo="null" group-title="Live: FIFA World Cup",Spain vs Argentina 20:00 (TELEMUNDO FHD)
+https://api.zlive.st/p/8b7d49cd99094663/index.m3u8?
 
-#EXTINF:-1 tvg-id="spainvsargentina2000fastnocomment" tvg-logo="null" group-title="Live: FIFA World Cup",Spain vs Argentina 20:00 (FAST  NO Comment )
-https://pulltx.jdnzrgm.com/live/sd-6MvYMRTGw9LWq4XQG6.m3u8?txSecret=f77b58b84f282b2471cb322fb928753a&txTime=6A530B28
+#EXTINF:-1 tvg-id="spainvsargentina2000foxsportsuhdusvpn" tvg-logo="null" group-title="Live: FIFA World Cup",Spain vs Argentina 20:00 (Fox Sports UHD  US VPN )
+https://foxdtc-video.akamaized.net/ZXhwPTE3ODQ1NjQxODc7YWNsPS8qO3dzaWQ9ZThkZWM0NWJhZDNjN2Y3ODNlYWMxNjYxNDk2NjQyOTVfZm94ZHRjX2FuZHJvaWR0dl9lbi1VUztobWFjPW41QjV5bE90dDdFVkhTei9aVEU4QmlxcjFxWmNmTEJWN1VXK3BLSkhsMWs9/live/uhd-1-b-uw2/index.m3u8
+
+#EXTINF:-1 tvg-id="spainvsargentina2000foxsports4k" tvg-logo="null" group-title="Live: FIFA World Cup",Spain vs Argentina 20:00 (Fox Sports 4K)
+https://api.zlive.st/p/b8d12bcd88cf5955/index.m3u8?
 
 #EXTINF:-1 tvg-id="spainvsargentina2000tsnsportsfhd" tvg-logo="null" group-title="Live: FIFA World Cup",Spain vs Argentina 20:00 (TSN SPORTS FHD)
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={"14eeabf30c14b7fbf3008c03099ce011":"17d2ac8dbc5429bd70af3433aa12158d"}
-https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/w0rehjjrwe/out/v1/69a2a7041395406b970598f61680e7cf/cenc.mpd
+https://api.zlive.st/p/d786921a17ec5daf/index.m3u8?
 
-#EXTINF:-1 tvg-id="spainvsargentina2000itvsportsfhd" tvg-logo="null" group-title="Live: FIFA World Cup",Spain vs Argentina 20:00 (ITV SPORTS FHD)
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={"30089c52924f037b225b82c616fee2a5":"f55dc8b66ed4fc6753d6035ae7e17144"}
-https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/0eiyyz8qzm/out/v1/dd17af8835fe4bd087d1a4e359b635d7/cenc.mpd
+#EXTINF:-1 tvg-id="spainvsargentina2000fusball4kmulti" tvg-logo="null" group-title="Live: FIFA World Cup",Spain vs Argentina 20:00 (Fusball 4K MULTI)
+https://api.zlive.st/p/a1e123c50c75cf09/index.m3u8?
 
-#EXTINF:-1 tvg-id="spainvsargentina2000rtesportsfhd" tvg-logo="null" group-title="Live: FIFA World Cup",Spain vs Argentina 20:00 (RTE SPORTS FHD)
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={"d816287e21496989eae1312925a423c5":"00da00f13180e7e6cd5ce87d1c974e8d"}
-https://dai.google.com/linear/dash/pa/event/oPeAYQs9T9yTHS98aR1EjQ/stream/88fd3886-51db-45b1-a9fd-a6c8db5a50ae:GRQ/manifest.mpd
+#EXTINF:-1 tvg-id="spainvsargentina2000cazetvhd" tvg-logo="null" group-title="Live: FIFA World Cup",Spain vs Argentina 20:00 (CAZE TV HD)
+https://rdcstream.life/live/cazetv/index.m3u8?
 
-#EXTINF:-1 tvg-id="spainvsargentina2000ctvsportsfhd" tvg-logo="null" group-title="Live: FIFA World Cup",Spain vs Argentina 20:00 (CTV SPORTS FHD)
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={"d185684e2330de5bea436daa094a5e86":"014f0116154f5bf0050e03a6b0a23157"}
-https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/72sjo8hygl/out/v1/3079be34d72a4985852d299a02406a0c/cenc.mpd
+#EXTINF:-1 tvg-id="spainvsargentina2000munidalhd" tvg-logo="null" group-title="Live: FIFA World Cup",Spain vs Argentina 20:00 (MUNIDAL HD)
+https://s2.bufaloweb.com/bufalo9/tracks-v4a1/mono.ts.m3u8
 
-#EXTINF:-1 tvg-id="spainvsargentina2000tsn4sportsfhd" tvg-logo="null" group-title="Live: FIFA World Cup",Spain vs Argentina 20:00 (TSN4 SPORTS FHD)
+#EXTINF:-1 tvg-id="spainvsargentina2000canal5" tvg-logo="null" group-title="Live: FIFA World Cup",Spain vs Argentina 20:00 (CANAL5)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={"abc5b2883121012850ebda05b528c5ec":"e5250924f4b738905f7163a0134587a7"}
-https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/ihys8nw4wv/out/v1/fde190f369484bc6b6117cc16cd82a9f/cenc.mpd
+#KODIPROP:inputstream.adaptive.license_key={"d695093ea3e66d75a4d213a3e2cbf360":"01be3f645e89a067d2786c295f68dde4"}
+https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/ntkdl68eob/out/v1/bd5dfb7676994383881bc6e71877d29d/cenc.mpd
+
+#EXTINF:-1 tvg-id="spainvsargentina2000tvela1fhd" tvg-logo="null" group-title="Live: FIFA World Cup",Spain vs Argentina 20:00 (TVE La 1 FHD)
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"745cd6ec34a58f2f7ac2af35dc3da6d2":"ae008f1e47e6567fe4201a6ff8f1ae54"}
+https://otte.cache.aiv-cdn.net/lhr-nitro/live/clients/dash/enc/c7di7zkdor/out/v1/f7d5b356e048494a8325563e8916d50b/cenc.mpd
+
+#EXTINF:-1 tvg-id="spainvsargentina2000fussballtvfhd" tvg-logo="null" group-title="Live: FIFA World Cup",Spain vs Argentina 20:00 (FUSSBALL TV FHD)
+https://cp11.adabmedia.com/hls2/sport.m3u8
 
 #EXTINF:-1 tvg-id="spainvsargentina2000dsportsfhd" tvg-logo="null" group-title="Live: FIFA World Cup",Spain vs Argentina 20:00 (D Sports FHD)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={"f836853d8eac19446ed9535f5fc568b1":"b3bc5ef00602b29abac7e482d3d9fbf3"}
 https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/z5oyxzsxdk/out/v1/7695a0f64a0e424b973d5b09a2a3eb91/cenc.mpd
 
+#EXTINF:-1 tvg-id="spainvsargentina2000tsn4sportsfhd" tvg-logo="null" group-title="Live: FIFA World Cup",Spain vs Argentina 20:00 (TSN4 SPORTS FHD)
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"abc5b2883121012850ebda05b528c5ec":"e5250924f4b738905f7163a0134587a7"}
+https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/ihys8nw4wv/out/v1/fde190f369484bc6b6117cc16cd82a9f/cenc.mpd
+
+#EXTINF:-1 tvg-id="spainvsargentina2000itvsportsfhd" tvg-logo="null" group-title="Live: FIFA World Cup",Spain vs Argentina 20:00 (ITV SPORTS FHD)
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"30089c52924f037b225b82c616fee2a5":"f55dc8b66ed4fc6753d6035ae7e17144"}
+https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/0eiyyz8qzm/out/v1/dd17af8835fe4bd087d1a4e359b635d7/cenc.mpd
+
+#EXTINF:-1 tvg-id="spainvsargentina2000ctvsportsfhd" tvg-logo="null" group-title="Live: FIFA World Cup",Spain vs Argentina 20:00 (CTV SPORTS FHD)
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"d185684e2330de5bea436daa094a5e86":"014f0116154f5bf0050e03a6b0a23157"}
+https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/72sjo8hygl/out/v1/3079be34d72a4985852d299a02406a0c/cenc.mpd
+
+#EXTINF:-1 tvg-id="spainvsargentina2000qazsportshd" tvg-logo="null" group-title="Live: FIFA World Cup",Spain vs Argentina 20:00 (QAZ SPORTS HD)
+http://stream.mcquack.net/72/index.m3u8
+
+#EXTINF:-1 tvg-id="spainvsargentina2000telemundohd" tvg-logo="null" group-title="Live: FIFA World Cup",Spain vs Argentina 20:00 (TELEMUNDO HD)
+https://edgestream3.pro/hls/b0h5fNwDKH.m3u8?
+
+#EXTINF:-1 tvg-id="spainvsargentina2000rtesportsfhd" tvg-logo="null" group-title="Live: FIFA World Cup",Spain vs Argentina 20:00 (RTE SPORTS FHD)
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"d816287e21496989eae1312925a423c5":"00da00f13180e7e6cd5ce87d1c974e8d"}
+https://dai.google.com/linear/dash/pa/event/antwa0EiQm2PoHtx4rBtVw/stream/d9ac1df1-5086-4e2b-bbcf-68c442a09900:GRQ/manifest.mpd
+
 #EXTINF:-1 tvg-id="spainvsargentina2000cazetvfhd" tvg-logo="null" group-title="Live: FIFA World Cup",Spain vs Argentina 20:00 (CAZE TV FHD)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={"1223d5105392cabf1bb9c2c1fdf6539a":"340b409f4b8f78a343e0363a7938df38"}
 https://otte.cache.aiv-cdn.net/gru-nitro/live/clients/dash/enc/iayg0kyrof/out/v1/91dc04907f56415b897faccfa9d252da/cenc.mpd
 
-#EXTINF:-1 tvg-id="spainvsargentina2000beinsportshd" tvg-logo="null" group-title="Live: FIFA World Cup",Spain vs Argentina 20:00 (beIN SPORTS HD)
-https://s3.us-east-1.amazonaws.com/cff101/live/stream/index.m3u8
+#EXTINF:-1 tvg-id="spainvsargentina2000tsnsportsfhd" tvg-logo="null" group-title="Live: FIFA World Cup",Spain vs Argentina 20:00 (TSN SPORTS FHD)
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"14eeabf30c14b7fbf3008c03099ce011":"17d2ac8dbc5429bd70af3433aa12158d"}
+https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/w0rehjjrwe/out/v1/69a2a7041395406b970598f61680e7cf/cenc.mpd
 
 #EXTINF:-1 tvg-id="spainvsargentina2000foxfhdhdr" tvg-logo="null" group-title="Live: FIFA World Cup",Spain vs Argentina 20:00 (FOX FHD HDR)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={"48afc63fa0ecccc3a71f46d3fda20249":"c7cd8801e238a263fe4349a95682b83b"}
-https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/rgmw19qjux/out/v1/c6ac7e638a9d4998891ae85aba377c59/cenc.mpd
+https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/rgmw19qjux/out/v1/c6ac7e638a9d4998891ae85aba377c59/cenc.mpd
 
 #EXTINF:-1 tvg-id="spainvsargentina2000foxsports4k" tvg-logo="null" group-title="Live: FIFA World Cup",Spain vs Argentina 20:00 (FOX SPORTS 4K)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={"1f68713028d439ec03be07f56c1d6213":"20093db6455160fffed4c394def3193d"}
-https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/enc/xperu6ixu9/out/v1/31d30c91fc65458789b84209d3fa22e4/cenc.mpd
+https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/enc/lsilniwjf7/out/v1/fc40f22f10374517a2784e1d97cb23f4/cenc.mpd
 
 #EXTINF:-1 tvg-id="spainvsargentina2000irib4k" tvg-logo="null" group-title="Live: FIFA World Cup",Spain vs Argentina 20:00 (IRIB 4K)
 https://ncdn.telewebion.ir/faratar/live/playlist.m3u8
-
-#EXTINF:-1 tvg-id="spainvsargentina2000unite8hindi" tvg-logo="null" group-title="Live: FIFA World Cup",Spain vs Argentina 20:00 (UNITE8 HINDI)
-https://stream.mux.com/yUS01rSBulkhnrBR8mXlqqLgLSvZHTuPw.m3u8?token=eyJhbGciOiJSUzI1NiJ9.eyJzdWIiOiJ5VVMwMXJTQnVsa2huckJSOG1YbHFxTGdMU3ZaSFR1UHciLCJleHAiOjE3ODM4ODg0MTYsImtpZCI6ImJsQkFLOGRIQ2ZpMjNxdmxiVnJDUWlvWmJzcmtWczZQIiwiYXVkIjoidiJ9.ekXPqbbm-sTFWHzhcYy9EfTveyPz-iuphbeOztTpiZjyUOPzdQW0IoRMrQ_wDuqyK4P5t593S5pZAZmdVYCJSa79-7iUCmcPebADOkoPjB80ovTmniq1w53ickZkaxarxJeooE4PutAq8kHM7280UvvuIXMaG8e1isqcxxAKSOS7nrU-TjdVNrW2KvhxSyvkobnHUHbnhKso-Kx571FbRT_9mdvZDpTkjAi21sIEI2S70wDDgr6V3u8sWHOg2YahsN6kH4oYCMaHhyIgBOhnp3GM9Dvg7o1VR5WB1a-E7YfQTYepgCV7cViTobEUk1kv6TewiGxk3FWMt-yWE_4d8A
 
 #EXTINF:-1 tvg-id="spainvsargentina2000foxsportshd" tvg-logo="null" group-title="Live: FIFA World Cup",Spain vs Argentina 20:00 (FOX SPORTS HD)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -1499,7 +1532,7 @@ https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/zpfs5hlgya/out/v1
 #EXTINF:-1 tvg-id="spainvsargentina2000npo1dutchfhd" tvg-logo="null" group-title="Live: FIFA World Cup",Spain vs Argentina 20:00 (NPO1 DUTCH FHD)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={"8d3c85fa30730fdc39efc09de476415f":"8fdccd948bb2cc6d99d5305ccffebcb7"}
-https://npo-fsly-2.cdn.streamgate.io/eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJleHAiOjE3ODM4ODkzMTUsInVyaSI6IlwvbGl2ZVwvbnBvXC91XzNfNFwvbnBvcGx1c1wvZHJtXC9kYXNoX2NlbmNcL25wby0xXC8wXC8wXC8wXC9ucG8tMS5pc21sIiwidmlld2VyIjoidmlld2VyIiwicmlkIjoiZWFjMjhkNyJ9.7SO4KRrLfmYT6TqIUNeLVUpYhZnpsEIHQCYhtbDM4NI/live/npo/u_3_4/npoplus/drm/dash_cenc/npo-1/0/0/0/npo-1.isml/stream.mpd
+https://npo-fsly-2.cdn.streamgate.io/eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJleHAiOjE3ODQ1NzI4OTAsInVyaSI6IlwvbGl2ZVwvbnBvXC91XzNfNFwvbnBvcGx1c1wvZHJtXC9kYXNoX2NlbmNcL25wby0xXC8wXC8wXC8wXC9ucG8tMS5pc21sIiwidmlld2VyIjoidmlld2VyIiwicmlkIjoiMjFkOTEwZiJ9.53O1RGi32yCOA41QIPxMojfQrlJKzQXGXDXPlc4DjdU/live/npo/u_3_4/npoplus/drm/dash_cenc/npo-1/0/0/0/npo-1.isml/stream.mpd
 
 #EXTINF:-1 tvg-id="spainvsargentina2000m6franceusa" tvg-logo="null" group-title="Live: FIFA World Cup",Spain vs Argentina 20:00 (M6 FRANCE (USA))
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -1535,16 +1568,6 @@ https://abeqnpaaaaaaaaamkm25dx7jyzllj.ta.bia-cf.live.pv-cdn.net/iad-nitro/live/c
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={"7d6bb9f86e133e4cb33440b493b6b672":"584ad285dcb9e7d42cf3e93f1cc3fe11"}
 https://live-oneapp-prd-news.akamaized.net/Content/CMAF_OL2-CTR-4s/Live/channel(WSNS)/master.mpd
-
-#EXTINF:-1 tvg-id="spainvsargentina2000fussballtv14k" tvg-logo="null" group-title="Live: FIFA World Cup",Spain vs Argentina 20:00 (FUSSBALL TV1 4K)
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={"4f558eae1b005126b2ac6e9eb1a7849e":"17aea325d91b5e66f06a8c574f2f0b03"}
-https://da-50f11b292a028381000001120000000000000009.id.vx.tentcdn.eu/wp/at-live-7.tentcdn.eu/bpk-tv/WM_TV_1_UHD/default/index.mpd
-
-#EXTINF:-1 tvg-id="spainvsargentina2000fussballtv24k" tvg-logo="null" group-title="Live: FIFA World Cup",Spain vs Argentina 20:00 (FUSSBALL TV2 4K)
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={"ccdf9f3d9bbf5c508adf04f81918a285":"66cf0524fcc2eb0c7dab8bbbf8829827"}
-https://da-50f11b292a028381000001120000000000000009.id.vx.tentcdn.eu/wp/at-live-7.tentcdn.eu/bpk-tv/WM_TV_2_UHD/default/index.mpd
 
 #EXTINF:-1 tvg-id="spainvsargentina2000tycsportshd" tvg-logo="null" group-title="Live: FIFA World Cup",Spain vs Argentina 20:00 (TYC SPORTS HD)
 https://1nyaler.streamhostingcdn.top/stream/84/index.m3u8
@@ -1612,21 +1635,6 @@ http://103.165.93.31:8095/tsports/video.m3u8
 #EXTINF:-1 tvg-id="spainvsargentina2000somoytvbdix" tvg-logo="null" group-title="Live: FIFA World Cup",Spain vs Argentina 20:00 (SomoyTV BDIX)
 http://103.165.93.31:8095/somoyTv/index.m3u8
 
-#EXTINF:-1 tvg-id="spainvsargentina2000tsnhdr" tvg-logo="null" group-title="Live: FIFA World Cup",Spain vs Argentina 20:00 (TSN HDR)
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={"13336173c8c83f4e12b2aeafb2f46672":"7285e2547a7fcea0fe31dcb9395b2651"}
-https://live-pv-ta.amazon.fastly-edge.com/iad-nitro/startover/clients/dash/manipulated-manifest-iad-prod/enc/aissxjnjho/out/v1/37bfc8abc69b4e438c756f674fa1dfb2/8b143489-c373-41d7-bda9-349a1320fa9c-cenc.mpd
-
-#EXTINF:-1 tvg-id="spainvsargentina2000tsnespanolfhd" tvg-logo="null" group-title="Live: FIFA World Cup",Spain vs Argentina 20:00 (TSN Espanol FHD)
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={"f657c60282c672baf8654b94e522d23a":"c72c69d5bfb0a285b25c3f168af31482"}
-https://live-pv-ta.amazon.fastly-edge.com/iad-nitro/startover/clients/dash/manipulated-manifest-iad-prod/enc/56em28bypn/out/v1/5e069925a71447de8831d7d7e2bc972c/1c437c5d-1cd2-467c-8d79-ec71b339401c-cenc.mpd
-
-#EXTINF:-1 tvg-id="spainvsargentina2000tsnfrancefhd" tvg-logo="null" group-title="Live: FIFA World Cup",Spain vs Argentina 20:00 (TSN FRANCE FHD)
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={"357ccea271387c3288cc8c2301f13d35":"6d99d34e858d22ab5954d8df8622106a"}
-https://live-pv-ta.amazon.fastly-edge.com/iad-nitro/startover/clients/dash/manipulated-manifest-iad-prod/enc/nsuvwbv5a0/out/v1/745ffbb961054110852973877632f4e9/f7dd18d6-fb4d-4a8a-80fb-0cea8594021e-cenc.mpd
-
 #EXTINF:-1 tvg-id="bluejaysvswhitesox1715sportzxlive" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="Live: MLB",Blue Jays vs White Sox 17:15 (SportzX Live)
 https://edgestream1.pro/hls/dazhfiach15.m3u8?
 
@@ -1634,47 +1642,31 @@ https://edgestream1.pro/hls/dazhfiach15.m3u8?
 https://edgestream2.pro/hls/16yuitzaerghbhc16.m3u8?
 
 #EXTINF:-1 tvg-id="bravesvstexasrangers1835sportzxlive" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="Live: MLB",Braves vs Texas Rangers 18:35 (SportzX Live)
-https://edgestream3.pro/hls/ihfazugfyjcazich17.m3u8?
+https://edgestream1.pro/hls/ihfazugfyjcazich17.m3u8?
 
 #EXTINF:-1 tvg-id="redsoxvstampabayrays1835sportzxlive" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="Live: MLB",Red Sox vs Tampa Bay Rays 18:35 (SportzX Live)
-https://edgestream2.pro/hls/Czajafjihafch18.m3u8?
-
-#EXTINF:-1 tvg-id="philliesvsnewyorkmets1835sportzxlive" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="Live: MLB",Phillies vs New York Mets 18:35 (SportzX Live)
 https://edgestream2.pro/hls/bzagLHzach19.m3u8?
 
+#EXTINF:-1 tvg-id="philliesvsnewyorkmets1835sportzxlive" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="Live: MLB",Phillies vs New York Mets 18:35 (SportzX Live)
+https://edgestream2.pro/hls/Czajafjihafch18.m3u8?
+
 #EXTINF:-1 tvg-id="guardiansvspittsburghpirates1840sportzxlive" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="Live: MLB",Guardians vs Pittsburgh Pirates 18:40 (SportzX Live)
-https://edgestream1.pro/hls/jnzkdzjfanch23.m3u8?
+https://edgestream2.pro/hls/jkzahzadach20.m3u8?
 
 #EXTINF:-1 tvg-id="astrosvsbaltimoreorioles1910sportzxlive" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="Live: MLB",Astros vs Baltimore Orioles 19:10 (SportzX Live)
-https://edgestream3.pro/hls/jkzahzadach20.m3u8?
+https://edgestream1.pro/hls/ijfnakfidch22.m3u8?
 
 #EXTINF:-1 tvg-id="royalsvspadres1910sportzxlive" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="Live: MLB",Royals vs Padres 19:10 (SportzX Live)
-https://edgestream1.pro/hls/fskjanach24.m3u8?
+https://edgestream3.pro/hls/jnzkdzjfanch23.m3u8?
 
 #EXTINF:-1 tvg-id="brewersvsmiamimarlins1910sportzxlive" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="Live: MLB",Brewers vs Miami Marlins 19:10 (SportzX Live)
-https://edgestream3.pro/hls/ijfnakfidch22.m3u8?
+https://edgestream3.pro/hls/ojzkajnach21.m3u8?
 
 #EXTINF:-1 tvg-id="chicagocubsvsminnesotatwins1920sportzxlive" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="Live: MLB",Chicago Cubs vs Minnesota Twins 19:20 (SportzX Live)
-https://edgestream1.pro/hls/ojzkajnach21.m3u8?
+https://edgestream2.pro/hls/fskjanach24.m3u8?
 
-#EXTINF:-1 tvg-id="tigersvshawthornhawks0410foxsports2" tvg-logo="https://images.seeklogo.com/logo-png/28/1/fox-sports-logo-png_seeklogo-284763.png" group-title="Live: AFL",Tigers vs Hawthorn Hawks 04:10 (FOX SPORTS 2)
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={"09453ce820d65fbc675de3185f9e454c":"98cff9600995fa381c76fdacf3c7edae"}
-https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/awxnrqkbo5/out/v1/716529a4091947b0877e6cb80dbd6ccb/cenc.mpd
+#EXTINF:-1 tvg-id="rockiesvscincinnatireds2010sportzxlive" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="Live: MLB",Rockies vs Cincinnati Reds 20:10 (SportzX Live)
+https://edgestream1.pro/hls/kjhfzua25.m3u8?
 
-#EXTINF:-1 tvg-id="sunsvswesternbulldogs0615tntsports" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTI2NSvkyk8Fx2UMBXFdEXS36TNepD6Uy8pMQveJnYRbDnXedcg2tttKHz3&s=10" group-title="Live: AFL",Suns vs Western Bulldogs 06:15 (TNT SPORTS)
-https://tmaxapp.site/8wirwjs76erftg/tntsports1.m3u8
-
-#EXTINF:-1 tvg-id="bombersvsgwsgiants0740foxsportsfhd" tvg-logo="https://images.seeklogo.com/logo-png/28/1/fox-sports-logo-png_seeklogo-284763.png" group-title="Live: AFL",Bombers vs GWS Giants 07:40 (FOX SPORTS FHD)
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={"09453ce820d65fbc675de3185f9e454c":"98cff9600995fa381c76fdacf3c7edae"}
-https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/awxnrqkbo5/out/v1/716529a4091947b0877e6cb80dbd6ccb/cenc.mpd
-
-#EXTINF:-1 tvg-id="bombersvsgwsgiants0740tntsports" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTI2NSvkyk8Fx2UMBXFdEXS36TNepD6Uy8pMQveJnYRbDnXedcg2tttKHz3&s=10" group-title="Live: AFL",Bombers vs GWS Giants 07:40 (TNT SPORTS)
-https://tmaxapp.site/8wirwjs76erftg/tntsports1.m3u8
-
-#EXTINF:-1 tvg-id="titansvsmanlyseaeagles0500hdserver" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTVqp1Plsy44x_6pIyvUttdbXc5LMugRMGfldjYKQbI9X_X7txzS2d7WPph" group-title="Live: NRL Rugby",Titans vs Manly Sea Eagles 05:00 (HD SERVER)
-https://tmaxapp.site/8wirwjs76erftg/skysport1nz.m3u8
-
-#EXTINF:-1 tvg-id="dolphinsvscowboys0705hdserver" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTVqp1Plsy44x_6pIyvUttdbXc5LMugRMGfldjYKQbI9X_X7txzS2d7WPph" group-title="Live: NRL Rugby",Dolphins vs Cowboys 07:05 (HD SERVER)
-https://tmaxapp.site/8wirwjs76erftg/skysport1nz.m3u8
+#EXTINF:-1 tvg-id="thundervsbrooklynnets2130sportzxlive" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="Live: NBA",Thunder vs Brooklyn Nets 21:30 (SportzX Live)
+https://edgestream1.pro/hls/mlkijfezag65.m3u8?
