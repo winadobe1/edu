@@ -1,5 +1,5 @@
 #EXTM3U x-tvg-url=""
-# Generated from xyzstreams.st (Standalone Auto-Discovery) - 2026-07-19T01:17:16.009Z
+# Generated from xyzstreams.st (Standalone Auto-Discovery) - 2026-07-19T05:41:17.032Z
 # Channels: 75 | Events: 3 | Discovered Sports: MLB, WNBA, NBA
 
 #-----------------------------------------
@@ -779,17 +779,17 @@ https://player.xyzstreams.st/embed/lakers
 #-----------------------------------------
 # LIVE EVENTS (Homepage)
 #-----------------------------------------
-#EXTINF:-1 tvg-logo="https://www.thesportsdb.com/images/media/event/thumb/uujwlw1784180543.jpg/medium" tvg-start="2026-07-18T21:00:00.000Z" tvg-stop="2026-07-19T00:00:00.000Z" group-title="Football",France vs England
+#EXTINF:-1 tvg-logo="https://media.bolavip.com/wp-content/uploads/sites/13/2026/07/17092541/Diseno-sin-titulo-2026-07-17T090327.272-490x275.webp" tvg-start="2026-07-19T03:10:00.000Z" tvg-stop="2026-07-19T05:00:00.000Z" group-title="Football",Querétaro vs América
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://xyzstreams.st/
+#EXTVLCOPT:http-origin=https://xyzstreams.st
+https://xyzstreams.st/mls-2.html
+
+#EXTINF:-1 tvg-logo="https://www.fox.com/fox-wch-images/6a5838e08a4b97172b9e1ede_watch-spain-vs-argentina-fifa-world-cup-final-live-fox-one.jpeg" tvg-start="2026-07-19T19:00:00.000Z" tvg-stop="2026-07-18T21:30:00.000Z" group-title="Football",Spain vs Argentina
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://xyzstreams.st/
 #EXTVLCOPT:http-origin=https://xyzstreams.st
 https://xyzstreams.st/worldcup26-2-0718.html
-
-#EXTINF:-1 tvg-logo="https://imgs.fubo.tv/s/gracenote/assets/p33389417_b_h2_ab.jpg?ch=width&auto=format%2Ccompress&dpr=2&w=284&h=160&fit=crop" tvg-start="2026-07-18T17:00:00.000Z" tvg-stop="2026-07-18T21:00:00.000Z" group-title="Combat Sports",BKFC 91 Naples: Hunt vs. Puglies
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://xyzstreams.st/
-#EXTVLCOPT:http-origin=https://xyzstreams.st
-https://xyzstreams.st/bkfc.html
 
 #EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/KHI_7TfN1Jc/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLDvxW_YvVJ8ZAJb_hn8HtmUNfhHrA" tvg-start="2026-07-18T21:00:00.000Z" tvg-stop="2026-07-19T04:00:00.000Z" group-title="Combat Sports",UFC Fight Night: Du Plessis vs. Usman
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36

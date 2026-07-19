@@ -1174,6 +1174,17 @@ https://r.e.blueonline.tv/l/tvsmart/live/eds/Eleven_Sport_1/DHD/Manifest.mpd
 #KODIPROP:inputstream.adaptive.license_key={"2fbdaa3bea0d0323ae011b318d1db716":"8726ef7eaf5b9dce15fb6aa9f80bd53f"}
 https://a151aivottlinear-a.akamaihd.net/OTTB/sin-nitro/live/dash/enc/oboxe53wyo/out/v1/f7892a9d706d419a846d738fa22ea33e/cenc.mpd
 
+#EXTINF:-1 tvg-id="ufc1400sportsnetfhd" tvg-logo="null" group-title="Live: UFC",UFC 14:00 (SportsNet FHD)
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"60de674d9db66df9ba090e06871d3554":"18071eac168232fc3d45549049c1de6b"}
+https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/ccupb3gevq/out/v1/d9d54c61efab463981d1a7d04ceeb44c/cenc.mpd
+
+#EXTINF:-1 tvg-id="ufc1400paramountbr" tvg-logo="null" group-title="Live: UFC",UFC 14:00 (PARAMOUNT  BR)
+https://rdcstream.life/live/paramountplus/index.m3u8
+
+#EXTINF:-1 tvg-id="ufc1400sdtvusevpn" tvg-logo="null" group-title="Live: UFC",UFC 14:00 (SD TV (USE VPN))
+http://193.47.62.41/hls/suuu.m3u8?
+
 #EXTINF:-1 tvg-id="wwe0100tsnsports" tvg-logo="https://www.bellmedia.ca/lede/wp-content/uploads/2024/09/18581592_10155403529061055_8240563011649656197_n.jpg" group-title="Live: WWE",WWE 01:00 (TSN SPORTS)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={"85b277daf5aae05833fe43a68f587968":"d52d7e9bc0bcd98787efd547ac91eca0"}
@@ -1297,12 +1308,6 @@ https://android-database1.firebase-api.com/AccessLog2/108085_HD/apache.m3u8
 #KODIPROP:inputstream.adaptive.license_key={"58551b13211b37d5b325d67e5c6cabef":"3b4c3f8b4236fc57d66cdb54a606fe41"}
 https://g001-sle-us-cmaf-prd-ak.pcdn03.cssott.com/Content/CMAF_OS1-CTR-4s-v2/Live/channel(12010340-12010340-4445585a62764)/master_2hr.mpd
 
-#EXTINF:-1 tvg-id="indianapacers0200sportzxlive" tvg-logo="null" group-title="Live: NBA",Indiana Pacers 02:00 (SportzX Live)
-https://edgestream2.pro/hls/bvnsqdfvgha70.m3u8?
-
-#EXTINF:-1 tvg-id="phoenixsuns0330sportzxlive" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="Live: NBA",Phoenix Suns 03:30 (SportzX Live)
-https://edgestream2.pro/hls/ztyarueaghj71.m3u8?
-
 #EXTINF:-1 tvg-id="tourdefrance1220eurosport1fhd" tvg-logo="https://iili.io/Cj06Rqv.png" group-title="Live: Tour de France",Tour de France 12:20 (EUROSPORT1 FHD)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={"11223344556677889900112233445566":"4b80724d0ef86bcb2c21f7999d67739d"}
@@ -1323,48 +1328,28 @@ https://cache01.zapitv.com/live/eds_c2/eurosport_1_hd/dash_live_ez/eurosport_1_h
 #KODIPROP:inputstream.adaptive.license_key={"e369d9ab101d4b60ba13c0384f503528":"041e35e31381521b3398af5c6dd99414"}
 https://cache01.zapitv.com/live/eds_c2/eurosport_2_hd/dash_live_ez/eurosport_2_hd.mpd
 
-#EXTINF:-1 tvg-id="clevelandguardians0010sportzxlive" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="Live: MLB",Cleveland Guardians 00:10 (SportzX LIVE)
-https://edgestream3.pro/hls/dzjhkfazbka26.m3u8?
-
-#EXTINF:-1 tvg-id="newyorkyankees0108foxdeportes" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="Live: MLB",New York Yankees 01:08 (FOX DEPORTES)
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={"d1a163914db8ffad2c3e94f979896a0d":"9728800a3959aafdd5b0bcfbf3768811"}
-https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/vkpoljjpkj/out/v1/502bcf68b3514cd28a220e6f0a43816f/cenc.mpd
-
-#EXTINF:-1 tvg-id="newyorkyankees0108sportzxlive" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="Live: MLB",New York Yankees 01:08 (SportzX Live)
-https://edgestream3.pro/hls/jzabfazkbf27.m3u8?
-
-#EXTINF:-1 tvg-id="seattlemariners0108sportzxlive" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="Live: MLB",Seattle Mariners 01:08 (SportzX Live)
-https://edgestream1.pro/hls/hefbafbakx28.m3u8?
-
-#EXTINF:-1 tvg-id="washingtonnationals0305sportzxlive" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="Live: MLB",Washington Nationals 03:05 (SportzX Live)
-https://edgestream2.pro/hls/hfzljfahzcax29.m3u8?
-
-#EXTINF:-1 tvg-id="detroittigers0307sportzxlive" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="Live: MLB",Detroit Tigers 03:07 (SportzX Live)
-https://edgestream3.pro/hls/JHDAJBDnjdna30.m3u8?
-
-#EXTINF:-1 tvg-id="cfl0030tsn1" tvg-logo="https://www.bellmedia.ca/lede/wp-content/uploads/2024/09/18581592_10155403529061055_8240563011649656197_n.jpg" group-title="Live: CFL",CFL 00:30 (TSN 1)
+#EXTINF:-1 tvg-id="cfl0000tsn1" tvg-logo="https://www.bellmedia.ca/lede/wp-content/uploads/2024/09/18581592_10155403529061055_8240563011649656197_n.jpg" group-title="Live: CFL",CFL 00:00 (TSN 1)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={"14eeabf30c14b7fbf3008c03099ce011":"17d2ac8dbc5429bd70af3433aa12158d"}
 https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/w0rehjjrwe/out/v1/69a2a7041395406b970598f61680e7cf/cenc.mpd
 
-#EXTINF:-1 tvg-id="cfl0030tsn4" tvg-logo="https://www.bellmedia.ca/lede/wp-content/uploads/2024/09/18581592_10155403529061055_8240563011649656197_n.jpg" group-title="Live: CFL",CFL 00:30 (TSN 4)
+#EXTINF:-1 tvg-id="cfl0000tsn4" tvg-logo="https://www.bellmedia.ca/lede/wp-content/uploads/2024/09/18581592_10155403529061055_8240563011649656197_n.jpg" group-title="Live: CFL",CFL 00:00 (TSN 4)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={"abc5b2883121012850ebda05b528c5ec":"e5250924f4b738905f7163a0134587a7"}
 https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/ihys8nw4wv/out/v1/fde190f369484bc6b6117cc16cd82a9f/cenc.mpd
 
-#EXTINF:-1 tvg-id="cfl0030tsn5" tvg-logo="https://www.bellmedia.ca/lede/wp-content/uploads/2024/09/18581592_10155403529061055_8240563011649656197_n.jpg" group-title="Live: CFL",CFL 00:30 (TSN 5)
+#EXTINF:-1 tvg-id="cfl0000tsn5" tvg-logo="https://www.bellmedia.ca/lede/wp-content/uploads/2024/09/18581592_10155403529061055_8240563011649656197_n.jpg" group-title="Live: CFL",CFL 00:00 (TSN 5)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={"385ceb9714b75e0cef61254f80b31002":"18dce92a2891fee68d21ede5173230f8"}
 https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/cscevwljkq/out/v1/972185041b244140860b7d56398e9aaf/cenc.mpd
 
-#EXTINF:-1 tvg-id="indianafevervsliberty0100sportzxlive" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="Live: WNBA",Indiana Fever vs Liberty 01:00 (SportzX Live)
+#EXTINF:-1 tvg-id="dallaswingsvssparks1800sportzxlive" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="Live: WNBA",Dallas Wings vs Sparks 18:00 (SportzX Live)
 https://edgestream1.pro/hls/pllmazjkdzajh72.m3u8?
 
-#EXTINF:-1 tvg-id="lynxvsportlandfire0100sportzxlive" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="Live: WNBA",Lynx vs Portland Fire 01:00 (SportzX Live)
+#EXTINF:-1 tvg-id="dreamvschicagosky2100sportzxlive" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="Live: WNBA",Dream vs Chicago Sky 21:00 (SportzX Live)
 https://edgestream3.pro/hls/fdgsqdfawa73.m3u8?
 
-#EXTINF:-1 tvg-id="valkyriesvswashingtonmystics0130sportzxlive" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="Live: WNBA",Valkyries vs Washington Mystics 01:30 (SportzX Live)
+#EXTINF:-1 tvg-id="mercuryvsconnecticutsun0000sportzxlive" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="Live: WNBA",Mercury vs Connecticut Sun 00:00 (SportzX Live)
 https://edgestream1.pro/hls/yjtzafghvjza74.m3u8?
 
 #EXTINF:-1 tvg-id="westindiesvsnewzealand1500willowfhd" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="Live: Cricket",West Indies vs New Zealand 15:00 (WILLOW FHD)
@@ -1405,228 +1390,6 @@ https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/ly2lruzgx2/out/v1
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={"b01ff121603a3cddd09976f66f9feb12":"952f80607b8666022fb5cc2d95df096c"}
 https://abfjk4haaaaaaaamkitc5445rybm6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/ly2lruzgx2/out/v1/d1b297d066fb4a1ab26c2f9c22a9f1a5/cenc.mpd
-
-#EXTINF:-1 tvg-id="majorleague0030willowhd" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="Live: Major League Cricket",MAJOR LEAGUE 00:30 (Willow HD)
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={"290e09c837da78d5cd961978d390515c":"b748836c71e6a4ca68ef5b5652db6247"}
-https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/tll6uwepxa/out/v1/a7f67cbb33df46539312956427343886/cenc.mpd
-
-#EXTINF:-1 tvg-id="francevsengland2200fifatvfhd" tvg-logo="https://img.sofascore.com/api/v1/unique-tournament/16/image" group-title="Live: FIFA World Cup",France vs England 22:00 (FIFA TV FHD)
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={"603e4118f91f453282dc44850376aabd":"be92f663ca1a10134a5b371ade386ccc"}
-https://cdnec02.mediaquest.com.ph/bpk-token/2ab@w544wk5y111knxfbv2itg33nvw2xxxv0wx4e31ca/bpk-tv/fifa_ppv1/default/index.mpd?bkm-query
-
-#EXTINF:-1 tvg-id="francevsengland2200foxoneaq" tvg-logo="https://images.seeklogo.com/logo-png/28/1/fox-sports-logo-png_seeklogo-284763.png" group-title="Live: FIFA World Cup",France vs England 22:00 (FOX ONE - AQ)
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={"f6564ec2aee819046328a0e153be574d":"ff46a8a1031eb27ef22576a077c98ab7"}
-https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/ajfoeddkbz/out/v1/b78800b9b2304879b15843f455836829/cenc.mpd
-
-#EXTINF:-1 tvg-id="francevsengland2200iscreenbdfhd" tvg-logo="https://play-lh.googleusercontent.com/SPbTC9tI82cpBSS4Nsv6pd-mvQd1lnJU2omTqs-sv4DvIdHVRxvZ9OboJTV5Gy1erWo6H569kZ74ZBg6v6sz=w600-h300-pc0xffffff-pd" group-title="Live: FIFA World Cup",France vs England 22:00 (ISCREEN BD FHD)
-https://hjkpoi-mnbvcxza.rockstreamer.com/v1/019ed91616121ea540a8171c8e801f/019f76d3e5e41ea557843549782f9a/main.m3u8?
-
-#EXTINF:-1 tvg-id="francevsengland2200globospbr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="Live: FIFA World Cup",France vs England 22:00 (GLOBOSP BR)
-https://live-ancdn-09.video.globo.com/j/eyJhbGciOiJSUzUxMiIsImtpZCI6IjEiLCJ0eXAiOiJKV1QifQ.eyJjb3VudHJ5X2NvZGUiOiJCRCIsImRvbWFpbiI6ImxpdmUtYW5jZG4tMDkudmlkZW8uZ2xvYm8uY29tIiwiZXhwIjoxNzg0NDMwMTcyLCJpYXQiOjE3ODQ0MDg1NzIsImlzcyI6InBsYXliYWNrLWFwaS1wcm9kLWdjcCIsIm93bmVyIjoiODhlMzUxNjctNjRmNS00OWE3LTk4ZTktMWYzY2M2ZGZlODUxIiwicGF0aCI6Ii9saXZlL2YobGwpL2dsb2JvLWZpZmEyNi9wbGF5bGlzdC5tM3U4In0.LvcZAWTZ5DGJ_RXi9l6wF7znSt_2ud5W3W5hglpcSgfVEglsDQ2npEj3CqzHzyd-qpVTf1iuxPIDfI6EZ4D36gcTwLlhYT79W2M5HRCSuZPjQlj27s7ThIXpTY3gHZdRoxBfCG85noRwdjjWJsUgRC9GGRUABD__xB2xN1Bkf2PyVC49OdYtYHWQOKt5qWpPmsLQrEe2zmPNRRekxGKzcmga0-VZ2KK8BAy7a6l-0q_yRsEZjHSShn-rfi1gN9vxva8xeLipNk8_EsxU8zCS_TYD5SXIsrZVJDRFTDJjmiwB_6F5c8BNPghJK1oAwKVfW2ob8SnaZ2zJE_r3uF7Sqg/live/f(ll)/globo-fifa26/playlist.m3u8
-
-#EXTINF:-1 tvg-id="francevsengland2200cazetvhd" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="Live: FIFA World Cup",France vs England 22:00 (CAZE TV HD)
-https://rdcstream.life/live/cazetv/index.m3u8?
-
-#EXTINF:-1 tvg-id="francevsengland2200munidalhd" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="Live: FIFA World Cup",France vs England 22:00 (MUNIDAL HD)
-https://s2.bufaloweb.com/bufalo9/tracks-v4a1/mono.ts.m3u8
-
-#EXTINF:-1 tvg-id="francevsengland2200fussballtvfhd" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="Live: FIFA World Cup",France vs England 22:00 (FUSSBALL TV FHD)
-https://cp11.adabmedia.com/hls2/sport.m3u8
-
-#EXTINF:-1 tvg-id="francevsengland2200qazsportshd" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="Live: FIFA World Cup",France vs England 22:00 (QAZ SPORTS HD)
-http://stream.mcquack.net/72/index.m3u8
-
-#EXTINF:-1 tvg-id="francevsengland2200tsn4sportsfhd" tvg-logo="https://www.bellmedia.ca/lede/wp-content/uploads/2024/09/18581592_10155403529061055_8240563011649656197_n.jpg" group-title="Live: FIFA World Cup",France vs England 22:00 (TSN4 SPORTS FHD)
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={"abc5b2883121012850ebda05b528c5ec":"e5250924f4b738905f7163a0134587a7"}
-https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/ihys8nw4wv/out/v1/fde190f369484bc6b6117cc16cd82a9f/cenc.mpd
-
-#EXTINF:-1 tvg-id="francevsengland2200tsnsportsfhd" tvg-logo="https://www.bellmedia.ca/lede/wp-content/uploads/2024/09/18581592_10155403529061055_8240563011649656197_n.jpg" group-title="Live: FIFA World Cup",France vs England 22:00 (TSN SPORTS FHD)
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={"14eeabf30c14b7fbf3008c03099ce011":"17d2ac8dbc5429bd70af3433aa12158d"}
-https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/w0rehjjrwe/out/v1/69a2a7041395406b970598f61680e7cf/cenc.mpd
-
-#EXTINF:-1 tvg-id="francevsengland2200rtesportsfhd" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/syptrs1458515379.png" group-title="Live: FIFA World Cup",France vs England 22:00 (RTE SPORTS FHD)
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={"d816287e21496989eae1312925a423c5":"00da00f13180e7e6cd5ce87d1c974e8d"}
-https://dai.google.com/linear/dash/pa/event/antwa0EiQm2PoHtx4rBtVw/stream/665e72ff-49e9-4b31-888b-b3aacb6e6def:BRU/manifest.mpd
-
-#EXTINF:-1 tvg-id="francevsengland2200fastserver" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="Live: FIFA World Cup",France vs England 22:00 (FAST SERVER)
-https://pulltx.cqsycw.com/live/hd-en-6MvYMRTGwLKvBTez2a.m3u8?txSecret=c1540393321d5640a37e3e15c10858e8&txTime=6A5C0B10
-
-#EXTINF:-1 tvg-id="francevsengland2200fastnocomment" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="Live: FIFA World Cup",France vs England 22:00 (FAST  NO Comment )
-https://live.vivo200.com/live/sd-1-4459814.m3u8?txSecret=53688b933ac4ba54c6603e617023e2ee&txTime=6A5BF668
-
-#EXTINF:-1 tvg-id="francevsengland2200ctsportsfhd" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="Live: FIFA World Cup",France vs England 22:00 (CT SPORTS FHD)
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={"11223344556677889900112233445566":"4b80724d0ef86bcb2c21f7999d67739d"}
-https://dash2.antik.sk/stream/nvidia_ct_sport/playlist_cenc.mpd
-
-#EXTINF:-1 tvg-id="francevsengland2200beinmaxhd" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="Live: FIFA World Cup",France vs England 22:00 (beIN MAX HD)
-https://wez.khaialogy.store/dream1.m3u8
-
-#EXTINF:-1 tvg-id="francevsengland2200telemundohd" tvg-logo="https://duckduckgo.com/i/2e3815a5b7ddd3c9.png" group-title="Live: FIFA World Cup",France vs England 22:00 (TELEMUNDO HD)
-https://edgestream2.pro/hls/b0h5fNwDKH.m3u8?
-
-#EXTINF:-1 tvg-id="francevsengland2200tvela1fhd" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="Live: FIFA World Cup",France vs England 22:00 (TVE La 1 FHD)
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={"745cd6ec34a58f2f7ac2af35dc3da6d2":"ae008f1e47e6567fe4201a6ff8f1ae54"}
-https://otte.cache.aiv-cdn.net/lhr-nitro/live/clients/dash/enc/c7di7zkdor/out/v1/f7d5b356e048494a8325563e8916d50b/cenc.mpd
-
-#EXTINF:-1 tvg-id="francevsengland2200dsportsfhd" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="Live: FIFA World Cup",France vs England 22:00 (D Sports FHD)
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={"f836853d8eac19446ed9535f5fc568b1":"b3bc5ef00602b29abac7e482d3d9fbf3"}
-https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/z5oyxzsxdk/out/v1/7695a0f64a0e424b973d5b09a2a3eb91/cenc.mpd
-
-#EXTINF:-1 tvg-id="francevsengland2200cazetvfhd" tvg-logo="https://duckduckgo.com/i/dab0d6887915781c.png" group-title="Live: FIFA World Cup",France vs England 22:00 (CAZE TV FHD)
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={"1223d5105392cabf1bb9c2c1fdf6539a":"340b409f4b8f78a343e0363a7938df38"}
-https://otte.cache.aiv-cdn.net/gru-nitro/live/clients/dash/enc/iayg0kyrof/out/v1/91dc04907f56415b897faccfa9d252da/cenc.mpd
-
-#EXTINF:-1 tvg-id="francevsengland2200foxonehdr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="Live: FIFA World Cup",France vs England 22:00 (FOX ONE HDR)
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={"48afc63fa0ecccc3a71f46d3fda20249":"c7cd8801e238a263fe4349a95682b83b"}
-https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/rgmw19qjux/out/v1/c6ac7e638a9d4998891ae85aba377c59/cenc.mpd
-
-#EXTINF:-1 tvg-id="francevsengland2200foxsports4k" tvg-logo="https://images.seeklogo.com/logo-png/28/1/fox-sports-logo-png_seeklogo-284763.png" group-title="Live: FIFA World Cup",France vs England 22:00 (FOX SPORTS 4K)
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={"1f68713028d439ec03be07f56c1d6213":"20093db6455160fffed4c394def3193d"}
-https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/enc/xperu6ixu9/out/v1/31d30c91fc65458789b84209d3fa22e4/cenc.mpd
-
-#EXTINF:-1 tvg-id="francevsengland2200foxonehd" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="Live: FIFA World Cup",France vs England 22:00 (FOX ONE HD)
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={"d0f2e537aa6d576e355c271b22caeaca":"d5869f84abacfe205c524c59e62d3803"}
-https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/bc3y4t1rpk/out/v1/df2b71a9487a4c369c9742e7ea62a2e2/cenc.mpd
-
-#EXTINF:-1 tvg-id="francevsengland2200npo1dutchfhd" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="Live: FIFA World Cup",France vs England 22:00 (NPO1 DUTCH FHD)
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={"8d3c85fa30730fdc39efc09de476415f":"8fdccd948bb2cc6d99d5305ccffebcb7"}
-https://npo-fsly-2.cdn.streamgate.io/eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJleHAiOjE3ODQ0OTQ2MTYsInVyaSI6IlwvbGl2ZVwvbnBvXC91XzNfNFwvbnBvcGx1c1wvZHJtXC9kYXNoX2NlbmNcL25wby0xXC8wXC8wXC8wXC9ucG8tMS5pc21sIiwidmlld2VyIjoidmlld2VyIiwicmlkIjoiNWYzODQxYyJ9.0rcUL3pxSAavnBHmNmzBP-GjXhHJEjLQKB09o-0Ev-U/live/npo/u_3_4/npoplus/drm/dash_cenc/npo-1/0/0/0/npo-1.isml/stream.mpd
-
-#EXTINF:-1 tvg-id="francevsengland2200m6franceusa" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="Live: FIFA World Cup",France vs England 22:00 (M6 FRANCE (USA))
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={"4a7997b47edc3124a6c51651fea26470":"90154d0a7f4f5ba772911bb72c76c86e"}
-https://edge-fastly-m6web.live.6cloud.fr/out/v1/6play/6play-m6/cmaf_cenc00_N1/dash-short-hd.mpd
-
-#EXTINF:-1 tvg-id="francevsengland2200tsnsportsfhd" tvg-logo="https://www.bellmedia.ca/lede/wp-content/uploads/2024/09/18581592_10155403529061055_8240563011649656197_n.jpg" group-title="Live: FIFA World Cup",France vs England 22:00 (TSN SPORTS FHD)
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={"14eeabf30c14b7fbf3008c03099ce011":"17d2ac8dbc5429bd70af3433aa12158d"}
-https://abeqnpaaaaaaaaamkm25dx7jyzllj.ta.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/cjglydxghe/out/v1/8977baf175da4b94873194613dd3fe55/cenc.mpd
-
-#EXTINF:-1 tvg-id="francevsengland2200foxonefhd" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="Live: FIFA World Cup",France vs England 22:00 (FOX ONE FHD)
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={"f6564ec2aee819046328a0e153be574d":"ff46a8a1031eb27ef22576a077c98ab7"}
-https://abeqnpaaaaaaaaamkm25dx7jyzllj.ta.bia-cf.live.pv-cdn.net/iad-nitro/live/dash/enc/ajfoeddkbz/out/v1/b78800b9b2304879b15843f455836829/cenc.mpd
-
-#EXTINF:-1 tvg-id="francevsengland2200fox4kalt" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="Live: FIFA World Cup",France vs England 22:00 (FOX 4K  ALT )
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={"1f68713028d439ec03be07f56c1d6213":"20093db6455160fffed4c394def3193d"}
-https://abeqnpaaaaaaaaamkm25dx7jyzllj.ta.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/enc/xperu6ixu9/out/v1/31d30c91fc65458789b84209d3fa22e4/cenc.mpd
-
-#EXTINF:-1 tvg-id="francevsengland2200tsnsportsalt" tvg-logo="https://www.bellmedia.ca/lede/wp-content/uploads/2024/09/18581592_10155403529061055_8240563011649656197_n.jpg" group-title="Live: FIFA World Cup",France vs England 22:00 (TSN SPORTS  ALT )
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={"14eeabf30c14b7fbf3008c03099ce011":"17d2ac8dbc5429bd70af3433aa12158d"}
-https://abgh3fbaaaaaaaambylpff72g6up6.ta.bia-cf.live.pv-cdn.net/iad-nitro/live/dash/enc/w0rehjjrwe/out/v1/69a2a7041395406b970598f61680e7cf/cenc.mpd
-
-#EXTINF:-1 tvg-id="francevsengland2200foxonealt" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="Live: FIFA World Cup",France vs England 22:00 (FOX ONE  ALT )
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={"f6564ec2aee819046328a0e153be574d":"ff46a8a1031eb27ef22576a077c98ab7"}
-https://abgh3fbaaaaaaaambylpff72g6up6.ta.bia-cf.live.pv-cdn.net/iad-nitro/live/dash/enc/ajfoeddkbz/out/v1/b78800b9b2304879b15843f455836829/cenc.mpd
-
-#EXTINF:-1 tvg-id="francevsengland2200telemundousa" tvg-logo="https://duckduckgo.com/i/2e3815a5b7ddd3c9.png" group-title="Live: FIFA World Cup",France vs England 22:00 (TELEMUNDO  USA )
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={"7d6bb9f86e133e4cb33440b493b6b672":"584ad285dcb9e7d42cf3e93f1cc3fe11"}
-https://live-oneapp-prd-news.akamaized.net/Content/CMAF_OL2-CTR-4s/Live/channel(WSNS)/master.mpd
-
-#EXTINF:-1 tvg-id="francevsengland2200fussballtv4k" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="Live: FIFA World Cup",France vs England 22:00 (FUSSBALL TV 4K)
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={"4f558eae1b005126b2ac6e9eb1a7849e":"17aea325d91b5e66f06a8c574f2f0b03"}
-https://da-50f11b292a028381000001120000000000000009.id.vx.tentcdn.eu/wp/at-live-7.tentcdn.eu/bpk-tv/WM_TV_1_UHD/default/index.mpd
-
-#EXTINF:-1 tvg-id="francevsengland2200fussballtv24k" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="Live: FIFA World Cup",France vs England 22:00 (FUSSBALL TV2 4K)
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={"ccdf9f3d9bbf5c508adf04f81918a285":"66cf0524fcc2eb0c7dab8bbbf8829827"}
-https://da-50f11b292a028381000001120000000000000009.id.vx.tentcdn.eu/wp/at-live-7.tentcdn.eu/bpk-tv/WM_TV_2_UHD/default/index.mpd
-
-#EXTINF:-1 tvg-id="francevsengland2200irib4k" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="Live: FIFA World Cup",France vs England 22:00 (IRIB 4K)
-https://ncdn.telewebion.ir/faratar/live/playlist.m3u8
-
-#EXTINF:-1 tvg-id="francevsengland2200daznspanish" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="Live: FIFA World Cup",France vs England 22:00 (DAZN SPANISH)
-https://1nyaler.streamhostingcdn.top/stream/94/index.m3u8
-
-#EXTINF:-1 tvg-id="francevsengland2200tycsportshd" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="Live: FIFA World Cup",France vs England 22:00 (TYC SPORTS HD)
-https://1nyaler.streamhostingcdn.top/stream/84/index.m3u8
-
-#EXTINF:-1 tvg-id="francevsengland2200hdservereng" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="Live: FIFA World Cup",France vs England 22:00 (HD SERVER ENG)
-https://mainstreams.pro/hls/24SDAZFcsqnj24.m3u8?
-
-#EXTINF:-1 tvg-id="francevsengland2200hdserverar" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="Live: FIFA World Cup",France vs England 22:00 (HD SERVER AR)
-https://mainstreams.pro/hls/eJmauBDCIf.m3u8?
-
-#EXTINF:-1 tvg-id="francevsengland2200hdserveres" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="Live: FIFA World Cup",France vs England 22:00 (HD SERVER ES)
-https://mainstreams.pro/hls/b0h5fNwDKH.m3u8?
-
-#EXTINF:-1 tvg-id="francevsengland2200matchfootballfhd" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="Live: FIFA World Cup",France vs England 22:00 (Match Football FHD)
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={"9145a6e0f778e61866f573d4944dd533":"d02173d40515fea5c83944f21d0f3114"}
-https://video.beeline.tv/live/d/channel319.isml/manifest-stb.mpd
-
-#EXTINF:-1 tvg-id="francevsengland2200fussball4kger" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="Live: FIFA World Cup",France vs England 22:00 (FUSSBALL 4K  GER )
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={"1f09d5788fbbb03a053d03cc731f31a9":"d493d5a70c793362324638f61d1726ac"}
-https://svc45.main.sl.t-online.de/bpk-tv/KID01037_FUSSBALLTV1_uhd/DASH/index.mpd
-
-#EXTINF:-1 tvg-id="francevsengland2200fussball24kger" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="Live: FIFA World Cup",France vs England 22:00 (FUSSBALL2 4K  GER )
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={"1b98a0f2de7784c6e132942385a089f3":"546eae09a8d81c498dfd08532dcd68a5"}
-https://svc45.main.sl.t-online.de/bpk-tv/KID01064_FUSSBALLTV2_uhd/DASH/index.mpd
-
-#EXTINF:-1 tvg-id="francevsengland2200fussballtvfhd" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="Live: FIFA World Cup",France vs England 22:00 (FUSSBALL TV FHD)
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={"1cb20afcd9d979c833cfd208c7d3eeb2":"fef0c15b4a523370892edd5e4133c269"}
-https://svc45.main.sl.t-online.de/bpk-tv/KID01037_FUSSBALLTV1_hd/DASH/index.mpd
-
-#EXTINF:-1 tvg-id="francevsengland2200fussball2tvfhd" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="Live: FIFA World Cup",France vs England 22:00 (FUSSBALL2 TV FHD)
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={"1889c6c8cdf57aa3bc90bb976ca6cbdc":"48ef3649d9076965b70e79e58b0028ef"}
-https://svc45.main.sl.t-online.de/bpk-tv/KID01064_FUSSBALLTV2_hd/DASH/index.mpd
-
-#EXTINF:-1 tvg-id="francevsengland2200telemundousa" tvg-logo="https://duckduckgo.com/i/2e3815a5b7ddd3c9.png" group-title="Live: FIFA World Cup",France vs England 22:00 (TELEMUNDO  USA )
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={"ce7ab3022e753307997f58afe001bac4":"72d631a66e635c60829a0fe7705516c1"}
-https://live-oneapp-prd-news.akamaized.net/Content/CMAF_OL2-CTR-4s-v2/Live/channel(kvea)/master.mpd
-
-#EXTINF:-1 tvg-id="francevsengland2200tsportshd" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="Live: FIFA World Cup",France vs England 22:00 (TSports HD)
-http://103.165.93.31:8095/tsports/tracks-v1a1/mono.m3u8
-
-#EXTINF:-1 tvg-id="francevsengland2200btvbdixhd" tvg-logo="https://www.btvlive.gov.bd/_next/image?url=https%3A%2F%2Fd38ll44lbmt52p.cloudfront.net%2Fcms%2Fchannel_poster%2F1677040358634_BTVogo.png&w=2048&q=75" group-title="Live: FIFA World Cup",France vs England 22:00 (BTV BDIX HD)
-http://103.165.93.31:8095/btv/tracks-v1a1/mono.m3u8
-
-#EXTINF:-1 tvg-id="francevsengland2200somoytvhd" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="Live: FIFA World Cup",France vs England 22:00 (SOMOY TV HD)
-http://103.165.93.31:8095/somoyTv/tracks-v1a1/mono.m3u8
-
-#EXTINF:-1 tvg-id="francevsengland2200sdservereng" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="Live: FIFA World Cup",France vs England 22:00 (SD SERVER  ENG )
-http://193.47.62.59/hls/XIIII.m3u8?
-
-#EXTINF:-1 tvg-id="francevsengland2200engsdserver" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="Live: FIFA World Cup",France vs England 22:00 (ENG SD SERVER)
-http://193.47.62.51/hls/XIIIIF.m3u8?
-
-#EXTINF:-1 tvg-id="francevsengland2200sdserverswe" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="Live: FIFA World Cup",France vs England 22:00 (SD SERVER  SWE )
-http://193.47.62.59/hls/XIIIIFF.m3u8?
-
-#EXTINF:-1 tvg-id="francevsengland2200beinsportsfr" tvg-logo="https://play-lh.googleusercontent.com/jBDZq3aBmCXuvtuJHEasqsdYPRxMBGzYmEha4dMlgoIk19Zlh6BGQC08Zt6Ifrmzhg" group-title="Live: FIFA World Cup",France vs England 22:00 (beiN SPORTS FR)
-https://pul-tenm.gkykp.com/live/hd-en-1-4459814.m3u8?txSecret=911f30f17e673b13ab160ad02386c00e&txTime=6A5D2630
-
-#EXTINF:-1 tvg-id="francevsengland2200espanolsd" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="Live: FIFA World Cup",France vs England 22:00 (ESPANOL SD)
-https://pullsgp.yyzb456.top/live/stream-896956_lhd.m3u8
-
-#EXTINF:-1 tvg-id="francevsengland2200spanishfhd" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="Live: FIFA World Cup",France vs England 22:00 (SPANISH FHD)
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={"aa78205160ef4b5c972d5e815a8fe6e4":"338b545591e45469e71dae3a8fb8dbb0"}
-https://teleamazonasb.cdn.mdstrm.com/live-stream-mp/dfzu2jckcs3he/a5e7a2777ea24b8ca49b326b536f87b2/6a0cd90eb3852427fcded197/manifest.mpd
 
 #EXTINF:-1 tvg-id="spainvsargentina2000foxoneaq" tvg-logo="null" group-title="Live: FIFA World Cup",Spain vs Argentina 20:00 (FOX ONE - AQ)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -1843,79 +1606,54 @@ https://live-pv-ta.amazon.fastly-edge.com/iad-nitro/startover/clients/dash/manip
 #KODIPROP:inputstream.adaptive.license_key={"357ccea271387c3288cc8c2301f13d35":"6d99d34e858d22ab5954d8df8622106a"}
 https://live-pv-ta.amazon.fastly-edge.com/iad-nitro/startover/clients/dash/manipulated-manifest-iad-prod/enc/nsuvwbv5a0/out/v1/745ffbb961054110852973877632f4e9/f7dd18d6-fb4d-4a8a-80fb-0cea8594021e-cenc.mpd
 
-#EXTINF:-1 tvg-id="guadalajaravscdtoluca0207sportzxlive" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="Live: Liga MX",Guadalajara vs CD Toluca 02:07 (SportzX Live)
-https://video.twimg.com/amplify_video/1919602814160125952/pl/t5p2RHLI21i-hXga.m3u8?variant_version=1&tag=14
-
-#EXTINF:-1 tvg-id="quertarovsclubamrica0410sportzxlive" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="Live: Liga MX",Quer taro vs Club Am rica 04:10 (SportzX Live)
-https://video.twimg.com/amplify_video/1919602814160125952/pl/t5p2RHLI21i-hXga.m3u8?variant_version=1&tag=14
-
-#EXTINF:-1 tvg-id="guardiansvspittsburghpirates1810sportzxlive" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="Live: MLB",Guardians vs Pittsburgh Pirates 18:10 (SportzX Live)
+#EXTINF:-1 tvg-id="bluejaysvswhitesox1715sportzxlive" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="Live: MLB",Blue Jays vs White Sox 17:15 (SportzX Live)
 https://edgestream1.pro/hls/dazhfiach15.m3u8?
 
-#EXTINF:-1 tvg-id="chicagocubsvsminnesotatwins1920sportzxlive" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="Live: MLB",Chicago Cubs vs Minnesota Twins 19:20 (SportzX Live)
+#EXTINF:-1 tvg-id="yankeesvsdodgers1735sportzxlive" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="Live: MLB",Yankees vs Dodgers 17:35 (SportzX Live)
 https://edgestream2.pro/hls/16yuitzaerghbhc16.m3u8?
 
-#EXTINF:-1 tvg-id="bluejaysvswhitesox2007sportzxlive" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="Live: MLB",Blue Jays vs White Sox 20:07 (SportzX Live)
+#EXTINF:-1 tvg-id="bravesvstexasrangers1835sportzxlive" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="Live: MLB",Braves vs Texas Rangers 18:35 (SportzX Live)
 https://edgestream3.pro/hls/ihfazugfyjcazich17.m3u8?
 
-#EXTINF:-1 tvg-id="rockiesvscincinnatireds2010sportzxlive" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="Live: MLB",Rockies vs Cincinnati Reds 20:10 (SportzX Live)
+#EXTINF:-1 tvg-id="redsoxvstampabayrays1835sportzxlive" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="Live: MLB",Red Sox vs Tampa Bay Rays 18:35 (SportzX Live)
 https://edgestream2.pro/hls/Czajafjihafch18.m3u8?
 
-#EXTINF:-1 tvg-id="philliesvsnewyorkmets2105sportzxlive" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="Live: MLB",Phillies vs New York Mets 21:05 (SportzX Live)
+#EXTINF:-1 tvg-id="philliesvsnewyorkmets1835sportzxlive" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="Live: MLB",Phillies vs New York Mets 18:35 (SportzX Live)
 https://edgestream2.pro/hls/bzagLHzach19.m3u8?
 
-#EXTINF:-1 tvg-id="diamondbacksvscardinals2110sportzxlive" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="Live: MLB",Diamondbacks vs Cardinals 21:10 (SportzX Live)
+#EXTINF:-1 tvg-id="guardiansvspittsburghpirates1840sportzxlive" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="Live: MLB",Guardians vs Pittsburgh Pirates 18:40 (SportzX Live)
 https://edgestream1.pro/hls/jnzkdzjfanch23.m3u8?
 
-#EXTINF:-1 tvg-id="atlantabravesvstexasrangers2110sportzxlive" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="Live: MLB",Atlanta Braves vs Texas Rangers 21:10 (SportzX Live)
+#EXTINF:-1 tvg-id="astrosvsbaltimoreorioles1910sportzxlive" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="Live: MLB",Astros vs Baltimore Orioles 19:10 (SportzX Live)
 https://edgestream3.pro/hls/jkzahzadach20.m3u8?
 
-#EXTINF:-1 tvg-id="redsoxvstampabayrays2110sportzxlive" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="Live: MLB",Red Sox vs Tampa Bay Rays 21:10 (SportzX Live)
+#EXTINF:-1 tvg-id="royalsvspadres1910sportzxlive" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="Live: MLB",Royals vs Padres 19:10 (SportzX Live)
 https://edgestream1.pro/hls/fskjanach24.m3u8?
 
-#EXTINF:-1 tvg-id="royalsvssandiegopadres2110sportzxlive" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="Live: MLB",Royals vs San Diego Padres 21:10 (SportzX Live)
+#EXTINF:-1 tvg-id="brewersvsmiamimarlins1910sportzxlive" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="Live: MLB",Brewers vs Miami Marlins 19:10 (SportzX Live)
 https://edgestream3.pro/hls/ijfnakfidch22.m3u8?
 
-#EXTINF:-1 tvg-id="astrosvsbaltimoreorioles2110sportzxlive" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="Live: MLB",Astros vs Baltimore Orioles 21:10 (SportzX Live)
+#EXTINF:-1 tvg-id="chicagocubsvsminnesotatwins1920sportzxlive" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="Live: MLB",Chicago Cubs vs Minnesota Twins 19:20 (SportzX Live)
 https://edgestream1.pro/hls/ojzkajnach21.m3u8?
 
-#EXTINF:-1 tvg-id="orlandomagicvsbostonceltics2130sportzxlive" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="Live: NBA",Orlando Magic vs Boston Celtics 21:30 (SportzX Live)
-https://edgestream1.pro/hls/mlkijfezag65.m3u8?
-
-#EXTINF:-1 tvg-id="bucksvsphiladelphia76ers2200sportzxlive" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="Live: NBA",Bucks vs Philadelphia 76ers 22:00 (SportzX Live)
-https://edgestream2.pro/hls/wfazgsqtrezu66.m3u8?
-
-#EXTINF:-1 tvg-id="wizardsvsatlantahawks0000sportzxlive" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="Live: NBA",Wizards vs Atlanta Hawks 00:00 (SportzX Live)
-https://edgestream2.pro/hls/zayrtezafgvdv68.m3u8?
-
-#EXTINF:-1 tvg-id="memphisgrizzliesvshoustonrockets2330sportzxlive" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="Live: NBA",Memphis Grizzlies vs Houston Rockets 23:30 (SportzX Live)
-https://edgestream1.pro/hls/hfsdqtaxvb67.m3u8?
-
-#EXTINF:-1 tvg-id="lakersvswarriors0130sportzxlive" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="Live: NBA",Lakers vs Warriors 01:30 (SportzX Live)
-https://edgestream1.pro/hls/zeafwqvhfe69.m3u8?
-
-#EXTINF:-1 tvg-id="pumasunamvscfpachuca0000canal5" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="Live: Liga MX",Pumas UNAM vs CF Pachuca 00:00 (CANAL 5)
+#EXTINF:-1 tvg-id="tigersvshawthornhawks0410foxsports2" tvg-logo="https://images.seeklogo.com/logo-png/28/1/fox-sports-logo-png_seeklogo-284763.png" group-title="Live: AFL",Tigers vs Hawthorn Hawks 04:10 (FOX SPORTS 2)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={"d695093ea3e66d75a4d213a3e2cbf360":"01be3f645e89a067d2786c295f68dde4"}
-https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/ntkdl68eob/out/v1/bd5dfb7676994383881bc6e71877d29d/cenc.mpd
+#KODIPROP:inputstream.adaptive.license_key={"09453ce820d65fbc675de3185f9e454c":"98cff9600995fa381c76fdacf3c7edae"}
+https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/awxnrqkbo5/out/v1/716529a4091947b0877e6cb80dbd6ccb/cenc.mpd
 
-#EXTINF:-1 tvg-id="monterreyvssantoslaguna0205canal5" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="Live: Liga MX",Monterrey vs Santos Laguna 02:05 (CANAL 5)
+#EXTINF:-1 tvg-id="sunsvswesternbulldogs0615tntsports" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTI2NSvkyk8Fx2UMBXFdEXS36TNepD6Uy8pMQveJnYRbDnXedcg2tttKHz3&s=10" group-title="Live: AFL",Suns vs Western Bulldogs 06:15 (TNT SPORTS)
+https://tmaxapp.site/8wirwjs76erftg/tntsports1.m3u8
+
+#EXTINF:-1 tvg-id="bombersvsgwsgiants0740foxsportsfhd" tvg-logo="https://images.seeklogo.com/logo-png/28/1/fox-sports-logo-png_seeklogo-284763.png" group-title="Live: AFL",Bombers vs GWS Giants 07:40 (FOX SPORTS FHD)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={"d695093ea3e66d75a4d213a3e2cbf360":"01be3f645e89a067d2786c295f68dde4"}
-https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/ntkdl68eob/out/v1/bd5dfb7676994383881bc6e71877d29d/cenc.mpd
+#KODIPROP:inputstream.adaptive.license_key={"09453ce820d65fbc675de3185f9e454c":"98cff9600995fa381c76fdacf3c7edae"}
+https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/awxnrqkbo5/out/v1/716529a4091947b0877e6cb80dbd6ccb/cenc.mpd
 
-#EXTINF:-1 tvg-id="argentinavsengland2010itvsportsfhd" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="Live: Rugby",Argentina vs England 20:10 (ITV SPORTS FHD)
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={"30089c52924f037b225b82c616fee2a5":"f55dc8b66ed4fc6753d6035ae7e17144"}
-https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/0eiyyz8qzm/out/v1/dd17af8835fe4bd087d1a4e359b635d7/cenc.mpd
+#EXTINF:-1 tvg-id="bombersvsgwsgiants0740tntsports" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTI2NSvkyk8Fx2UMBXFdEXS36TNepD6Uy8pMQveJnYRbDnXedcg2tttKHz3&s=10" group-title="Live: AFL",Bombers vs GWS Giants 07:40 (TNT SPORTS)
+https://tmaxapp.site/8wirwjs76erftg/tntsports1.m3u8
 
-#EXTINF:-1 tvg-id="argentinavsengland2010hdserver" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="Live: Rugby",Argentina vs England 20:10 (HD SERVER)
+#EXTINF:-1 tvg-id="titansvsmanlyseaeagles0500hdserver" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTVqp1Plsy44x_6pIyvUttdbXc5LMugRMGfldjYKQbI9X_X7txzS2d7WPph" group-title="Live: NRL Rugby",Titans vs Manly Sea Eagles 05:00 (HD SERVER)
 https://tmaxapp.site/8wirwjs76erftg/skysport1nz.m3u8
 
-#EXTINF:-1 tvg-id="brewersvsmiamimarlins2110sportzxlive" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="Live: MLB",Brewers vs Miami Marlins 21:10 (SportzX Live)
-https://edgestream2.pro/hls/kjhfzua25.m3u8?
-
-#EXTINF:-1 tvg-id="calgaryvsmontreal2100tsnsports" tvg-logo="https://www.bellmedia.ca/lede/wp-content/uploads/2024/09/18581592_10155403529061055_8240563011649656197_n.jpg" group-title="Live: CFL",Calgary vs Montreal 21:00 (TSN SPORTS)
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={"385ceb9714b75e0cef61254f80b31002":"18dce92a2891fee68d21ede5173230f8"}
-https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/cscevwljkq/out/v1/972185041b244140860b7d56398e9aaf/cenc.mpd
+#EXTINF:-1 tvg-id="dolphinsvscowboys0705hdserver" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTVqp1Plsy44x_6pIyvUttdbXc5LMugRMGfldjYKQbI9X_X7txzS2d7WPph" group-title="Live: NRL Rugby",Dolphins vs Cowboys 07:05 (HD SERVER)
+https://tmaxapp.site/8wirwjs76erftg/skysport1nz.m3u8
