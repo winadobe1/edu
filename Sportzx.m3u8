@@ -1109,90 +1109,90 @@ https://cdn.hoichoi24.com/StarGoldHD/index.m3u8
 #EXTINF:-1 tvg-id="server3" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="Sports Channels",server 3
 http://kst.moonplex.net:8080/CH1/index.m3u8
 
-#EXTINF:-1 tvg-id="formula11400tsnsports" tvg-logo="https://iili.io/Cl54sja.png" group-title="Live: F1",Formula 1 14:00 (TSN SPORTS)
+#EXTINF:-1 tvg-id="formula11230tsnsports" tvg-logo="https://iili.io/Cwq8C7I.png" group-title="Live: F1",Formula 1 12:30 (TSN SPORTS)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={"385ceb9714b75e0cef61254f80b31002":"18dce92a2891fee68d21ede5173230f8"}
 https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/cscevwljkq/out/v1/972185041b244140860b7d56398e9aaf/cenc.mpd
 
-#EXTINF:-1 tvg-id="formula11400appletvfhd" tvg-logo="https://iili.io/Cl54sja.png" group-title="Live: F1",Formula 1 14:00 (APPLE TV  FHD)
+#EXTINF:-1 tvg-id="formula11230appletvfhd" tvg-logo="https://iili.io/Cwq8C7I.png" group-title="Live: F1",Formula 1 12:30 (APPLE TV  FHD)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={"9dc12b57addecba1a491e81edcbaad57":"9fcf7fef82dcc6399cafdb6a96809310"}
 https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/lnnce28adq/out/v1/47847083b5fc4ccbb01871ee331ad8f7/cenc.mpd
 
-#EXTINF:-1 tvg-id="formula11400fancodefhd" tvg-logo="https://iili.io/Cl54sja.png" group-title="Live: F1",Formula 1 14:00 (FANCODE FHD)
+#EXTINF:-1 tvg-id="formula11230fancodefhd" tvg-logo="https://iili.io/Cwq8C7I.png" group-title="Live: F1",Formula 1 12:30 (FANCODE FHD)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={"7e9239c1982d984a002df3ed049d0756":"1b8a17598129a3618535c8fb05f103fe"}
 https://otte.cache.aiv-cdn.net/gru-nitro/live/clients/dash/enc/fdb3pubmek/out/v1/aefca6420f944a9482e117f315de535f/cenc.mpd
 
-#EXTINF:-1 tvg-id="formula11400skyviaappletv" tvg-logo="https://iili.io/Cl54sja.png" group-title="Live: F1",Formula 1 14:00 (SKY via APPLE TV)
+#EXTINF:-1 tvg-id="formula11230skyviaappletv" tvg-logo="https://iili.io/Cwq8C7I.png" group-title="Live: F1",Formula 1 12:30 (SKY via APPLE TV)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={"51040efb59bf199bf09bcd79e4af435a":"636de0aecb318b012f47eed0845f96df"}
 https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/zl03cuvpb2/out/v1/7c64c4d71fae4ba7b80952ad71ed1e36/cenc.mpd
 
-#EXTINF:-1 tvg-id="formula11400tsnpitchannel" tvg-logo="https://iili.io/Cl54sja.png" group-title="Live: F1",Formula 1 14:00 (TSN Pit Channel)
+#EXTINF:-1 tvg-id="formula11230tsnpitchannel" tvg-logo="https://iili.io/Cwq8C7I.png" group-title="Live: F1",Formula 1 12:30 (TSN Pit Channel)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={"441bcbf22ad9ef1976ed7f52438896d0":"40613b76138697041dac45cafe347bdc"}
 https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/9hjkp3lpev/out/v1/1d92267fc4644b75934bb9be30f77d94/cenc.mpd
 
-#EXTINF:-1 tvg-id="formula11400drivertracker" tvg-logo="https://iili.io/Cl54sja.png" group-title="Live: F1",Formula 1 14:00 (DRIVER TRACKER)
+#EXTINF:-1 tvg-id="formula11230drivertracker" tvg-logo="https://iili.io/Cwq8C7I.png" group-title="Live: F1",Formula 1 12:30 (DRIVER TRACKER)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={"a5b16183665abbcc90302a0a62c402fc":"65eea0ca3c605b8d35b3780ed58f551d"}
 https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/qoagww87su/out/v1/4f52197b455644b78f9aa2801b418106/cenc.mpd
 
-#EXTINF:-1 tvg-id="formula11400appletv4k" tvg-logo="https://iili.io/Cl54sja.png" group-title="Live: F1",Formula 1 14:00 (APPLE TV 4K)
+#EXTINF:-1 tvg-id="formula11230sportscastfhd" tvg-logo="https://iili.io/Cwq8C7I.png" group-title="Live: F1",Formula 1 12:30 (Sportscast FHD)
+https://live.kinescopecdn.net/on-air/5bf2c07e-3604-42cf-959a-67ed8914ffd5/34aa2c48-06de-4288-9af3-91f2622da979/master.m3u8
+
+#EXTINF:-1 tvg-id="formula11230appletv4k" tvg-logo="https://iili.io/Cwq8C7I.png" group-title="Live: F1",Formula 1 12:30 (APPLE TV 4K)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={"eb1e6c51646986a652498a57b458d1d2":"1b278aeea7b8978fa574ad0eb52758a2"}
 https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/pplmyagyhu/out/v1/6695d8753e6c4e318a0bc5c4a18de9b9/cenc.mpd
 
-#EXTINF:-1 tvg-id="formula11400sportscastfhd" tvg-logo="https://iili.io/Cl54sja.png" group-title="Live: F1",Formula 1 14:00 (Sportscast FHD)
-https://live.kinescopecdn.net/on-air/5bf2c07e-3604-42cf-959a-67ed8914ffd5/03056e36-df99-4ace-a0a9-c1a423e4a558/master.m3u8
-
-#EXTINF:-1 tvg-id="formula11400appletvfhd" tvg-logo="https://iili.io/Cl54sja.png" group-title="Live: F1",Formula 1 14:00 (APPLE TV FHD)
+#EXTINF:-1 tvg-id="formula11230appletvfhd" tvg-logo="https://iili.io/Cwq8C7I.png" group-title="Live: F1",Formula 1 12:30 (APPLE TV FHD)
 https://g001.sadhoofiton.shop/out/v2/ac2635e55062b01925b85e38e422c5ed/index.m3u8?
 
-#EXTINF:-1 tvg-id="formula11400skysportsfhd" tvg-logo="https://iili.io/Cl54sja.png" group-title="Live: F1",Formula 1 14:00 (SKY SPORTS FHD)
+#EXTINF:-1 tvg-id="formula11230skysportsfhd" tvg-logo="https://iili.io/Cwq8C7I.png" group-title="Live: F1",Formula 1 12:30 (SKY SPORTS FHD)
 https://g001.sadhoofiton.shop/out/v2/470e8fd3ddfe844ace4ab0211e53e51b/index.m3u8?
 
-#EXTINF:-1 tvg-id="formula11400foxsportsfhd" tvg-logo="https://iili.io/Cl54sja.png" group-title="Live: F1",Formula 1 14:00 (FOX SPORTS FHD)
+#EXTINF:-1 tvg-id="formula11230foxsportsfhd" tvg-logo="https://iili.io/Cwq8C7I.png" group-title="Live: F1",Formula 1 12:30 (FOX SPORTS FHD)
 https://g001.sadhoofiton.shop/out/v2/a457e04618ba530dae3232c3f67233a6/index.m3u8?
 
-#EXTINF:-1 tvg-id="formula11400russiafeed" tvg-logo="https://iili.io/Cl54sja.png" group-title="Live: F1",Formula 1 14:00 (RUSSIA FEED)
-https://bl.rutube.ru/livestream/40a90b042d58ae5cfc34ed9f1d6c24b2/index.m3u8?s=d7qwkaBv3c1WWjMr_O0HPQ&e=1784468616&scheme=https
+#EXTINF:-1 tvg-id="formula11230russiafeed" tvg-logo="https://iili.io/Cwq8C7I.png" group-title="Live: F1",Formula 1 12:30 (RUSSIA FEED)
+https://bl.rutube.ru/livestream/f0ddd7af7d20cad89139a493c62e5781/index.m3u8?s=vhffpbXtZKo9a0xXyYgc6g&e=1784551970&scheme=https
 
-#EXTINF:-1 tvg-id="formula11400daznespanol" tvg-logo="https://iili.io/Cl54sja.png" group-title="Live: F1",Formula 1 14:00 (DAZN ESPANOL)
+#EXTINF:-1 tvg-id="formula11230daznespanol" tvg-logo="https://iili.io/Cwq8C7I.png" group-title="Live: F1",Formula 1 12:30 (DAZN ESPANOL)
 https://g001.sadhoofiton.shop/out/v2/c9bf8a242f762595afad533557e538b7/index.m3u8?
 
-#EXTINF:-1 tvg-id="formula11400skyitalyfhd" tvg-logo="https://iili.io/Cl54sja.png" group-title="Live: F1",Formula 1 14:00 (SKY ITALY FHD)
+#EXTINF:-1 tvg-id="formula11230skyitalyfhd" tvg-logo="https://iili.io/Cwq8C7I.png" group-title="Live: F1",Formula 1 12:30 (SKY ITALY FHD)
 https://g001.sadhoofiton.shop/out/v2/8c121b7272256bf76f49e5ef81b42a41/index.m3u8?
 
-#EXTINF:-1 tvg-id="formula11400skygermanfhd" tvg-logo="https://iili.io/Cl54sja.png" group-title="Live: F1",Formula 1 14:00 (SKY GERMAN FHD)
+#EXTINF:-1 tvg-id="formula11230skygermanfhd" tvg-logo="https://iili.io/Cwq8C7I.png" group-title="Live: F1",Formula 1 12:30 (SKY GERMAN FHD)
 https://g001.sadhoofiton.shop/out/v2/d306bca69cb626f4e54baaac4e8005dd/index.m3u8?
 
-#EXTINF:-1 tvg-id="formula11400sdserver" tvg-logo="https://iili.io/Cl54sja.png" group-title="Live: F1",Formula 1 14:00 (SD SERVER)
+#EXTINF:-1 tvg-id="formula11230sdserver" tvg-logo="https://iili.io/Cwq8C7I.png" group-title="Live: F1",Formula 1 12:30 (SD SERVER)
 http://193.47.62.49/hls/RTRTRT.m3u8?
 
-#EXTINF:-1 tvg-id="formula11400sdserverswe" tvg-logo="https://iili.io/Cl54sja.png" group-title="Live: F1",Formula 1 14:00 (SD SERVER  SWE )
+#EXTINF:-1 tvg-id="formula11230sdserverswe" tvg-logo="https://iili.io/Cwq8C7I.png" group-title="Live: F1",Formula 1 12:30 (SD SERVER  SWE )
 http://193.47.62.58/hls/RTRTRT.m3u8?
 
-#EXTINF:-1 tvg-id="formula11400f1germanyusa" tvg-logo="https://iili.io/Cl54sja.png" group-title="Live: F1",Formula 1 14:00 (F1 GERMANY  USA )
+#EXTINF:-1 tvg-id="formula11230f1germanyusa" tvg-logo="https://iili.io/Cwq8C7I.png" group-title="Live: F1",Formula 1 12:30 (F1 GERMANY  USA )
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={"6695688f79dc36f7a41f7db13bff5aca":"22ef689af2162aefbf745cba2adb4fe9"}
 https://simplitv-live.mdn.ors.at/live/eds/sky_sport_f1_hd/dash/sky_sport_f1_hd.mpd
 
-#EXTINF:-1 tvg-id="formula11400skyf1italyusa" tvg-logo="https://iili.io/Cl54sja.png" group-title="Live: F1",Formula 1 14:00 (SKY F1 ITALY  USA )
+#EXTINF:-1 tvg-id="formula11230skyf1italyusa" tvg-logo="https://iili.io/Cwq8C7I.png" group-title="Live: F1",Formula 1 12:30 (SKY F1 ITALY  USA )
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={"1118309a2acda72cfc3cb3cc9e047a3b":"a9e90af10faf93b3c935bb0a807d285a"}
-https://g006-lin-it-cmaf-prd-cf.pcdn07.cssott02.com/v~1-0-0_e~1783116672_f~0_g~1_s~98c6f80d-d8db-4835-acdd-f182d706c4e9_u~0dd96564587fac598e695339a3aca9367db5494019cdd2b7567b04cd465abfbaed65c29353ca67ed8bead8fe496a4867_k~A_l~56_x~15420348b54fab4bf8f860465989bff9/nowitlin2/Content/CMAF_CTR_H1/Live/channel(skysportf1)/master_2hr-all.mpd
+https://g006-lin-it-cmaf-prd-cf.pcdn07.cssott02.com/v~1-0-0_e~1784530473_f~0_g~1_s~bb9899b7-b1ef-488d-8571-28a918ca8617_u~c0712fe81439b039492d5b58a626d540e0f19c1da6e63a813cb8c4d6f65e95b309ba4ab0223c0a47120cc0d2625c6b24_k~A_l~56_x~1abee78f9c22a03a776634a99af835c6/nowitlin2/Content/CMAF_CTR_H1/Live/channel(skysportf1)/master_2hr-all.mpd
 
-#EXTINF:-1 tvg-id="formula11400skysportshd" tvg-logo="https://iili.io/Cl54sja.png" group-title="Live: F1",Formula 1 14:00 (SKY SPORTS HD)
+#EXTINF:-1 tvg-id="formula11230skysportshd" tvg-logo="https://iili.io/Cwq8C7I.png" group-title="Live: F1",Formula 1 12:30 (SKY SPORTS HD)
 https://edgestream1.pro/hls/hbfkazbkaznc49.m3u8?
 
-#EXTINF:-1 tvg-id="formula11400elevensports" tvg-logo="https://iili.io/Cl54sja.png" group-title="Live: F1",Formula 1 14:00 (ELEVEN SPORTS)
+#EXTINF:-1 tvg-id="formula11230elevensports" tvg-logo="https://iili.io/Cwq8C7I.png" group-title="Live: F1",Formula 1 12:30 (ELEVEN SPORTS)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={"69021095220f3c0eae9bc24215fd692b":"eb58cfe0458ed0b48f7351fa3393ad59"}
 https://r.e.blueonline.tv/l/tvsmart/live/eds/Eleven_Sport_1/DHD/Manifest.mpd
 
-#EXTINF:-1 tvg-id="formula11400foxsportsaq" tvg-logo="https://iili.io/Cl54sja.png" group-title="Live: F1",Formula 1 14:00 (Fox Sports - AQ)
+#EXTINF:-1 tvg-id="formula11230foxsportsaq" tvg-logo="https://iili.io/Cwq8C7I.png" group-title="Live: F1",Formula 1 12:30 (Fox Sports - AQ)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={"2fbdaa3bea0d0323ae011b318d1db716":"8726ef7eaf5b9dce15fb6aa9f80bd53f"}
 https://a151aivottlinear-a.akamaihd.net/OTTB/sin-nitro/live/dash/enc/oboxe53wyo/out/v1/f7892a9d706d419a846d738fa22ea33e/cenc.mpd
@@ -1373,22 +1373,20 @@ https://edgestream3.pro/hls/fdgsqdfawa73.m3u8?
 #EXTINF:-1 tvg-id="mercuryvsconnecticutsun0000sportzxlive" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="Live: WNBA",Mercury vs Connecticut Sun 00:00 (SportzX Live)
 https://edgestream1.pro/hls/yjtzafghvjza74.m3u8?
 
-#EXTINF:-1 tvg-id="westindiesvsnewzealand1500willowfhd" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="Live: Cricket",West Indies vs New Zealand 15:00 (WILLOW FHD)
+#EXTINF:-1 tvg-id="westindiesvsnewzealand1500willowfhd" tvg-logo="https://s21.q4cdn.com/819998841/files/doc_news/2024/May/Willow-logo-transparent-cb.png" group-title="Live: Cricket",West Indies vs New Zealand 15:00 (WILLOW FHD)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={"2af5031d717117b3abe01558b78e2df5":"a971f2b0740eeb1d1ef3e0f2936db73b"}
-https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/f6zxvxbrof/out/v1/e12426335a5240ffa676798c53a77e6e/cenc.mpd
+#KODIPROP:inputstream.adaptive.license_key={"ecdf2f70c1d0df4187b2be76cce4e63d":"38832d5c9796f7113fbd2ec6ba70f313"}
+https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/rypwqp6z3f/out/v1/a10c4ad014a5422b84c91d98f51dd279/cenc.mpd
 
-#EXTINF:-1 tvg-id="westindiesvsnewzealand1500fancodefhd" tvg-logo="https://m.media-amazon.com/images/I/21K+HipHr6L.png" group-title="Live: Cricket",West Indies vs New Zealand 15:00 (FANCODE FHD)
+#EXTINF:-1 tvg-id="westindiesvsnewzealand1500tntsportshd" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTI2NSvkyk8Fx2UMBXFdEXS36TNepD6Uy8pMQveJnYRbDnXedcg2tttKHz3&s=10" group-title="Live: Cricket",West Indies vs New Zealand 15:00 (TNT SPORTS HD)
+https://tmaxapp.site/8wirwjs76erftg/tntsports1.m3u8
+
+#EXTINF:-1 tvg-id="westindiesvsnewzealand1500willowalt" tvg-logo="https://s21.q4cdn.com/819998841/files/doc_news/2024/May/Willow-logo-transparent-cb.png" group-title="Live: Cricket",West Indies vs New Zealand 15:00 (WILLOW - ALT)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={"7e9239c1982d984a002df3ed049d0756":"1b8a17598129a3618535c8fb05f103fe"}
-https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/fdb3pubmek/out/v1/aefca6420f944a9482e117f315de535f/cenc.mpd
+#KODIPROP:inputstream.adaptive.license_key={"ecdf2f70c1d0df4187b2be76cce4e63d":"38832d5c9796f7113fbd2ec6ba70f313"}
+https://abfjk4haaaaaaaamkitc5445rybm6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/rypwqp6z3f/out/v1/a10c4ad014a5422b84c91d98f51dd279/cenc.mpd
 
-#EXTINF:-1 tvg-id="westindiesvsnewzealand1500willowalt" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="Live: Cricket",West Indies vs New Zealand 15:00 (WILLOW ALT)
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={"2af5031d717117b3abe01558b78e2df5":"a971f2b0740eeb1d1ef3e0f2936db73b"}
-https://abfjk4haaaaaaaamkitc5445rybm6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/f6zxvxbrof/out/v1/e12426335a5240ffa676798c53a77e6e/cenc.mpd
-
-#EXTINF:-1 tvg-id="westindiesvsnewzealand1500tapmadfhd" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="Live: Cricket",West Indies vs New Zealand 15:00 (TAPMAD FHD)
+#EXTINF:-1 tvg-id="westindiesvsnewzealand1500tapmadaq" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="Live: Cricket",West Indies vs New Zealand 15:00 (TAPMAD - AQ)
 https://saseries.akamaized.net/hls/live/2110097/UFC-20-3827e1/master.m3u8?
 
 #EXTINF:-1 tvg-id="westindiesvsnewzealand1500fancodesd" tvg-logo="https://m.media-amazon.com/images/I/21K+HipHr6L.png" group-title="Live: Cricket",West Indies vs New Zealand 15:00 (FANCODE - SD)
@@ -1396,27 +1394,23 @@ https://saseries.akamaized.net/hls/live/2110097/UFC-20-3827e1/master.m3u8?
 #KODIPROP:inputstream.adaptive.license_key={"7e9239c1982d984a002df3ed049d0756":"1b8a17598129a3618535c8fb05f103fe"}
 https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/fdb3pubmek/out/v1/aefca6420f944a9482e117f315de535f/cenc.mpd
 
-#EXTINF:-1 tvg-id="westindiesvsnewzealand1500tntsportshd" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTI2NSvkyk8Fx2UMBXFdEXS36TNepD6Uy8pMQveJnYRbDnXedcg2tttKHz3&s=10" group-title="Live: Cricket",West Indies vs New Zealand 15:00 (TNT SPORTS HD)
-https://tmaxapp.site/8wirwjs76erftg/tntsports1.m3u8
-
 #EXTINF:-1 tvg-id="westindiesvsnewzealand1500lowserver" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="Live: Cricket",West Indies vs New Zealand 15:00 (LOW SERVER)
 http://193.47.62.53/hls/HYYYZQQQQQ.m3u8?
 
-#EXTINF:-1 tvg-id="lpl1030willowaq" tvg-logo="https://s21.q4cdn.com/819998841/files/doc_news/2024/May/Willow-logo-transparent-cb.png" group-title="Live: Lanka Premier League",LPL 10:30 (WILLOW - AQ)
+#EXTINF:-1 tvg-id="westindiesvsnewzealand1500fancodelq" tvg-logo="https://m.media-amazon.com/images/I/21K+HipHr6L.png" group-title="Live: Cricket",West Indies vs New Zealand 15:00 (FANCODE - LQ)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={"287f5d409978b84086c6428b6acb73c1":"bad025076475daec87e62ec1016e8cec"}
-https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/xy7igbvbrw/out/v1/ebd25d8eb3c643858d8dd55d88d677ac/cenc.mpd
+#KODIPROP:inputstream.adaptive.license_key={"709c812e1b4174002605df1d17d34a4c":"0bbee6c9c20a0f065bf8369d54cbf83e"}
+https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash-sd/enc/qddnwqthpp/out/v1/6c25cddab58043a6ace0ac64d97983f0/cenc-sd.mpd
 
-#EXTINF:-1 tvg-id="lpl1030willowalt" tvg-logo="https://s21.q4cdn.com/819998841/files/doc_news/2024/May/Willow-logo-transparent-cb.png" group-title="Live: Lanka Premier League",LPL 10:30 (WILLOW - ALT)
+#EXTINF:-1 tvg-id="lpl1500willowfhd" tvg-logo="https://s21.q4cdn.com/819998841/files/doc_news/2024/May/Willow-logo-transparent-cb.png" group-title="Live: Lanka Premier League",LPL 15:00 (WILLOW FHD)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={"287f5d409978b84086c6428b6acb73c1":"bad025076475daec87e62ec1016e8cec"}
-https://abfjk4haaaaaaaamkitc5445rybm6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/xy7igbvbrw/out/v1/ebd25d8eb3c643858d8dd55d88d677ac/cenc.mpd
+#KODIPROP:inputstream.adaptive.license_key={"c1781b18ef9a3a4455c4ada2bce6c670":"c03d707bc916b280b457013dac5b2954"}
+https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/u3ilketteh/out/v1/1ea199d6caf04e81b0ecf7f589cd3c9f/cenc.mpd
 
-#EXTINF:-1 tvg-id="lpl1030fancodeind" tvg-logo="https://m.media-amazon.com/images/I/21K+HipHr6L.png" group-title="Live: Lanka Premier League",LPL 10:30 (FANCODE - IND)
-https://in-mc-pdlive.fancode.com/mumbai/4246717_english_hls_9dee290f0090463_1ta-di_h264/index.m3u8
-
-#EXTINF:-1 tvg-id="lpl1030fancodebd" tvg-logo="https://m.media-amazon.com/images/I/21K+HipHr6L.png" group-title="Live: Lanka Premier League",LPL 10:30 (FANCODE - BD)
-https://bd-mc-pdlive.fancode.com/mumbai/4246717_english_hls_9dee290f0090463_1ta-di_h264/index.m3u8
+#EXTINF:-1 tvg-id="lpl1500willowalt" tvg-logo="https://s21.q4cdn.com/819998841/files/doc_news/2024/May/Willow-logo-transparent-cb.png" group-title="Live: Lanka Premier League",LPL 15:00 (WILLOW - ALT)
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"c1781b18ef9a3a4455c4ada2bce6c670":"c03d707bc916b280b457013dac5b2954"}
+https://abfjk4haaaaaaaamkitc5445rybm6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/u3ilketteh/out/v1/1ea199d6caf04e81b0ecf7f589cd3c9f/cenc.mpd
 
 #EXTINF:-1 tvg-id="spainvsargentina2000foxoneaq" tvg-logo="null" group-title="Live: FIFA World Cup",Spain vs Argentina 20:00 (FOX ONE - AQ)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
