@@ -1356,34 +1356,27 @@ https://edgestream2.pro/hls/hefbafbakx28.m3u8?
 #EXTINF:-1 tvg-id="seattlestormvsminnesotalynx0300sportzxlive" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="Live: WNBA",Seattle Storm vs Minnesota Lynx 03:00 (SportzX Live)
 https://edgestream1.pro/hls/pllmazjkdzajh72.m3u8?
 
-#EXTINF:-1 tvg-id="westindiesvsnewzealand1930willowfhd" tvg-logo="https://s21.q4cdn.com/819998841/files/doc_news/2024/May/Willow-logo-transparent-cb.png" group-title="Live: Cricket",West Indies vs New Zealand 19:30 (WILLOW FHD)
+#EXTINF:-1 tvg-id="westindiesvsnewzealand1930fancodefhd" tvg-logo="https://m.media-amazon.com/images/I/21K+HipHr6L.png" group-title="Live: Cricket",West Indies vs New Zealand 19:30 (FANCODE FHD)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={"ecdf2f70c1d0df4187b2be76cce4e63d":"38832d5c9796f7113fbd2ec6ba70f313"}
-https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/rypwqp6z3f/out/v1/a10c4ad014a5422b84c91d98f51dd279/cenc.mpd
+#KODIPROP:inputstream.adaptive.license_key={"7e9239c1982d984a002df3ed049d0756":"1b8a17598129a3618535c8fb05f103fe"}
+https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/fdb3pubmek/out/v1/aefca6420f944a9482e117f315de535f/cenc.mpd
+
+#EXTINF:-1 tvg-id="westindiesvsnewzealand1930tapmadfhd" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="Live: Cricket",West Indies vs New Zealand 19:30 (TAPMAD FHD)
+https://saseries.akamaized.net/hls/live/2110097/UFC-20-3827e1/master.m3u8
 
 #EXTINF:-1 tvg-id="westindiesvsnewzealand1930tntsportshd" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTI2NSvkyk8Fx2UMBXFdEXS36TNepD6Uy8pMQveJnYRbDnXedcg2tttKHz3&s=10" group-title="Live: Cricket",West Indies vs New Zealand 19:30 (TNT SPORTS HD)
 https://tmaxapp.site/8wirwjs76erftg/tntsports1.m3u8
 
-#EXTINF:-1 tvg-id="westindiesvsnewzealand1930willowalt" tvg-logo="https://s21.q4cdn.com/819998841/files/doc_news/2024/May/Willow-logo-transparent-cb.png" group-title="Live: Cricket",West Indies vs New Zealand 19:30 (WILLOW - ALT)
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={"ecdf2f70c1d0df4187b2be76cce4e63d":"38832d5c9796f7113fbd2ec6ba70f313"}
-https://abfjk4haaaaaaaamkitc5445rybm6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/rypwqp6z3f/out/v1/a10c4ad014a5422b84c91d98f51dd279/cenc.mpd
-
-#EXTINF:-1 tvg-id="westindiesvsnewzealand1930tapmadaq" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="Live: Cricket",West Indies vs New Zealand 19:30 (TAPMAD - AQ)
-https://saseries.akamaized.net/hls/live/2110097/UFC-20-3827e1/master.m3u8?
-
 #EXTINF:-1 tvg-id="westindiesvsnewzealand1930fancodesd" tvg-logo="https://m.media-amazon.com/images/I/21K+HipHr6L.png" group-title="Live: Cricket",West Indies vs New Zealand 19:30 (FANCODE - SD)
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={"7e9239c1982d984a002df3ed049d0756":"1b8a17598129a3618535c8fb05f103fe"}
-https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/fdb3pubmek/out/v1/aefca6420f944a9482e117f315de535f/cenc.mpd
-
-#EXTINF:-1 tvg-id="westindiesvsnewzealand1930lowserver" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="Live: Cricket",West Indies vs New Zealand 19:30 (LOW SERVER)
-http://193.47.62.53/hls/HYYYZQQQQQ.m3u8?
-
-#EXTINF:-1 tvg-id="westindiesvsnewzealand1930fancodelq" tvg-logo="https://m.media-amazon.com/images/I/21K+HipHr6L.png" group-title="Live: Cricket",West Indies vs New Zealand 19:30 (FANCODE - LQ)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={"709c812e1b4174002605df1d17d34a4c":"0bbee6c9c20a0f065bf8369d54cbf83e"}
 https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash-sd/enc/qddnwqthpp/out/v1/6c25cddab58043a6ace0ac64d97983f0/cenc-sd.mpd
+
+#EXTINF:-1 tvg-id="westindiesvsnewzealand1930fancodein" tvg-logo="https://m.media-amazon.com/images/I/21K+HipHr6L.png" group-title="Live: Cricket",West Indies vs New Zealand 19:30 (FANCODE - IN)
+https://in-mc-pdlive.fancode.com/mumbai/143607_english_hls_4aaf721a353393_1ta-di_h264/index.m3u8
+
+#EXTINF:-1 tvg-id="westindiesvsnewzealand1930fancodebd" tvg-logo="https://m.media-amazon.com/images/I/21K+HipHr6L.png" group-title="Live: Cricket",West Indies vs New Zealand 19:30 (FANCODE - BD)
+https://bd-mc-pdlive.fancode.com/mumbai/143607_english_hls_4aaf721a353393_1ta-di_h264/index.m3u8
 
 #EXTINF:-1 tvg-id="lpl1500willowfhd" tvg-logo="https://s21.q4cdn.com/819998841/files/doc_news/2024/May/Willow-logo-transparent-cb.png" group-title="Live: Lanka Premier League",LPL 15:00 (WILLOW FHD)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -1534,3 +1527,6 @@ https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/q4u5nwaogz/out/v1
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={"0ad4080cdff8c60b1233b22087f0b340":"285f129c5eca01dd08a5d5a14ad801c8"}
 https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/ssdefyhkkr/out/v1/cf01290cb7f64525bdf861580a016ca8/cenc.mpd
+
+#EXTINF:-1 tvg-id="walsallvsastonvilla1930sdserver" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="Live: Club Friendly",Walsall vs Aston Villa 19:30 (SD SERVER)
+http://193.47.62.42/hls/gtgtgt.m3u8?
