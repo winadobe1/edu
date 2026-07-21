@@ -1,20 +1,3 @@
-/**
- * extract_xyzstream.js
- *
- * Standalone M3U Extractor for https://xyzstreams.st/
- * 
- * Fitur:
- *   1. Fetch langsung ke server tanpa perlu file HAR.
- *   2. Ekstrak 24/7 SLING channels dari homepage.
- *   3. Ekstrak EVENTS_DATA (Live Events) dari homepage.
- *   4. Auto-discovery: otomatis mencari URL olahraga di homepage (MLB, WNBA, F1, dll)
- *      lalu mengambil link stream M3U8_CHANNELS_MAP secara dinamis.
- *   5. Fallback fetch NBA dari JSON API endpoint rahasia.
- *
- * Usage:
- *   node extract_xyzstream.js [output.m3u]
- */
-
 'use strict';
 const fs    = require('fs');
 const path  = require('path');
@@ -47,25 +30,34 @@ const noChannels = args.includes('--no-channels');
 // ─────────────────────────────────────────
 //  HTTP Fetch Helper
 // ─────────────────────────────────────────
-function fetchLive(pathPath) {
+function fetchLive(urlOrPath, referer = SITE_REFERER) {
   return new Promise((resolve) => {
-    console.log(`[Fetch] Fetching ${pathPath}...`);
+    let fullUrl = urlOrPath.startsWith('http') ? urlOrPath : `${SITE_ORIGIN}${urlOrPath.startsWith('/') ? '' : '/'}${urlOrPath}`;
+    let u;
+    try {
+      u = new URL(fullUrl);
+    } catch(e) {
+      return resolve({ status: 0, body: '', error: e.message });
+    }
+
+    console.log(`[Fetch] Fetching ${u.href}...`);
     const opts = {
-      hostname: 'xyzstreams.st', port: 443, path: pathPath,
-      headers: { 'User-Agent': SITE_UA, 'Referer': SITE_REFERER },
+      hostname: u.hostname,
+      port: u.port || 443,
+      path: u.pathname + u.search,
+      headers: { 'User-Agent': SITE_UA, 'Referer': referer },
       rejectUnauthorized: false
     };
     https.get(opts, res => {
       // Follow redirect if needed (for 301/308)
       if (res.statusCode >= 300 && res.statusCode < 400 && res.headers.location) {
-        console.log(`[Fetch] Redirected to ${res.headers.location}`);
-        res.destroy(); // Destroy socket to prevent hanging
         let loc = res.headers.location;
-        if (loc.startsWith('http')) {
-           const u = new URL(loc);
-           loc = u.pathname + u.search;
+        if (!loc.startsWith('http')) {
+           loc = `${u.protocol}//${u.hostname}${loc.startsWith('/') ? '' : '/'}${loc}`;
         }
-        return fetchLive(loc).then(resolve);
+        console.log(`[Fetch] Redirected to ${loc}`);
+        res.destroy();
+        return fetchLive(loc, referer).then(resolve);
       }
 
       let d = '';
@@ -74,6 +66,40 @@ function fetchLive(pathPath) {
     }).on('error', e => resolve({ status: 0, body: '', error: e.message }));
   });
 }
+
+async function resolveEventStreamUrl(eventPageUrl) {
+  const pageRes = await fetchLive(eventPageUrl);
+  if (pageRes.status !== 200) return [];
+
+  // Find embed iframe URL(s)
+  const embedMatches = [...pageRes.body.matchAll(/<iframe[^>]+src=["']([^"']+)["']/gi)].map(m => m[1]);
+  const dataUrlMatches = [...pageRes.body.matchAll(/data-url=["']([^"']+)["']/gi)].map(m => m[1]);
+  
+  const embedUrls = Array.from(new Set([...embedMatches, ...dataUrlMatches]));
+  const m3u8List = [];
+
+  for (let embedUrl of embedUrls) {
+    if (embedUrl.startsWith('//')) embedUrl = 'https:' + embedUrl;
+    else if (embedUrl.startsWith('/')) embedUrl = `${SITE_ORIGIN}${embedUrl}`;
+
+    const embedRes = await fetchLive(embedUrl, eventPageUrl);
+    if (embedRes.status !== 200) continue;
+
+    // Check data-signed-url
+    const signedMatch = embedRes.body.match(/data-signed-url=["']([^"']+)["']/i);
+    if (signedMatch) {
+      m3u8List.push(signedMatch[1]);
+    } else {
+      // Fallback m3u8 match
+      const m3u8Match = embedRes.body.match(/https?:\/\/[^"'`\s]+\.m3u8[^"'`\s]*/i);
+      if (m3u8Match) {
+        m3u8List.push(m3u8Match[0]);
+      }
+    }
+  }
+  return m3u8List;
+}
+
 
 // ─────────────────────────────────────────
 //  Parsing logic for embedded script maps
@@ -321,7 +347,15 @@ async function main() {
     lines.push('#-----------------------------------------');
     
     for (const [teamOrName, url] of Object.entries(streamsMap)) {
-      appendStream(`${sport}: ${teamOrName}`, sport, url);
+      let finalUrl = url;
+      if (url.includes('/embed/')) {
+        console.log(`[${sport}] Resolving embed URL for ${teamOrName}: ${url}`);
+        const resolved = await resolveEventStreamUrl(url);
+        if (resolved && resolved.length > 0) {
+          finalUrl = resolved[0];
+        }
+      }
+      appendStream(`${sport}: ${teamOrName}`, sport, finalUrl);
     }
   }
 
@@ -330,13 +364,25 @@ async function main() {
     lines.push('#-----------------------------------------');
     lines.push('# LIVE EVENTS (Homepage)');
     lines.push('#-----------------------------------------');
-    eventsData.forEach(ev => {
-      if (!ev.title) return;
-      const url = ev.href ? (ev.href.startsWith('http') ? ev.href : `https://xyzstreams.st/${ev.href.replace(/^\//, '')}`) : 'https://xyzstreams.st/';
+    for (const ev of eventsData) {
+      if (!ev.title) continue;
+      const rawUrl = ev.href ? (ev.href.startsWith('http') ? ev.href : `${SITE_ORIGIN}/${ev.href.replace(/^\//, '')}`) : SITE_ORIGIN;
       const start = ev.start ? new Date(ev.start).toISOString() : '';
       const stop  = ev.end ? new Date(ev.end).toISOString() : '';
-      appendStream(ev.title, ev.category || 'Events', url, ev.bg || '', start, stop);
-    });
+
+      console.log(`[Events] Resolving m3u8 stream for event: ${ev.title}`);
+      const resolvedUrls = await resolveEventStreamUrl(rawUrl);
+
+      if (resolvedUrls && resolvedUrls.length > 0) {
+        for (let i = 0; i < resolvedUrls.length; i++) {
+          const streamTitle = resolvedUrls.length > 1 ? `${ev.title} (Link ${i+1})` : ev.title;
+          appendStream(streamTitle, ev.category || 'Events', resolvedUrls[i], ev.bg || '', start, stop);
+        }
+      } else {
+        // Fallback to event page URL if m3u8 not resolved
+        appendStream(ev.title, ev.category || 'Events', rawUrl, ev.bg || '', start, stop);
+      }
+    }
   }
 
   fs.writeFileSync(outPath, lines.join('\n'), 'utf8');
