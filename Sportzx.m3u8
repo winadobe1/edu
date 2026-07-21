@@ -1345,20 +1345,6 @@ https://edgestream2.pro/hls/hefbafbakx28.m3u8?
 #EXTINF:-1 tvg-id="stlouiscardinals0310sportzxlive" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="Live: MLB",St. Louis Cardinals 03:10 (SportzX Live)
 https://edgestream2.pro/hls/hfzljfahzcax29.m3u8?
 
-#EXTINF:-1 tvg-id="dallaswingsvsliberty0100sportzxlive" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="Live: WNBA",Dallas Wings vs Liberty 01:00 (SportzX Live)
-https://edgestream3.pro/hls/ztyarueaghj71.m3u8?
-
-#EXTINF:-1 tvg-id="torontotempovsaces0100tsnsports" tvg-logo="https://www.bellmedia.ca/lede/wp-content/uploads/2024/09/18581592_10155403529061055_8240563011649656197_n.jpg" group-title="Live: WNBA",Toronto Tempo vs Aces 01:00 (TSN SPORTS)
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={"14eeabf30c14b7fbf3008c03099ce011":"17d2ac8dbc5429bd70af3433aa12158d"}
-https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/w0rehjjrwe/out/v1/69a2a7041395406b970598f61680e7cf/cenc.mpd
-
-#EXTINF:-1 tvg-id="torontotempovsaces0100sportzxlive" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="Live: WNBA",Toronto Tempo vs Aces 01:00 (SportzX Live)
-https://edgestream2.pro/hls/bvnsqdfvgha70.m3u8?
-
-#EXTINF:-1 tvg-id="valkyriesvswashingtonmystics0300sportzxlive" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="Live: WNBA",Valkyries vs Washington Mystics 03:00 (SportzX Live)
-https://edgestream1.pro/hls/fdgsqdfawa73.m3u8?
-
 #EXTINF:-1 tvg-id="seattlestormvsminnesotalynx0300sportzxlive" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="Live: WNBA",Seattle Storm vs Minnesota Lynx 03:00 (SportzX Live)
 https://edgestream1.pro/hls/pllmazjkdzajh72.m3u8?
 
@@ -1416,16 +1402,16 @@ https://bl.rutube.ru/livestream/7c13a51576b9ff2601f08f5d57dd5169/index.m3u8?s=ui
 #EXTINF:-1 tvg-id="guardiansvsminnesotatwins2340sportzxlive" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="Live: MLB",Guardians vs Minnesota Twins 23:40 (SportzX Live)
 https://edgestream2.pro/hls/dazhfiach15.m3u8?
 
-#EXTINF:-1 tvg-id="yankeesvspittsburghpirates0005sportzxlive" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="Live: MLB",Yankees vs Pittsburgh Pirates 00:05 (SportzX Live)
+#EXTINF:-1 tvg-id="philadelphiaphilliesvsdodgers2340sportzxlive" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="Live: MLB",Philadelphia Phillies vs Dodgers 23:40 (SportzX Live)
 https://edgestream3.pro/hls/16yuitzaerghbhc16.m3u8?
 
-#EXTINF:-1 tvg-id="bluejaysvstampabayrays0007sportzxlive" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="Live: MLB",Blue Jays vs Tampa Bay Rays 00:07 (SportzX Live)
+#EXTINF:-1 tvg-id="yankeesvspittsburghpirates0005sportzxlive" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="Live: MLB",Yankees vs Pittsburgh Pirates 00:05 (SportzX Live)
 https://edgestream1.pro/hls/ihfazugfyjcazich17.m3u8?
 
-#EXTINF:-1 tvg-id="redsoxvsbaltimoreorioles0010sportzxlive" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="Live: MLB",Red Sox vs Baltimore Orioles 00:10 (SportzX Live)
+#EXTINF:-1 tvg-id="torontobluejaysvsrays0007sportzxlive" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="Live: MLB",Toronto Blue Jays vs Rays 00:07 (SportzX Live)
 https://edgestream1.pro/hls/bzagLHzach19.m3u8?
 
-#EXTINF:-1 tvg-id="philadelphiaphilliesvsdodgers0010sportzxlive" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="Live: MLB",Philadelphia Phillies vs Dodgers 00:10 (SportzX Live)
+#EXTINF:-1 tvg-id="redsoxvsbaltimoreorioles0010sportzxlive" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="Live: MLB",Red Sox vs Baltimore Orioles 00:10 (SportzX Live)
 https://edgestream2.pro/hls/Czajafjihafch18.m3u8?
 
 #EXTINF:-1 tvg-id="atlantabravesvspadres0015sportzxlive" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="Live: MLB",Atlanta Braves vs Padres 00:15 (SportzX Live)
@@ -1442,9 +1428,3 @@ https://edgestream2.pro/hls/jnzkdzjfanch23.m3u8?
 
 #EXTINF:-1 tvg-id="texasrangersvswhitesox0105sportzxlive" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="Live: MLB",Texas Rangers vs White Sox 01:05 (SportzX Live)
 https://edgestream1.pro/hls/fskjanach24.m3u8?
-
-#EXTINF:-1 tvg-id="sportingcpvsstrasbourg2015sportzxlive" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="Live: Club Friendly",Sporting CP vs Strasbourg 20:15 (SportzX Live)
-https://pul-tenm.gkykp.com/live/sd-1-4590794.m3u8?txSecret=98f58550e6f67a06798a5a814c1e53d2&txTime=6A5FC048
-
-#EXTINF:-1 tvg-id="sportingcpvsstrasbourg2015lowserver" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="Live: Club Friendly",Sporting CP vs Strasbourg 20:15 (LOW SERVER)
-http://193.47.62.41/hls/UUUUZQQQ.m3u8?
