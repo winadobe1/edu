@@ -1,6 +1,6 @@
 #EXTM3U x-tvg-url=""
-# Generated from xyzstreams.st (Standalone Auto-Discovery) - 2026-07-21T13:09:18.184Z
-# Channels: 76 | Events: 1 | Discovered Sports: MLB, WNBA, NBA
+# Generated from xyzstreams.st (Standalone Auto-Discovery) - 2026-07-21T16:12:57.799Z
+# Channels: 76 | Events: 7 | Discovered Sports: MLB, WNBA, NBA
 
 #-----------------------------------------
 # 24/7 CHANNELS
@@ -785,8 +785,44 @@ https://player.xyzstreams.st/embed/lakers
 #-----------------------------------------
 # LIVE EVENTS (Homepage)
 #-----------------------------------------
-#EXTINF:-1 tvg-logo="https://r2.thesportsdb.com/images/media/venue/thumb/qwystx1424904856.jpg/small" tvg-start="2026-07-20T19:15:00.000Z" tvg-stop="2026-07-20T21:00:00.000Z" group-title="Football",Sporting CP vs Strasbourg
+#EXTINF:-1 tvg-logo="https://ichef.bbci.co.uk/images/ic/1008x567/p0m5wskq.jpg" tvg-start="2026-07-21T16:00:00.000Z" tvg-stop="2026-07-21T18:30:00.000Z" group-title="Football",Ararat-Armenia vs Shamrock Rovers
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://xyzstreams.st/
+#EXTVLCOPT:http-origin=https://xyzstreams.st
+https://xyzstreams.st/mls-0.html
+
+#EXTINF:-1 tvg-logo="https://ichef.bbci.co.uk/images/ic/1008x567/p0m5wskq.jpg" tvg-start="2026-07-21T16:00:00.000Z" tvg-stop="2026-07-21T18:30:00.000Z" group-title="Football",Iberia 1999 vs Slovan Bratislava
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://xyzstreams.st/
+#EXTVLCOPT:http-origin=https://xyzstreams.st
+https://xyzstreams.st/mls-1.html
+
+#EXTINF:-1 tvg-logo="https://ichef.bbci.co.uk/images/ic/1008x567/p0m5wskq.jpg" tvg-start="2026-07-21T17:00:00.000Z" tvg-stop="2026-07-21T19:30:00.000Z" group-title="Football",AGF vs Lech Poznań
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://xyzstreams.st/
 #EXTVLCOPT:http-origin=https://xyzstreams.st
 https://xyzstreams.st/mls-2.html
+
+#EXTINF:-1 tvg-logo="https://ichef.bbci.co.uk/images/ic/1008x567/p0m5wskq.jpg" tvg-start="2026-07-21T18:00:00.000Z" tvg-stop="2026-07-21T20:30:00.000Z" group-title="Football",Thun vs Dinamo Zagreb
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://xyzstreams.st/
+#EXTVLCOPT:http-origin=https://xyzstreams.st
+https://xyzstreams.st/mls-3.html
+
+#EXTINF:-1 tvg-logo="https://ichef.bbci.co.uk/images/ic/1008x567/p0m5wskq.jpg" tvg-start="2026-07-21T18:00:00.000Z" tvg-stop="2026-07-21T20:30:00.000Z" group-title="Football",Fenerbahçe vs Górnik Zabrze
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://xyzstreams.st/
+#EXTVLCOPT:http-origin=https://xyzstreams.st
+https://xyzstreams.st/mls-4.html
+
+#EXTINF:-1 tvg-logo="https://ichef.bbci.co.uk/images/ic/1008x567/p0m5wskq.jpg" tvg-start="2026-07-21T18:30:00.000Z" tvg-stop="2026-07-21T21:00:00.000Z" group-title="Football",Sturm Graz vs Hearts
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://xyzstreams.st/
+#EXTVLCOPT:http-origin=https://xyzstreams.st
+https://xyzstreams.st/mls-5.html
+
+#EXTINF:-1 tvg-logo="https://ichef.bbci.co.uk/images/ic/1008x567/p0m5wskq.jpg" tvg-start="2026-07-21T18:45:00.000Z" tvg-stop="2026-07-21T21:15:00.000Z" group-title="Football",KÍ vs Kauno Žalgiris
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://xyzstreams.st/
+#EXTVLCOPT:http-origin=https://xyzstreams.st
+https://xyzstreams.st/mls-6.html

@@ -1373,13 +1373,13 @@ https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash-sd/enc/qddnwqthpp/out
 
 #EXTINF:-1 tvg-id="lpl1500willowfhd" tvg-logo="https://s21.q4cdn.com/819998841/files/doc_news/2024/May/Willow-logo-transparent-cb.png" group-title="Live: Lanka Premier League",LPL 15:00 (WILLOW FHD)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={"c1781b18ef9a3a4455c4ada2bce6c670":"c03d707bc916b280b457013dac5b2954"}
-https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/u3ilketteh/out/v1/1ea199d6caf04e81b0ecf7f589cd3c9f/cenc.mpd
+#KODIPROP:inputstream.adaptive.license_key={"70aa90cb5fbc9c681891ffadd144c764":"3f9113c845f44f75058cc38db91cff2b"}
+https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/gjigreak4h/out/v1/3e2e635212094aa5802cf66c1601f8a5/cenc.mpd
 
 #EXTINF:-1 tvg-id="lpl1500willowalt" tvg-logo="https://s21.q4cdn.com/819998841/files/doc_news/2024/May/Willow-logo-transparent-cb.png" group-title="Live: Lanka Premier League",LPL 15:00 (WILLOW - ALT)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={"c1781b18ef9a3a4455c4ada2bce6c670":"c03d707bc916b280b457013dac5b2954"}
-https://abfjk4haaaaaaaamkitc5445rybm6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/u3ilketteh/out/v1/1ea199d6caf04e81b0ecf7f589cd3c9f/cenc.mpd
+#KODIPROP:inputstream.adaptive.license_key={"70aa90cb5fbc9c681891ffadd144c764":"3f9113c845f44f75058cc38db91cff2b"}
+https://abfjk4haaaaaaaamkitc5445rybm6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/gjigreak4h/out/v1/3e2e635212094aa5802cf66c1601f8a5/cenc.mpd
 
 #EXTINF:-1 tvg-id="hundredmen1830willowfhd" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="Live: The Hundred",Hundred MEN 18:30 (WILLOW FHD)
 https://video.twimg.com/amplify_video/1919602814160125952/pl/t5p2RHLI21i-hXga.m3u8?variant_version=1&tag=14
@@ -1387,11 +1387,27 @@ https://video.twimg.com/amplify_video/1919602814160125952/pl/t5p2RHLI21i-hXga.m3
 #EXTINF:-1 tvg-id="hundredmen1830cricketfhd" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="Live: The Hundred",Hundred MEN 18:30 (CRICKET FHD)
 https://bl.rutube.ru/livestream/7c13a51576b9ff2601f08f5d57dd5169/index.m3u8?s=uiXES2ePt7xTpQnbJxn7Dg&e=2074684474&scheme=https
 
-#EXTINF:-1 tvg-id="hundredwomen1445willowfhd" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="Live: The Hundred",Hundred WOMEN 14:45 (WILLOW FHD)
-https://video.twimg.com/amplify_video/1919602814160125952/pl/t5p2RHLI21i-hXga.m3u8?variant_version=1&tag=14
+#EXTINF:-1 tvg-id="hundredwomen1445willowfhd" tvg-logo="https://s21.q4cdn.com/819998841/files/doc_news/2024/May/Willow-logo-transparent-cb.png" group-title="Live: The Hundred",Hundred WOMEN 14:45 (WILLOW FHD)
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"453c4ba8f7c775a4ef534847bd33b184":"4f14453aaf260377336bb0e6267da4f1"}
+https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/ynefhymijt/out/v1/02ab74a814ba405d8b749b3497c1b899/cenc.mpd
 
-#EXTINF:-1 tvg-id="hundredwomen1445cricketfhd" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="Live: The Hundred",Hundred WOMEN 14:45 (CRICKET FHD)
+#EXTINF:-1 tvg-id="hundredwomen1445cricketfhd" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTVqp1Plsy44x_6pIyvUttdbXc5LMugRMGfldjYKQbI9X_X7txzS2d7WPph" group-title="Live: The Hundred",Hundred WOMEN 14:45 (CRICKET FHD)
 https://bl.rutube.ru/livestream/7c13a51576b9ff2601f08f5d57dd5169/index.m3u8?s=uiXES2ePt7xTpQnbJxn7Dg&e=2074684474&scheme=https
+
+#EXTINF:-1 tvg-id="hundredwomen1445bbcsports" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="Live: The Hundred",Hundred WOMEN 14:45 (BBC SPORTS)
+https://tmaxapp.site/8wirwjs76erftg/bbctwo.m3u8
+
+#EXTINF:-1 tvg-id="hundredwomen1445tapmadfhd" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="Live: The Hundred",Hundred WOMEN 14:45 (TAPMAD FHD)
+https://saseries.akamaized.net/hls/live/2110097/2356jkiL-tapmad/master.m3u8
+
+#EXTINF:-1 tvg-id="hundredwomen1445willowalt" tvg-logo="https://s21.q4cdn.com/819998841/files/doc_news/2024/May/Willow-logo-transparent-cb.png" group-title="Live: The Hundred",Hundred WOMEN 14:45 (WILLOW - ALT)
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"453c4ba8f7c775a4ef534847bd33b184":"4f14453aaf260377336bb0e6267da4f1"}
+https://abfjk4haaaaaaaamkitc5445rybm6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/ynefhymijt/out/v1/02ab74a814ba405d8b749b3497c1b899/cenc.mpd
+
+#EXTINF:-1 tvg-id="hundredwomen1445skysport" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTVqp1Plsy44x_6pIyvUttdbXc5LMugRMGfldjYKQbI9X_X7txzS2d7WPph" group-title="Live: The Hundred",Hundred WOMEN 14:45 (SKY SPORT)
+https://tmaxapp.site/8wirwjs76erftg/skysport2nz.m3u8
 
 #EXTINF:-1 tvg-id="guardiansvsminnesotatwins2340sportzxlive" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="Live: MLB",Guardians vs Minnesota Twins 23:40 (SportzX Live)
 https://edgestream2.pro/hls/dazhfiach15.m3u8?
@@ -1422,3 +1438,28 @@ https://edgestream2.pro/hls/jnzkdzjfanch23.m3u8?
 
 #EXTINF:-1 tvg-id="texasrangersvswhitesox0105sportzxlive" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="Live: MLB",Texas Rangers vs White Sox 01:05 (SportzX Live)
 https://edgestream1.pro/hls/fskjanach24.m3u8?
+
+#EXTINF:-1 tvg-id="iberia1999vsslovanbratislava1700sportzxlive" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="Live: UCL",Iberia 1999 vs Slovan Bratislava 17:00 (SportzX Live)
+https://live.vivo200.com/live/sd-1-4586108.m3u8?txSecret=0e374ed99d6a0297bdc63624d493ab01&txTime=6A5FAC06
+
+#EXTINF:-1 tvg-id="fenerbahevsgrnikzabrze1900sportzxlive" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="Live: UCL",Fenerbah e vs G rnik Zabrze 19:00 (SportzX Live)
+https://live.vivo200.com/live/sd-1-4556528.m3u8?txSecret=a4b53d1e18346bd1f7131c979fbe6c8b&txTime=6A5FACA8
+
+#EXTINF:-1 tvg-id="fcthunvsdinamozagreb1900sportzxlive" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="Live: UCL",FC Thun vs Dinamo Zagreb 19:00 (SportzX Live)
+https://live.vivo200.com/live/sd-1-4556532.m3u8?txSecret=3da262ed4be0155c76d7bc8e4866d778&txTime=6A5FAD03
+
+#EXTINF:-1 tvg-id="sturmgrazvshearts1930sportzxlive" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="Live: UCL",Sturm Graz vs Hearts 19:30 (SportzX Live)
+https://live.vivo200.com/live/sd-1-4556530.m3u8?txSecret=addc8f6e96189968278a3cd9f9fc5631&txTime=6A5FAD43
+
+#EXTINF:-1 tvg-id="gillinghamvsmillwall1900sportzxlive" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="Live: Club Friendly",Gillingham vs Millwall 19:00 (SportzX Live)
+https://live.vivo200.com/live/sd-1-4591032.m3u8?txSecret=1adcc3c48de22b9a8357916197137a8c&txTime=6A5FADF1
+
+#EXTINF:-1 tvg-id="atlticomineirovsbahia2330premiererbr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="Live: Brasileirão",Atl tico Mineiro vs Bahia 23:30 (PREMIERER BR)
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"56b79c1782b30e6b6fc973b0e8fd4104":"fa38aaa865a57eda7c77444697ba8ed3"}
+https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/nelfyucw9a/out/v1/6ffb2c365ad14f88b154591beb43d1f6/cenc.mpd
+
+#EXTINF:-1 tvg-id="atlticomineirovsbahia2330sportvbr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="Live: Brasileirão",Atl tico Mineiro vs Bahia 23:30 (SporTV BR)
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"4bbcff3289d457b4dd5dbdd21221de9a":"c4906b9a9f8dda3c0725bddb8c497733"}
+https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/m7duvnk2bu/out/v1/d1ad69118b5647309b1eb7213affdb3d/cenc.mpd
