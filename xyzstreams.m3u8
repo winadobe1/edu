@@ -1,6 +1,6 @@
 #EXTM3U x-tvg-url=""
-# Generated from xyzstreams.st (Standalone Auto-Discovery) - 2026-07-22T18:53:55.474Z
-# Channels: 90 | Events: 1 | Discovered Sports: MLB, WNBA, NBA
+# Generated from xyzstreams.st (Standalone Auto-Discovery) - 2026-07-22T21:55:23.099Z
+# Channels: 91 | Events: 15 | Discovered Sports: MLB, WNBA, NBA
 
 #-----------------------------------------
 # 24/7 CHANNELS
@@ -239,6 +239,12 @@ https://247v2.xyzstreams.st/?stream_id=bravo&pro_id=sling&index.m3u8
 #EXTVLCOPT:http-origin=https://xyzstreams.st
 https://247v2.xyzstreams.st/?stream_id=bbcamerica&pro_id=sling&index.m3u8
 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Fuse_Black_Logo_2017.png" group-title="XYZ Channels",Fuse
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://xyzstreams.st/
+#EXTVLCOPT:http-origin=https://xyzstreams.st
+https://247v2.xyzstreams.st/?stream_id=fuse&pro_id=sling&index.m3u8
+
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/CMT_2017_logo.svg/1280px-CMT_2017_logo.svg.png" group-title="XYZ Channels",CMT
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://xyzstreams.st/
@@ -263,7 +269,7 @@ https://247v2.xyzstreams.st/?stream_id=lifetimemovienetwork&pro_id=sling&index.m
 #EXTVLCOPT:http-origin=https://xyzstreams.st
 https://247v2.xyzstreams.st/?stream_id=paramountwithshowtime&pro_id=sling&index.m3u8
 
-#EXTINF:-1 tvg-logo="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/560dfea6-13fc-45c5-abb5-0692213c6010/dfog37c-9af7a44b-009a-4b93-900c-fb4bc5fc551a.png/v1/fill/w_1415,h_435/showtime_2_logo_by_melvin764g_dfog37c-fullview.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9NDM1IiwicGF0aCI6Ii9mLzU2MGRmZWE2LTEzZmMtNDVjNS1hYmI1LTA2OTIyMTNjNjAxMC9kZm9nMzdjLTlhZjdhNDRiLTA0OWEtNGI5My05MDBjLWZiNGJjNWZjNTUxYS5wbmciLCJ3aWR0aCI6Ijw9MTQxNSJ9XV0sImF1ZCI6WyJ1cm46c2VydmljZTppbWFnZS5vcGVyYXRpb25zIl19.-NLv7_D2s6_I2bvVJhGiS8pvJgiBUGlZwbaXxudqwHQ" group-title="XYZ Channels",Showtime 2
+#EXTINF:-1 tvg-logo="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/560dfea6-13fc-45c5-abb5-0692213c6010/dfog37c-9af7a44b-009a-4b93-900c-fb4bc5fc551a.png/v1/fill/w_1415,h_435/showtime_2_logo_by_melvin764g_dfog37c-fullview.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWghtIjoIjw9NDM1IiwicGF0aCI6Ii9mLzU2MGRmZWE2LTEzZmMtNDVjNS1hYmI1LTA2OTIyMTNjNjAxMC9kZm9nMzdjLTlhZjdhNDRiLTA0OWEtNGI5My05MDBjLWZiNGJjNWZjNTUxYS5wbmciLCJ3aWR0aCI6Ijw9MTQxNSJ9XV0sImF1ZCI6WyJ1cm46c2VydmljZTppbWFnZS5vcGVyYXRpb25zIl19.-NLv7_D2s6_I2bvVJhGiS8pvJgiBUGlZwbaXxudqwHQ" group-title="XYZ Channels",Showtime 2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://xyzstreams.st/
 #EXTVLCOPT:http-origin=https://xyzstreams.st
@@ -287,7 +293,7 @@ https://247v2.xyzstreams.st/?stream_id=showtimenext&pro_id=sling&index.m3u8
 #EXTVLCOPT:http-origin=https://xyzstreams.st
 https://247v2.xyzstreams.st/?stream_id=showtimefamilyzone&pro_id=sling&index.m3u8
 
-#EXTINF:-1 tvg-logo="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/6ee8eabb-f284-47d4-a547-7b428c85fb91/dm4nih4-7008e6c5-d678-473d-8de5-493dde1d10f4.png/v1/fill/w_1280,h_450/showtime_extreme_2026_logo_by_eeermg_dm4nih4-fullview.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9NDUwIiwicGF0aCI6Ii9mLzZlZThlYWJiLWYyODQtNDdkNC1hNTQ3LTdiNDI4Yzg1ZmI5MS9kbTRuaWg0LTcwMDhlNmM1LWQ2NzgtNDczZC04ZGU1LTQ5M2RkZTFkMTBmNC5wbmciLCJ3aWR0aCI6Ijw9MTI4MCJ9XV0sImF1ZCI6WyJ1cm46c2VydmljZTppbWFnZS5vcGVyYXRpb25zIl19.AN7DNei1qFP631pHKiC7q67WOZFBm3ylcNNfLnOkFyY" group-title="XYZ Channels",Showtime Extreme
+#EXTINF:-1 tvg-logo="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/6ee8eabb-f284-47d4-a547-7b428c85fb91/dm4nih4-7008e6c5-d678-473d-8de5-493dde1d10f4.png/v1/fill/w_1280,h_450/showtime_extreme_2026_logo_by_eeermg_dm4nih4-fullview.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9NDUwIiwicGF0aCI6Ii9mLzZlZThlYWJiLWYyODQtNDdkNC1hNTQ3LTdiNDI4Yzg1ZmI5MS9kbTRuaWg0LTcwMDhlNmM1LWQ2NzgtNDczZC04ZGU1LTQ5M2RkZTFkMTBmNC5wbmciLCJ3aWR0aCI6Ijw9MTQxNSJ9XV0sImF1ZCI6WyJ1cm46c2VydmljZTppbWFnZS5vcGVyYXRpb25zIl19.AN7DNei1qFP631pHKiC7q67WOZFBm3ylcNNfLnOkFyY" group-title="XYZ Channels",Showtime Extreme
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://xyzstreams.st/
 #EXTVLCOPT:http-origin=https://xyzstreams.st
@@ -869,8 +875,92 @@ https://player.xyzstreams.st/embed/lakers
 #-----------------------------------------
 # LIVE EVENTS (Homepage)
 #-----------------------------------------
-#EXTINF:-1 tvg-logo="https://mrfixitstips.co.uk/thumbor/Rcs5ZHGTD3ZQXqm81IEz-xL5ibA=/1038x567/smart/https%3A%2F%2Fmedia.mrfixitstips.co.uk%2Fmain%2F2026%2F07%2FTottenham-v-MK-Dons.png" tvg-start="2026-07-22T16:00:00.000Z" tvg-stop="2026-07-22T18:30:00.000Z" group-title="Football",Tottenham Hotspur vs Milton Keynes Dons
+#EXTINF:-1 tvg-logo="https://is1-ssl.mzstatic.com/image/thumb/c-Q5tkhZXB6SDr-gNGFgEw/680x442Sports.TVAPrM04.webp?colorRight=9FD2FF&rtl=false&colorLeft=000000&imgEffectLogoRight=1ep2CNk0GNmoCnH4_RZ8wQ&style=m" tvg-start="2026-07-22T23:30:00.000Z" tvg-stop="2026-07-23T02:00:00.000Z" group-title="Football",Columbus Crew vs New York City
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://xyzstreams.st/
 #EXTVLCOPT:http-origin=https://xyzstreams.st
-https://fiveo4.vilevodules.uk/main/secure/17033ac193999d0d6ac35e4e7b43c5bb195c24816133fd05a74c73eb90f156be/1784750036/tot.m3u8
+https://fiveo4.vilevodules.uk/main/secure/5ccf3d7dc51554a806f0b8d2dd72d308e55537dd7f6b7367e1478e5230dd6f5d/1784760924/Iberia-vs-Slovan-Bratislava.m3u8
+
+#EXTINF:-1 tvg-logo="https://is1-ssl.mzstatic.com/image/thumb/UqxnaIq_FYW9AFeYTOPLCA/680x442Sports.TVAPrM04.webp?colorRight=202C4C&rtl=false&colorLeft=FE5000&imgEffectLogoRight=whZT0iHRnHcmqhBFXwK0MQ&style=m" tvg-start="2026-07-22T23:30:00.000Z" tvg-stop="2026-07-23T02:00:00.000Z" group-title="Football",Cincinnati vs Vancouver Whitecaps
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://xyzstreams.st/
+#EXTVLCOPT:http-origin=https://xyzstreams.st
+https://fiveo4.vilevodules.uk/main/secure/b7c3bff19beeb3a31655b47cc8b36df7f54761bfdfd74b3b309a3da100b4443f/1784760924/tvpsport-pl.m3u8
+
+#EXTINF:-1 tvg-logo="https://is1-ssl.mzstatic.com/image/thumb/fPfWU7_0GAYTqAxEA2UX1g/680x442Sports.TVAPrM04.webp?colorRight=FF0000&rtl=false&colorLeft=F5B6CD&imgEffectLogoRight=3E-uqL1yQLu8A0lXIXjdsA&style=m" tvg-start="2026-07-22T23:30:00.000Z" tvg-stop="2026-07-23T02:00:00.000Z" group-title="Football",Inter Miami vs Chicago Fire
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://xyzstreams.st/
+#EXTVLCOPT:http-origin=https://xyzstreams.st
+https://fiveo4.vilevodules.uk/main/secure/77b189a92fff8b7d5a9e49b25ee8bc8e709e6c64fc489a5f9503b683d214e41c/1784760924/Thun-vs-Dinamo-Zagreb.m3u8
+
+#EXTINF:-1 tvg-logo="https://is1-ssl.mzstatic.com/image/thumb/iXIxevYDAkD1eA4nIOcs9Q/680x442Sports.TVAPrM04.webp?colorRight=D71B38&rtl=false&colorLeft=041C2C&imgEffectLogoRight=Oa-DX3VkaTJ_u5bDNo7IUg&style=m" tvg-start="2026-07-22T23:30:00.000Z" tvg-stop="2026-07-23T02:00:00.000Z" group-title="Football",Philadelphia Union vs New York RB
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://xyzstreams.st/
+#EXTVLCOPT:http-origin=https://xyzstreams.st
+https://fiveo4.vilevodules.uk/main/secure/13320a8076065ade6ae59f0d9f672b744726d76e7f209e6ef8656e59f4e08fd6/1784760924/Fenerbahe-vs-Grnik-Zabrze.m3u8
+
+#EXTINF:-1 tvg-logo="https://is1-ssl.mzstatic.com/image/thumb/53yO_LyBhZXaQZibIxo_Sw/680x442Sports.TVAPrM04.webp?colorRight=AE132A&rtl=false&colorLeft=0A2240&imgEffectLogoRight=GBjbc7VO-TsNONP5-ORZwg&style=m" tvg-start="2026-07-22T23:30:00.000Z" tvg-stop="2026-07-23T02:00:00.000Z" group-title="Football",New England vs Toronto FC
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://xyzstreams.st/
+#EXTVLCOPT:http-origin=https://xyzstreams.st
+https://fiveo4.vilevodules.uk/main/secure/7b50785e84c0f9e983dfa241169fe21f12e1e344721f9a82eeec9d037588c871/1784760924/Sturm-Graz-vs-Hearts.m3u8
+
+#EXTINF:-1 tvg-logo="https://is1-ssl.mzstatic.com/image/thumb/EeCHZjYuAt7qU_KZvk0hRg/580x386Sports.TVAPrM04.webp?colorRight=9D2235&rtl=false&colorLeft=0085CF&imgEffectLogoRight=d6U0-AroyEyn1K7zL7Z_bg&style=m" tvg-start="2026-07-23T00:30:00.000Z" tvg-stop="2026-07-23T03:00:00.000Z" group-title="Football",Charlotte vs Atlanta United
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://xyzstreams.st/
+#EXTVLCOPT:http-origin=https://xyzstreams.st
+https://fiveo4.vilevodules.uk/main/secure/dce70d1342ab57bc3c9762a963d97060eb4d6f23cfc46426ab108e2a364572a7/1784760924/kauno-zalgiris-vs-ki.m3u8
+
+#EXTINF:-1 tvg-logo="https://is1-ssl.mzstatic.com/image/thumb/5dbchuK0JS0hLwf8YuDBJQ/580x386Sports.TVAPrM04.webp?colorRight=003DA6&rtl=false&colorLeft=EDE939&imgEffectLogoRight=oFLEPNLkQk3lMq0RsdQfBA&style=m" tvg-start="2026-07-23T00:30:00.000Z" tvg-stop="2026-07-23T03:00:00.000Z" group-title="Football",Nashville SC vs CF Montréal
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://xyzstreams.st/
+#EXTVLCOPT:http-origin=https://xyzstreams.st
+https://fiveo4.vilevodules.uk/main/secure/ffc74c47c26ca7c35b216eba0dddc7dee49ee12fd0b002b23f07e6fdefeee638/1784760925/sport-1.m3u8
+
+#EXTINF:-1 tvg-logo="https://is1-ssl.mzstatic.com/image/thumb/CNMN8DbpdpCJPfNSa1C6_Q/580x386Sports.TVAPrM04.webp?colorRight=000000&rtl=false&colorLeft=FF6900&imgEffectLogoRight=TF8RFnansqvKc2dQykZf1Q&style=m" tvg-start="2026-07-23T00:30:00.000Z" tvg-stop="2026-07-23T03:00:00.000Z" group-title="Football",Houston Dynamo vs DC United
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://xyzstreams.st/
+#EXTVLCOPT:http-origin=https://xyzstreams.st
+https://fiveo4.vilevodules.uk/main/secure/f0ed29adf511f81687a288b344e12cc77b413983c2ddef7a732c0ad70186635b/1784760925/five-plus.m3u8
+
+#EXTINF:-1 tvg-logo="https://is1-ssl.mzstatic.com/image/thumb/_HFMpJoh7k3NnHG5kFxiXw/580x386Sports.TVAPrM04.webp?colorRight=9bcde4&rtl=false&colorLeft=0C2340&imgEffectLogoRight=gBzEBHuy800AMDC-xLTIgQ&style=m" tvg-start="2026-07-23T01:30:00.000Z" tvg-stop="2026-07-23T04:00:00.000Z" group-title="Football",Sporting KC vs Minnesota United
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://xyzstreams.st/
+#EXTVLCOPT:http-origin=https://xyzstreams.st
+https://xyzstreams.st/mls-9.html
+
+#EXTINF:-1 tvg-logo="https://is1-ssl.mzstatic.com/image/thumb/Kj3JcvFIDBst-Koz6E5ieQ/580x386Sports.TVAPrM04.webp?colorRight=2DC84D&rtl=false&colorLeft=00B140&imgEffectLogoRight=YqTqMawsckTZlDhyHBlGug&style=m" tvg-start="2026-07-23T01:30:00.000Z" tvg-stop="2026-07-23T04:00:00.000Z" group-title="Football",Austin vs Seattle Sounders FC
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://xyzstreams.st/
+#EXTVLCOPT:http-origin=https://xyzstreams.st
+https://xyzstreams.st/mls-10.html
+
+#EXTINF:-1 tvg-logo="https://is1-ssl.mzstatic.com/image/thumb/3snDh61DqRjCu8RWad-zHA/580x386Sports.TVAPrM04.webp?colorRight=06172B&rtl=false&colorLeft=8A2432&imgEffectLogoRight=PGXDhfWKnXAYCtPHjX1MqA&style=m" tvg-start="2026-07-23T02:30:00.000Z" tvg-stop="2026-07-23T05:00:00.000Z" group-title="Football",Colorado Rapids vs San Diego
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://xyzstreams.st/
+#EXTVLCOPT:http-origin=https://xyzstreams.st
+https://xyzstreams.st/mls-11.html
+
+#EXTINF:-1 tvg-logo="https://is1-ssl.mzstatic.com/image/thumb/rNrQuDny5iiTxp7_CGq74w/580x386Sports.TVAPrM04.webp?colorRight=001E61&rtl=false&colorLeft=000000&imgEffectLogoRight=zmhMReO6B9qg6BroocH15w&style=m" tvg-start="2026-07-23T02:30:00.000Z" tvg-stop="2026-07-23T05:00:00.000Z" group-title="Football",Los Angeles FC vs Real Salt Lake
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://xyzstreams.st/
+#EXTVLCOPT:http-origin=https://xyzstreams.st
+https://xyzstreams.st/mls-12.html
+
+#EXTINF:-1 tvg-logo="https://is1-ssl.mzstatic.com/image/thumb/_-Sk811KTLUXYvd9llD6SA/580x386Sports.TVAPrM04.webp?colorRight=e80a4d&rtl=false&colorLeft=13294B&imgEffectLogoRight=LXdtAgsFTppgIi7bdUChUw&style=m" tvg-start="2026-07-23T02:30:00.000Z" tvg-stop="2026-07-23T05:00:00.000Z" group-title="Football",LA Galaxy vs St. Louis City
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://xyzstreams.st/
+#EXTVLCOPT:http-origin=https://xyzstreams.st
+https://xyzstreams.st/mls-13.html
+
+#EXTINF:-1 tvg-logo="https://is1-ssl.mzstatic.com/image/thumb/6MhXD8E85SMjttv3Fakzhw/580x386Sports.TVAPrM04.webp?colorRight=C6093B&rtl=false&colorLeft=004812&imgEffectLogoRight=t2NgSO_ylKAUWwdA0oo5CQ&style=m" tvg-start="2026-07-23T02:30:00.000Z" tvg-stop="2026-07-23T05:00:00.000Z" group-title="Football",Portland Timbers vs Dallas
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://xyzstreams.st/
+#EXTVLCOPT:http-origin=https://xyzstreams.st
+https://xyzstreams.st/mls-14.html
+
+#EXTINF:-1 tvg-logo="https://is1-ssl.mzstatic.com/image/thumb/acRQ15i52tjFlbJUdOqi0g/680x442Sports.TVAPrM04.webp?colorRight=61259E&rtl=false&colorLeft=0051BA&imgEffectLogoRight=gNhQYLuiFBBNEtiBscKCPQ&style=m" tvg-start="2026-07-23T02:30:00.000Z" tvg-stop="2026-07-23T05:00:00.000Z" group-title="Football",SJ Earthquakes vs Orlando City SC
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://xyzstreams.st/
+#EXTVLCOPT:http-origin=https://xyzstreams.st
+https://xyzstreams.st/mls-15.html
