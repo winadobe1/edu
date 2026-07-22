@@ -1,6 +1,6 @@
 #EXTM3U x-tvg-url=""
-# Generated from xyzstreams.st (Standalone Auto-Discovery) - 2026-07-21T21:51:39.464Z
-# Channels: 76 | Events: 9 | Discovered Sports: MLB, WNBA, NBA
+# Generated from xyzstreams.st (Standalone Auto-Discovery) - 2026-07-22T01:15:56.464Z
+# Channels: 91 | Events: 2 | Discovered Sports: MLB, WNBA, NBA
 
 #-----------------------------------------
 # 24/7 CHANNELS
@@ -238,6 +238,96 @@ https://247v2.xyzstreams.st/?stream_id=disneychannel&pro_id=sling&index.m3u8
 #EXTVLCOPT:http-referrer=https://xyzstreams.st/
 #EXTVLCOPT:http-origin=https://xyzstreams.st
 https://247v2.xyzstreams.st/?stream_id=bravo&pro_id=sling&index.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/86/BBC_America_logo_2021.svg" group-title="XYZ Channels",BBC America
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://xyzstreams.st/
+#EXTVLCOPT:http-origin=https://xyzstreams.st
+https://247v2.xyzstreams.st/?stream_id=bbcamerica&pro_id=sling&index.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/CMT_2017_logo.svg/1280px-CMT_2017_logo.svg.png" group-title="XYZ Channels",CMT
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://xyzstreams.st/
+#EXTVLCOPT:http-origin=https://xyzstreams.st
+https://247v2.xyzstreams.st/?stream_id=cmt&pro_id=sling&index.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/CMT_2017_logo.svg/1280px-CMT_2017_logo.svg.png" group-title="XYZ Channels",Lifetime
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://xyzstreams.st/
+#EXTVLCOPT:http-origin=https://xyzstreams.st
+https://247v2.xyzstreams.st/?stream_id=lifetime&pro_id=sling&index.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/a/a8/LMN_logo_2019.svg" group-title="XYZ Channels",Lifetime Movie Network
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://xyzstreams.st/
+#EXTVLCOPT:http-origin=https://xyzstreams.st
+https://247v2.xyzstreams.st/?stream_id=lifetimemovienetwork&pro_id=sling&index.m3u8
+
+#EXTINF:-1 tvg-logo="https://1000logos.net/wp-content/uploads/2023/09/Showtime-Emblem.png" group-title="XYZ Channels",Paramount+ with Showtime
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://xyzstreams.st/
+#EXTVLCOPT:http-origin=https://xyzstreams.st
+https://247v2.xyzstreams.st/?stream_id=paramountwithshowtime&pro_id=sling&index.m3u8
+
+#EXTINF:-1 tvg-logo="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/560dfea6-13fc-45c5-abb5-0692213c6010/dfog37c-9af7a44b-009a-4b93-900c-fb4bc5fc551a.png/v1/fill/w_1415,h_435/showtime_2_logo_by_melvin764g_dfog37c-fullview.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9NDM1IiwicGF0aCI6Ii9mLzU2MGRmZWE2LTEzZmMtNDVjNS1hYmI1LTA2OTIyMTNjNjAxMC9kZm9nMzdjLTlhZjdhNDRiLTAwOWEtNGI5My05MDBjLWZiNGJjNWZjNTUxYS5wbmciLCJ3aWR0aCI6Ijw9MTQxNSJ9XV0sImF1ZCI6WyJ1cm46c2VydmljZTppbWFnZS5vcGVyYXRpb25zIl19.-NLv7_D2s6_I2bvVJhGiS8pvJgiBUGlZwbaXxudqwHQ" group-title="XYZ Channels",Showtime 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://xyzstreams.st/
+#EXTVLCOPT:http-origin=https://xyzstreams.st
+https://247v2.xyzstreams.st/?stream_id=showtime2&pro_id=sling&index.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/Showtime_Showcase.svg/3840px-Showtime_Showcase.svg.png" group-title="XYZ Channels",Showtime Showcase
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://xyzstreams.st/
+#EXTVLCOPT:http-origin=https://xyzstreams.st
+https://247v2.xyzstreams.st/?stream_id=showtimeshowcase&pro_id=sling&index.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/Showtime_Next.svg/3840px-Showtime_Next.svg.png" group-title="XYZ Channels",Showtime Next
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://xyzstreams.st/
+#EXTVLCOPT:http-origin=https://xyzstreams.st
+https://247v2.xyzstreams.st/?stream_id=showtimenext&pro_id=sling&index.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0b/Showtime_Family_Zone.svg" group-title="XYZ Channels",Showtime Family Zone
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://xyzstreams.st/
+#EXTVLCOPT:http-origin=https://xyzstreams.st
+https://247v2.xyzstreams.st/?stream_id=showtimefamilyzone&pro_id=sling&index.m3u8
+
+#EXTINF:-1 tvg-logo="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/6ee8eabb-f284-47d4-a547-7b428c85fb91/dm4nih4-7008e6c5-d678-473d-8de5-493dde1d10f4.png/v1/fill/w_1280,h_450/showtime_extreme_2026_logo_by_eeermg_dm4nih4-fullview.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9NDUwIiwicGF0aCI6Ii9mLzZlZThlYWJiLWYyODQtNDdkNC1hNTQ3LTdiNDI4Yzg1ZmI5MS9kbTRuaWg0LTcwMDhlNmM1LWQ2NzgtNDczZC04ZGU1LTQ5M2RkZTFkMTBmNC5wbmciLCJ3aWR0aCI6Ijw9MTI4MCJ9XV0sImF1ZCI6WyJ1cm46c2VydmljZTppbWFnZS5vcGVyYXRpb25zIl19.AN7DNei1qFP631pHKiC7q67WOZFBm3ylcNNfLnOkFyY" group-title="XYZ Channels",Showtime Extreme
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://xyzstreams.st/
+#EXTVLCOPT:http-origin=https://xyzstreams.st
+https://247v2.xyzstreams.st/?stream_id=showtimeextreme&pro_id=sling&index.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/66/Cinemax_2016.svg" group-title="XYZ Channels",Cinemax
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://xyzstreams.st/
+#EXTVLCOPT:http-origin=https://xyzstreams.st
+https://247v2.xyzstreams.st/?stream_id=cinemax&pro_id=sling&index.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/7/78/Cinemax_Action_Logo.png/250px-Cinemax_Action_Logo.png" group-title="XYZ Channels",Cinemax Action
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://xyzstreams.st/
+#EXTVLCOPT:http-origin=https://xyzstreams.st
+https://247v2.xyzstreams.st/?stream_id=cinemaxaction&pro_id=sling&index.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/fb/Cinemax_Hits_Logo.png" group-title="XYZ Channels",Cinemax Hits
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://xyzstreams.st/
+#EXTVLCOPT:http-origin=https://xyzstreams.st
+https://247v2.xyzstreams.st/?stream_id=cinemaxhits&pro_id=sling&index.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/6/66/Cinemax_Classics_Logo.png/250px-Cinemax_Classics_Logo.png" group-title="XYZ Channels",Cinemax Classics
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://xyzstreams.st/
+#EXTVLCOPT:http-origin=https://xyzstreams.st
+https://247v2.xyzstreams.st/?stream_id=cinemaxclassics&pro_id=sling&index.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.metv.com/images/metv_logo.png" group-title="XYZ Channels",MeTV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://xyzstreams.st/
+#EXTVLCOPT:http-origin=https://xyzstreams.st
+https://247v2.xyzstreams.st/?stream_id=metv&pro_id=sling&index.m3u8
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSPdbY5D2wo0ZAX5bsHcwIJ8YIu0CXgqgJ-EqW-MAMn2sPDnMKdNsvrACb3&s=10" group-title="XYZ Channels",MS NOW
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
@@ -785,56 +875,14 @@ https://player.xyzstreams.st/embed/lakers
 #-----------------------------------------
 # LIVE EVENTS (Homepage)
 #-----------------------------------------
-#EXTINF:-1 tvg-logo="https://ichef.bbci.co.uk/images/ic/1008x567/p0m5wskq.jpg" tvg-start="2026-07-21T16:00:00.000Z" tvg-stop="2026-07-21T18:30:00.000Z" group-title="Football",Ararat-Armenia vs Shamrock Rovers
+#EXTINF:-1 tvg-logo="https://www.thesportsdb.com/images/media/event/thumb/5axpuc1784404993.jpg/medium" tvg-start="2026-07-22T01:00:00.000Z" tvg-stop="2026-07-22T03:00:00.000Z" group-title="Football",Cruz Azul vs Puebla
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://xyzstreams.st/
 #EXTVLCOPT:http-origin=https://xyzstreams.st
-https://fiveo4.vilevodules.uk/main/secure/d37d30bafd2076edd4d7ff1b2c60c363ed47fa5aeea475aab65c142046623044/1784674300/shamrock-rovers-vs-ararat-armeni.m3u8
+https://247v2.xyzstreams.st/?stream_id=${encodedStreamId}&pro_id=${encodedProId}&index.m3u8
 
-#EXTINF:-1 tvg-logo="https://ichef.bbci.co.uk/images/ic/1008x567/p0m5wskq.jpg" tvg-start="2026-07-21T16:00:00.000Z" tvg-stop="2026-07-21T18:30:00.000Z" group-title="Football",Iberia 1999 vs Slovan Bratislava
+#EXTINF:-1 tvg-logo="https://www.thesportsdb.com/images/media/event/thumb/8z8srl1784404994.jpg/medium" tvg-start="2026-07-22T03:05:00.000Z" tvg-stop="2026-07-22T05:05:00.000Z" group-title="Football",Toluca vs Pumas UNAM
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://xyzstreams.st/
 #EXTVLCOPT:http-origin=https://xyzstreams.st
-https://fiveo4.vilevodules.uk/main/secure/19653cceac2ffe4165c6056a1fc7987c4e548ff5c5c72396727155a233a3de16/1784674300/Iberia-vs-Slovan-Bratislava.m3u8
-
-#EXTINF:-1 tvg-logo="https://ichef.bbci.co.uk/images/ic/1008x567/p0m5wskq.jpg" tvg-start="2026-07-21T17:00:00.000Z" tvg-stop="2026-07-21T19:30:00.000Z" group-title="Football",AGF vs Lech Poznań
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://xyzstreams.st/
-#EXTVLCOPT:http-origin=https://xyzstreams.st
-https://fiveo4.vilevodules.uk/main/secure/57bc73ae5afb5a4b7370658f357015546f6d12b7f61e55d49e1c80b373675cb6/1784674300/tvpsport-pl.m3u8
-
-#EXTINF:-1 tvg-logo="https://ichef.bbci.co.uk/images/ic/1008x567/p0m5wskq.jpg" tvg-start="2026-07-21T18:00:00.000Z" tvg-stop="2026-07-21T20:30:00.000Z" group-title="Football",Thun vs Dinamo Zagreb
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://xyzstreams.st/
-#EXTVLCOPT:http-origin=https://xyzstreams.st
-https://fiveo4.vilevodules.uk/main/secure/1a63b16efd56b9746de989e10991a8f9d421547d3bef0c465dde83d6701d7373/1784674300/Thun-vs-Dinamo-Zagreb.m3u8
-
-#EXTINF:-1 tvg-logo="https://ichef.bbci.co.uk/images/ic/1008x567/p0m5wskq.jpg" tvg-start="2026-07-21T18:00:00.000Z" tvg-stop="2026-07-21T20:30:00.000Z" group-title="Football",Fenerbahçe vs Górnik Zabrze
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://xyzstreams.st/
-#EXTVLCOPT:http-origin=https://xyzstreams.st
-https://fiveo4.vilevodules.uk/main/secure/00ad4644f0bb38e4b135625d8990feb29ba8d6a7ba7b7691eb8091a436a28959/1784674301/Fenerbahe-vs-Grnik-Zabrze.m3u8
-
-#EXTINF:-1 tvg-logo="https://ichef.bbci.co.uk/images/ic/1008x567/p0m5wskq.jpg" tvg-start="2026-07-21T18:30:00.000Z" tvg-stop="2026-07-21T21:00:00.000Z" group-title="Football",Sturm Graz vs Hearts
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://xyzstreams.st/
-#EXTVLCOPT:http-origin=https://xyzstreams.st
-https://fiveo4.vilevodules.uk/main/secure/a81d635bdc9159ace11f949b5d58bf4e389adec3c03df680fd15238c092a5314/1784674301/Sturm-Graz-vs-Hearts.m3u8
-
-#EXTINF:-1 tvg-logo="https://ichef.bbci.co.uk/images/ic/1008x567/p0m5wskq.jpg" tvg-start="2026-07-21T18:45:00.000Z" tvg-stop="2026-07-21T21:15:00.000Z" group-title="Football",KÍ vs Kauno Žalgiris
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://xyzstreams.st/
-#EXTVLCOPT:http-origin=https://xyzstreams.st
-https://fiveo4.vilevodules.uk/main/secure/7676c81f37f1f45936081a3fb3e0f9739afc27ec35aa5a2b0d43548a6085cf2c/1784674301/kauno-zalgiris-vs-ki.m3u8
-
-#EXTINF:-1 tvg-logo="https://ichef.bbci.co.uk/images/ic/1008x567/p0m5wskq.jpg" tvg-start="2026-07-21T19:00:00.000Z" tvg-stop="2026-07-21T21:00:00.000Z" group-title="Football",Víkingur Reykjavík vs Hapoel Be'er Sheva
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://xyzstreams.st/
-#EXTVLCOPT:http-origin=https://xyzstreams.st
-https://fiveo4.vilevodules.uk/main/secure/69d3b5259544eaab869c6ef966ed62dd5866eae1e145c5b4a2cc465467a03708/1784674301/sport-1.m3u8
-
-#EXTINF:-1 tvg-logo="https://ichef.bbci.co.uk/images/ic/1008x567/p0m5wskq.jpg" tvg-start="2026-07-21T19:00:00.000Z" tvg-stop="2026-07-21T21:00:00.000Z" group-title="Football",Larne vs Crvena Zvezda
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://xyzstreams.st/
-#EXTVLCOPT:http-origin=https://xyzstreams.st
-https://fiveo4.vilevodules.uk/main/secure/d8f38c0dfca5f288aecb19089995fbc3c884c8dac8d1eafe67e23c05573a2869/1784674301/five-plus.m3u8
+https://247v2.xyzstreams.st/?stream_id=${encodedStreamId}&pro_id=${encodedProId}&index.m3u8
