@@ -1350,8 +1350,14 @@ https://edgestream1.pro/hls/kjhfzua25.m3u8?
 #EXTINF:-1 tvg-id="sandiegopadres0015sportzxlive" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="Live: MLB",San Diego Padres 00:15 (SportzX Live)
 https://edgestream3.pro/hls/dzjhkfazbka26.m3u8?
 
-#EXTINF:-1 tvg-id="stlouiscardinals0238sportzxlive" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="Live: MLB",St. Louis Cardinals 02:38 (SportzX Live)
+#EXTINF:-1 tvg-id="chicagowhitesox0105sportzxlive" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="Live: MLB",Chicago White Sox 01:05 (SportzX Live)
 https://edgestream3.pro/hls/jzabfazkbf27.m3u8?
+
+#EXTINF:-1 tvg-id="chicagocubs0110sportzxlive" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="Live: MLB",Chicago Cubs 01:10 (SportzX Live)
+https://edgestream1.pro/hls/hfzljfahzcax29.m3u8?
+
+#EXTINF:-1 tvg-id="houstonastros0110sportzxlive" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="Live: MLB",Houston Astros 01:10 (SportzX Live)
+https://edgestream3.pro/hls/hefbafbakx28.m3u8?
 
 #EXTINF:-1 tvg-id="libertyvschicagosky0000sportzxlive" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="Live: WNBA",Liberty vs Chicago Sky 00:00 (SportzX Live)
 https://edgestream3.pro/hls/ztyarueaghj71.m3u8?
@@ -1363,6 +1369,11 @@ https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/w0rehjjrwe/out/v1
 
 #EXTINF:-1 tvg-id="washingtonmysticsvsaces0030sportzxlive" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="Live: WNBA",Washington Mystics vs Aces 00:30 (SportzX Live)
 https://edgestream2.pro/hls/bvnsqdfvgha70.m3u8?
+
+#EXTINF:-1 tvg-id="indianafevervsconnecticutsun0100tsnsports" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="Live: WNBA",Indiana Fever vs Connecticut Sun 01:00 (TSN SPORTS)
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"d3250252765347a0c2603c6cb4869f8c":"0c19319460da7e9ed816db46ce839b37"}
+https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/lsibpqruq1/out/v1/748887d614a84913ba8bcdf3c82823e6/cenc.mpd
 
 #EXTINF:-1 tvg-id="indianafevervsconnecticutsun0100sportzxlive" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="Live: WNBA",Indiana Fever vs Connecticut Sun 01:00 (SportzX Live)
 https://edgestream1.pro/hls/fdgsqdfawa73.m3u8?
@@ -1394,13 +1405,29 @@ https://bd-mc-pdlive.fancode.com/mumbai/143607_english_hls_4aaf721a353393_1ta-di
 
 #EXTINF:-1 tvg-id="lpl1030willowfhd" tvg-logo="https://s21.q4cdn.com/819998841/files/doc_news/2024/May/Willow-logo-transparent-cb.png" group-title="Live: Lanka Premier League",LPL 10:30 (WILLOW FHD)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={"b5afc6d1006a956ada4fe4a4399e2c21":"9319efc57e5eb5d32a12a7a66a4fb2ae"}
-https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/rszozaxgyx/out/v1/7b88be9ba3fa4afda7f65bd4daae807e/cenc.mpd
+#KODIPROP:inputstream.adaptive.license_key={"08e857788244fe19e0ebf8afe19a5baf":"07829ed6a8151c4c363713d38687efc8"}
+https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/bkvy8namph/out/v1/408fe9c1ee2048d98bd629a60b55f8a9/cenc.mpd
+
+#EXTINF:-1 tvg-id="lpl1030fancodefhd" tvg-logo="https://m.media-amazon.com/images/I/21K+HipHr6L.png" group-title="Live: Lanka Premier League",LPL 10:30 (FANCODE - FHD)
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"065051b99bf5cf8d9a3bde5cbde6aaf9":"214bd176832872339ce184338320f9a2"}
+https://a204aivottepl-a.akamaihd.net/sin-nitro/live/clients/dash/enc/h35gev6jft/out/v1/c64004e114c245a4ab84bb570275a4a9/cenc.mpd
 
 #EXTINF:-1 tvg-id="lpl1030willowalt" tvg-logo="https://s21.q4cdn.com/819998841/files/doc_news/2024/May/Willow-logo-transparent-cb.png" group-title="Live: Lanka Premier League",LPL 10:30 (WILLOW - ALT)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={"b5afc6d1006a956ada4fe4a4399e2c21":"9319efc57e5eb5d32a12a7a66a4fb2ae"}
-https://abfjk4haaaaaaaamkitc5445rybm6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/rszozaxgyx/out/v1/7b88be9ba3fa4afda7f65bd4daae807e/cenc.mpd
+#KODIPROP:inputstream.adaptive.license_key={"08e857788244fe19e0ebf8afe19a5baf":"07829ed6a8151c4c363713d38687efc8"}
+https://abfjk4haaaaaaaamkitc5445rybm6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/bkvy8namph/out/v1/408fe9c1ee2048d98bd629a60b55f8a9/cenc.mpd
+
+#EXTINF:-1 tvg-id="lpl1030fancodesd" tvg-logo="https://m.media-amazon.com/images/I/21K+HipHr6L.png" group-title="Live: Lanka Premier League",LPL 10:30 (FANCODE - SD)
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"5689304538fa9f3bb3da99c939a2ad4f":"6907c88ed8ebdd35a2fa80b9684715e1"}
+https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash-sd/enc/v8g0dlo4z8/out/v1/946019f85dc64ae99ff9ce64a9727a62/cenc-sd.mpd
+
+#EXTINF:-1 tvg-id="lpl1030fancodein" tvg-logo="https://m.media-amazon.com/images/I/21K+HipHr6L.png" group-title="Live: Lanka Premier League",LPL 10:30 (FANCODE - IN)
+https://in-mc-pdlive.fancode.com/mumbai/4246714_english_hls_073cf4f34754904_1ta-di_h264/index.m3u8
+
+#EXTINF:-1 tvg-id="lpl1030fancodebd" tvg-logo="https://m.media-amazon.com/images/I/21K+HipHr6L.png" group-title="Live: Lanka Premier League",LPL 10:30 (FANCODE - BD)
+https://bd-mc-pdlive.fancode.com/mumbai/4246714_english_hls_073cf4f34754904_1ta-di_h264/index.m3u8
 
 #EXTINF:-1 tvg-id="hundredmen1830willowfhd" tvg-logo="https://s21.q4cdn.com/819998841/files/doc_news/2024/May/Willow-logo-transparent-cb.png" group-title="Live: The Hundred",Hundred MEN 18:30 (WILLOW FHD)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -1429,8 +1456,8 @@ http://193.47.62.44/hls/NHHHQQq.m3u8
 
 #EXTINF:-1 tvg-id="hundredwomen1445willowfhd" tvg-logo="https://s21.q4cdn.com/819998841/files/doc_news/2024/May/Willow-logo-transparent-cb.png" group-title="Live: The Hundred",Hundred WOMEN 14:45 (WILLOW FHD)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={"453c4ba8f7c775a4ef534847bd33b184":"4f14453aaf260377336bb0e6267da4f1"}
-https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/ynefhymijt/out/v1/02ab74a814ba405d8b749b3497c1b899/cenc.mpd
+#KODIPROP:inputstream.adaptive.license_key={"8787005b2c501603a117e26044f93e50":"e57ce8dcc0158ef1002ab5bba0f25d14"}
+https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/wvy4bjqqtx/out/v1/a8eb10fe4a4445a39c4aada4b042fb88/cenc.mpd
 
 #EXTINF:-1 tvg-id="hundredwomen1445cricketfhd" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTVqp1Plsy44x_6pIyvUttdbXc5LMugRMGfldjYKQbI9X_X7txzS2d7WPph" group-title="Live: The Hundred",Hundred WOMEN 14:45 (CRICKET FHD)
 https://bl.rutube.ru/livestream/7c13a51576b9ff2601f08f5d57dd5169/index.m3u8?s=uiXES2ePt7xTpQnbJxn7Dg&e=2074684474&scheme=https
@@ -1443,11 +1470,31 @@ https://saseries.akamaized.net/hls/live/2110097/2356jkiL-tapmad/master.m3u8
 
 #EXTINF:-1 tvg-id="hundredwomen1445willowalt" tvg-logo="https://s21.q4cdn.com/819998841/files/doc_news/2024/May/Willow-logo-transparent-cb.png" group-title="Live: The Hundred",Hundred WOMEN 14:45 (WILLOW - ALT)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={"453c4ba8f7c775a4ef534847bd33b184":"4f14453aaf260377336bb0e6267da4f1"}
-https://abfjk4haaaaaaaamkitc5445rybm6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/ynefhymijt/out/v1/02ab74a814ba405d8b749b3497c1b899/cenc.mpd
+#KODIPROP:inputstream.adaptive.license_key={"8787005b2c501603a117e26044f93e50":"e57ce8dcc0158ef1002ab5bba0f25d14"}
+https://abfjk4haaaaaaaamkitc5445rybm6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/wvy4bjqqtx/out/v1/a8eb10fe4a4445a39c4aada4b042fb88/cenc.mpd
 
 #EXTINF:-1 tvg-id="hundredwomen1445skysport" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTVqp1Plsy44x_6pIyvUttdbXc5LMugRMGfldjYKQbI9X_X7txzS2d7WPph" group-title="Live: The Hundred",Hundred WOMEN 14:45 (SKY SPORT)
 https://tmaxapp.site/8wirwjs76erftg/skysport2nz.m3u8
+
+#EXTINF:-1 tvg-id="losangelesvsrealsaltlake0330tsnsports" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="Live: MLS 🇺🇸",Los Angeles vs Real Salt Lake 03:30 (TSN SPORTS)
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"abc5b2883121012850ebda05b528c5ec":"e5250924f4b738905f7163a0134587a7"}
+https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/ihys8nw4wv/out/v1/fde190f369484bc6b6117cc16cd82a9f/cenc.mpd
+
+#EXTINF:-1 tvg-id="losangelesvsrealsaltlake0330tsn3sports" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="Live: MLS 🇺🇸",Los Angeles vs Real Salt Lake 03:30 (TSN3 SPORTS)
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"d3250252765347a0c2603c6cb4869f8c":"0c19319460da7e9ed816db46ce839b37"}
+https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/lsibpqruq1/out/v1/748887d614a84913ba8bcdf3c82823e6/cenc.mpd
+
+#EXTINF:-1 tvg-id="losangelesvsrealsaltlake0330foxsports" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="Live: MLS 🇺🇸",Los Angeles vs Real Salt Lake 03:30 (FOX SPORTS)
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"5466ebd70704bdeb657f0abf3c5ca4ef":"bdd79b72d8e48ed483aa623cc38a8a16"}
+https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/fsu3wl2rwb/out/v1/be61206c04e643349d53fb22301f3b50/cenc.mpd
+
+#EXTINF:-1 tvg-id="losangelesvsrealsaltlake0330foxdeportes" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="Live: MLS 🇺🇸",Los Angeles vs Real Salt Lake 03:30 (FOX DEPORTES)
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"d1a163914db8ffad2c3e94f979896a0d":"9728800a3959aafdd5b0bcfbf3768811"}
+https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/vkpoljjpkj/out/v1/502bcf68b3514cd28a220e6f0a43816f/cenc.mpd
 
 #EXTINF:-1 tvg-id="redsoxvsbaltimoreorioles1835sportzxlive" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="Live: MLB",Red Sox vs Baltimore Orioles 18:35 (SportzX Live)
 https://edgestream2.pro/hls/dazhfiach15.m3u8?
@@ -1476,17 +1523,26 @@ https://edgestream1.pro/hls/ojzkajnach21.m3u8?
 #EXTINF:-1 tvg-id="guardiansvsminnesotatwins2340sportzxlive" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="Live: MLB",Guardians vs Minnesota Twins 23:40 (SportzX Live)
 https://edgestream2.pro/hls/jnzkdzjfanch23.m3u8?
 
+#EXTINF:-1 tvg-id="bolognavsheidenheim1500sportzxlive" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="Live: Club Friendly",Bologna vs Heidenheim 15:00 (SportzX Live)
+https://pul-tenm.gkykp.com/live/sd-1-4591073.m3u8?txSecret=3068456055b8baa9d9b0b9ebb4942996&txTime=6A621758
+
 #EXTINF:-1 tvg-id="bolognavsheidenheim1500sdserver" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="Live: Club Friendly",Bologna vs Heidenheim 15:00 (SD SERVER)
 http://193.47.62.41/hls/ADFFFQ.m3u8?
 
 #EXTINF:-1 tvg-id="kharkivvsschalke041500sdserver" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="Live: Club Friendly",Kharkiv vs Schalke 04 15:00 (SD SERVER)
-http://193.47.62.41/hls/ADFFFQ.m3u8?
+http://193.47.62.41/hls/ADFFFQQ.m3u8?
 
 #EXTINF:-1 tvg-id="tottenhamhotspurvsmkdons1700sportzxlive" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="Live: Club Friendly",Tottenham Hotspur vs MK Dons 17:00 (SportzX Live)
-https://video.twimg.com/amplify_video/1919602814160125952/pl/t5p2RHLI21i-hXga.m3u8?variant_version=1&tag=14
+https://live.vivo200.com/live/sd-1-4591078.m3u8?txSecret=5fdf116858c7c8833f054a78871bd3a9&txTime=6A60F69D
+
+#EXTINF:-1 tvg-id="tottenhamhotspurvsmkdons1700hdserver" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="Live: Club Friendly",Tottenham Hotspur vs MK Dons 17:00 (HD SERVER)
+https://hls.streamhub.media/hls/thesport-api-34383b254efd4df13076/master.m3u8
+
+#EXTINF:-1 tvg-id="tottenhamhotspurvsmkdons1700sdserver" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="Live: Club Friendly",Tottenham Hotspur vs MK Dons 17:00 (SD SERVER)
+http://193.47.62.49/hls/EEEEQ.m3u8?
 
 #EXTINF:-1 tvg-id="azalkmaarvskrcgenk1730sportzxlive" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="Live: Club Friendly",AZ Alkmaar vs KRC Genk 17:30 (SportzX Live)
-https://video.twimg.com/amplify_video/1919602814160125952/pl/t5p2RHLI21i-hXga.m3u8?variant_version=1&tag=14
+https://live.vivo200.com/live/sd-1-4589244.m3u8?txSecret=ddf37bc0771305f5112c65af149e1770&txTime=6A61008C
 
 #EXTINF:-1 tvg-id="fiorentinavsgubbio1800sportzxlive" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="Live: Club Friendly",Fiorentina vs Gubbio 18:00 (SportzX Live)
 https://video.twimg.com/amplify_video/1919602814160125952/pl/t5p2RHLI21i-hXga.m3u8?variant_version=1&tag=14
@@ -1508,3 +1564,88 @@ https://video.twimg.com/amplify_video/1919602814160125952/pl/t5p2RHLI21i-hXga.m3
 
 #EXTINF:-1 tvg-id="gilvicentevsfcporto2000sportzxlive" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="Live: Club Friendly",Gil Vicente vs FC Porto 20:00 (SportzX Live)
 https://video.twimg.com/amplify_video/1919602814160125952/pl/t5p2RHLI21i-hXga.m3u8?variant_version=1&tag=14
+
+#EXTINF:-1 tvg-id="coritibavspalmeiras2330sportdigitalfussball" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="Live: Brasileirão",Coritiba vs Palmeiras 23:30 (SportDigital Fussball)
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"0ad4080cdff8c60b1233b22087f0b340":"285f129c5eca01dd08a5d5a14ad801c8"}
+https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/ssdefyhkkr/out/v1/cf01290cb7f64525bdf861580a016ca8/cenc.mpd
+
+#EXTINF:-1 tvg-id="coritibavspalmeiras2330primevideohd" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="Live: Brasileirão",Coritiba vs Palmeiras 23:30 (PRIME VIDEO HD)
+https://rdcstream.life/live/primevideo/index.m3u8?
+
+#EXTINF:-1 tvg-id="chapecoensevsflamengo0130premiererbr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="Live: Brasileirão",Chapecoense vs Flamengo 01:30 (PREMIERER BR)
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"56b79c1782b30e6b6fc973b0e8fd4104":"fa38aaa865a57eda7c77444697ba8ed3"}
+https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/nelfyucw9a/out/v1/6ffb2c365ad14f88b154591beb43d1f6/cenc.mpd
+
+#EXTINF:-1 tvg-id="chapecoensevsflamengo0130globobrhd" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="Live: Brasileirão",Chapecoense vs Flamengo 01:30 (GLOBO BR HD)
+https://rdcstream.life/live/globorj/index.m3u8?
+
+#EXTINF:-1 tvg-id="internacionalvscruzeiro0130premiersportsfhd" tvg-logo="https://play-lh.googleusercontent.com/zG_ZS5v4PfHqWqWLkpVkZB9wRu9MJmEqD4tNpeIYwLOcjU3INQlFeTxoVgwV1R2CbcsI" group-title="Live: Brasileirão",Internacional vs Cruzeiro 01:30 (Premier Sports FHD)
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"1a5df53609ebc9857898c490f4724918":"77f62980d582ec541280796acf8b2d19"}
+https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/bcj3iscpd6/out/v1/fcd137b391214f7cb99dd4d7be90ca87/cenc.mpd
+
+#EXTINF:-1 tvg-id="internacionalvscruzeiro0130premiererbr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="Live: Brasileirão",Internacional vs Cruzeiro 01:30 (PREMIERER BR)
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"d23f7433798a652a7d4f6791d9e1036c":"4942eebd598b5727c5cc484cc62b52e8"}
+https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/6onrfniyry/out/v1/f23069c61dbf4e00890a40b705a84079/cenc.mpd
+
+#EXTINF:-1 tvg-id="sopaulovsathletico0130premiererbr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="Live: Brasileirão",S o Paulo vs Athletico 01:30 (PREMIERER BR)
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"9dc40460c93087aea84d6315f08ecb64":"f69c8d4624fddff4ca89bd0b31bdc4a7"}
+https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/oy6rp0jwmf/out/v1/580ecf12bad24979baf8dd993dce053e/cenc.mpd
+
+#EXTINF:-1 tvg-id="intermiamivschicagofire0030appletvhd" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="Live: MLS 🇺🇸",Inter Miami vs Chicago Fire 00:30 (APPLE TV  HD)
+https://rdcstream.life/live/inter-miami-x-chicago-fire/index.m3u8?
+
+#EXTINF:-1 tvg-id="charlottevsatlantaunited0115foxsportsfhd" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="Live: MLS 🇺🇸",Charlotte vs Atlanta United 01:15 (FOX SPORTS FHD)
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"5466ebd70704bdeb657f0abf3c5ca4ef":"bdd79b72d8e48ed483aa623cc38a8a16"}
+https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/fsu3wl2rwb/out/v1/be61206c04e643349d53fb22301f3b50/cenc.mpd
+
+#EXTINF:-1 tvg-id="charlottevsatlantaunited0115foxdeportes" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="Live: MLS 🇺🇸",Charlotte vs Atlanta United 01:15 (FOX DEPORTES)
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"d1a163914db8ffad2c3e94f979896a0d":"9728800a3959aafdd5b0bcfbf3768811"}
+https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/vkpoljjpkj/out/v1/502bcf68b3514cd28a220e6f0a43816f/cenc.mpd
+
+#EXTINF:-1 tvg-id="newenglandvstoronto0030tsnsportsfhd" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="Live: MLS 🇺🇸",New England vs Toronto 00:30 (TSN SPORTS FHD)
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"abc5b2883121012850ebda05b528c5ec":"e5250924f4b738905f7163a0134587a7"}
+https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/ihys8nw4wv/out/v1/fde190f369484bc6b6117cc16cd82a9f/cenc.mpd
+
+#EXTINF:-1 tvg-id="independientevsvasco2300beinsports" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="Live: CON. Sudamericana",Independiente vs Vasco 23:00 (beIN SPORTS)
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"7995c724a13748ed970840a8ab5bb9b3":"67bdaf1e2175b9ff682fcdf0e2354b1e"}
+https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/q4u5nwaogz/out/v1/18de6d3e65934f3a8de4358e69eab86c/cenc.mpd
+
+#EXTINF:-1 tvg-id="lansvscienciano0130beinsports" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="Live: CON. Sudamericana",Lan s vs Cienciano 01:30 (beIN SPORTS)
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"7995c724a13748ed970840a8ab5bb9b3":"67bdaf1e2175b9ff682fcdf0e2354b1e"}
+https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/q4u5nwaogz/out/v1/18de6d3e65934f3a8de4358e69eab86c/cenc.mpd
+
+#EXTINF:-1 tvg-id="sportingcristalvsrbbragantino0130beinsports" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="Live: CON. Sudamericana",Sporting Cristal vs RB Bragantino 01:30 (beIN SPORTS)
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"0b42be2664d7e811d04f3e504e0924c5":"ae24090123b8c72ac5404dc152847cb8"}
+https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/8m8cd46i1t/out/v1/83985c68e4174e90a58a1f2c024be4c9/cenc.mpd
+
+#EXTINF:-1 tvg-id="torinovsalcionemilano1630sportzxlive" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="Live: Club Friendly",Torino vs Alcione Milano 16:30 (SportzX Live)
+https://live.vivo200.com/live/sd-1-4591081.m3u8?txSecret=ce31f8be6c8b56ee5099e1d46a33cb3a&txTime=6A60F6F1
+
+#EXTINF:-1 tvg-id="torinovsalcionemilano1630hdserver" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="Live: Club Friendly",Torino vs Alcione Milano 16:30 (HD SERVER)
+https://hls.streamhub.media/hls/thesport-api-cf89962de572ba5ddac3/master.m3u8
+
+#EXTINF:-1 tvg-id="torinovsalcionemilano1630sdserver" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="Live: Club Friendly",Torino vs Alcione Milano 16:30 (SD SERVER)
+http://193.47.62.49/hls/RRRRQ.m3u8?
+
+#EXTINF:-1 tvg-id="nantesvslaroche1630sportzxlive" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="Live: Club Friendly",Nantes vs La Roche 16:30 (SportzX Live)
+https://live.vivo200.com/live/sd-1-4589237.m3u8?txSecret=11e6d0c2fe41248a03eff20b5886f4b9&txTime=6A60F74C
+
+#EXTINF:-1 tvg-id="nantesvslaroche1630sdserver" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="Live: Club Friendly",Nantes vs La Roche 16:30 (SD SERVER)
+http://193.47.62.49/hls/RRRR.m3u8?
+
+#EXTINF:-1 tvg-id="stadebrestoisvsalwakrah1700sportzxlive" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="Live: Club Friendly",Stade Brestois vs Al-Wakrah 17:00 (SportzX Live)
+https://live.vivo200.com/live/sd-1-4591082.m3u8?txSecret=50c78556f7ca9b97e3c213aae1fa07a2&txTime=6A60F7BA
+
+#EXTINF:-1 tvg-id="stadebrestoisvsalwakrah1700sdserver" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="Live: Club Friendly",Stade Brestois vs Al-Wakrah 17:00 (SD SERVER)
+https://hls.streamhub.media/hls/thesport-api-1023c0b7b49d69961315/master.m3u8
