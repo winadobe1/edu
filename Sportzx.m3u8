@@ -1524,36 +1524,13 @@ https://edgestream3.pro/hls/kjhfzua25.m3u8??
 #EXTINF:-1 tvg-id="2redsoxvsbaltimoreorioles0010sportzxlive" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="Live: MLB",2. Red Sox vs Baltimore Orioles 00:10 (SportzX Live)
 https://edgestream2.pro/hls/jzabfazkbf27.m3u8??
 
-#EXTINF:-1 tvg-id="sparksvsphoenixmercury2000sportzxlive" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="Live: WNBA",Sparks vs Phoenix Mercury 20:00 (SportzX Live)
-https://edgestream1.pro/hls/bvnsqdfvgha70.m3u8??
-
-#EXTINF:-1 tvg-id="stormvsminnesotalynx2000sportzxlive" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="Live: WNBA",Storm vs Minnesota Lynx 20:00 (SportzX Live)
-https://edgestream1.pro/hls/ztyarueaghj71.m3u8??
-
-#EXTINF:-1 tvg-id="azalkmaarvskrcgenk1730sportzxlive" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="Live: Club Friendly",AZ Alkmaar vs KRC Genk 17:30 (SportzX Live)
-https://live.vivo200.com/live/sd-1-4589244.m3u8?txSecret=ddf37bc0771305f5112c65af149e1770&txTime=6A61008C
-
-#EXTINF:-1 tvg-id="rangersvssainttienne1945sportzxlive" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="Live: Club Friendly",Rangers vs Saint- tienne 19:45 (SportzX Live)
-http://193.47.62.50/hls/KIIII.m3u8?
-
-#EXTINF:-1 tvg-id="gilvicentevsfcporto2000sportzxlive" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="Live: Club Friendly",Gil Vicente vs FC Porto 20:00 (SportzX Live)
-https://live.vivo200.com/live/sd-1-4592244.m3u8?txSecret=578978e76e7d36f9632aad1e414e6b76&txTime=6A612626
-
-#EXTINF:-1 tvg-id="gilvicentevsfcporto2000lowquality" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="Live: Club Friendly",Gil Vicente vs FC Porto 20:00 (LOW QUALITY)
-http://193.47.62.41/hls/ddddAAAA.m3u8?
-
-#EXTINF:-1 tvg-id="coritibavspalmeiras2330sportdigitalfussball" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="Live: Brasileirão",Coritiba vs Palmeiras 23:30 (SportDigital Fussball)
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={"0ad4080cdff8c60b1233b22087f0b340":"285f129c5eca01dd08a5d5a14ad801c8"}
-https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/ssdefyhkkr/out/v1/cf01290cb7f64525bdf861580a016ca8/cenc.mpd
-
-#EXTINF:-1 tvg-id="coritibavspalmeiras2330primevideohd" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="Live: Brasileirão",Coritiba vs Palmeiras 23:30 (PRIME VIDEO HD)
-https://rdcstream.life/live/primevideo/index.m3u8?
-
 #EXTINF:-1 tvg-id="chapecoensevsflamengo0130premiererbr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="Live: Brasileirão",Chapecoense vs Flamengo 01:30 (PREMIERER BR)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={"56b79c1782b30e6b6fc973b0e8fd4104":"fa38aaa865a57eda7c77444697ba8ed3"}
 https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/nelfyucw9a/out/v1/6ffb2c365ad14f88b154591beb43d1f6/cenc.mpd
+
+#EXTINF:-1 tvg-id="chapecoensevsflamengo0130globobrfhd" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="Live: Brasileirão",Chapecoense vs Flamengo 01:30 (GLOBO BR FHD)
+https://live-ancdn-11.video.globo.com/j/eyJhbGciOiJSUzUxMiIsImtpZCI6IjEiLCJ0eXAiOiJKV1QifQ.eyJjb3VudHJ5X2NvZGUiOiJCRCIsImRvbWFpbiI6ImxpdmUtYW5jZG4tMTEudmlkZW8uZ2xvYm8uY29tIiwiZXhwIjoxNzg0Nzg4MzgzLCJpYXQiOjE3ODQ3NjY3ODMsImlzcyI6InBsYXliYWNrLWFwaS1wcm9kLWdjcCIsIm93bmVyIjoiMzNmNDI1YTUtZWE3ZS00NTI0LWIxM2ItMTU5OTMzNjhjNmIyIiwicGF0aCI6Ii9saXZlL2YoaT0yKS9nbG9iby1yai9wbGF5bGlzdC5tM3U4In0.VsV1-KJDVh4Q3uutHrbLd1jOFKfFbYrgpuyiYiMb3PkNLKWFCuRAJJIEWnD911ApZqHmZwuxd4VJSerRckkTvIaO4BpZQ5FowcVKmtWHY5q1xVY27L4WC5w0vq5HiIofn1ZGFANwFiWZsKzUehpE6RsBHh92NcU3QvydEwVK01tEpI8WY4mPe06A1RUFDD_bNQo7IsmXtFwsO20xqmT_0URYHYUIO_V-n2315OBmKtard8bwITfeDi1YVoZ24wsoteATq-WMMVZTPir7QF95w6WXaxATt7JWP6anfzn4KDwfGWQqeHMnGUzD4BZl58DlmDznRrJYbeeLZ6rPpoCBnA/live/f(i=2)/globo-rj/playlist.m3u8
 
 #EXTINF:-1 tvg-id="chapecoensevsflamengo0130globobrhd" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="Live: Brasileirão",Chapecoense vs Flamengo 01:30 (GLOBO BR HD)
 https://rdcstream.life/live/globorj/index.m3u8?
@@ -1568,10 +1545,16 @@ https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/bcj3iscpd6/out/v1
 #KODIPROP:inputstream.adaptive.license_key={"d23f7433798a652a7d4f6791d9e1036c":"4942eebd598b5727c5cc484cc62b52e8"}
 https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/6onrfniyry/out/v1/f23069c61dbf4e00890a40b705a84079/cenc.mpd
 
+#EXTINF:-1 tvg-id="internacionalvscruzeiro0130globorsfhd" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="Live: Brasileirão",Internacional vs Cruzeiro 01:30 (GLOBO RS FHD)
+https://live-ancdn-10.video.globo.com/j/eyJhbGciOiJSUzUxMiIsImtpZCI6IjEiLCJ0eXAiOiJKV1QifQ.eyJjb3VudHJ5X2NvZGUiOiJCRCIsImRvbWFpbiI6ImxpdmUtYW5jZG4tMTAudmlkZW8uZ2xvYm8uY29tIiwiZXhwIjoxNzg0Nzg4NDE4LCJpYXQiOjE3ODQ3NjY4MTgsImlzcyI6InBsYXliYWNrLWFwaS1wcm9kLWdjcCIsIm93bmVyIjoiYmE2Mzc2NDAtN2I0ZS00ZTBmLTkwYjktMzI1ZDllM2ZiYTMwIiwicGF0aCI6Ii9saXZlL2YoaT0yKS9nbG9iby1yczEvcGxheWxpc3QubTN1OCJ9.dqU2wBHDt1zcc4spYMUeTX4u8NFEEuS1U6PlhrczppW7V6a78wAVbLvoeYwyBtNTFXnYDlwYRH7Q4_B-VFRcunbjthGHeKMlrm4u7Of90mjWMSug3IJnu1r-rnX9Hy0EpW-326F_bDrRy0SNDA1witB4JG6m0IAgPU0P0QVvBx3HrmTa6_hjdF1HqS_a2d1ZFgMLRIKfWhu5k3VJoaTaXyPIgFVnrbaPxLwDTfZrbJlazmhMFucZi-cSdAhEAZq_962_K3UPDChuZaY3qWeAg5s4hiT6U2DWwmhcdQwYNPH7uwHS9UGD2TB4WkwIjIXw1iPacJt2mTvfVA4yrDOTKw/live/f(i=2)/globo-rs1/playlist.m3u8
+
 #EXTINF:-1 tvg-id="sopaulovsathletico0130premiererbr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="Live: Brasileirão",S o Paulo vs Athletico 01:30 (PREMIERER BR)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={"9dc40460c93087aea84d6315f08ecb64":"f69c8d4624fddff4ca89bd0b31bdc4a7"}
 https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/oy6rp0jwmf/out/v1/580ecf12bad24979baf8dd993dce053e/cenc.mpd
+
+#EXTINF:-1 tvg-id="sopaulovsathletico0130globobrfhd" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="Live: Brasileirão",S o Paulo vs Athletico 01:30 (GLOBO BR FHD)
+https://live-ancdn-05.video.globo.com/j/eyJhbGciOiJSUzUxMiIsImtpZCI6IjEiLCJ0eXAiOiJKV1QifQ.eyJjb3VudHJ5X2NvZGUiOiJCRCIsImRvbWFpbiI6ImxpdmUtYW5jZG4tMDUudmlkZW8uZ2xvYm8uY29tIiwiZXhwIjoxNzg0Nzg4MzI2LCJpYXQiOjE3ODQ3NjY3MjYsImlzcyI6InBsYXliYWNrLWFwaS1wcm9kLWdjcCIsIm93bmVyIjoiNzEyMTJlYTEtMGYyYi00ODQyLWIxOTEtYTMwZDViZDk0NTNjIiwicGF0aCI6Ii9saXZlL2YoaT0yKS9nbG9iby1zcDEvcGxheWxpc3QubTN1OCJ9.cScQWoKyuosSnBgbo-zVoyjJyidODASJaiUnaqAepid6vo3R4vXLI_sOL4h6zg9BdUOWin9vm5sXMilHGvYWzdNr5eZrSCYAgkUasxJJKau5JywyqmBSbrAXsKWwW-tDRB3-mA27LLKR0ZxFs_ajOjAYQVu1uMqhn1MU-hpGD5jn2HHYVNMBjIioQppvOXxSpIdbBFCEXB71bWt-FSvsjToqS1_fRQM0wmqGcGY__qVXOh7dc5Kwmig70jy1zTZJIkj2jJW0WedWqNEaf9YgLAViQhok_H2bzdcQ_crhT2cCTGVbusW9xkwAn7sbggyERXseiItg9fvPPkhwHa2Rqw/live/f(i=2)/globo-sp1/playlist.m3u8
 
 #EXTINF:-1 tvg-id="intermiamivschicagofire0030appletvhd" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="Live: MLS 🇺🇸",Inter Miami vs Chicago Fire 00:30 (APPLE TV  HD)
 https://rdcstream.life/live/inter-miami-x-chicago-fire/index.m3u8?
@@ -1591,11 +1574,6 @@ https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/vkpoljjpkj/out/v1
 #KODIPROP:inputstream.adaptive.license_key={"abc5b2883121012850ebda05b528c5ec":"e5250924f4b738905f7163a0134587a7"}
 https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/ihys8nw4wv/out/v1/fde190f369484bc6b6117cc16cd82a9f/cenc.mpd
 
-#EXTINF:-1 tvg-id="independientevsvasco2300beinsports" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="Live: CON. Sudamericana",Independiente vs Vasco 23:00 (beIN SPORTS)
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={"7995c724a13748ed970840a8ab5bb9b3":"67bdaf1e2175b9ff682fcdf0e2354b1e"}
-https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/q4u5nwaogz/out/v1/18de6d3e65934f3a8de4358e69eab86c/cenc.mpd
-
 #EXTINF:-1 tvg-id="lansvscienciano0130beinsports" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="Live: CON. Sudamericana",Lan s vs Cienciano 01:30 (beIN SPORTS)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={"7995c724a13748ed970840a8ab5bb9b3":"67bdaf1e2175b9ff682fcdf0e2354b1e"}
@@ -1605,9 +1583,3 @@ https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/q4u5nwaogz/out/v1
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={"0b42be2664d7e811d04f3e504e0924c5":"ae24090123b8c72ac5404dc152847cb8"}
 https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/8m8cd46i1t/out/v1/83985c68e4174e90a58a1f2c024be4c9/cenc.mpd
-
-#EXTINF:-1 tvg-id="burtonvsbirminghamcity1930sdserver" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="Live: Club Friendly",Burton vs Birmingham City 19:30 (SD SERVER)
-http://193.47.62.58/hls/HZZZAA.m3u8?
-
-#EXTINF:-1 tvg-id="cdtenerifevsgetafe1930sportzxlive" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="Live: Club Friendly",CD Tenerife vs Getafe 19:30 (SportzX Live)
-https://live.vivo200.com/live/sd-1-4591116.m3u8?txSecret=e6cc34df156444ba51f8012748d0fb96&txTime=6A6125C8
