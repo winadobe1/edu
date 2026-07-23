@@ -1238,33 +1238,6 @@ https://27lftgqlgzmy.windows-devs.top/AccessLog2/83_FHD/apache.m3u8
 #EXTINF:-1 tvg-id="wwe0100backupsd" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="Live: WWE",WWE 01:00 (BACKUP SD)
 https://27lftgqlgzmy.windows-devs.top/AccessLog2/108087_HD/apache.m3u8
 
-#EXTINF:-1 tvg-id="zimbabwevsindia1200fancodefhd" tvg-logo="null" group-title="Live: Cricket",Zimbabwe vs India 12:00 (FANCODE - FHD)
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={"065051b99bf5cf8d9a3bde5cbde6aaf9":"214bd176832872339ce184338320f9a2"}
-https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/h35gev6jft/out/v1/c64004e114c245a4ab84bb570275a4a9/cenc.mpd
-
-#EXTINF:-1 tvg-id="zimbabwevsindia1200fancodealt" tvg-logo="null" group-title="Live: Cricket",Zimbabwe vs India 12:00 (FANCODE - ALT)
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={"065051b99bf5cf8d9a3bde5cbde6aaf9":"214bd176832872339ce184338320f9a2"}
-https://a204aivottepl-a.akamaihd.net/sin-nitro/live/clients/dash/enc/h35gev6jft/out/v1/c64004e114c245a4ab84bb570275a4a9/cenc.mpd
-
-#EXTINF:-1 tvg-id="zimbabwevsindia1200fancodesd" tvg-logo="null" group-title="Live: Cricket",Zimbabwe vs India 12:00 (FANCODE - SD)
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={"5689304538fa9f3bb3da99c939a2ad4f":"6907c88ed8ebdd35a2fa80b9684715e1"}
-https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash-sd/enc/v8g0dlo4z8/out/v1/946019f85dc64ae99ff9ce64a9727a62/cenc-sd.mpd
-
-#EXTINF:-1 tvg-id="zimbabwevsindia1200fancodehin" tvg-logo="null" group-title="Live: Cricket",Zimbabwe vs India 12:00 (FANCODE - HIN)
-https://in-mc-pdlive.fancode.com/mumbai/143351_hindi_hls_e275e99cda1596_1ta-di_h264/index.m3u8
-
-#EXTINF:-1 tvg-id="zimbabwevsindia1200fancodein" tvg-logo="null" group-title="Live: Cricket",Zimbabwe vs India 12:00 (FANCODE - IN)
-https://in-mc-flive.fancode.com/mumbai/143351_english_hls_7119dc88e319837_1ta-di_h264/index.m3u8
-
-#EXTINF:-1 tvg-id="zimbabwevsindia1200fancodebd" tvg-logo="null" group-title="Live: Cricket",Zimbabwe vs India 12:00 (FANCODE - BD)
-https://bd-mc-pdlive.fancode.com/mumbai/143351_english_hls_7119dc88e319837_1ta-di_h264/index.m3u8
-
-#EXTINF:-1 tvg-id="zimbabwevsindia1200cricketfhd" tvg-logo="null" group-title="Live: Cricket",Zimbabwe vs India 12:00 (CRICKET FHD)
-https://bl.rutube.ru/livestream/7c13a51576b9ff2601f08f5d57dd5169/index.m3u8?s=uiXES2ePt7xTpQnbJxn7Dg&e=2074684474&scheme=https
-
 #EXTINF:-1 tvg-id="onefridayfights1330onefightfhd" tvg-logo="https://iili.io/BihxDjj.png" group-title="Live: Boxing",ONE Friday Fights 13:30 (One Fight FHD)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={"308006101c8fd0262c0f529319b9c127":"37683aadc75b1450efa82d62c647984d"}
@@ -1350,17 +1323,6 @@ https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/w0rehjjrwe/out/v1
 #KODIPROP:inputstream.adaptive.license_key={"abc5b2883121012850ebda05b528c5ec":"e5250924f4b738905f7163a0134587a7"}
 https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/ihys8nw4wv/out/v1/fde190f369484bc6b6117cc16cd82a9f/cenc.mpd
 
-#EXTINF:-1 tvg-id="srilankawvspakistanw0530willowfhd" tvg-logo="https://s21.q4cdn.com/819998841/files/doc_news/2024/May/Willow-logo-transparent-cb.png" group-title="Live: Cricket",Sri Lanka W vs Pakistan W 05:30 (WILLOW FHD)
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={"290e09c837da78d5cd961978d390515c":"b748836c71e6a4ca68ef5b5652db6247"}
-https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/tll6uwepxa/out/v1/a7f67cbb33df46539312956427343886/cenc.mpd
-
-#EXTINF:-1 tvg-id="srilankawvspakistanw0530tapmadfhd" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="Live: Cricket",Sri Lanka W vs Pakistan W 05:30 (TAPMAD - FHD)
-https://saseries.akamaized.net/hls/live/2110097/2356jkiL-tapmad/master.m3u8
-
-#EXTINF:-1 tvg-id="srilankawvspakistanw0530willowsd" tvg-logo="https://s21.q4cdn.com/819998841/files/doc_news/2024/May/Willow-logo-transparent-cb.png" group-title="Live: Cricket",Sri Lanka W vs Pakistan W 05:30 (WILLOW - SD)
-http://tvsen5.aynascope.net/willowhd/index.m3u8
-
 #EXTINF:-1 tvg-id="westindiesvspakistan1500fancodefhd" tvg-logo="https://m.media-amazon.com/images/I/21K+HipHr6L.png" group-title="Live: Cricket",West Indies vs Pakistan 15:00 (FANCODE FHD)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={"7e9239c1982d984a002df3ed049d0756":"1b8a17598129a3618535c8fb05f103fe"}
@@ -1383,26 +1345,21 @@ https://in-mc-pdlive.fancode.com/mumbai/143607_english_hls_4aaf721a353393_1ta-di
 #EXTINF:-1 tvg-id="westindiesvspakistan1500fancodebd" tvg-logo="https://m.media-amazon.com/images/I/21K+HipHr6L.png" group-title="Live: Cricket",West Indies vs Pakistan 15:00 (FANCODE - BD)
 https://bd-mc-pdlive.fancode.com/mumbai/143607_english_hls_4aaf721a353393_1ta-di_h264/index.m3u8
 
-#EXTINF:-1 tvg-id="lpl1030willowfhd" tvg-logo="https://s21.q4cdn.com/819998841/files/doc_news/2024/May/Willow-logo-transparent-cb.png" group-title="Live: Lanka Premier League",LPL 10:30 (WILLOW FHD)
+#EXTINF:-1 tvg-id="lpl1500willowfhd" tvg-logo="https://s21.q4cdn.com/819998841/files/doc_news/2024/May/Willow-logo-transparent-cb.png" group-title="Live: Lanka Premier League",LPL 15:00 (WILLOW FHD)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={"9f567bab672bd15dcbea0c8f29365ca1":"9101126d4d41bca6ecc906e47d8fd143"}
-https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/rpm5xf58oy/out/v1/7fde24af3de04b4c89f2caa3f024cc06/cenc.mpd
+#KODIPROP:inputstream.adaptive.license_key={"fe6dc83d53e08c5626b6aec2bb4a3afe":"da58f6323d6388054bd316890f729f72"}
+https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/jpjzsonseg/out/v1/26eeb47cccd24e2d8e1975655a1f04e9/cenc.mpd
 
-#EXTINF:-1 tvg-id="lpl1030fancodefhd" tvg-logo="https://m.media-amazon.com/images/I/21K+HipHr6L.png" group-title="Live: Lanka Premier League",LPL 10:30 (FANCODE - FHD)
+#EXTINF:-1 tvg-id="lpl1500willowalt" tvg-logo="https://s21.q4cdn.com/819998841/files/doc_news/2024/May/Willow-logo-transparent-cb.png" group-title="Live: Lanka Premier League",LPL 15:00 (WILLOW - ALT)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={"065051b99bf5cf8d9a3bde5cbde6aaf9":"214bd176832872339ce184338320f9a2"}
-https://a204aivottepl-a.akamaihd.net/sin-nitro/live/clients/dash/enc/h35gev6jft/out/v1/c64004e114c245a4ab84bb570275a4a9/cenc.mpd
+#KODIPROP:inputstream.adaptive.license_key={"fe6dc83d53e08c5626b6aec2bb4a3afe":"da58f6323d6388054bd316890f729f72"}
+https://abfjk4haaaaaaaamkitc5445rybm6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/jpjzsonseg/out/v1/26eeb47cccd24e2d8e1975655a1f04e9/cenc.mpd
 
-#EXTINF:-1 tvg-id="lpl1030willowalt" tvg-logo="https://s21.q4cdn.com/819998841/files/doc_news/2024/May/Willow-logo-transparent-cb.png" group-title="Live: Lanka Premier League",LPL 10:30 (WILLOW - ALT)
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={"9f567bab672bd15dcbea0c8f29365ca1":"9101126d4d41bca6ecc906e47d8fd143"}
-https://abfjk4haaaaaaaamkitc5445rybm6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/rpm5xf58oy/out/v1/7fde24af3de04b4c89f2caa3f024cc06/cenc.mpd
+#EXTINF:-1 tvg-id="lpl1500fancodein" tvg-logo="https://m.media-amazon.com/images/I/21K+HipHr6L.png" group-title="Live: Lanka Premier League",LPL 15:00 (FANCODE - IN)
+https://in-mc-pdlive.fancode.com/mumbai/4246714_english_hls_073cf4f34754904_1ta-di_h264/index.m3u8
 
-#EXTINF:-1 tvg-id="lpl1030fancodein" tvg-logo="https://m.media-amazon.com/images/I/21K+HipHr6L.png" group-title="Live: Lanka Premier League",LPL 10:30 (FANCODE - IN)
-https://in-mc-pdlive.fancode.com/mumbai/4246715_english_hls_5e63e652d62937_1ta-di_h264/index.m3u8
-
-#EXTINF:-1 tvg-id="lpl1030fancodebd" tvg-logo="https://m.media-amazon.com/images/I/21K+HipHr6L.png" group-title="Live: Lanka Premier League",LPL 10:30 (FANCODE - BD)
-https://bd-mc-pdlive.fancode.com/mumbai/4246715_english_hls_5e63e652d62937_1ta-di_h264/index.m3u8
+#EXTINF:-1 tvg-id="lpl1500fancodebd" tvg-logo="https://m.media-amazon.com/images/I/21K+HipHr6L.png" group-title="Live: Lanka Premier League",LPL 15:00 (FANCODE - BD)
+https://bd-mc-pdlive.fancode.com/mumbai/4246714_english_hls_073cf4f34754904_1ta-di_h264/index.m3u8
 
 #EXTINF:-1 tvg-id="hundredmen1830willowfhd" tvg-logo="https://s21.q4cdn.com/819998841/files/doc_news/2024/May/Willow-logo-transparent-cb.png" group-title="Live: The Hundred",Hundred MEN 18:30 (WILLOW FHD)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -1431,28 +1388,34 @@ https://tmaxapp.site/8wirwjs76erftg/skysport2nz.m3u8
 
 #EXTINF:-1 tvg-id="hundredwomen1445willowfhd" tvg-logo="https://s21.q4cdn.com/819998841/files/doc_news/2024/May/Willow-logo-transparent-cb.png" group-title="Live: The Hundred",Hundred WOMEN 14:45 (WILLOW FHD)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={"8787005b2c501603a117e26044f93e50":"e57ce8dcc0158ef1002ab5bba0f25d14"}
-https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/wvy4bjqqtx/out/v1/a8eb10fe4a4445a39c4aada4b042fb88/cenc.mpd
+#KODIPROP:inputstream.adaptive.license_key={"edd5fb967a4e6c38a619569dcd317c5a":"3d8bb28d3a01f6e8f377aca162619a47"}
+https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/6okuxrru64/out/v1/2d2cf5a09acc49d68d844903696062b8/cenc.mpd
 
 #EXTINF:-1 tvg-id="hundredwomen1445cricketfhd" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTVqp1Plsy44x_6pIyvUttdbXc5LMugRMGfldjYKQbI9X_X7txzS2d7WPph" group-title="Live: The Hundred",Hundred WOMEN 14:45 (CRICKET FHD)
 https://bl.rutube.ru/livestream/7c13a51576b9ff2601f08f5d57dd5169/index.m3u8?s=uiXES2ePt7xTpQnbJxn7Dg&e=2074684474&scheme=https
 
-#EXTINF:-1 tvg-id="hundredwomen1445bbcsports" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="Live: The Hundred",Hundred WOMEN 14:45 (BBC SPORTS)
-https://tmaxapp.site/8wirwjs76erftg/bbctwo.m3u8
-
-#EXTINF:-1 tvg-id="hundredwomen1445tapmadfhd" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="Live: The Hundred",Hundred WOMEN 14:45 (TAPMAD FHD)
-https://saseries.akamaized.net/hls/live/2110097/2356jkiL-tapmad/master.m3u8
-
 #EXTINF:-1 tvg-id="hundredwomen1445willowalt" tvg-logo="https://s21.q4cdn.com/819998841/files/doc_news/2024/May/Willow-logo-transparent-cb.png" group-title="Live: The Hundred",Hundred WOMEN 14:45 (WILLOW - ALT)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={"8787005b2c501603a117e26044f93e50":"e57ce8dcc0158ef1002ab5bba0f25d14"}
-https://abfjk4haaaaaaaamkitc5445rybm6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/wvy4bjqqtx/out/v1/a8eb10fe4a4445a39c4aada4b042fb88/cenc.mpd
+#KODIPROP:inputstream.adaptive.license_key={"edd5fb967a4e6c38a619569dcd317c5a":"3d8bb28d3a01f6e8f377aca162619a47"}
+https://abfjk4haaaaaaaamkitc5445rybm6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/6okuxrru64/out/v1/2d2cf5a09acc49d68d844903696062b8/cenc.mpd
 
 #EXTINF:-1 tvg-id="hundredwomen1445skysport" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTVqp1Plsy44x_6pIyvUttdbXc5LMugRMGfldjYKQbI9X_X7txzS2d7WPph" group-title="Live: The Hundred",Hundred WOMEN 14:45 (SKY SPORT)
 https://tmaxapp.site/8wirwjs76erftg/skysport2nz.m3u8
 
+#EXTINF:-1 tvg-id="hundredwomen1445tapmadfhd" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="Live: The Hundred",Hundred WOMEN 14:45 (TAPMAD FHD)
+https://saseries.akamaized.net/hls/live/2110097/2356jkiL-tapmad/master.m3u8
+
+#EXTINF:-1 tvg-id="hundredwomen1445sonyliv" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="Live: The Hundred",Hundred WOMEN 14:45 (SonyLiv)
+https://sonydaimenew.akamaized.net/hls/live/2022321/DAI17ME-V3/master.m3u8?hdnea=exp=1784756002~acl=/*~id=01d7cb8efe80bd31ab0c0ae6a6d3175b-1784712737570-180820105164192310~hmac=aabe24ba3b5f5ca6a2e1a7eb7337660c8811f71ad4562addd0f9ffdf1fbf3ab9
+
+#EXTINF:-1 tvg-id="hundredwomen1445lowserver" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="Live: The Hundred",Hundred WOMEN 14:45 (LOW SERVER)
+http://193.47.62.43/hls/vaaaa.m3u8
+
+#EXTINF:-1 tvg-id="atlantabravesvspadres1715sportzxmlb" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="Live: MLB",Atlanta Braves vs Padres 17:15 (SportzX MLB)
+https://chatgpt.hereisman.net/playlist/53715/load-playlist?&.m3u8
+
 #EXTINF:-1 tvg-id="atlantabravesvspadres1715sportzxlive" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="Live: MLB",Atlanta Braves vs Padres 17:15 (SportzX Live)
-https://edgestream1.pro/hls/16yuitzaerghbhc16.m3u8?
+https://edgestream3.pro/hls/dazhfiach15.m3u8?
 
 #EXTINF:-1 tvg-id="guardiansvsminnesotatwins1810sportzxlive" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="Live: MLB",Guardians vs Minnesota Twins 18:10 (SportzX Live)
 https://edgestream3.pro/hls/dazhfiach15.m3u8?
@@ -1466,11 +1429,15 @@ https://edgestream3.pro/hls/Czajafjihafch18.m3u8?
 #EXTINF:-1 tvg-id="detroittigersvsroyals2340sportzxlive" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="Live: MLB",Detroit Tigers vs Royals 23:40 (SportzX Live)
 https://edgestream3.pro/hls/fskjanach24.m3u8?
 
-#EXTINF:-1 tvg-id="adelaidecrowsvscollingwood1030tntmaxhd" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="Live: AFL",Adelaide Crows vs Collingwood 10:30 (TNT MAX HD)
-https://tmaxapp.site/8wirwjs76erftg/tntsports3.m3u8
+#EXTINF:-1 tvg-id="globalsuperleague1500willowfhd" tvg-logo="https://s21.q4cdn.com/819998841/files/doc_news/2024/May/Willow-logo-transparent-cb.png" group-title="Live: Cricket",Global Super League 15:00 (WILLOW - FHD)
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"89191e6bfbd29dee4c593cb15c4925c3":"ebcd78506f203fd0b3cf422d4a5ba0d4"}
+https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/oakh3hb4vk/out/v1/a8493a8887bd47c8a40cea87ceef414f/cenc.mpd
 
-#EXTINF:-1 tvg-id="adelaidecrowsvscollingwood1030sportzxlive" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="Live: AFL",Adelaide Crows vs Collingwood 10:30 (SportzX Live)
-https://tmaxapp.site/8wirwjs76erftg/skysport5nz.m3u8
+#EXTINF:-1 tvg-id="globalsuperleague1500willowalt" tvg-logo="https://s21.q4cdn.com/819998841/files/doc_news/2024/May/Willow-logo-transparent-cb.png" group-title="Live: Cricket",Global Super League 15:00 (WILLOW - ALT)
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"89191e6bfbd29dee4c593cb15c4925c3":"ebcd78506f203fd0b3cf422d4a5ba0d4"}
+https://abfjk4haaaaaaaamkitc5445rybm6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/oakh3hb4vk/out/v1/a8493a8887bd47c8a40cea87ceef414f/cenc.mpd
 
 #EXTINF:-1 tvg-id="parramattavspenrithpanthers1050foxsports" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="Live: NRL Rugby",Parramatta vs Penrith Panthers 10:50 (FOX SPORTS)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -1487,3 +1454,49 @@ https://in-mc-pdlive.fancode.com/mumbai/4246704_english_hls_37559e4d8d64597_1ta-
 
 #EXTINF:-1 tvg-id="cwcleague1000fancodebd" tvg-logo="https://m.media-amazon.com/images/I/21K+HipHr6L.png" group-title="Live: Cricket",CWC LEAGUE 10:00 (FANCODE - BD)
 https://bd-mc-pdlive.fancode.com/mumbai/4246704_english_hls_37559e4d8d64597_1ta-di_h264/index.m3u8
+
+#EXTINF:-1 tvg-id="beiktajkvsmidtjylland1900sportzxlive" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="Live: UEFA Europa",Be ikta  JK vs Midtjylland 19:00 (SportzX Live)
+https://video.twimg.com/amplify_video/1919602814160125952/pl/t5p2RHLI21i-hXga.m3u8?variant_version=1&tag=14
+
+#EXTINF:-1 tvg-id="stgallenvsbenfica1900sportzxlive" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="Live: UEFA Europa",St. Gallen vs Benfica 19:00 (SportzX Live)
+https://video.twimg.com/amplify_video/1919602814160125952/pl/t5p2RHLI21i-hXga.m3u8?variant_version=1&tag=14
+
+#EXTINF:-1 tvg-id="twentevsferencvros1900sportzxlive" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="Live: UEFA Europa",Twente vs Ferencv ros 19:00 (SportzX Live)
+https://video.twimg.com/amplify_video/1919602814160125952/pl/t5p2RHLI21i-hXga.m3u8?variant_version=1&tag=14
+
+#EXTINF:-1 tvg-id="vojvodinavsafcajax1900sportzxlive" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="Live: UEFA Conference",Vojvodina vs AFC Ajax 19:00 (SportzX Live)
+https://video.twimg.com/amplify_video/1919602814160125952/pl/t5p2RHLI21i-hXga.m3u8?variant_version=1&tag=14
+
+#EXTINF:-1 tvg-id="crdobavssevilla2000sportzxlive" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="Live: Club Friendly",C rdoba vs Sevilla 20:00 (SportzX Live)
+https://video.twimg.com/amplify_video/1919602814160125952/pl/t5p2RHLI21i-hXga.m3u8?variant_version=1&tag=14
+
+#EXTINF:-1 tvg-id="botafogovsvitria2330premiererbr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="Live: Brasileirão",Botafogo vs Vit ria 23:30 (PREMIERER BR)
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"9dc40460c93087aea84d6315f08ecb64":"f69c8d4624fddff4ca89bd0b31bdc4a7"}
+https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/oy6rp0jwmf/out/v1/580ecf12bad24979baf8dd993dce053e/cenc.mpd
+
+#EXTINF:-1 tvg-id="corinthiansvsremo2330premiererbr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="Live: Brasileirão",Corinthians vs Remo 23:30 (PREMIERER BR)
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"56b79c1782b30e6b6fc973b0e8fd4104":"fa38aaa865a57eda7c77444697ba8ed3"}
+https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/nelfyucw9a/out/v1/6ffb2c365ad14f88b154591beb43d1f6/cenc.mpd
+
+#EXTINF:-1 tvg-id="bolvarvsgrmio2300beinsports" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="Live: CON. Sudamericana",Bol var vs Gr mio 23:00 (beIN SPORTS)
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"7995c724a13748ed970840a8ab5bb9b3":"67bdaf1e2175b9ff682fcdf0e2354b1e"}
+https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/q4u5nwaogz/out/v1/18de6d3e65934f3a8de4358e69eab86c/cenc.mpd
+
+#EXTINF:-1 tvg-id="santafevscaracasfc0130beinsports" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="Live: CON. Sudamericana",Santa Fe vs Caracas F.C. 01:30 (beIN SPORTS)
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"7995c724a13748ed970840a8ab5bb9b3":"67bdaf1e2175b9ff682fcdf0e2354b1e"}
+https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/q4u5nwaogz/out/v1/18de6d3e65934f3a8de4358e69eab86c/cenc.mpd
+
+#EXTINF:-1 tvg-id="bocajuniorsvsohiggins0130beinsports" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="Live: CON. Sudamericana",Boca Juniors vs O'Higgins 01:30 (beIN SPORTS)
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"0b42be2664d7e811d04f3e504e0924c5":"ae24090123b8c72ac5404dc152847cb8"}
+https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/8m8cd46i1t/out/v1/83985c68e4174e90a58a1f2c024be4c9/cenc.mpd
+
+#EXTINF:-1 tvg-id="fcmalishevavshibernian1530sportzxlive" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="Live: UEFA Conference",FC Malisheva vs Hibernian 15:30 (SportzX Live)
+https://live.vivo200.com/live/sd-1-4590886.m3u8?txSecret=b72ba63bda298212f6cbd1d73dee7287&txTime=6A6237FA
+
+#EXTINF:-1 tvg-id="fcmalishevavshibernian1530sdserver" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Serie_A.png" group-title="Live: UEFA Conference",FC Malisheva vs Hibernian 15:30 (SD SERVER)
+http://193.47.62.43/hls/vaaaaQ.m3u8?
