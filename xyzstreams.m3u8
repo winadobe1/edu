@@ -1,5 +1,5 @@
 #EXTM3U x-tvg-url=""
-# Generated from xyzstreams.st (Standalone Auto-Discovery) - 2026-07-25T05:33:21.701Z
+# Generated from xyzstreams.st (Standalone Auto-Discovery) - 2026-07-25T07:47:35.801Z
 # Channels: 91 | Events: 2 | Discovered Sports: MLB, WNBA, NBA
 
 #-----------------------------------------
@@ -875,14 +875,14 @@ https://player.xyzstreams.st/embed/lakers
 #-----------------------------------------
 # LIVE EVENTS (Homepage)
 #-----------------------------------------
-#EXTINF:-1 tvg-logo="https://sports.yahoo.com/assets/og/boxscore/soccer/13595406/" tvg-start="2026-07-25T03:00:00.000Z" tvg-stop="2026-07-25T05:30:00.000Z" group-title="Football",Tijuana vs León
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/OTk2xLw6xyk/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLAfqQaYlXMBK6pkMNzQUkgojCYtCw" tvg-start="2026-07-25T13:00:00.000Z" tvg-stop="2026-07-25T18:00:00.000Z" group-title="Combat Sports",Anthony Joshua vs. Kristian Prenga
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://xyzstreams.st/
 #EXTVLCOPT:http-origin=https://xyzstreams.st
-https://247v2.xyzstreams.st/?stream_id=${encodedStreamId}&pro_id=${encodedProId}&index.m3u8
+https://xyzstreams.st/i-stream-1.html
 
-#EXTINF:-1 tvg-logo="https://dfwfis.prod.dtvcdn.com/catalog/image/imageserver/v1/service/sports/6da3be7d-7132-4c1a-b294-f6d1a060867f/iconic-ci/640/360" tvg-start="2026-07-25T03:00:00.000Z" tvg-stop="2026-07-25T05:30:00.000Z" group-title="Football",Atlante vs América
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/IR19SSHENew/maxresdefault.jpg" tvg-start="2026-07-25T13:00:00.000Z" tvg-stop="2026-07-25T18:00:00.000Z" group-title="Combat Sports",UFC Fight Night: Ankalaev vs. Guskov
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://xyzstreams.st/
 #EXTVLCOPT:http-origin=https://xyzstreams.st
-https://247v2.xyzstreams.st/?stream_id=${encodedStreamId}&pro_id=${encodedProId}&index.m3u8
+https://xyzstreams.st/ufc.html
