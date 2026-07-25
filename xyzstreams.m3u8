@@ -1,6 +1,6 @@
 #EXTM3U x-tvg-url=""
-# Generated from xyzstreams.st (Standalone Auto-Discovery) - 2026-07-24T21:52:34.597Z
-# Channels: 91 | Events: 1 | Discovered Sports: MLB, WNBA, NBA
+# Generated from xyzstreams.st (Standalone Auto-Discovery) - 2026-07-25T01:19:37.594Z
+# Channels: 91 | Events: 2 | Discovered Sports: MLB, WNBA, NBA
 
 #-----------------------------------------
 # 24/7 CHANNELS
@@ -875,8 +875,14 @@ https://player.xyzstreams.st/embed/lakers
 #-----------------------------------------
 # LIVE EVENTS (Homepage)
 #-----------------------------------------
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRHnYpGV9t9EpKKS7pEe7ahQOKT-WHKbnkVj-TJ5yU3nQ&s=10" tvg-start="2026-07-24T16:00:00.000Z" tvg-stop="2026-07-24T18:30:00.000Z" group-title="Football",Rosenborg vs. Manchester United
+#EXTINF:-1 tvg-logo="https://sports.yahoo.com/assets/og/boxscore/soccer/13595406/" tvg-start="2026-07-25T03:00:00.000Z" tvg-stop="2026-07-25T05:30:00.000Z" group-title="Football",Tijuana vs León
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://xyzstreams.st/
 #EXTVLCOPT:http-origin=https://xyzstreams.st
-https://fiveo4.vilevodules.uk/main/secure/0b7c8d56d0ad44a11a3187ba1faa3abaea68f8e90803892806b570d4ac91efcc/1784933555/mutv.m3u8
+https://247v2.xyzstreams.st/?stream_id=${encodedStreamId}&pro_id=${encodedProId}&index.m3u8
+
+#EXTINF:-1 tvg-logo="https://dfwfis.prod.dtvcdn.com/catalog/image/imageserver/v1/service/sports/6da3be7d-7132-4c1a-b294-f6d1a060867f/iconic-ci/640/360" tvg-start="2026-07-25T03:00:00.000Z" tvg-stop="2026-07-25T05:30:00.000Z" group-title="Football",Atlante vs América
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://xyzstreams.st/
+#EXTVLCOPT:http-origin=https://xyzstreams.st
+https://247v2.xyzstreams.st/?stream_id=${encodedStreamId}&pro_id=${encodedProId}&index.m3u8
