@@ -1,6 +1,6 @@
 #EXTM3U x-tvg-url=""
-# Generated from xyzstreams.st (Standalone Auto-Discovery) - 2026-07-26T18:52:23.274Z
-# Channels: 91 | Events: 0 | Discovered Sports: MLB, WNBA, NBA
+# Generated from xyzstreams.st (Standalone Auto-Discovery) - 2026-07-26T21:50:22.217Z
+# Channels: 91 | Events: 1 | Discovered Sports: MLB, WNBA, NBA
 
 #-----------------------------------------
 # 24/7 CHANNELS
@@ -871,3 +871,18 @@ https://247v2.xyzstreams.st/?stream_id=espnu&pro_id=sling&index.m3u8
 #EXTVLCOPT:http-referrer=https://xyzstreams.st/
 #EXTVLCOPT:http-origin=https://xyzstreams.st
 https://player.xyzstreams.st/embed/lakers
+
+#-----------------------------------------
+# LIVE EVENTS (Homepage)
+#-----------------------------------------
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.165ccfda-c850-43aa-8e42-185c9ec68965/5/BOXART-16X9/en-US._UR1920,1080_SX624_FMjpg_.jpg" tvg-start="2026-07-26T23:00:00.000Z" tvg-stop="2026-07-27T04:00:00.000Z" group-title="Combat Sports",AEW Redemption (Link 1)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://xyzstreams.st/
+#EXTVLCOPT:http-origin=https://xyzstreams.st
+https://247v2.xyzstreams.st/?stream_id=${encodedStreamId}&pro_id=${encodedProId}&index.m3u8
+
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.165ccfda-c850-43aa-8e42-185c9ec68965/5/BOXART-16X9/en-US._UR1920,1080_SX624_FMjpg_.jpg" tvg-start="2026-07-26T23:00:00.000Z" tvg-stop="2026-07-27T04:00:00.000Z" group-title="Combat Sports",AEW Redemption (Link 2)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://xyzstreams.st/
+#EXTVLCOPT:http-origin=https://xyzstreams.st
+https://247v2.xyzstreams.st/?stream_id=${encodedStreamId}&pro_id=${encodedProId}&index.m3u8
