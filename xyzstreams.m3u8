@@ -1,6 +1,6 @@
 #EXTM3U x-tvg-url=""
-# Generated from xyzstreams.st (Standalone Auto-Discovery) - 2026-07-30T16:20:45.164Z
-# Channels: 91 | Events: 4 | Discovered Sports: MLB, WNBA, NBA
+# Generated from xyzstreams.st (Standalone Auto-Discovery) - 2026-07-30T19:06:13.048Z
+# Channels: 94 | Events: 3 | Discovered Sports: MLB, WNBA, NBA
 
 #-----------------------------------------
 # 24/7 CHANNELS
@@ -551,6 +551,24 @@ https://247v2.xyzstreams.st/?stream_id=hbomovies&pro_id=sling&index.m3u8
 #EXTVLCOPT:http-origin=https://xyzstreams.st
 https://247v2.xyzstreams.st/?stream_id=hbolatino&pro_id=sling&index.m3u8
 
+#EXTINF:-1 tvg-logo="https://logos-world.net/wp-content/uploads/2022/01/Hallmark-Channel-Logo-2022.png" group-title="XYZ Channels",Hallmark
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://xyzstreams.st/
+#EXTVLCOPT:http-origin=https://xyzstreams.st
+https://247v2.xyzstreams.st/?stream_id=hallmarkchannel&pro_id=sling&index.m3u8
+
+#EXTINF:-1 tvg-logo="https://static0.srcdn.com/wordpress/wp-content/uploads/2025/05/hallmark-family.png?q=50&fit=contain&w=500&h=500&dpr=1.5" group-title="XYZ Channels",Hallmark Family
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://xyzstreams.st/
+#EXTVLCOPT:http-origin=https://xyzstreams.st
+https://247v2.xyzstreams.st/?stream_id=hallmarkfamily&pro_id=sling&index.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/32/Hallmark_Mystery_2024.svg" group-title="XYZ Channels",Hallmark Mystery
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://xyzstreams.st/
+#EXTVLCOPT:http-origin=https://xyzstreams.st
+https://247v2.xyzstreams.st/?stream_id=hallmarkmystery&pro_id=sling&index.m3u8
+
 #-----------------------------------------
 # MLB STREAMS (Auto-Discovered)
 #-----------------------------------------
@@ -875,38 +893,32 @@ https://player.xyzstreams.st/embed/lakers
 #-----------------------------------------
 # LIVE EVENTS (Homepage)
 #-----------------------------------------
-#EXTINF:-1 tvg-logo="https://d2779tscntxxsw.cloudfront.net/697b7b7f6645e.png" tvg-start="2026-07-29T22:15:00.000Z" tvg-stop="2026-07-30T03:00:00.000Z" group-title="Motor Sports",2026 USAC Indiana Sprint Week at Paragon Speedway
+#EXTINF:-1 tvg-logo="https://d2779tscntxxsw.cloudfront.net/697b7b7f6645e.png" tvg-start="2026-07-30T22:15:00.000Z" tvg-stop="2026-07-31T03:00:00.000Z" group-title="Motor Sports",2026 USAC Indiana Sprint Week at Terre Haute Action Track
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://xyzstreams.st/
 #EXTVLCOPT:http-origin=https://xyzstreams.st
-https://hiveatick.casadenoval.uk/main/secure/502fca7800786c06a3855f19eec236e0efcdeb2f9b0ac3e3d27f360619bf5f50/1785432045/flo3-xyz-1.m3u8
+https://hiveatick.casadenoval.uk/main/secure/a795a25e69acf168aba4622109c09c9cbd5b4001ba7b404aa9ef8bdc6aaa1af4/1785441974/flo3-xyz-1.m3u8
 
-#EXTINF:-1 tvg-logo="https://dirtvision.asset.viewlift.com/images/2025/11/20/7-29-26_SC-1763653945291.png?impolicy=resize&w=1920&h=1080" tvg-start="2026-07-29T22:15:00.000Z" tvg-stop="2026-07-30T03:00:00.000Z" group-title="Motor Sports",World of Outlaws
+#EXTINF:-1 tvg-logo="https://dirtvision.asset.viewlift.com/images/2026/04/16/Cedar-Lake1-1776350576180.png" tvg-start="2026-07-30T23:00:00.000Z" tvg-stop="2026-07-31T03:00:00.000Z" group-title="Motor Sports",Cedar Lake Speedway - World of Outlaws Late Models
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://xyzstreams.st/
 #EXTVLCOPT:http-origin=https://xyzstreams.st
-https://hiveatick.casadenoval.uk/main/secure/360e9f4d8110aadec949f8571afac1fbe0bb7ce86fd55a355c1722745557cc2e/1785432045/woo.m3u8
+https://hiveatick.casadenoval.uk/main/secure/91c7905e80f457664a0241b44b9e73056150fdd8f8f3f68d844bbed3093f199a/1785441974/woo.m3u8
 
-#EXTINF:-1 tvg-logo="https://imgs.fubo.tv/s/page-manager/page-manager/common/slate?w=1.0&h=1.0&auto=format&mask=ellipse2.png&mask-bg=486627&bg=B00000&mark-w=1.0&mark-h=1.0&mark-pad=0&mark64=aHR0cHM6Ly9pbWdzLmZ1Ym8udHYvcy9wYWdlLW1hbmFnZXIvcGFnZS1tYW5hZ2VyL2NvbW1vbi9zbGF0ZT93PTE5MjAmaD0xMDgwJmF1dG89Zm9ybWF0JmJsZW5kLW1vZGU9bm9ybWFsJmJsZW5kLXg9OTYwJmJsZW5kNjQ9YUhSMGNITTZMeTlwYldkekxtWjFZbTh1ZEhZdmN5OW5jbUZqWlc1dmRHVXZZWE56WlhSekwzUTJOek14WDJ4ZmFERTFYMkZoTG5CdVp6OTNQVGsyTUNab1BURXdPREFtY0dGa1BURXhPU1p3WVdRdGRHOXdQVEk0Tmlad1lXUXRZbTkwZEc5dFBUSTROaVowY21sdFBXRnNjR2hoSm1acGREMW1hV3hzSm1acGJHeERiMnh2Y2owd01EQXdNREF3TUEmbWFyay14PTAmbWFyay1wYWQ9MCZtYXJrNjQ9YUhSMGNITTZMeTlwYldkekxtWjFZbTh1ZEhZdmN5OW5jbUZqWlc1dmRHVXZZWE56WlhSekwzUTJNVEkyWDJ4ZmFERTFYMkZqTG5CdVp6OTNQVGsyTUNab1BURXdPREFtY0dGa1BURXhPU1p3WVdRdGRHOXdQVEk0Tmlad1lXUXRZbTkwZEc5dFBUSTROaVowY21sdFBXRnNjR2hoSm1acGREMW1hV3hzSm1acGJHeERiMnh2Y2owd01EQXdNREF3TUE" tvg-start="2026-07-29T23:30:00.000Z" tvg-stop="2026-07-30T02:30:00.000Z" group-title="Football",Wrexham vs Liverpool (Link 1)
+#EXTINF:-1 tvg-logo="https://assets.goal.com/images/v3/NZg_xT20rqClyYr57KvfA_DESKTOP/image.jpg" tvg-start="2026-07-30T23:30:00.000Z" tvg-stop="2026-07-31T02:30:00.000Z" group-title="Football",Sunderland vs Leeds United (Link 1)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://xyzstreams.st/
 #EXTVLCOPT:http-origin=https://xyzstreams.st
-https://hiveatick.casadenoval.uk/main/secure/dbc84490f7dcb08e493a712bca7cbd48b0474bb63e28b73ddbb413ca3bc53ee9/1785432046/lfctv.m3u8
+https://hiveatick.casadenoval.uk/main/secure/4b2bbe04e840ae11fc938a20f74779808f4280c4fa11b6d34df7c1b6488a71cc/1785441974/lfctv.m3u8
 
-#EXTINF:-1 tvg-logo="https://imgs.fubo.tv/s/page-manager/page-manager/common/slate?w=1.0&h=1.0&auto=format&mask=ellipse2.png&mask-bg=486627&bg=B00000&mark-w=1.0&mark-h=1.0&mark-pad=0&mark64=aHR0cHM6Ly9pbWdzLmZ1Ym8udHYvcy9wYWdlLW1hbmFnZXIvcGFnZS1tYW5hZ2VyL2NvbW1vbi9zbGF0ZT93PTE5MjAmaD0xMDgwJmF1dG89Zm9ybWF0JmJsZW5kLW1vZGU9bm9ybWFsJmJsZW5kLXg9OTYwJmJsZW5kNjQ9YUhSMGNITTZMeTlwYldkekxtWjFZbTh1ZEhZdmN5OW5jbUZqWlc1dmRHVXZZWE56WlhSekwzUTJOek14WDJ4ZmFERTFYMkZoTG5CdVp6OTNQVGsyTUNab1BURXdPREFtY0dGa1BURXhPU1p3WVdRdGRHOXdQVEk0Tmlad1lXUXRZbTkwZEc5dFBUSTROaVowY21sdFBXRnNjR2hoSm1acGREMW1hV3hzSm1acGJHeERiMnh2Y2owd01EQXdNREF3TUEmbWFyay14PTAmbWFyay1wYWQ9MCZtYXJrNjQ9YUhSMGNITTZMeTlwYldkekxtWjFZbTh1ZEhZdmN5OW5jbUZqWlc1dmRHVXZZWE56WlhSekwzUTJNVEkyWDJ4ZmFERTFYMkZqTG5CdVp6OTNQVGsyTUNab1BURXdPREFtY0dGa1BURXhPU1p3WVdRdGRHOXdQVEk0Tmlad1lXUXRZbTkwZEc5dFBUSTROaVowY21sdFBXRnNjR2hoSm1acGREMW1hV3hzSm1acGJHeERiMnh2Y2owd01EQXdNREF3TUE" tvg-start="2026-07-29T23:30:00.000Z" tvg-stop="2026-07-30T02:30:00.000Z" group-title="Football",Wrexham vs Liverpool (Link 2)
+#EXTINF:-1 tvg-logo="https://assets.goal.com/images/v3/NZg_xT20rqClyYr57KvfA_DESKTOP/image.jpg" tvg-start="2026-07-30T23:30:00.000Z" tvg-stop="2026-07-31T02:30:00.000Z" group-title="Football",Sunderland vs Leeds United (Link 2)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://xyzstreams.st/
 #EXTVLCOPT:http-origin=https://xyzstreams.st
 https://247v2.xyzstreams.st/?stream_id=${encodedStreamId}&pro_id=${encodedProId}&index.m3u8
 
-#EXTINF:-1 tvg-logo="https://imgs.fubo.tv/s/page-manager/page-manager/common/slate?w=1.0&h=1.0&auto=format&mask=ellipse2.png&mask-bg=486627&bg=B00000&mark-w=1.0&mark-h=1.0&mark-pad=0&mark64=aHR0cHM6Ly9pbWdzLmZ1Ym8udHYvcy9wYWdlLW1hbmFnZXIvcGFnZS1tYW5hZ2VyL2NvbW1vbi9zbGF0ZT93PTE5MjAmaD0xMDgwJmF1dG89Zm9ybWF0JmJsZW5kLW1vZGU9bm9ybWFsJmJsZW5kLXg9OTYwJmJsZW5kNjQ9YUhSMGNITTZMeTlwYldkekxtWjFZbTh1ZEhZdmN5OW5jbUZqWlc1dmRHVXZZWE56WlhSekwzUTJOek14WDJ4ZmFERTFYMkZoTG5CdVp6OTNQVGsyTUNab1BURXdPREFtY0dGa1BURXhPU1p3WVdRdGRHOXdQVEk0Tmlad1lXUXRZbTkwZEc5dFBUSTROaVowY21sdFBXRnNjR2hoSm1acGREMW1hV3hzSm1acGJHeERiMnh2Y2owd01EQXdNREF3TUEmbWFyay14PTAmbWFyay1wYWQ9MCZtYXJrNjQ9YUhSMGNITTZMeTlwYldkekxtWjFZbTh1ZEhZdmN5OW5jbUZqWlc1dmRHVXZZWE56WlhSekwzUTJNVEkyWDJ4ZmFERTFYMkZqTG5CdVp6OTNQVGsyTUNab1BURXdPREFtY0dGa1BURXhPU1p3WVdRdGRHOXdQVEk0Tmlad1lXUXRZbTkwZEc5dFBUSTROaVowY21sdFBXRnNjR2hoSm1acGREMW1hV3hzSm1acGJHeERiMnh2Y2owd01EQXdNREF3TUE" tvg-start="2026-07-29T23:30:00.000Z" tvg-stop="2026-07-30T02:30:00.000Z" group-title="Football",Wrexham vs Liverpool (Link 3)
+#EXTINF:-1 tvg-logo="https://assets.goal.com/images/v3/NZg_xT20rqClyYr57KvfA_DESKTOP/image.jpg" tvg-start="2026-07-30T23:30:00.000Z" tvg-stop="2026-07-31T02:30:00.000Z" group-title="Football",Sunderland vs Leeds United (Link 3)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://xyzstreams.st/
 #EXTVLCOPT:http-origin=https://xyzstreams.st
-https://hiveatick.casadenoval.uk/main/secure/7107b469583951e670f0494bc363e3be2a5f4818612be058e0de83c489ac8ebb/1785432046/lfc.m3u8
-
-#EXTINF:-1 tvg-logo="https://is1-ssl.mzstatic.com/image/thumb/F64wWKIjwO71vAo-OpEg7Q/680x442Sports.TVAMCR02.webp" tvg-start="2026-07-30T00:00:00.000Z" tvg-stop="2026-07-30T03:00:00.000Z" group-title="Football",MLS All Star Team vs Liga MX All-Stars
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://xyzstreams.st/
-#EXTVLCOPT:http-origin=https://xyzstreams.st
-https://hiveatick.casadenoval.uk/main/secure/8dad93ebfbb14bf33599b3103672f5ec26dc4ea97fdd01a6094e920368635c91/1785432046/mls-allstar.m3u8
+https://hiveatick.casadenoval.uk/main/secure/9927d3458f5498dd3dfd372d49a882aef81d1e33bac0640a0d2b7bb9be40852c/1785441974/lfc.m3u8
