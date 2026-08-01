@@ -1,3 +1,20 @@
+/**
+ * extract_xyzstream.js
+ *
+ * Standalone M3U Extractor for https://xyzstreams.st/
+ * 
+ * Fitur:
+ *   1. Fetch langsung ke server tanpa perlu file HAR.
+ *   2. Ekstrak 24/7 SLING channels dari homepage.
+ *   3. Ekstrak EVENTS_DATA (Live Events) dari homepage.
+ *   4. Auto-discovery: otomatis mencari URL olahraga di homepage (MLB, WNBA, F1, dll)
+ *      lalu mengambil link stream M3U8_CHANNELS_MAP secara dinamis.
+ *   5. Fallback fetch NBA dari JSON API endpoint rahasia.
+ *
+ * Usage:
+ *   node extract_xyzstream.js [output.m3u]
+ */
+
 'use strict';
 const fs    = require('fs');
 const path  = require('path');
@@ -93,10 +110,19 @@ async function resolveEventStreamUrl(eventPageUrl) {
       // Fallback m3u8 match
       const m3u8Match = embedRes.body.match(/https?:\/\/[^"'`\s]+\.m3u8[^"'`\s]*/i);
       if (m3u8Match) {
-        m3u8List.push(m3u8Match[0]);
+        let foundUrl = m3u8Match[0];
+        if (foundUrl.includes('${')) {
+          let embedU = new URL(embedUrl, SITE_ORIGIN);
+          const sid = embedU.searchParams.get('streamid') || embedU.searchParams.get('stream_id') || '';
+          const pid = embedU.searchParams.get('proid') || embedU.searchParams.get('pro_id') || '';
+          foundUrl = foundUrl.replace(/\$\{(?:encoded)?StreamId\}/i, sid)
+                             .replace(/\$\{(?:encoded)?ProId\}/i, pid);
+        }
+        m3u8List.push(foundUrl);
       }
     }
   }
+
   return m3u8List;
 }
 
@@ -304,6 +330,7 @@ async function main() {
     lines.push('#-----------------------------------------');
     lines.push('# 24/7 CHANNELS');
     lines.push('#-----------------------------------------');
+    
     for (const ch of slingChannels) {
       let url = `${STREAM_BASE}?stream_id=${encodeURIComponent(ch.id)}&pro_id=${PRO_ID}&index.m3u8`;
       
@@ -316,7 +343,6 @@ async function main() {
           if (m3u8Match) {
             let foundUrl = m3u8Match[1];
             if (foundUrl.includes('${')) {
-              // Sometimes the URL is a JS template literal, e.g. https://ftv.../${encodedStreamId}/${encodedProId}/master.m3u8
               const params = new URL(ch.embedUrl, 'https://xyzstreams.st').searchParams;
               const sid = params.get('streamid') || '';
               const pid = params.get('proid') || '';
