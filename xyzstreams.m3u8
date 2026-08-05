@@ -1,6 +1,6 @@
 #EXTM3U x-tvg-url=""
-# Generated from xyzstreams.st (Standalone Auto-Discovery) - 2026-08-05T05:35:52.812Z
-# Channels: 94 | Events: 6 | Discovered Sports: MLB, WNBA, NBA
+# Generated from xyzstreams.st (Standalone Auto-Discovery) - 2026-08-05T08:12:08.297Z
+# Channels: 94 | Events: 3 | Discovered Sports: MLB, WNBA, NBA
 
 #-----------------------------------------
 # 24/7 CHANNELS
@@ -893,38 +893,44 @@ https://player.xyzstreams.st/embed/lakers
 #-----------------------------------------
 # LIVE EVENTS (Homepage)
 #-----------------------------------------
-#EXTINF:-1 tvg-logo="https://images.xyzstreams.st/?logo1=https://cdn.livesoccertv.com/tt/images/teams/united-states/logos/fc-cincinnati.png&logo2=https://cdn.livesoccertv.com/tt/images/teams/mexico/logos/pachuca.png?q=65&w=100" tvg-start="2026-08-04T23:45:00.000Z" tvg-stop="2026-08-05T01:45:00.000Z" group-title="Football",Cincinnati vs Pachuca
+#EXTINF:-1 tvg-logo="https://images.xyzstreams.st/?logo1=https://cdn.livesoccertv.com/tt/images/teams/italy/logos/ac-milan.png&logo2=https://cdn.livesoccertv.com/tt/images/teams/italy/logos/inter-milan.png?q=65&w=100" tvg-start="2026-08-05T11:00:00.000Z" tvg-stop="2026-08-05T13:00:00.000Z" group-title="Football",Milan vs Internazionale (Link 1)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://xyzstreams.st/
 #EXTVLCOPT:http-origin=https://xyzstreams.st
-https://hiveatick.casadenoval.uk/main/secure/73263f08925a0603f56dd9acaf2ba0874cc91fbc57cf993baa2c50fd3b6b4c5e/1785911753/mls-cincinnati.m3u8
+https://hiveatick.casadenoval.uk/main/secure/a77c23a4693ef5681e1fb8318793d441fc3ca58b8e1afd97236395b7c880a53f/1785921128/polsatsport1-pl.m3u8
 
-#EXTINF:-1 tvg-logo="https://images.xyzstreams.st/?logo1=https://cdn.livesoccertv.com/tt/images/teams/united-states/logos/columbus-crew.png&logo2=https://cdn.livesoccertv.com/tt/images/teams/mexico/logos/atlas.png?q=65&w=100" tvg-start="2026-08-04T23:45:00.000Z" tvg-stop="2026-08-05T01:45:00.000Z" group-title="Football",Columbus Crew vs Atlas
+#EXTINF:-1 tvg-logo="https://images.xyzstreams.st/?logo1=https://cdn.livesoccertv.com/tt/images/teams/italy/logos/ac-milan.png&logo2=https://cdn.livesoccertv.com/tt/images/teams/italy/logos/inter-milan.png?q=65&w=100" tvg-start="2026-08-05T11:00:00.000Z" tvg-stop="2026-08-05T13:00:00.000Z" group-title="Football",Milan vs Internazionale (Link 2)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://xyzstreams.st/
 #EXTVLCOPT:http-origin=https://xyzstreams.st
-https://hiveatick.casadenoval.uk/main/secure/fea90b819b925ad57e610f995ece03a920cb289cabe67f0c01939397fb8b18f3/1785911753/mls-columbus.m3u8
+https://hiveatick.casadenoval.uk/main/secure/13074bb35b97032222504093577ff02167c1c9d86ec6973b6cd6a59133519f1c/1785921128/milan-it-xyz.m3u8
 
-#EXTINF:-1 tvg-logo="https://images.xyzstreams.st/?logo1=https://cdn.livesoccertv.com/tt/images/teams/united-states/logos/charlotte.png&logo2=https://cdn.livesoccertv.com/tt/images/teams/mexico/logos/pumas-unam.png?q=65&w=100" tvg-start="2026-08-05T00:00:00.000Z" tvg-stop="2026-08-05T02:00:00.000Z" group-title="Football",Charlotte vs Pumas UNAM
+#EXTINF:-1 tvg-logo="https://images.xyzstreams.st/?logo1=https://cdn.livesoccertv.com/tt/images/teams/italy/logos/ac-milan.png&logo2=https://cdn.livesoccertv.com/tt/images/teams/italy/logos/inter-milan.png?q=65&w=100" tvg-start="2026-08-05T11:00:00.000Z" tvg-stop="2026-08-05T13:00:00.000Z" group-title="Football",Milan vs Internazionale (Link 3)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://xyzstreams.st/
 #EXTVLCOPT:http-origin=https://xyzstreams.st
-https://hiveatick.casadenoval.uk/main/secure/5407c6bb64be2c14ec5f711bde7ba5200abbf649175110f28a99cbc0be23c0a0/1785911753/mls-charlotte.m3u8
+https://247v2.xyzstreams.st/?stream_id=foxdeportesdishonly&pro_id=sling&index.m3u8
 
-#EXTINF:-1 tvg-logo="https://images.xyzstreams.st/?logo1=https://cdn.livesoccertv.com/tt/images/teams/united-states/logos/minnesota-united.png&logo2=https://cdn.livesoccertv.com/tt/images/teams/mexico/logos/juarez.png?q=65&w=100" tvg-start="2026-08-05T00:30:00.000Z" tvg-stop="2026-08-05T02:30:00.000Z" group-title="Football",Minnesota United vs Juárez
+#EXTINF:-1 tvg-logo="https://images.xyzstreams.st/?logo1=https://cdn.livesoccertv.com/images/teams/generic5.png&logo2=https://cdn.livesoccertv.com/tt/images/teams/england/logos/manchester-city.png?q=65&w=100" tvg-start="2026-08-05T11:00:00.000Z" tvg-stop="2026-08-05T13:00:00.000Z" group-title="Football",K-league Stars vs Manchester City (Link 1)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://xyzstreams.st/
 #EXTVLCOPT:http-origin=https://xyzstreams.st
-https://hiveatick.casadenoval.uk/main/secure/c3822866fb0e00ccf54dc21c2aaa3a5772ce7bacdc058ec11981d6d7fb7f4e8f/1785911753/mls-minnesota.m3u8
+https://247v2.xyzstreams.st/?stream_id=cbssportsnetworkdish&pro_id=sling&index.m3u8
 
-#EXTINF:-1 tvg-logo="https://images.xyzstreams.st/?logo1=https://cdn.livesoccertv.com/tt/images/teams/mexico/logos/tigres-uanl.png&logo2=https://cdn.livesoccertv.com/tt/images/teams/united-states/logos/real-salt-lake.png?q=65&w=100" tvg-start="2026-08-05T02:00:00.000Z" tvg-stop="2026-08-05T04:00:00.000Z" group-title="Football",Tigres UANL vs Real Salt Lake
+#EXTINF:-1 tvg-logo="https://images.xyzstreams.st/?logo1=https://cdn.livesoccertv.com/images/teams/generic5.png&logo2=https://cdn.livesoccertv.com/tt/images/teams/england/logos/manchester-city.png?q=65&w=100" tvg-start="2026-08-05T11:00:00.000Z" tvg-stop="2026-08-05T13:00:00.000Z" group-title="Football",K-league Stars vs Manchester City (Link 2)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://xyzstreams.st/
 #EXTVLCOPT:http-origin=https://xyzstreams.st
-https://hiveatick.casadenoval.uk/main/secure/325c56b2b5c5bc831317e22382fa7a77d52d8738fe4a8fc354fa85490325b15e/1785911753/mls-rsl.m3u8
+https://hiveatick.casadenoval.uk/main/secure/b35cb87705bcd69c1d80ba5794fdbb4bda05dcee85b4e77d3aeb7c7dd3d60429/1785921129/cbssn-usa.m3u8
 
-#EXTINF:-1 tvg-logo="https://images.xyzstreams.st/?logo1=https://cdn.livesoccertv.com/tt/images/teams/canada/logos/vancouver-whitecaps.png&logo2=https://cdn.livesoccertv.com/tt/images/teams/mexico/logos/atlante.png?q=65&w=100" tvg-start="2026-08-05T02:30:00.000Z" tvg-stop="2026-08-05T04:30:00.000Z" group-title="Football",Vancouver Whitecaps vs Atlante
+#EXTINF:-1 tvg-logo="https://images.xyzstreams.st/?logo1=https://cdn.livesoccertv.com/tt/images/teams/england/logos/chelsea.png&logo2=https://cdn.livesoccertv.com/tt/images/teams/italy/logos/juventus.png?q=65&w=100" tvg-start="2026-08-05T11:30:00.000Z" tvg-stop="2026-08-05T13:30:00.000Z" group-title="Football",Chelsea vs Juventus (Link 1)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://xyzstreams.st/
 #EXTVLCOPT:http-origin=https://xyzstreams.st
-https://hiveatick.casadenoval.uk/main/secure/33ffedc830742fb955fbfd93e4dd991fdb35211407cf8a36e542940dffa1f1a0/1785911753/mls-vancouver.m3u8
+https://hiveatick.casadenoval.uk/main/secure/ace31798984955ab2a647be513c633db601b69ab142d977d82c498aaa6e3e5d8/1785921129/cbsgolazo.m3u8
+
+#EXTINF:-1 tvg-logo="https://images.xyzstreams.st/?logo1=https://cdn.livesoccertv.com/tt/images/teams/england/logos/chelsea.png&logo2=https://cdn.livesoccertv.com/tt/images/teams/italy/logos/juventus.png?q=65&w=100" tvg-start="2026-08-05T11:30:00.000Z" tvg-stop="2026-08-05T13:30:00.000Z" group-title="Football",Chelsea vs Juventus (Link 2)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://xyzstreams.st/
+#EXTVLCOPT:http-origin=https://xyzstreams.st
+https://hiveatick.casadenoval.uk/main/secure/60af7ca58bf860e5ff13a07ff9817a77ddd38aa213e6bd2568d0913c51d47660/1785921129/juventus-it-xyz.m3u8
