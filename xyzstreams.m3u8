@@ -1,6 +1,6 @@
 #EXTM3U x-tvg-url=""
-# Generated from xyzstreams.st (Standalone Auto-Discovery) - 2026-08-05T16:26:24.374Z
-# Channels: 94 | Events: 3 | Discovered Sports: MLB, WNBA, NBA
+# Generated from xyzstreams.st (Standalone Auto-Discovery) - 2026-08-05T19:09:51.084Z
+# Channels: 94 | Events: 2 | Discovered Sports: MLB, WNBA, NBA
 
 #-----------------------------------------
 # 24/7 CHANNELS
@@ -893,44 +893,38 @@ https://player.xyzstreams.st/embed/lakers
 #-----------------------------------------
 # LIVE EVENTS (Homepage)
 #-----------------------------------------
-#EXTINF:-1 tvg-logo="https://images.xyzstreams.st/?logo1=https://cdn.livesoccertv.com/tt/images/teams/italy/logos/ac-milan.png&logo2=https://cdn.livesoccertv.com/tt/images/teams/italy/logos/inter-milan.png?q=65&w=100" tvg-start="2026-08-05T11:00:00.000Z" tvg-stop="2026-08-05T13:00:00.000Z" group-title="Football",Milan vs Internazionale (Link 1)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://xyzstreams.st/
-#EXTVLCOPT:http-origin=https://xyzstreams.st
-https://hiveatick.casadenoval.uk/main/secure/102938726157b03a0e53d3d00261cc9ed1bdeb64cbb13a344c96403a6a2c85b1/1785950785/polsatsport1-pl.m3u8
-
-#EXTINF:-1 tvg-logo="https://images.xyzstreams.st/?logo1=https://cdn.livesoccertv.com/tt/images/teams/italy/logos/ac-milan.png&logo2=https://cdn.livesoccertv.com/tt/images/teams/italy/logos/inter-milan.png?q=65&w=100" tvg-start="2026-08-05T11:00:00.000Z" tvg-stop="2026-08-05T13:00:00.000Z" group-title="Football",Milan vs Internazionale (Link 2)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://xyzstreams.st/
-#EXTVLCOPT:http-origin=https://xyzstreams.st
-https://hiveatick.casadenoval.uk/main/secure/3a9387a953c89a05253987b314949b702c2ba0053a1c4ba547d3b58fb7f645fb/1785950785/milan-it-xyz.m3u8
-
-#EXTINF:-1 tvg-logo="https://images.xyzstreams.st/?logo1=https://cdn.livesoccertv.com/tt/images/teams/italy/logos/ac-milan.png&logo2=https://cdn.livesoccertv.com/tt/images/teams/italy/logos/inter-milan.png?q=65&w=100" tvg-start="2026-08-05T11:00:00.000Z" tvg-stop="2026-08-05T13:00:00.000Z" group-title="Football",Milan vs Internazionale (Link 3)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://xyzstreams.st/
-#EXTVLCOPT:http-origin=https://xyzstreams.st
-https://247v2.xyzstreams.st/?stream_id=foxdeportesdishonly&pro_id=sling&index.m3u8
-
-#EXTINF:-1 tvg-logo="https://images.xyzstreams.st/?logo1=https://cdn.livesoccertv.com/images/teams/generic5.png&logo2=https://cdn.livesoccertv.com/tt/images/teams/england/logos/manchester-city.png?q=65&w=100" tvg-start="2026-08-05T11:00:00.000Z" tvg-stop="2026-08-05T13:00:00.000Z" group-title="Football",K-league Stars vs Manchester City (Link 1)
+#EXTINF:-1 tvg-logo="https://images.xyzstreams.st/?logo1=https://cdn.livesoccertv.com/tt/images/teams/england/logos/arsenal.png&logo2=https://cdn.livesoccertv.com/tt/images/teams/spain/logos/real-betis.png?q=65&w=100" tvg-start="2026-08-05T18:30:00.000Z" tvg-stop="2026-08-05T20:30:00.000Z" group-title="Football",Arsenal vs Real Betis (Link 1)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://xyzstreams.st/
 #EXTVLCOPT:http-origin=https://xyzstreams.st
 https://247v2.xyzstreams.st/?stream_id=cbssportsnetworkdish&pro_id=sling&index.m3u8
 
-#EXTINF:-1 tvg-logo="https://images.xyzstreams.st/?logo1=https://cdn.livesoccertv.com/images/teams/generic5.png&logo2=https://cdn.livesoccertv.com/tt/images/teams/england/logos/manchester-city.png?q=65&w=100" tvg-start="2026-08-05T11:00:00.000Z" tvg-stop="2026-08-05T13:00:00.000Z" group-title="Football",K-league Stars vs Manchester City (Link 2)
+#EXTINF:-1 tvg-logo="https://images.xyzstreams.st/?logo1=https://cdn.livesoccertv.com/tt/images/teams/england/logos/arsenal.png&logo2=https://cdn.livesoccertv.com/tt/images/teams/spain/logos/real-betis.png?q=65&w=100" tvg-start="2026-08-05T18:30:00.000Z" tvg-stop="2026-08-05T20:30:00.000Z" group-title="Football",Arsenal vs Real Betis (Link 2)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://xyzstreams.st/
 #EXTVLCOPT:http-origin=https://xyzstreams.st
-https://hiveatick.casadenoval.uk/main/secure/e565601ae23765f08c454893b8b13a1fccf009843b2b2bf422fff6ddc1b4a070/1785950785/cbssn-usa.m3u8
+https://fiveo4.vilevodules.uk/main/secure/fa6cbecbdca46ada027ad668151c302a48a92af75649ab59cd56d86d74f9f697/1785960592/ps1.m3u8
 
-#EXTINF:-1 tvg-logo="https://images.xyzstreams.st/?logo1=https://cdn.livesoccertv.com/tt/images/teams/england/logos/chelsea.png&logo2=https://cdn.livesoccertv.com/tt/images/teams/italy/logos/juventus.png?q=65&w=100" tvg-start="2026-08-05T11:30:00.000Z" tvg-stop="2026-08-05T13:30:00.000Z" group-title="Football",Chelsea vs Juventus (Link 1)
+#EXTINF:-1 tvg-logo="https://images.xyzstreams.st/?logo1=https://cdn.livesoccertv.com/tt/images/teams/england/logos/arsenal.png&logo2=https://cdn.livesoccertv.com/tt/images/teams/spain/logos/real-betis.png?q=65&w=100" tvg-start="2026-08-05T18:30:00.000Z" tvg-stop="2026-08-05T20:30:00.000Z" group-title="Football",Arsenal vs Real Betis (Link 3)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://xyzstreams.st/
 #EXTVLCOPT:http-origin=https://xyzstreams.st
-https://hiveatick.casadenoval.uk/main/secure/e2c12263253003885e691dfb849de92b9ed1c99a69ebf95b31f62afa6b7c980c/1785950785/cbsgolazo.m3u8
+https://247v2.xyzstreams.st/?stream_id=foxdeportesdishonly&pro_id=sling&index.m3u8
 
-#EXTINF:-1 tvg-logo="https://images.xyzstreams.st/?logo1=https://cdn.livesoccertv.com/tt/images/teams/england/logos/chelsea.png&logo2=https://cdn.livesoccertv.com/tt/images/teams/italy/logos/juventus.png?q=65&w=100" tvg-start="2026-08-05T11:30:00.000Z" tvg-stop="2026-08-05T13:30:00.000Z" group-title="Football",Chelsea vs Juventus (Link 2)
+#EXTINF:-1 tvg-logo="https://images.xyzstreams.st/?logo1=https://cdn.livesoccertv.com/tt/images/teams/england/logos/arsenal.png&logo2=https://cdn.livesoccertv.com/tt/images/teams/spain/logos/real-betis.png?q=65&w=100" tvg-start="2026-08-05T18:30:00.000Z" tvg-stop="2026-08-05T20:30:00.000Z" group-title="Football",Arsenal vs Real Betis (Link 4)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://xyzstreams.st/
 #EXTVLCOPT:http-origin=https://xyzstreams.st
-https://hiveatick.casadenoval.uk/main/secure/b90527769081604a2202904fbdf8919237a9b618cd53b7e6666e7dfba20099d0/1785950785/juventus-it-xyz.m3u8
+https://fiveo4.vilevodules.uk/main/secure/71446ed87da68f55f9256f1d065b0e7e3ae7424ede74f3d1b3b6005d9b323584/1785960592/cbssn-usa.m3u8
+
+#EXTINF:-1 tvg-logo="https://images.xyzstreams.st/?logo1=https://cdn.livesoccertv.com/tt/images/teams/spain/logos/mallorca.png&logo2=https://cdn.livesoccertv.com/tt/images/teams/france/logos/psg.png?q=65&w=100" tvg-start="2026-08-05T19:00:00.000Z" tvg-stop="2026-08-05T21:00:00.000Z" group-title="Football",Mallorca vs PSG (Link 1)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://xyzstreams.st/
+#EXTVLCOPT:http-origin=https://xyzstreams.st
+https://fiveo4.vilevodules.uk/main/secure/af30b63eb287975591b5324f94d68978d9c87274323fae2bd732e2fec2045375/1785960592/dazn-1.m3u8
+
+#EXTINF:-1 tvg-logo="https://images.xyzstreams.st/?logo1=https://cdn.livesoccertv.com/tt/images/teams/spain/logos/mallorca.png&logo2=https://cdn.livesoccertv.com/tt/images/teams/france/logos/psg.png?q=65&w=100" tvg-start="2026-08-05T19:00:00.000Z" tvg-stop="2026-08-05T21:00:00.000Z" group-title="Football",Mallorca vs PSG (Link 2)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://xyzstreams.st/
+#EXTVLCOPT:http-origin=https://xyzstreams.st
+https://fiveo4.vilevodules.uk/main/secure/5c6fdaa950b73a81a399cc2c3ba67fd991354f97d4843112d07b8e54e5b7c86f/1785960593/bein1fr.m3u8
