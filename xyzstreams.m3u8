@@ -1,6 +1,6 @@
 #EXTM3U x-tvg-url=""
-# Generated from xyzstreams.st (Standalone Auto-Discovery) - 2026-08-06T01:13:20.581Z
-# Channels: 94 | Events: 6 | Discovered Sports: MLB, WNBA, NBA
+# Generated from xyzstreams.st (Standalone Auto-Discovery) - 2026-08-06T05:38:13.089Z
+# Channels: 95 | Events: 6 | Discovered Sports: MLB, WNBA, NBA
 
 #-----------------------------------------
 # 24/7 CHANNELS
@@ -328,6 +328,12 @@ https://247v2.xyzstreams.st/?stream_id=cinemaxclassics&pro_id=sling&index.m3u8
 #EXTVLCOPT:http-referrer=https://xyzstreams.st/
 #EXTVLCOPT:http-origin=https://xyzstreams.st
 https://247v2.xyzstreams.st/?stream_id=metv&pro_id=sling&index.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2b/MeTV_Toons.png?utm_source=en.wikipedia.org&utm_campaign=index&utm_content=original" group-title="XYZ Channels",MeTV Toons
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://xyzstreams.st/
+#EXTVLCOPT:http-origin=https://xyzstreams.st
+https://247v2.xyzstreams.st/?stream_id=metvtoons&pro_id=sling&index.m3u8
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSPdbY5D2wo0ZAX5bsHcwIJ8YIu0CXgqgJ-EqW-MAMn2sPDnMKdNsvrACb3&s=10" group-title="XYZ Channels",MS NOW
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
@@ -897,34 +903,34 @@ https://player.xyzstreams.st/embed/lakers
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://xyzstreams.st/
 #EXTVLCOPT:http-origin=https://xyzstreams.st
-https://fiveo4.vilevodules.uk/main/secure/e1f8fa347896064b76c266059fb2ca96b543ea16383fda48f582176d5ce37456/1785982401/mls-orl.m3u8
+https://fiveo4.vilevodules.uk/main/secure/88428bc404687702dbd9f00ba2822a77faa352c6544ed6ebaeeabd3d6ec62afd/1785998293/mls-orl.m3u8
 
 #EXTINF:-1 tvg-logo="https://images.xyzstreams.st/?logo1=https://cdn.livesoccertv.com/tt/images/teams/united-states/logos/inter-miami.png&logo2=https://cdn.livesoccertv.com/tt/images/teams/mexico/logos/atletico-san-luis.png?q=65&w=100" tvg-start="2026-08-05T23:30:00.000Z" tvg-stop="2026-08-06T01:30:00.000Z" group-title="Football",Inter Miami vs Atlético San Luis
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://xyzstreams.st/
 #EXTVLCOPT:http-origin=https://xyzstreams.st
-https://fiveo4.vilevodules.uk/main/secure/ed0097f584a7ba5af337a47f0bf1996e3c6370a93e5335695d06e9dccecfe5df/1785982401/mls-mia.m3u8
+https://fiveo4.vilevodules.uk/main/secure/d4ae365efd3a0128e37ce4d144f4787ffc7a2a6761270434e4ae33d662871585/1785998293/mls-mia.m3u8
 
 #EXTINF:-1 tvg-logo="https://images.xyzstreams.st/?logo1=https://cdn.livesoccertv.com/tt/images/teams/united-states/logos/nashville-sc.png&logo2=https://cdn.livesoccertv.com/tt/images/teams/mexico/logos/leon.png?q=65&w=100" tvg-start="2026-08-06T00:30:00.000Z" tvg-stop="2026-08-06T02:30:00.000Z" group-title="Football",Nashville SC vs León
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://xyzstreams.st/
 #EXTVLCOPT:http-origin=https://xyzstreams.st
-https://fiveo4.vilevodules.uk/main/secure/0970be3248ea07669b8de349f8576985a359646e03e67377ac55cb8fd21bf39c/1785982401/mls-nashville.m3u8
+https://fiveo4.vilevodules.uk/main/secure/4b81945f25e3bbb1169c579660d0b668a111b5e79792b5f4fce322aa61c11ed7/1785998293/mls-nashville.m3u8
 
 #EXTINF:-1 tvg-logo="https://images.xyzstreams.st/?logo1=https://cdn.livesoccertv.com/tt/images/teams/united-states/logos/fc-dallas.png&logo2=https://cdn.livesoccertv.com/tt/images/teams/mexico/logos/queretaro.png?q=65&w=100" tvg-start="2026-08-06T00:30:00.000Z" tvg-stop="2026-08-06T02:30:00.000Z" group-title="Football",Dallas vs Querétaro
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://xyzstreams.st/
 #EXTVLCOPT:http-origin=https://xyzstreams.st
-https://fiveo4.vilevodules.uk/main/secure/0919fbed71a69f97ee223db5b37babe9488b5d81ba55a76d584b367ee4bbd2ac/1785982401/mls-dallas.m3u8
+https://fiveo4.vilevodules.uk/main/secure/81c0112ebcd8d374441ef239f90d477779b65b2b59c1eb9e365483f598ca1449/1785998293/mls-dallas.m3u8
 
 #EXTINF:-1 tvg-logo="https://images.xyzstreams.st/?logo1=https://cdn.livesoccertv.com/tt/images/teams/mexico/logos/toluca.png&logo2=https://cdn.livesoccertv.com/tt/images/teams/united-states/logos/seattle-sounders.png?q=65&w=100" tvg-start="2026-08-06T02:00:00.000Z" tvg-stop="2026-08-06T04:00:00.000Z" group-title="Football",Toluca vs Seattle Sounders FC
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://xyzstreams.st/
 #EXTVLCOPT:http-origin=https://xyzstreams.st
-https://fiveo4.vilevodules.uk/main/secure/31e1a2dade86ab35618fbe83980804608abfc89c8ae186d1c6e0d33289cd89cd/1785982401/mls-sea.m3u8
+https://fiveo4.vilevodules.uk/main/secure/cb6c17d2ddf8624a931ef37f2d502ea10c536f70ab299502649793ad602968eb/1785998293/mls-sea.m3u8
 
 #EXTINF:-1 tvg-logo="https://images.xyzstreams.st/?logo1=https://cdn.livesoccertv.com/tt/images/teams/united-states/logos/los-angeles-fc.png&logo2=https://cdn.livesoccertv.com/tt/images/teams/mexico/logos/guadalajara.png?q=65&w=100" tvg-start="2026-08-06T02:30:00.000Z" tvg-stop="2026-08-06T04:30:00.000Z" group-title="Football",Los Angeles FC vs Guadalajara
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://xyzstreams.st/
 #EXTVLCOPT:http-origin=https://xyzstreams.st
-https://fiveo4.vilevodules.uk/main/secure/8be4438851d1325e5662ce1f3c0133db02fe5475ffd72dbb67ec5282a9b9a777/1785982401/mls-lafc.m3u8
+https://fiveo4.vilevodules.uk/main/secure/4af70b3088ba63390a103bc7a95e0eb797d9b86927e7b2d579e97711e30efaf2/1785998294/mls-lafc.m3u8
