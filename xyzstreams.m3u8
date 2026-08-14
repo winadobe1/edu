@@ -1,5 +1,5 @@
 #EXTM3U x-tvg-url=""
-# Generated from xyzstreams.st (Standalone Auto-Discovery) - 2026-08-14T15:41:41.878Z
+# Generated from xyzstreams.st (Standalone Auto-Discovery) - 2026-08-14T18:38:26.361Z
 # Channels: 95 | Homepage Events: 4 | Dynamic Feeds: ESPNPLUSHOME | Discovered Sports: MLB, WNBA, NBA
 
 #-----------------------------------------
@@ -870,7 +870,7 @@ https://247v2.xyzstreams.st/?stream_id=espn2&pro_id=sling&index.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://xyzstreams.st/
 #EXTVLCOPT:http-origin=https://xyzstreams.st
-https://fiveo4.vilevodules.uk/main/secure/44378c888a3298b0b901b85673bd3f125953139e5698720f369b74df9cc9ba2e/1786725702/knicks.m3u8
+https://fiveo4.vilevodules.uk/main/secure/12646fea1c11181d723d540ef0fadf88afa8d4415aebca0177cb0a592330df30/1786736306/knicks.m3u8
 
 #EXTINF:-1 group-title="NBA",NBA: BOS (ESPN)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
@@ -882,7 +882,7 @@ https://247v2.xyzstreams.st/?stream_id=espn&pro_id=sling&index.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://xyzstreams.st/
 #EXTVLCOPT:http-origin=https://xyzstreams.st
-https://fiveo4.vilevodules.uk/main/secure/32e18d5cb3e98af8a7e7c4bc9f5145e6dcc7c92c7ae1b940408839f6f5e7f4dd/1786725702/bulls.m3u8
+https://fiveo4.vilevodules.uk/main/secure/3ddc6cefe8b4a01c93f6382c5c67a4823903ca0a5e76b7079c913909bccf3f1c/1786736306/bulls.m3u8
 
 #EXTINF:-1 group-title="NBA",NBA: PHX (ESPNU)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
@@ -894,29 +894,35 @@ https://247v2.xyzstreams.st/?stream_id=espnu&pro_id=sling&index.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://xyzstreams.st/
 #EXTVLCOPT:http-origin=https://xyzstreams.st
-https://fiveo4.vilevodules.uk/main/secure/d93a655c216ade857e1b5ac4e65c51a1fbe08c367e2ad0aa0e86ee839b55dad3/1786725702/lakers.m3u8
+https://fiveo4.vilevodules.uk/main/secure/d9673e354c745889e132ca6346bb6682b48ec1c701d5648f3dc44de97d63afd3/1786736306/lakers.m3u8
 
 #-----------------------------------------
 # ESPNPLUSHOME SCHEDULED STREAMS (Dynamic Feed)
 # Source: https://espn.xyzstreams.st/
 #-----------------------------------------
-#EXTINF:-1 tvg-logo="https://s.secure.espncdn.com/stitcher/artwork/collections/airings/c3726a18-da4b-49b5-aeab-a300e893d35e/16x9.jpg?timestamp=202608111630&showBadge=true&cb=12&package=ESPN_PLUS&networkGuid=a698f0a3-dcfc-4684-9ca2-3082a28111cc" tvg-start="2026-08-14T12:00:01.000Z" tvg-stop="2026-08-14T18:00:00.000Z" group-title="ESPNPLUSHOME",FedEx St. Jude Championship: Main Feed (Second Round)
+#EXTINF:-1 tvg-logo="https://s.secure.espncdn.com/stitcher/artwork/collections/airings/d56644f9-a00a-42d4-b421-1e95dfe03215/16x9.jpg?timestamp=202608131833&showBadge=true&cb=12&package=ESPN_PLUS&networkGuid=a698f0a3-dcfc-4684-9ca2-3082a28111cc" tvg-start="2026-08-14T18:00:00.000Z" tvg-stop="2026-08-14T22:00:00.000Z" group-title="ESPNPLUSHOME",FedEx St. Jude Championship: Scheffler Featured Group (Second Round)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://xyzstreams.st/
 #EXTVLCOPT:http-origin=https://xyzstreams.st
-https://247v2.xyzstreams.st/?stream_id=event1597&pro_id=espn&index.m3u8
+https://247v2.xyzstreams.st/?stream_id=event1609&pro_id=espn&index.m3u8
 
-#EXTINF:-1 tvg-logo="https://s.secure.espncdn.com/stitcher/artwork/collections/airings/13ddffc0-47c4-47ba-a8e4-18135eadbf68/16x9.jpg?timestamp=202608131832&showBadge=true&cb=12&package=ESPN_PLUS&networkGuid=a698f0a3-dcfc-4684-9ca2-3082a28111cc" tvg-start="2026-08-14T14:30:00.000Z" tvg-stop="2026-08-14T18:00:00.000Z" group-title="ESPNPLUSHOME",FedEx St. Jude Championship: Young Marquee Group (Second Round)
+#EXTINF:-1 tvg-logo="https://s.secure.espncdn.com/stitcher/artwork/collections/airings/7449c41e-f547-499d-bf72-1b4cb5e7e5c6/16x9.jpg?timestamp=202608131835&showBadge=true&cb=12&package=ESPN_PLUS&networkGuid=a698f0a3-dcfc-4684-9ca2-3082a28111cc" tvg-start="2026-08-14T18:00:08.000Z" tvg-stop="2026-08-14T22:00:00.000Z" group-title="ESPNPLUSHOME",FedEx St. Jude Championship: Young Featured Group (Second Round)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://xyzstreams.st/
 #EXTVLCOPT:http-origin=https://xyzstreams.st
-https://247v2.xyzstreams.st/?stream_id=event1602&pro_id=espn&index.m3u8
+https://247v2.xyzstreams.st/?stream_id=event1611&pro_id=espn&index.m3u8
 
-#EXTINF:-1 tvg-logo="https://s.secure.espncdn.com/stitcher/artwork/collections/airings/f80239a4-c08b-446b-8c80-35e25db44e5a/16x9.jpg?timestamp=202608131830&showBadge=true&cb=12&package=ESPN_PLUS&networkGuid=a698f0a3-dcfc-4684-9ca2-3082a28111cc" tvg-start="2026-08-14T13:30:12.000Z" tvg-stop="2026-08-14T18:00:00.000Z" group-title="ESPNPLUSHOME",FedEx St. Jude Championship: Clark & Schauffele Featured Groups (Second Round)
+#EXTINF:-1 tvg-logo="https://artwork.api.espn.com/artwork/collections/airings/f7b58c8d-73d3-4151-975c-ef58bef1edcd/default?width=640&apikey=1ngjw23osgcis1i1vbj96lmfqs&timestamp=202608141324" tvg-start="2026-08-14T17:00:01.462Z" tvg-stop="2026-08-14T18:59:59.462Z" group-title="ESPNPLUSHOME",Whitefish Bay WI vs. Davenport IA
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://xyzstreams.st/
 #EXTVLCOPT:http-origin=https://xyzstreams.st
-https://247v2.xyzstreams.st/?stream_id=event1599&pro_id=espn&index.m3u8
+https://247v2.xyzstreams.st/?stream_id=espn&pro_id=espn&index.m3u8
+
+#EXTINF:-1 tvg-logo="https://s.secure.espncdn.com/stitcher/artwork/collections/airings/0669bc1e-7cd4-4fe1-a1eb-650e7bfe0444/16x9.jpg?timestamp=202608121901&showBadge=true&cb=12&package=ESPN_PLUS&networkGuid=a698f0a3-dcfc-4684-9ca2-3082a28111cc" tvg-start="2026-08-14T18:02:42.000Z" tvg-stop="2026-08-14T22:00:00.000Z" group-title="ESPNPLUSHOME",FedEx St. Jude Championship: Featured Hole #14 (Second Round)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://xyzstreams.st/
+#EXTVLCOPT:http-origin=https://xyzstreams.st
+https://247v2.xyzstreams.st/?stream_id=event1610&pro_id=espn&index.m3u8
 
 #EXTINF:-1 tvg-logo="https://s.secure.espncdn.com/stitcher/artwork/collections/airings/4b6a9846-3e0b-4cd5-93d6-77ed0d383556/16x9.jpg?timestamp=202608111630&showBadge=true&cb=12&package=ESPN_PLUS&networkGuid=a698f0a3-dcfc-4684-9ca2-3082a28111cc" tvg-start="2026-08-14T13:00:22.000Z" tvg-stop="2026-08-14T22:00:00.000Z" group-title="ESPNPLUSHOME",PGA TOUR LIVE BetCast Presented by DraftKings (Second Round)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
@@ -924,95 +930,83 @@ https://247v2.xyzstreams.st/?stream_id=event1599&pro_id=espn&index.m3u8
 #EXTVLCOPT:http-origin=https://xyzstreams.st
 https://247v2.xyzstreams.st/?stream_id=event1598&pro_id=espn&index.m3u8
 
-#EXTINF:-1 tvg-logo="https://artwork.api.espn.com/artwork/collections/airings/d73460bb-a801-4627-9d9d-a7852c1d713a/default?width=640&apikey=1ngjw23osgcis1i1vbj96lmfqs" tvg-start="2026-08-14T15:01:58.000Z" tvg-stop="2026-08-14T20:00:00.000Z" group-title="ESPNPLUSHOME",The Pat McAfee Show
+#EXTINF:-1 tvg-logo="https://s.secure.espncdn.com/stitcher/artwork/collections/airings/853fe7ff-219f-478a-ac53-bc3971bd14a6/16x9.jpg?timestamp=202608141412&showBadge=true&cb=12&package=ESPN_PLUS&networkGuid=a698f0a3-dcfc-4684-9ca2-3082a28111cc" tvg-start="2026-08-14T16:00:00.000Z" tvg-stop="2026-08-14T19:00:00.000Z" group-title="ESPNPLUSHOME",Fri 8/14 - The Rich Eisen Show
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://xyzstreams.st/
 #EXTVLCOPT:http-origin=https://xyzstreams.st
-https://247v2.xyzstreams.st/?stream_id=event1604&pro_id=espn&index.m3u8
+https://247v2.xyzstreams.st/?stream_id=event1603&pro_id=espn&index.m3u8
 
-#EXTINF:-1 tvg-logo="https://artwork.api.espn.com/artwork/collections/airings/78dfdb4e-8a0e-4b89-bfa3-406f294b979d/default?width=640&apikey=1ngjw23osgcis1i1vbj96lmfqs&timestamp=202608141339" tvg-start="2026-08-14T14:00:01.693Z" tvg-stop="2026-08-14T15:59:59.693Z" group-title="ESPNPLUSHOME",First Take
+#EXTINF:-1 tvg-logo="https://s.secure.espncdn.com/stitcher/artwork/collections/airings/ae4595fc-2dc9-4fd1-bef3-de0f357c818f/16x9.jpg?timestamp=202608101351&showBadge=true&cb=12&package=ESPN_FLAGSHIP&networkGuid=476b6615-f437-41ed-86c2-0e808aa245d1" tvg-start="2026-08-14T16:00:00.000Z" tvg-stop="2026-08-14T19:00:00.000Z" group-title="ESPNPLUSHOME",Indianapolis Colts vs. New England Patriots
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://xyzstreams.st/
+#EXTVLCOPT:http-origin=https://xyzstreams.st
+https://247v2.xyzstreams.st/?stream_id=nflnetwork&pro_id=espn&index.m3u8
+
+#EXTINF:-1 tvg-logo="https://artwork.api.espn.com/artwork/collections/airings/312289b1-f6c6-4cef-923d-10082d8e1087/default?width=640&apikey=1ngjw23osgcis1i1vbj96lmfqs&timestamp=202608141752" tvg-start="2026-08-14T18:00:01.845Z" tvg-stop="2026-08-14T18:59:59.845Z" group-title="ESPNPLUSHOME",SportsCenter
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://xyzstreams.st/
 #EXTVLCOPT:http-origin=https://xyzstreams.st
 https://247v2.xyzstreams.st/?stream_id=espn2&pro_id=espn&index.m3u8
 
-#EXTINF:-1 tvg-logo="https://s.secure.espncdn.com/stitcher/artwork/collections/airings/e842eaa8-19e7-45aa-8d6c-ce6a6ab66036/16x9.jpg?timestamp=202608102324&showBadge=true&cb=12&package=ESPN_PLUS&networkGuid=a698f0a3-dcfc-4684-9ca2-3082a28111cc" tvg-start="2026-08-14T14:00:01.000Z" tvg-stop="2026-08-14T16:00:00.000Z" group-title="ESPNPLUSHOME",The Golics
+#EXTINF:-1 tvg-logo="https://s.secure.espncdn.com/stitcher/artwork/collections/airings/a91a4520-2580-49d0-a00c-aa0f4d615bb6/16x9.jpg?timestamp=202608111956&showBadge=true&cb=12&package=ESPN_PLUS&networkGuid=a698f0a3-dcfc-4684-9ca2-3082a28111cc" tvg-start="2026-08-14T17:00:03.000Z" tvg-stop="2026-08-14T21:00:00.000Z" group-title="ESPNPLUSHOME",Mecum Auctions: Monterey 2026 (Day 1)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://xyzstreams.st/
 #EXTVLCOPT:http-origin=https://xyzstreams.st
-https://247v2.xyzstreams.st/?stream_id=event1600&pro_id=espn&index.m3u8
+https://247v2.xyzstreams.st/?stream_id=event1605&pro_id=espn&index.m3u8
 
-#EXTINF:-1 tvg-logo="https://s.secure.espncdn.com/stitcher/artwork/collections/airings/7b6ba4ae-a301-4060-897b-c9fdda162405/16x9.jpg?timestamp=202607291832&showBadge=true&cb=12&package=ESPN_FLAGSHIP&networkGuid=476b6615-f437-41ed-86c2-0e808aa245d1" tvg-start="2026-08-14T14:00:00.000Z" tvg-stop="2026-08-14T16:00:00.000Z" group-title="ESPNPLUSHOME",Good Morning Football
+#EXTINF:-1 tvg-logo="https://s.secure.espncdn.com/stitcher/artwork/collections/airings/9ec7d952-be58-4368-b47c-17ad9f910424/16x9.jpg?timestamp=202607292109&showBadge=true&cb=12&package=ESPN_PLUS&networkGuid=a698f0a3-dcfc-4684-9ca2-3082a28111cc" tvg-start="2026-08-14T16:55:56.000Z" tvg-stop="2026-08-14T19:00:00.000Z" group-title="ESPNPLUSHOME",SV Wehen Wiesbaden vs. Wurzburger Kickers
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://xyzstreams.st/
 #EXTVLCOPT:http-origin=https://xyzstreams.st
-https://247v2.xyzstreams.st/?stream_id=nflnetwork&pro_id=espn&index.m3u8
+https://247v2.xyzstreams.st/?stream_id=event1606&pro_id=espn&index.m3u8
 
-#EXTINF:-1 tvg-logo="https://artwork.api.espn.com/artwork/collections/airings/23eab3df-bd68-44f2-a19d-0a1d73ca474e/default?width=640&apikey=1ngjw23osgcis1i1vbj96lmfqs&timestamp=202607221834" tvg-start="2026-08-14T13:00:02.983Z" tvg-stop="2026-08-14T15:59:59.983Z" group-title="ESPNPLUSHOME",Florida State vs. Clemson
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://xyzstreams.st/
-#EXTVLCOPT:http-origin=https://xyzstreams.st
-https://247v2.xyzstreams.st/?stream_id=accn&pro_id=espn&index.m3u8
-
-#EXTINF:-1 tvg-logo="https://artwork.api.espn.com/artwork/collections/airings/ebb58cc1-0c70-48fe-8bbe-3e85691bf3dd/default?width=640&apikey=1ngjw23osgcis1i1vbj96lmfqs&timestamp=202608031405" tvg-start="2026-08-14T14:00:01.322Z" tvg-stop="2026-08-14T16:59:59.322Z" group-title="ESPNPLUSHOME",ESPNU College Football Top 25 Games of 2025 - Kent State vs. Akron
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://xyzstreams.st/
-#EXTVLCOPT:http-origin=https://xyzstreams.st
-https://247v2.xyzstreams.st/?stream_id=espnu&pro_id=espn&index.m3u8
-
-#EXTINF:-1 tvg-logo="https://s.secure.espncdn.com/stitcher/artwork/collections/airings/e842eaa8-19e7-45aa-8d6c-ce6a6ab66036/16x9.jpg?timestamp=202608102324&showBadge=true&cb=12&package=ESPN_PLUS&networkGuid=a698f0a3-dcfc-4684-9ca2-3082a28111cc" tvg-start="2026-08-14T14:00:01.000Z" tvg-stop="2026-08-14T16:00:00.000Z" group-title="ESPNPLUSHOME",The Golics
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://xyzstreams.st/
-#EXTVLCOPT:http-origin=https://xyzstreams.st
-https://247v2.xyzstreams.st/?stream_id=event1600&pro_id=espn&index.m3u8
-
-#EXTINF:-1 tvg-logo="https://s.secure.espncdn.com/stitcher/artwork/collections/airings/7b6ba4ae-a301-4060-897b-c9fdda162405/16x9.jpg?timestamp=202607291832&showBadge=true&cb=12&package=ESPN_FLAGSHIP&networkGuid=476b6615-f437-41ed-86c2-0e808aa245d1" tvg-start="2026-08-14T14:00:00.000Z" tvg-stop="2026-08-14T16:00:00.000Z" group-title="ESPNPLUSHOME",Good Morning Football
+#EXTINF:-1 tvg-logo="https://s.secure.espncdn.com/stitcher/artwork/collections/airings/ae4595fc-2dc9-4fd1-bef3-de0f357c818f/16x9.jpg?timestamp=202608101351&showBadge=true&cb=12&package=ESPN_FLAGSHIP&networkGuid=476b6615-f437-41ed-86c2-0e808aa245d1" tvg-start="2026-08-14T16:00:00.000Z" tvg-stop="2026-08-14T19:00:00.000Z" group-title="ESPNPLUSHOME",Indianapolis Colts vs. New England Patriots
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://xyzstreams.st/
 #EXTVLCOPT:http-origin=https://xyzstreams.st
 https://247v2.xyzstreams.st/?stream_id=nflnetwork&pro_id=espn&index.m3u8
 
-#EXTINF:-1 tvg-logo="https://artwork.api.espn.com/artwork/collections/airings/23eab3df-bd68-44f2-a19d-0a1d73ca474e/default?width=640&apikey=1ngjw23osgcis1i1vbj96lmfqs&timestamp=202607221834" tvg-start="2026-08-14T13:00:02.983Z" tvg-stop="2026-08-14T15:59:59.983Z" group-title="ESPNPLUSHOME",Florida State vs. Clemson
+#EXTINF:-1 tvg-logo="https://artwork.api.espn.com/artwork/collections/airings/312289b1-f6c6-4cef-923d-10082d8e1087/default?width=640&apikey=1ngjw23osgcis1i1vbj96lmfqs&timestamp=202608141752" tvg-start="2026-08-14T18:00:01.845Z" tvg-stop="2026-08-14T18:59:59.845Z" group-title="ESPNPLUSHOME",SportsCenter
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://xyzstreams.st/
 #EXTVLCOPT:http-origin=https://xyzstreams.st
-https://247v2.xyzstreams.st/?stream_id=accn&pro_id=espn&index.m3u8
+https://247v2.xyzstreams.st/?stream_id=espn2&pro_id=espn&index.m3u8
 
-#EXTINF:-1 tvg-logo="https://artwork.api.espn.com/artwork/collections/airings/ebb58cc1-0c70-48fe-8bbe-3e85691bf3dd/default?width=640&apikey=1ngjw23osgcis1i1vbj96lmfqs&timestamp=202608031405" tvg-start="2026-08-14T14:00:01.322Z" tvg-stop="2026-08-14T16:59:59.322Z" group-title="ESPNPLUSHOME",ESPNU College Football Top 25 Games of 2025 - Kent State vs. Akron
+#EXTINF:-1 tvg-logo="https://s.secure.espncdn.com/stitcher/artwork/collections/airings/a91a4520-2580-49d0-a00c-aa0f4d615bb6/16x9.jpg?timestamp=202608111956&showBadge=true&cb=12&package=ESPN_PLUS&networkGuid=a698f0a3-dcfc-4684-9ca2-3082a28111cc" tvg-start="2026-08-14T17:00:03.000Z" tvg-stop="2026-08-14T21:00:00.000Z" group-title="ESPNPLUSHOME",Mecum Auctions: Monterey 2026 (Day 1)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://xyzstreams.st/
 #EXTVLCOPT:http-origin=https://xyzstreams.st
-https://247v2.xyzstreams.st/?stream_id=espnu&pro_id=espn&index.m3u8
+https://247v2.xyzstreams.st/?stream_id=event1605&pro_id=espn&index.m3u8
 
-#EXTINF:-1 tvg-logo="https://artwork.api.espn.com/artwork/collections/airings/2e947861-9366-4475-8d3e-a73834da2850/default?width=640&apikey=1ngjw23osgcis1i1vbj96lmfqs&timestamp=202608140322" tvg-start="2026-08-14T15:00:04.147Z" tvg-stop="2026-08-14T15:59:59.147Z" group-title="ESPNPLUSHOME",SportsCenter
+#EXTINF:-1 tvg-logo="https://s.secure.espncdn.com/stitcher/artwork/collections/airings/9ec7d952-be58-4368-b47c-17ad9f910424/16x9.jpg?timestamp=202607292109&showBadge=true&cb=12&package=ESPN_PLUS&networkGuid=a698f0a3-dcfc-4684-9ca2-3082a28111cc" tvg-start="2026-08-14T16:55:56.000Z" tvg-stop="2026-08-14T19:00:00.000Z" group-title="ESPNPLUSHOME",SV Wehen Wiesbaden vs. Wurzburger Kickers
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://xyzstreams.st/
+#EXTVLCOPT:http-origin=https://xyzstreams.st
+https://247v2.xyzstreams.st/?stream_id=event1606&pro_id=espn&index.m3u8
+
+#EXTINF:-1 tvg-logo="https://artwork.api.espn.com/artwork/collections/airings/8b2590e4-6e89-45db-9723-b4558a47fd00/default?width=640&apikey=1ngjw23osgcis1i1vbj96lmfqs&timestamp=202608141338" tvg-start="2026-08-14T18:00:01.968Z" tvg-stop="2026-08-14T19:59:59.968Z" group-title="ESPNPLUSHOME",First Take
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://xyzstreams.st/
 #EXTVLCOPT:http-origin=https://xyzstreams.st
 https://247v2.xyzstreams.st/?stream_id=espnews&pro_id=espn&index.m3u8
 
-#EXTINF:-1 tvg-logo="https://artwork.api.espn.com/artwork/collections/airings/53b8ff34-b916-4bdd-ac1e-831a16249c7f/default?width=640&apikey=1ngjw23osgcis1i1vbj96lmfqs" tvg-start="2026-08-14T15:30:03.804Z" tvg-stop="2026-08-14T15:59:59.804Z" group-title="ESPNPLUSHOME",Marty & McGee: Talkin' Season with Lane Kiffin
+#EXTINF:-1 tvg-logo="https://artwork.api.espn.com/artwork/collections/airings/38c9b757-784e-4e22-be29-e6fe3306694a/default?width=640&apikey=1ngjw23osgcis1i1vbj96lmfqs" tvg-start="2026-08-14T17:00:02.622Z" tvg-stop="2026-08-14T19:59:59.622Z" group-title="ESPNPLUSHOME",ESPNU College Football Top 25 Games of 2025 - Arkansas vs. Ole Miss
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://xyzstreams.st/
+#EXTVLCOPT:http-origin=https://xyzstreams.st
+https://247v2.xyzstreams.st/?stream_id=espnu&pro_id=espn&index.m3u8
+
+#EXTINF:-1 tvg-logo="https://artwork.api.espn.com/artwork/collections/airings/3c766c20-eea4-4fdb-9f88-7b256b5588d6/default?width=640&apikey=1ngjw23osgcis1i1vbj96lmfqs" tvg-start="2026-08-14T17:59:58.479Z" tvg-stop="2026-08-14T18:59:59.479Z" group-title="ESPNPLUSHOME",Hold the Rope
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://xyzstreams.st/
 #EXTVLCOPT:http-origin=https://xyzstreams.st
 https://247v2.xyzstreams.st/?stream_id=secnetwork&pro_id=espn&index.m3u8
 
-#EXTINF:-1 tvg-logo="https://s.secure.espncdn.com/stitcher/artwork/collections/airings/d56644f9-a00a-42d4-b421-1e95dfe03215/16x9.jpg?timestamp=202608131833&showBadge=true&cb=12&package=ESPN_PLUS&networkGuid=a698f0a3-dcfc-4684-9ca2-3082a28111cc" tvg-start="2026-08-14T18:00:00.000Z" tvg-stop="2026-08-14T22:00:00.000Z" group-title="ESPNPLUSHOME",FedEx St. Jude Championship: Scheffler Featured Group (Second Round)
+#EXTINF:-1 tvg-logo="https://artwork.api.espn.com/artwork/collections/airings/f61c1e63-d343-40ac-a262-03def1786a70/default?width=640&apikey=1ngjw23osgcis1i1vbj96lmfqs" tvg-start="2026-08-14T18:00:01.163Z" tvg-stop="2026-08-14T18:59:59.163Z" group-title="ESPNPLUSHOME",Authentic ACC: Clemson Spring Football
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://xyzstreams.st/
 #EXTVLCOPT:http-origin=https://xyzstreams.st
-https://247v2.xyzstreams.st/?stream_id=event1609&pro_id=espn&index.m3u8
-
-#EXTINF:-1 tvg-logo="https://s.secure.espncdn.com/stitcher/artwork/collections/airings/7449c41e-f547-499d-bf72-1b4cb5e7e5c6/16x9.jpg?timestamp=202608131835&showBadge=true&cb=12&package=ESPN_PLUS&networkGuid=a698f0a3-dcfc-4684-9ca2-3082a28111cc" tvg-start="2026-08-14T18:00:00.000Z" tvg-stop="2026-08-14T22:00:00.000Z" group-title="ESPNPLUSHOME",FedEx St. Jude Championship: Young Featured Group (Second Round)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://xyzstreams.st/
-#EXTVLCOPT:http-origin=https://xyzstreams.st
-https://247v2.xyzstreams.st/?stream_id=event1611&pro_id=espn&index.m3u8
-
-#EXTINF:-1 tvg-logo="https://artwork.api.espn.com/artwork/collections/airings/f7b58c8d-73d3-4151-975c-ef58bef1edcd/default?width=640&apikey=1ngjw23osgcis1i1vbj96lmfqs&timestamp=202608141324" tvg-start="2026-08-14T17:00:00.000Z" tvg-stop="2026-08-14T19:00:00.000Z" group-title="ESPNPLUSHOME",Whitefish Bay WI vs. Davenport IA
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://xyzstreams.st/
-#EXTVLCOPT:http-origin=https://xyzstreams.st
-https://247v2.xyzstreams.st/?stream_id=espn&pro_id=espn&index.m3u8
+https://247v2.xyzstreams.st/?stream_id=accn&pro_id=espn&index.m3u8
 
 #EXTINF:-1 tvg-logo="https://artwork.api.espn.com/artwork/collections/airings/297b6d5a-0596-4669-a7f7-b902e6dd3536/default?width=640&apikey=1ngjw23osgcis1i1vbj96lmfqs&timestamp=202608141324" tvg-start="2026-08-14T19:00:00.000Z" tvg-stop="2026-08-14T21:00:00.000Z" group-title="ESPNPLUSHOME",Naamans DE vs. West Chester PA
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
@@ -1025,12 +1019,6 @@ https://247v2.xyzstreams.st/?stream_id=espn&pro_id=espn&index.m3u8
 #EXTVLCOPT:http-referrer=https://xyzstreams.st/
 #EXTVLCOPT:http-origin=https://xyzstreams.st
 https://247v2.xyzstreams.st/?stream_id=espn&pro_id=espn&index.m3u8
-
-#EXTINF:-1 tvg-logo="https://s.secure.espncdn.com/stitcher/artwork/collections/airings/0669bc1e-7cd4-4fe1-a1eb-650e7bfe0444/16x9.jpg?timestamp=202608121901&showBadge=true&cb=12&package=ESPN_PLUS&networkGuid=a698f0a3-dcfc-4684-9ca2-3082a28111cc" tvg-start="2026-08-14T18:00:00.000Z" tvg-stop="2026-08-14T22:00:00.000Z" group-title="ESPNPLUSHOME",FedEx St. Jude Championship: Featured Hole #14 (Second Round)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://xyzstreams.st/
-#EXTVLCOPT:http-origin=https://xyzstreams.st
-https://247v2.xyzstreams.st/?stream_id=event1610&pro_id=espn&index.m3u8
 
 #EXTINF:-1 tvg-logo="https://s.secure.espncdn.com/stitcher/artwork/collections/airings/1adf7859-b6e1-4ecd-906c-8bcf75b75494/16x9.jpg?timestamp=202608121526&showBadge=true&cb=12&package=ESPN_FLAGSHIP&networkGuid=476b6615-f437-41ed-86c2-0e808aa245d1" tvg-start="2026-08-14T23:00:00.000Z" tvg-stop="2026-08-15T02:00:00.000Z" group-title="ESPNPLUSHOME",Tampa Bay Buccaneers vs. New York Jets
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
@@ -1054,9 +1042,9 @@ https://247v2.xyzstreams.st/?stream_id=espn&pro_id=espn&index.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://xyzstreams.st/
 #EXTVLCOPT:http-origin=https://xyzstreams.st
-https://247v2.xyzstreams.st/?stream_id=event1638&pro_id=espn&index.m3u8
+https://247v2.xyzstreams.st/?stream_id=event1639&pro_id=espn&index.m3u8
 
-#EXTINF:-1 tvg-logo="https://artwork.api.espn.com/artwork/collections/airings/55b19132-f588-4078-ba6d-503d83ead98c/default?width=640&apikey=1ngjw23osgcis1i1vbj96lmfqs&timestamp=202608141326" tvg-start="2026-08-15T01:00:00.000Z" tvg-stop="2026-08-15T03:00:00.000Z" group-title="ESPNPLUSHOME",Kapa'a HI vs. Bonita CA
+#EXTINF:-1 tvg-logo="https://artwork.api.espn.com/artwork/collections/airings/55b19132-f588-4078-ba6d-503d83ead98c/default?width=640&apikey=1ngjw23osgcis1i1vbj96lmfqs&timestamp=202608141821" tvg-start="2026-08-15T01:00:00.000Z" tvg-stop="2026-08-15T03:00:00.000Z" group-title="ESPNPLUSHOME",Kapa'a HI vs. Bonita CA
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://xyzstreams.st/
 #EXTVLCOPT:http-origin=https://xyzstreams.st
@@ -1080,25 +1068,19 @@ https://247v2.xyzstreams.st/?stream_id=espn&pro_id=espn&index.m3u8
 #EXTVLCOPT:http-origin=https://xyzstreams.st
 https://247v2.xyzstreams.st/?stream_id=espn&pro_id=espn&index.m3u8
 
-#EXTINF:-1 tvg-logo="https://s.secure.espncdn.com/stitcher/artwork/collections/airings/ae4595fc-2dc9-4fd1-bef3-de0f357c818f/16x9.jpg?timestamp=202608101351&showBadge=true&cb=12&package=ESPN_FLAGSHIP&networkGuid=476b6615-f437-41ed-86c2-0e808aa245d1" tvg-start="2026-08-14T16:00:00.000Z" tvg-stop="2026-08-14T19:00:00.000Z" group-title="ESPNPLUSHOME",NFL Preseason Football: 2026 Wk 1 Indianapolis Colts vs. New England Patriots
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://xyzstreams.st/
-#EXTVLCOPT:http-origin=https://xyzstreams.st
-https://247v2.xyzstreams.st/?stream_id=nflnetwork&pro_id=espn&index.m3u8
-
 #EXTINF:-1 tvg-logo="https://s.secure.espncdn.com/stitcher/artwork/collections/airings/66b1a8f1-cecd-4897-8486-5abac42c905e/16x9.jpg?timestamp=202608132009&showBadge=true&cb=12&package=ESPN_FLAGSHIP&networkGuid=476b6615-f437-41ed-86c2-0e808aa245d1" tvg-start="2026-08-14T22:00:00.000Z" tvg-stop="2026-08-14T23:00:00.000Z" group-title="ESPNPLUSHOME",NFL Gameday Kickoff
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://xyzstreams.st/
 #EXTVLCOPT:http-origin=https://xyzstreams.st
 https://247v2.xyzstreams.st/?stream_id=nflnetwork&pro_id=espn&index.m3u8
 
-#EXTINF:-1 tvg-logo="https://s.secure.espncdn.com/stitcher/artwork/collections/airings/154de879-5e93-4488-8be6-9d1aab53d4c6/16x9.jpg?timestamp=202608101352&showBadge=true&cb=12&package=ESPN_FLAGSHIP&networkGuid=476b6615-f437-41ed-86c2-0e808aa245d1" tvg-start="2026-08-15T03:00:00.000Z" tvg-stop="2026-08-15T06:00:00.000Z" group-title="ESPNPLUSHOME",NFL Preseason Football: 2026 Wk 1 Denver Broncos vs. Atlanta Falcons
+#EXTINF:-1 tvg-logo="https://s.secure.espncdn.com/stitcher/artwork/collections/airings/154de879-5e93-4488-8be6-9d1aab53d4c6/16x9.jpg?timestamp=202608101352&showBadge=true&cb=12&package=ESPN_FLAGSHIP&networkGuid=476b6615-f437-41ed-86c2-0e808aa245d1" tvg-start="2026-08-15T03:00:00.000Z" tvg-stop="2026-08-15T06:00:00.000Z" group-title="ESPNPLUSHOME",Denver Broncos vs. Atlanta Falcons
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://xyzstreams.st/
 #EXTVLCOPT:http-origin=https://xyzstreams.st
 https://247v2.xyzstreams.st/?stream_id=nflnetwork&pro_id=espn&index.m3u8
 
-#EXTINF:-1 tvg-logo="https://s.secure.espncdn.com/stitcher/artwork/collections/airings/6fdd8db7-5d88-4dcf-9307-a9d1d08403a4/16x9.jpg?timestamp=202608101352&showBadge=true&cb=12&package=ESPN_FLAGSHIP&networkGuid=476b6615-f437-41ed-86c2-0e808aa245d1" tvg-start="2026-08-15T06:00:00.000Z" tvg-stop="2026-08-15T09:00:00.000Z" group-title="ESPNPLUSHOME",NFL Preseason Football: 2026 Wk 1 Miami Dolphins vs. Washington Commanders
+#EXTINF:-1 tvg-logo="https://s.secure.espncdn.com/stitcher/artwork/collections/airings/6fdd8db7-5d88-4dcf-9307-a9d1d08403a4/16x9.jpg?timestamp=202608101352&showBadge=true&cb=12&package=ESPN_FLAGSHIP&networkGuid=476b6615-f437-41ed-86c2-0e808aa245d1" tvg-start="2026-08-15T06:00:00.000Z" tvg-stop="2026-08-15T09:00:00.000Z" group-title="ESPNPLUSHOME",Miami Dolphins vs. Washington Commanders
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://xyzstreams.st/
 #EXTVLCOPT:http-origin=https://xyzstreams.st
@@ -1134,19 +1116,7 @@ https://247v2.xyzstreams.st/?stream_id=nflnetwork&pro_id=espn&index.m3u8
 #EXTVLCOPT:http-origin=https://xyzstreams.st
 https://247v2.xyzstreams.st/?stream_id=nflnetwork&pro_id=espn&index.m3u8
 
-#EXTINF:-1 tvg-logo="https://s.secure.espncdn.com/stitcher/artwork/collections/airings/f86084cb-3248-4a5c-850c-0ec821b45f83/16x9.jpg?timestamp=202608101357&showBadge=true&cb=12&package=ESPN_FLAGSHIP&networkGuid=476b6615-f437-41ed-86c2-0e808aa245d1" tvg-start="2026-08-16T04:00:00.000Z" tvg-stop="2026-08-16T07:00:00.000Z" group-title="ESPNPLUSHOME",NFL Preseason Football: 2026 Week 1 Carolina Panthers vs. Buffalo Bills
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://xyzstreams.st/
-#EXTVLCOPT:http-origin=https://xyzstreams.st
-https://247v2.xyzstreams.st/?stream_id=nflnetwork&pro_id=espn&index.m3u8
-
-#EXTINF:-1 tvg-logo="https://s.secure.espncdn.com/stitcher/artwork/collections/airings/e464e168-c6e4-451d-8751-a2cbd5121471/16x9.jpg?timestamp=202608101357&showBadge=true&cb=12&package=ESPN_FLAGSHIP&networkGuid=476b6615-f437-41ed-86c2-0e808aa245d1" tvg-start="2026-08-16T07:00:00.000Z" tvg-stop="2026-08-16T10:00:00.000Z" group-title="ESPNPLUSHOME",NFL Preseason Football: 2026 Week 1 Jacksonville Jaguars vs. New Orleans Saints
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://xyzstreams.st/
-#EXTVLCOPT:http-origin=https://xyzstreams.st
-https://247v2.xyzstreams.st/?stream_id=nflnetwork&pro_id=espn&index.m3u8
-
-#EXTINF:-1 tvg-logo="https://s.secure.espncdn.com/stitcher/artwork/collections/airings/2a2613a0-2f20-445c-8570-72e2a4ae11d5/16x9.jpg?timestamp=202608101358&showBadge=true&cb=12&package=ESPN_FLAGSHIP&networkGuid=476b6615-f437-41ed-86c2-0e808aa245d1" tvg-start="2026-08-16T10:00:00.000Z" tvg-stop="2026-08-16T13:00:00.000Z" group-title="ESPNPLUSHOME",NFL Preseason Football: 2026 Week 1 Philadelphia Eagles vs. Baltimore Ravens
+#EXTINF:-1 tvg-logo="https://s.secure.espncdn.com/stitcher/artwork/collections/airings/f86084cb-3248-4a5c-850c-0ec821b45f83/16x9.jpg?timestamp=202608101357&showBadge=true&cb=12&package=ESPN_FLAGSHIP&networkGuid=476b6615-f437-41ed-86c2-0e808aa245d1" tvg-start="2026-08-16T04:00:00.000Z" tvg-stop="2026-08-16T07:00:00.000Z" group-title="ESPNPLUSHOME",Carolina Panthers vs. Buffalo Bills
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://xyzstreams.st/
 #EXTVLCOPT:http-origin=https://xyzstreams.st
@@ -1218,6 +1188,12 @@ https://247v2.xyzstreams.st/?stream_id=espn&pro_id=espn&index.m3u8
 #EXTVLCOPT:http-origin=https://xyzstreams.st
 https://247v2.xyzstreams.st/?stream_id=espn&pro_id=espn&index.m3u8
 
+#EXTINF:-1 tvg-logo="https://artwork.api.espn.com/artwork/collections/airings/781285cf-6d67-4be9-a80f-612c756e1a08/default?width=640&apikey=1ngjw23osgcis1i1vbj96lmfqs" tvg-start="2026-08-21T17:00:00.000Z" tvg-stop="2026-08-21T19:00:00.000Z" group-title="ESPNPLUSHOME",Little League World Series Presented by T-Mobile
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://xyzstreams.st/
+#EXTVLCOPT:http-origin=https://xyzstreams.st
+https://247v2.xyzstreams.st/?stream_id=espn&pro_id=espn&index.m3u8
+
 #EXTINF:-1 tvg-logo="https://artwork.api.espn.com/artwork/collections/airings/679383cd-c973-4412-b6b6-9db59a24b333/default?width=640&apikey=1ngjw23osgcis1i1vbj96lmfqs&timestamp=202608111533" tvg-start="2026-08-15T18:00:00.000Z" tvg-stop="2026-08-15T20:00:00.000Z" group-title="ESPNPLUSHOME",New York Atlas vs. Philadelphia Waterdogs
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://xyzstreams.st/
@@ -1248,14 +1224,44 @@ https://247v2.xyzstreams.st/?stream_id=espn&pro_id=espn&index.m3u8
 #EXTVLCOPT:http-origin=https://xyzstreams.st
 https://247v2.xyzstreams.st/?stream_id=espn&pro_id=espn&index.m3u8
 
-#-----------------------------------------
-# LIVE EVENTS (Homepage)
-#-----------------------------------------
-#EXTINF:-1 tvg-logo="https://images.xyzstreams.st/?logo1=https://cdn.livesoccertv.com/tt/images/teams/france/logos/olympique-marseille.png&logo2=https://cdn.livesoccertv.com/tt/images/teams/spain/logos/atletico-madrid.png&color1=009DDC&color2=CB3524&q=65&w=100" tvg-start="2026-08-14T15:30:00.000Z" tvg-stop="2026-08-14T17:30:00.000Z" group-title="Football",Olympique Marseille vs Atlético Madrid
+#EXTINF:-1 tvg-logo="https://s.secure.espncdn.com/stitcher/artwork/collections/airings/76f5effb-3ba7-41a0-8f3a-97f1be97e543/16x9.jpg?timestamp=202608121527&showBadge=true&cb=12&package=ESPN_FLAGSHIP&networkGuid=0da9d900-749c-4ca3-af87-718f76d1d4c9" tvg-start="2026-08-15T17:00:00.000Z" tvg-stop="2026-08-15T20:00:00.000Z" group-title="ESPNPLUSHOME",Minnesota Vikings vs. New York Giants
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://xyzstreams.st/
 #EXTVLCOPT:http-origin=https://xyzstreams.st
-https://xyzstreams.st/i-stream-2.html
+https://247v2.xyzstreams.st/?stream_id=event1684&pro_id=espn&index.m3u8
+
+#EXTINF:-1 tvg-logo="https://s.secure.espncdn.com/stitcher/artwork/collections/airings/b77354c7-6e14-46bd-9868-f2227b84b56d/16x9.jpg?timestamp=202608121528&showBadge=true&cb=12&package=ESPN_FLAGSHIP&networkGuid=0da9d900-749c-4ca3-af87-718f76d1d4c9" tvg-start="2026-08-15T20:00:00.000Z" tvg-stop="2026-08-15T23:00:00.000Z" group-title="ESPNPLUSHOME",Jacksonville Jaguars vs. New Orleans Saints
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://xyzstreams.st/
+#EXTVLCOPT:http-origin=https://xyzstreams.st
+https://247v2.xyzstreams.st/?stream_id=event1709&pro_id=espn&index.m3u8
+
+#EXTINF:-1 tvg-logo="https://s.secure.espncdn.com/stitcher/artwork/collections/airings/c9251ba0-0a82-464f-afff-e13717804a1a/16x9.jpg?timestamp=202608121529&showBadge=true&cb=12&package=ESPN_FLAGSHIP&networkGuid=0da9d900-749c-4ca3-af87-718f76d1d4c9" tvg-start="2026-08-15T23:00:00.000Z" tvg-stop="2026-08-16T02:00:00.000Z" group-title="ESPNPLUSHOME",Philadelphia Eagles vs. Baltimore Ravens
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://xyzstreams.st/
+#EXTVLCOPT:http-origin=https://xyzstreams.st
+https://247v2.xyzstreams.st/?stream_id=event1731&pro_id=espn&index.m3u8
+
+#EXTINF:-1 tvg-logo="https://s.secure.espncdn.com/stitcher/artwork/collections/airings/cd66b05b-8267-43f0-aa17-606e37ee5727/16x9.jpg?timestamp=202608131546&showBadge=true&cb=12&package=ESPN_FLAGSHIP&networkGuid=0da9d900-749c-4ca3-af87-718f76d1d4c9" tvg-start="2026-08-16T01:00:00.000Z" tvg-stop="2026-08-16T08:40:00.000Z" group-title="ESPNPLUSHOME",Texas Rangers vs. Athletics
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://xyzstreams.st/
+#EXTVLCOPT:http-origin=https://xyzstreams.st
+https://247v2.xyzstreams.st/?stream_id=event1640&pro_id=espn&index.m3u8
+
+#EXTINF:-1 tvg-logo="https://s.secure.espncdn.com/stitcher/artwork/collections/airings/adac5562-450f-44c0-b1d1-6860c4edfedc/16x9.jpg?timestamp=202608141214&showBadge=true&cb=12&package=ESPN_FLAGSHIP&networkGuid=0da9d900-749c-4ca3-af87-718f76d1d4c9" tvg-start="2026-08-16T17:00:00.000Z" tvg-stop="2026-08-17T00:40:00.000Z" group-title="ESPNPLUSHOME",Washington Nationals vs. New York Mets
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://xyzstreams.st/
+#EXTVLCOPT:http-origin=https://xyzstreams.st
+https://247v2.xyzstreams.st/?stream_id=event1623&pro_id=espn&index.m3u8
+
+#-----------------------------------------
+# LIVE EVENTS (Homepage)
+#-----------------------------------------
+#EXTINF:-1 tvg-logo="https://wwwimage-us.pplusstatic.com/thumbnails/photos/w370-q80/channel/80d10fc1-5919-407e-a303-b9f1fddbff99/EFL_CHAMP_THMB_27_WolverhamptonWanders_Main_BlackburnRovers_Main_xlagp.jpg" tvg-start="2026-08-14T19:00:00.000Z" tvg-stop="2026-08-14T21:00:00.000Z" group-title="Football",Wolverhampton Wanderers vs Blackburn Rovers
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://xyzstreams.st/
+#EXTVLCOPT:http-origin=https://xyzstreams.st
+https://ftv.xyzstreams.st/CBSSN/C0037/master.m3u8
 
 #EXTINF:-1 tvg-logo="https://images.xyzstreams.st/?logo1=https://a.espncdn.com/i/teamlogos/nfl/500/den.png&logo2=https://a.espncdn.com/i/teamlogos/nfl/500/atl.png&color1=FB4F14&color2=A71930&q=65&w=100" tvg-start="2026-08-14T23:00:00.000Z" tvg-stop="2026-08-15T01:00:00.000Z" group-title="American Football",Broncos vs Falcons (Link 1)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
