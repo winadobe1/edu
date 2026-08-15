@@ -97,7 +97,14 @@ async function main() {
       }
     }
 
-    const outputPath = path.join(__dirname, 'liveland.m3u');
+    const args = process.argv.slice(2);
+    let outPath = 'liveland.m3u8';
+    const outArg = args.find(a => !a.startsWith('--'));
+    if (outArg) {
+      outPath = outArg;
+    }
+
+    const outputPath = path.resolve(process.cwd(), outPath);
     fs.writeFileSync(outputPath, m3uContent);
     console.log(`\nSuccessfully saved dynamic playlist to ${outputPath}`);
 
