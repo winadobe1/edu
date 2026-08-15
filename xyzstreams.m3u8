@@ -1,5 +1,5 @@
 #EXTM3U x-tvg-url=""
-# Generated from xyzstreams.st (Standalone Auto-Discovery) - 2026-08-15T03:28:33.434Z
+# Generated from xyzstreams.st (Standalone Auto-Discovery) - 2026-08-15T03:50:54.825Z
 # Channels: 95 | Homepage Events: 8 | Dynamic Feeds: ESPNPLUSHOME | Discovered Sports: MLB, WNBA, NBA
 
 #-----------------------------------------
@@ -870,7 +870,7 @@ https://247v2.xyzstreams.st/?stream_id=espn2&pro_id=sling&index.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://xyzstreams.st/
 #EXTVLCOPT:http-origin=https://xyzstreams.st
-https://fiveo4.vilevodules.uk/main/secure/ce3946e44d99b7ae898e7cff8f1f14c37e26206ca2475d7210e7f1230788314d/1786768113/knicks.m3u8
+https://fiveo4.vilevodules.uk/main/secure/17fde2e58f494b54e195d68b966f36a0ac2e57194d2ecc5223ed3e3f00b1ef29/1786769455/knicks.m3u8
 
 #EXTINF:-1 group-title="NBA",NBA: BOS (ESPN)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
@@ -882,7 +882,7 @@ https://247v2.xyzstreams.st/?stream_id=espn&pro_id=sling&index.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://xyzstreams.st/
 #EXTVLCOPT:http-origin=https://xyzstreams.st
-https://fiveo4.vilevodules.uk/main/secure/32ff73eda1e816ab64d7252e55f1cd38c8ad915b3eee151d5454cb0699771894/1786768113/bulls.m3u8
+https://fiveo4.vilevodules.uk/main/secure/0cd6a39b3dbd4122f6d3ee624b0d11b8b2ee6616e6deef2f079304a1df1b5829/1786769455/bulls.m3u8
 
 #EXTINF:-1 group-title="NBA",NBA: PHX (ESPNU)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
@@ -894,7 +894,7 @@ https://247v2.xyzstreams.st/?stream_id=espnu&pro_id=sling&index.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://xyzstreams.st/
 #EXTVLCOPT:http-origin=https://xyzstreams.st
-https://fiveo4.vilevodules.uk/main/secure/5b27bd9ef804d74fb81a80a3171a664bf25c1ec0528d723e3da3d434abb5ab4b/1786768113/lakers.m3u8
+https://fiveo4.vilevodules.uk/main/secure/2388aac86e397838312cb96f9247181e2ebf74807901f356cc52beab5d757287/1786769455/lakers.m3u8
 
 #-----------------------------------------
 # ESPNPLUSHOME SCHEDULED STREAMS (Dynamic Feed)
@@ -906,17 +906,17 @@ https://fiveo4.vilevodules.uk/main/secure/5b27bd9ef804d74fb81a80a3171a664bf25c1e
 #EXTVLCOPT:http-origin=https://xyzstreams.st
 https://247v2.xyzstreams.st/?stream_id=event1926&pro_id=espn&index.m3u8
 
-#EXTINF:-1 tvg-logo="https://artwork.api.espn.com/artwork/collections/airings/55b19132-f588-4078-ba6d-503d83ead98c/default?width=640&apikey=1ngjw23osgcis1i1vbj96lmfqs&timestamp=202608141821" tvg-start="2026-08-15T01:01:52.043Z" tvg-stop="2026-08-15T02:59:59.043Z" group-title="ESPNPLUSHOME",Kapa'a HI vs. Bonita CA
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://xyzstreams.st/
-#EXTVLCOPT:http-origin=https://xyzstreams.st
-https://247v2.xyzstreams.st/?stream_id=espn&pro_id=espn&index.m3u8
-
 #EXTINF:-1 tvg-logo="https://s.secure.espncdn.com/stitcher/artwork/collections/airings/154de879-5e93-4488-8be6-9d1aab53d4c6/16x9.jpg?timestamp=202608101352&showBadge=true&cb=12&package=ESPN_FLAGSHIP&networkGuid=476b6615-f437-41ed-86c2-0e808aa245d1" tvg-start="2026-08-15T03:00:00.000Z" tvg-stop="2026-08-15T06:00:00.000Z" group-title="ESPNPLUSHOME",Denver Broncos vs. Atlanta Falcons
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://xyzstreams.st/
 #EXTVLCOPT:http-origin=https://xyzstreams.st
 https://247v2.xyzstreams.st/?stream_id=nflnetwork&pro_id=espn&index.m3u8
+
+#EXTINF:-1 tvg-logo="https://artwork.api.espn.com/artwork/collections/airings/662734e2-2d7f-4c76-b000-4e764d0a83e5/default?width=640&apikey=1ngjw23osgcis1i1vbj96lmfqs&timestamp=202608150204" tvg-start="2026-08-15T03:29:15.111Z" tvg-stop="2026-08-15T04:29:59.111Z" group-title="ESPNPLUSHOME",SportsCenter
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://xyzstreams.st/
+#EXTVLCOPT:http-origin=https://xyzstreams.st
+https://247v2.xyzstreams.st/?stream_id=espn&pro_id=espn&index.m3u8
 
 #EXTINF:-1 tvg-logo="https://s.secure.espncdn.com/stitcher/artwork/collections/airings/8570b186-8c0c-47b7-93b3-533363dc9f3e/16x9.jpg?timestamp=202608141510&showBadge=true&cb=12&package=ESPN_PLUS&networkGuid=a698f0a3-dcfc-4684-9ca2-3082a28111cc" tvg-start="2026-08-15T02:00:15.000Z" tvg-stop="2026-08-15T04:00:00.000Z" group-title="ESPNPLUSHOME",Loyola Marymount vs. UC Santa Barbara
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
@@ -942,13 +942,13 @@ https://247v2.xyzstreams.st/?stream_id=accn&pro_id=espn&index.m3u8
 #EXTVLCOPT:http-origin=https://xyzstreams.st
 https://247v2.xyzstreams.st/?stream_id=secnetwork&pro_id=espn&index.m3u8
 
-#EXTINF:-1 tvg-logo="https://artwork.api.espn.com/artwork/collections/airings/34ba4314-9720-47c1-b8c1-53d422408960/default?width=640&apikey=1ngjw23osgcis1i1vbj96lmfqs&timestamp=202608142032" tvg-start="2026-08-15T03:00:04.613Z" tvg-stop="2026-08-15T03:29:59.613Z" group-title="ESPNPLUSHOME",College Football Live Presented by FireTV
+#EXTINF:-1 tvg-logo="https://artwork.api.espn.com/artwork/collections/airings/4f291493-6167-4c64-a651-a072efb740cf/default?width=640&apikey=1ngjw23osgcis1i1vbj96lmfqs&timestamp=202608101943" tvg-start="2026-08-15T03:30:05.812Z" tvg-stop="2026-08-15T03:59:59.812Z" group-title="ESPNPLUSHOME",Official Visit with Rece Davis
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://xyzstreams.st/
 #EXTVLCOPT:http-origin=https://xyzstreams.st
 https://247v2.xyzstreams.st/?stream_id=espnu&pro_id=espn&index.m3u8
 
-#EXTINF:-1 tvg-logo="https://artwork.api.espn.com/artwork/collections/airings/7b4cbad1-07b3-4cc7-8223-68da6418c3a4/default?width=640&apikey=1ngjw23osgcis1i1vbj96lmfqs" tvg-start="2026-08-15T03:00:05.264Z" tvg-stop="2026-08-15T03:29:59.264Z" group-title="ESPNPLUSHOME",The Hoop Collective
+#EXTINF:-1 tvg-logo="https://artwork.api.espn.com/artwork/collections/airings/664371b7-50e5-43ac-828d-dc56335107ec/default?width=640&apikey=1ngjw23osgcis1i1vbj96lmfqs&timestamp=202608142032" tvg-start="2026-08-15T03:30:00.090Z" tvg-stop="2026-08-15T03:59:59.090Z" group-title="ESPNPLUSHOME",College Football Live Presented by FireTV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://xyzstreams.st/
 #EXTVLCOPT:http-origin=https://xyzstreams.st
@@ -960,13 +960,13 @@ https://247v2.xyzstreams.st/?stream_id=espnews&pro_id=espn&index.m3u8
 #EXTVLCOPT:http-origin=https://xyzstreams.st
 https://247v2.xyzstreams.st/?stream_id=secnetwork&pro_id=espn&index.m3u8
 
-#EXTINF:-1 tvg-logo="https://artwork.api.espn.com/artwork/collections/airings/34ba4314-9720-47c1-b8c1-53d422408960/default?width=640&apikey=1ngjw23osgcis1i1vbj96lmfqs&timestamp=202608142032" tvg-start="2026-08-15T03:00:04.613Z" tvg-stop="2026-08-15T03:29:59.613Z" group-title="ESPNPLUSHOME",College Football Live Presented by FireTV
+#EXTINF:-1 tvg-logo="https://artwork.api.espn.com/artwork/collections/airings/4f291493-6167-4c64-a651-a072efb740cf/default?width=640&apikey=1ngjw23osgcis1i1vbj96lmfqs&timestamp=202608101943" tvg-start="2026-08-15T03:30:05.812Z" tvg-stop="2026-08-15T03:59:59.812Z" group-title="ESPNPLUSHOME",Official Visit with Rece Davis
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://xyzstreams.st/
 #EXTVLCOPT:http-origin=https://xyzstreams.st
 https://247v2.xyzstreams.st/?stream_id=espnu&pro_id=espn&index.m3u8
 
-#EXTINF:-1 tvg-logo="https://artwork.api.espn.com/artwork/collections/airings/7b4cbad1-07b3-4cc7-8223-68da6418c3a4/default?width=640&apikey=1ngjw23osgcis1i1vbj96lmfqs" tvg-start="2026-08-15T03:00:05.264Z" tvg-stop="2026-08-15T03:29:59.264Z" group-title="ESPNPLUSHOME",The Hoop Collective
+#EXTINF:-1 tvg-logo="https://artwork.api.espn.com/artwork/collections/airings/664371b7-50e5-43ac-828d-dc56335107ec/default?width=640&apikey=1ngjw23osgcis1i1vbj96lmfqs&timestamp=202608142032" tvg-start="2026-08-15T03:30:00.090Z" tvg-stop="2026-08-15T03:59:59.090Z" group-title="ESPNPLUSHOME",College Football Live Presented by FireTV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://xyzstreams.st/
 #EXTVLCOPT:http-origin=https://xyzstreams.st
