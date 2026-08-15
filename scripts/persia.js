@@ -45,6 +45,7 @@ async function fetchChannels() {
         id
         slug
         name
+        english_name
         logo_url
       }
     }
@@ -75,7 +76,8 @@ async function main() {
     for (let i = 0; i < channels.length; i++) {
       const channel = channels[i];
       try {
-        process.stdout.write(`Fetching URL for ${channel.name} (${channel.slug})... `);
+        const channelName = channel.english_name || channel.name;
+        process.stdout.write(`Fetching URL for ${channelName} (${channel.slug})... `);
         const streamUrl = await fetchStreamUrl(channel.id);
         
         if (streamUrl) {
@@ -84,7 +86,7 @@ async function main() {
           const isSport = channel.slug.includes('sport') || channel.slug.includes('varzesh') || channel.slug.includes('football');
           const groupTitle = isSport ? 'SPORTS' : 'AFGHANISTAN';
           
-          m3uContent += `#EXTINF:-1 tvg-id="${channel.slug}" tvg-logo="${channel.logo_url || ''}" group-title="${groupTitle}",${channel.name}\n`;
+          m3uContent += `#EXTINF:-1 tvg-id="${channel.slug}" tvg-logo="${channel.logo_url || ''}" group-title="${groupTitle}",${channelName}\n`;
           m3uContent += `#EXTVLCOPT:http-referrer=https://liveland.af/\n`;
           m3uContent += `#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; CrOS x86_64 14541.0.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36\n`;
           m3uContent += `#EXTVLCOPT:http-origin=https://liveland.af\n`;
@@ -98,7 +100,7 @@ async function main() {
     }
 
     const args = process.argv.slice(2);
-    let outPath = 'liveland.m3u8';
+    let outPath = 'persia.m3u8';
     const outArg = args.find(a => !a.startsWith('--'));
     if (outArg) {
       outPath = outArg;
