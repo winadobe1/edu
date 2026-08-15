@@ -46,6 +46,7 @@ async function fetchChannels() {
         slug
         name
         english_name
+        type
         logo_url
       }
     }
@@ -83,8 +84,7 @@ async function main() {
         if (streamUrl) {
           console.log('OK');
           
-          const isSport = channel.slug.includes('sport') || channel.slug.includes('varzesh') || channel.slug.includes('football');
-          const groupTitle = isSport ? 'SPORTS' : 'AFGHANISTAN';
+          const groupTitle = channel.type || 'GENERAL';
           
           m3uContent += `#EXTINF:-1 tvg-id="${channel.slug}" tvg-logo="${channel.logo_url || ''}" group-title="${groupTitle}",${channelName}\n`;
           m3uContent += `#EXTVLCOPT:http-referrer=https://liveland.af/\n`;
