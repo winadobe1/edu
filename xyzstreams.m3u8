@@ -1,5 +1,5 @@
 #EXTM3U x-tvg-url=""
-# Generated from xyzstreams.st (Standalone Auto-Discovery) - 2026-08-16T06:18:57.144Z
+# Generated from xyzstreams.st (Standalone Auto-Discovery) - 2026-08-16T09:15:31.296Z
 # Channels: 95 | Homepage Events: 11 | Dynamic Feeds: ESPNPLUSHOME | Discovered Sports: MLB, WNBA, NBA
 
 #-----------------------------------------
@@ -870,7 +870,7 @@ https://247v2.xyzstreams.st/?stream_id=espn2&pro_id=sling&index.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://xyzstreams.st/
 #EXTVLCOPT:http-origin=https://xyzstreams.st
-https://fiveo4.vilevodules.uk/main/secure/ec3bcf87d14aff12c5f03828056283c383c5e45ba1c1a63b7107d438d1f0959d/1786864737/knicks.m3u8
+https://fiveo4.vilevodules.uk/main/secure/497da8a2e49d239da1b65e4e143d6f8f1fb074c11fbfecc2abb0a610d563a9d8/1786875331/knicks.m3u8
 
 #EXTINF:-1 group-title="NBA",NBA: BOS (ESPN)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
@@ -882,7 +882,7 @@ https://247v2.xyzstreams.st/?stream_id=espn&pro_id=sling&index.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://xyzstreams.st/
 #EXTVLCOPT:http-origin=https://xyzstreams.st
-https://fiveo4.vilevodules.uk/main/secure/d6e19012ba884dc95b4974edb8e2024bd64fcd73b246b7467f07fa824d34f0cd/1786864737/bulls.m3u8
+https://fiveo4.vilevodules.uk/main/secure/cb69339e91cefcfb46162ebad7e7dfb0180d32a953199cf28c6b41b0cf2bab97/1786875331/bulls.m3u8
 
 #EXTINF:-1 group-title="NBA",NBA: PHX (ESPNU)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
@@ -894,59 +894,59 @@ https://247v2.xyzstreams.st/?stream_id=espnu&pro_id=sling&index.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://xyzstreams.st/
 #EXTVLCOPT:http-origin=https://xyzstreams.st
-https://fiveo4.vilevodules.uk/main/secure/caf7f2ea5de9070cbd329ddd80d3af477f1b6dbe1d887680eafcfd60d086986b/1786864737/lakers.m3u8
+https://fiveo4.vilevodules.uk/main/secure/33ede9a649a2aa99e212c9aed103404f823b93f769ac9ce2a9d8869397a71bcb/1786875331/lakers.m3u8
 
 #-----------------------------------------
 # ESPNPLUSHOME SCHEDULED STREAMS (Dynamic Feed)
 # Source: https://espn.xyzstreams.st/
 #-----------------------------------------
-#EXTINF:-1 tvg-logo="https://s.secure.espncdn.com/stitcher/artwork/collections/airings/f86084cb-3248-4a5c-850c-0ec821b45f83/16x9.jpg?timestamp=202608101357&showBadge=true&cb=12&package=ESPN_FLAGSHIP&networkGuid=476b6615-f437-41ed-86c2-0e808aa245d1" tvg-start="2026-08-16T04:00:00.000Z" tvg-stop="2026-08-16T07:00:00.000Z" group-title="ESPNPLUSHOME",Carolina Panthers vs. Buffalo Bills
+#EXTINF:-1 tvg-logo="https://s.secure.espncdn.com/stitcher/artwork/collections/airings/fa1f9cd2-3f91-4ab4-8abc-0e18a0d6fe99/16x9.jpg?showBadge=true&cb=12&package=ESPN_FLAGSHIP&networkGuid=476b6615-f437-41ed-86c2-0e808aa245d1" tvg-start="2026-08-16T07:00:00.000Z" tvg-stop="2026-08-16T10:00:00.000Z" group-title="ESPNPLUSHOME",Jacksonville Jaguars vs. New Orleans Saints
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://xyzstreams.st/
 #EXTVLCOPT:http-origin=https://xyzstreams.st
 https://247v2.xyzstreams.st/?stream_id=nflnetwork&pro_id=espn&index.m3u8
 
-#EXTINF:-1 tvg-logo="https://artwork.api.espn.com/artwork/collections/airings/c3cc2b54-4259-4376-968a-6ffde18a3bed/default?width=640&apikey=1ngjw23osgcis1i1vbj96lmfqs&timestamp=202608160323" tvg-start="2026-08-16T05:30:03.479Z" tvg-stop="2026-08-16T06:29:59.479Z" group-title="ESPNPLUSHOME",SportsCenter
+#EXTINF:-1 tvg-logo="https://artwork.api.espn.com/artwork/collections/airings/5812aeb1-45da-4aaf-aeab-e25a49a16260/default?width=640&apikey=1ngjw23osgcis1i1vbj96lmfqs&timestamp=202608160323" tvg-start="2026-08-16T09:00:01.832Z" tvg-stop="2026-08-16T09:59:59.832Z" group-title="ESPNPLUSHOME",SportsCenter
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://xyzstreams.st/
 #EXTVLCOPT:http-origin=https://xyzstreams.st
 https://247v2.xyzstreams.st/?stream_id=espn&pro_id=espn&index.m3u8
 
-#EXTINF:-1 tvg-logo="https://artwork.api.espn.com/artwork/collections/airings/088a5e0b-2291-43ca-aee0-f35df71ee17e/default?width=640&apikey=1ngjw23osgcis1i1vbj96lmfqs" tvg-start="2026-08-16T06:00:01.196Z" tvg-stop="2026-08-16T08:59:59.196Z" group-title="ESPNPLUSHOME",#12 Arizona State vs. Mississippi State
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://xyzstreams.st/
-#EXTVLCOPT:http-origin=https://xyzstreams.st
-https://247v2.xyzstreams.st/?stream_id=secnetwork&pro_id=espn&index.m3u8
-
-#EXTINF:-1 tvg-logo="https://artwork.api.espn.com/artwork/collections/airings/512ba98f-8081-462f-acc6-cf35be8bc425/default?width=640&apikey=1ngjw23osgcis1i1vbj96lmfqs&timestamp=202608160501" tvg-start="2026-08-16T04:59:56.535Z" tvg-stop="2026-08-16T07:59:59.535Z" group-title="ESPNPLUSHOME",North Carolina vs. NC State
+#EXTINF:-1 tvg-logo="https://artwork.api.espn.com/artwork/collections/airings/9b65756e-103c-432e-ab9f-8f5e7c5f6d39/default?width=640&apikey=1ngjw23osgcis1i1vbj96lmfqs&timestamp=202608031316" tvg-start="2026-08-16T08:00:00.028Z" tvg-stop="2026-08-16T10:59:59.028Z" group-title="ESPNPLUSHOME",California vs. #15 Louisville
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://xyzstreams.st/
 #EXTVLCOPT:http-origin=https://xyzstreams.st
 https://247v2.xyzstreams.st/?stream_id=accn&pro_id=espn&index.m3u8
 
-#EXTINF:-1 tvg-logo="https://artwork.api.espn.com/artwork/collections/airings/134945dd-7c3a-4555-855a-5175da7155a7/default?width=640&apikey=1ngjw23osgcis1i1vbj96lmfqs" tvg-start="2026-08-16T06:00:02.489Z" tvg-stop="2026-08-16T06:59:59.489Z" group-title="ESPNPLUSHOME",The Last Dance - Episode Three
+#EXTINF:-1 tvg-logo="https://artwork.api.espn.com/artwork/collections/airings/032f4735-3cdb-45e4-8b99-698851f41033/default?width=640&apikey=1ngjw23osgcis1i1vbj96lmfqs" tvg-start="2026-08-16T09:00:03.941Z" tvg-stop="2026-08-16T09:59:59.941Z" group-title="ESPNPLUSHOME",The Last Dance - Episode Six
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://xyzstreams.st/
 #EXTVLCOPT:http-origin=https://xyzstreams.st
 https://247v2.xyzstreams.st/?stream_id=espn2&pro_id=espn&index.m3u8
 
-#EXTINF:-1 tvg-logo="https://artwork.api.espn.com/artwork/collections/airings/e0a05949-7e77-4f48-858c-a950e2cee0f9/default?width=640&apikey=1ngjw23osgcis1i1vbj96lmfqs" tvg-start="2026-08-16T06:00:01.596Z" tvg-stop="2026-08-16T06:29:59.596Z" group-title="ESPNPLUSHOME",2025 Corgi Races at Emerald Downs
+#EXTINF:-1 tvg-logo="https://artwork.api.espn.com/artwork/collections/airings/8bfcbc2c-878b-4a4c-8e7e-028326ee9d77/default?width=640&apikey=1ngjw23osgcis1i1vbj96lmfqs&timestamp=202608050628" tvg-start="2026-08-16T08:59:58.615Z" tvg-stop="2026-08-16T09:29:59.615Z" group-title="ESPNPLUSHOME",Microsoft Excel World Championship 2024 Finals
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://xyzstreams.st/
 #EXTVLCOPT:http-origin=https://xyzstreams.st
 https://247v2.xyzstreams.st/?stream_id=espnews&pro_id=espn&index.m3u8
 
-#EXTINF:-1 tvg-logo="https://artwork.api.espn.com/artwork/collections/airings/49bb3b74-3c44-479f-b84a-d19a0e22b36e/default?width=640&apikey=1ngjw23osgcis1i1vbj96lmfqs" tvg-start="2026-08-16T06:00:01.955Z" tvg-stop="2026-08-16T07:59:59.955Z" group-title="ESPNPLUSHOME",30 For 30: The U Part 2
+#EXTINF:-1 tvg-logo="https://artwork.api.espn.com/artwork/collections/airings/54e774a2-a28f-4a88-9f89-cbfc056a6480/default?width=640&apikey=1ngjw23osgcis1i1vbj96lmfqs&timestamp=202606261539" tvg-start="2026-08-16T08:00:05.218Z" tvg-stop="2026-08-16T09:59:59.218Z" group-title="ESPNPLUSHOME",30 For 30: Pony Excess
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://xyzstreams.st/
 #EXTVLCOPT:http-origin=https://xyzstreams.st
 https://247v2.xyzstreams.st/?stream_id=espnu&pro_id=espn&index.m3u8
 
-#EXTINF:-1 tvg-logo="https://artwork.api.espn.com/artwork/collections/airings/49bb3b74-3c44-479f-b84a-d19a0e22b36e/default?width=640&apikey=1ngjw23osgcis1i1vbj96lmfqs" tvg-start="2026-08-16T06:00:01.955Z" tvg-stop="2026-08-16T07:59:59.955Z" group-title="ESPNPLUSHOME",30 For 30: The U Part 2
+#EXTINF:-1 tvg-logo="https://artwork.api.espn.com/artwork/collections/airings/e58469b7-f380-4c62-afa0-aca78583d290/default?width=640&apikey=1ngjw23osgcis1i1vbj96lmfqs" tvg-start="2026-08-16T09:00:02.787Z" tvg-stop="2026-08-16T09:29:59.787Z" group-title="ESPNPLUSHOME",Marty & McGee: Talkin' Season with Lane Kiffin
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://xyzstreams.st/
 #EXTVLCOPT:http-origin=https://xyzstreams.st
-https://247v2.xyzstreams.st/?stream_id=espnu&pro_id=espn&index.m3u8
+https://247v2.xyzstreams.st/?stream_id=secnetwork&pro_id=espn&index.m3u8
+
+#EXTINF:-1 tvg-logo="https://artwork.api.espn.com/artwork/collections/airings/e58469b7-f380-4c62-afa0-aca78583d290/default?width=640&apikey=1ngjw23osgcis1i1vbj96lmfqs" tvg-start="2026-08-16T09:00:02.787Z" tvg-stop="2026-08-16T09:29:59.787Z" group-title="ESPNPLUSHOME",Marty & McGee: Talkin' Season with Lane Kiffin
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://xyzstreams.st/
+#EXTVLCOPT:http-origin=https://xyzstreams.st
+https://247v2.xyzstreams.st/?stream_id=secnetwork&pro_id=espn&index.m3u8
 
 #EXTINF:-1 tvg-logo="https://artwork.api.espn.com/artwork/collections/airings/02819fc3-ab3f-4024-8a93-f4ef03a77de5/default?width=640&apikey=1ngjw23osgcis1i1vbj96lmfqs&timestamp=202608160140" tvg-start="2026-08-16T13:55:00.000Z" tvg-stop="2026-08-16T16:00:00.000Z" group-title="ESPNPLUSHOME",Arsenal vs. Manchester City (Final)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
