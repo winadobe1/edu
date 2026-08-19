@@ -1,20 +1,3 @@
-/**
- * extract_xyzstream.js
- *
- * Standalone M3U Extractor for https://xyzstreams.st/
- * 
- * Fitur:
- *   1. Fetch langsung ke server tanpa perlu file HAR.
- *   2. Ekstrak 24/7 SLING channels dari homepage.
- *   3. Ekstrak EVENTS_DATA (Live Events) dari homepage.
- *   4. Auto-discovery: otomatis mencari URL olahraga di homepage (MLB, WNBA, F1, dll)
- *      lalu mengambil link stream M3U8_CHANNELS_MAP secara dinamis.
- *   5. Fallback fetch NBA dari JSON API endpoint rahasia.
- *
- * Usage:
- *   node extract_xyzstream.js [output.m3u]
- */
-
 'use strict';
 const fs    = require('fs');
 const path  = require('path');
@@ -26,7 +9,7 @@ const https = require('https');
 const SITE_UA      = 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36';
 const SITE_ORIGIN  = 'https://xyzstreams.st';
 const SITE_REFERER = 'https://xyzstreams.st/';
-const STREAM_BASE  = 'https://247v2.xyzstreams.st/';
+const FALLBACK_STREAM_BASE  = 'https://247v2.xyzstreams.st/';
 const PRO_ID       = 'sling';
 
 // ─────────────────────────────────────────
@@ -520,6 +503,22 @@ async function main() {
     }
   }
 
+  // Dynamic Stream Base Discovery
+  let currentStreamBase = FALLBACK_STREAM_BASE;
+  console.log(`[Discovery] Fetching sample player to determine dynamic stream base...`);
+  const sampleResp = await fetchLive('/247?streamid=sample&proid=sling');
+  if (sampleResp.status === 200) {
+    const baseMatch = sampleResp.body.match(/https?:\/\/[^\/]+\/\?stream_id=/i);
+    if (baseMatch) {
+      currentStreamBase = baseMatch[0].replace(/\?stream_id=$/i, '');
+      console.log(`[Discovery] Dynamic stream base found: ${currentStreamBase}`);
+    } else {
+      console.log(`[Discovery] Dynamic stream base not found in sample, using fallback: ${currentStreamBase}`);
+    }
+  } else {
+    console.log(`[Discovery] Could not fetch sample player, using fallback: ${currentStreamBase}`);
+  }
+
   // 4. Build M3U
   const lines = [
     '#EXTM3U x-tvg-url=""',
@@ -549,7 +548,7 @@ async function main() {
     lines.push('#-----------------------------------------');
     
     for (const ch of slingChannels) {
-      let url = `${STREAM_BASE}?stream_id=${encodeURIComponent(ch.id)}&pro_id=${PRO_ID}&index.m3u8`;
+      let url = `${currentStreamBase}?stream_id=${encodeURIComponent(ch.id)}&pro_id=${PRO_ID}&index.m3u8`;
       
       if (ch.embedUrl && !ch.embedUrl.includes('{TEMPLATE}')) {
         console.log(`[Fetch] Resolving dynamic URL for ${ch.displayName} via ${ch.embedUrl}`);
